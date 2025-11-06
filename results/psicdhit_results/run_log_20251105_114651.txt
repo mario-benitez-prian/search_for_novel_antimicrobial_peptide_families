@@ -1,0 +1,3 @@
+PSI-CD-HIT pipeline run
+Database: ../data/database_amps/DATABASE_AMPs_clean_without_database.fasta
+Predicted: ../data/predicted_amps/predicted_precursors.fasta
