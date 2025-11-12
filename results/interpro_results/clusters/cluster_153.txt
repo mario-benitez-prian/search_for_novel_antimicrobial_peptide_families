@@ -1,0 +1,10 @@
+PRED|WP_010877856.1||Rossmann-like_alpha/beta/alpha_sandwich_fold|UspA
+PRED|WP_011249832.1||Rossmann-like_alpha/beta/alpha_sandwich_fold|UspA
+PRED|XP_002130444.1||Rossmann-like_alpha/beta/alpha_sandwich_fold|Universal_stress_protein_A_family|UspA
+PRED|XP_005089915.2||Rossmann-like_alpha/beta/alpha_sandwich_fold|Universal_stress_protein_A_family|UspA
+PRED|XP_006601309.1||Rossmann-like_alpha/beta/alpha_sandwich_fold|Universal_stress_protein_PHOS32/34|UspA
+PRED|XP_009060489.1||Rossmann-like_alpha/beta/alpha_sandwich_fold|Universal_stress_protein_A_family|UspA
+PRED|XP_009858457.1||Rossmann-like_alpha/beta/alpha_sandwich_fold
+PRED|XP_018670878.1||Rossmann-like_alpha/beta/alpha_sandwich_fold
+PRED|XP_024462113.1||Rossmann-like_alpha/beta/alpha_sandwich_fold|Universal_stress_protein_A_family|UspA
+PRED|XP_646410.1||Rossmann-like_alpha/beta/alpha_sandwich_fold|UspA

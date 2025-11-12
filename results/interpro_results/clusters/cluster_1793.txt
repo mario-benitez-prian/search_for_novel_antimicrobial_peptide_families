@@ -1,0 +1,1 @@
+PRED|WP_227650304.1||PyrBI_operon_leader_peptide

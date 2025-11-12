@@ -1,0 +1,1 @@
+PRED|WP_002873740.1||Tail_assembly_protein_E/E'

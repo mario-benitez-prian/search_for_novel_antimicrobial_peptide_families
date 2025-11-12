@@ -1,0 +1,1 @@
+PRED|XP_309982.3||Protein_TsetseEP

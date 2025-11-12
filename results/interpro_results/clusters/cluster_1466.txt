@@ -1,0 +1,2 @@
+PRED|XP_001017697.1||Unknown
+PRED|XP_001019065.1||Unknown

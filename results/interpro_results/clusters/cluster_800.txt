@@ -1,0 +1,2 @@
+PRED|WP_001386830.1||Phenylalanyl--tRNA_ligase_operon_leader_peptide_PheM
+PRED|WP_002227899.1||Phenylalanyl--tRNA_ligase_operon_leader_peptide_PheM

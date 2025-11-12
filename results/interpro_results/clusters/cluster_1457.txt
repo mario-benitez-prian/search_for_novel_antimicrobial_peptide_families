@@ -1,0 +1,2 @@
+PRED|XP_009062423.1||Adenylyl_cyclase_class-3/4/guanylyl_cyclase|Nucleotide_cyclase
+PRED|XP_042920624.1||Nucleotide_cyclase

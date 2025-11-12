@@ -1,0 +1,1 @@
+PRED|XP_073791158.1||Prefoldin_alpha_subunit,_archaea-type

@@ -1,0 +1,2 @@
+PRED|WP_000095496.1||YqjK-like_protein
+PRED|WP_000096086.1||YqjK-like_protein

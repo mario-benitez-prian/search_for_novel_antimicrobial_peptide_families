@@ -1,0 +1,1 @@
+PRED|XP_629389.1||Hyaluronan/mRNA-binding_protein

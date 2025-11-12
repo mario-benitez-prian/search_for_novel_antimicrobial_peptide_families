@@ -1,0 +1,1 @@
+PRED|XP_070667985.1||Putative_nuclease_HARBI1-like

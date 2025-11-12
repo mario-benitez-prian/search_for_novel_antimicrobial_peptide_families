@@ -1,0 +1,2 @@
+PRED|WP_001297156.1||Protein_of_unknown_function_DUF1090
+PRED|WP_004144860.1||Protein_of_unknown_function_DUF1090

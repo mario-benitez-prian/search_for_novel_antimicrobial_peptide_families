@@ -1,0 +1,1 @@
+PRED|XP_009067140.1||Chromatin_remodeling_complex_subunit|Plakin_repeat_superfamily

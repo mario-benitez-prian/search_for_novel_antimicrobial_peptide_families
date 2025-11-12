@@ -1,0 +1,11 @@
+PRED|NP_006954.1||NADH_dehydrogenase_subunit_4L
+PRED|NP_008630.1||NADH-ubiquinone_oxidoreductase_chain_4L/Mnh_complex_subunit_C1-like
+PRED|NP_059339.1||NADH-ubiquinone_oxidoreductase_chain_4L/K|NADH-ubiquinone_oxidoreductase_chain_4L/Mnh_complex_subunit_C1-like
+PRED|NP_203164.1||NADH-ubiquinone_oxidoreductase_chain_4L/Mnh_complex_subunit_C1-like
+PRED|NP_694923.1||NADH-ubiquinone_oxidoreductase_chain_4L/K|NADH-ubiquinone_oxidoreductase_chain_4L/Mnh_complex_subunit_C1-like
+PRED|NP_904336.1||NADH-ubiquinone_oxidoreductase_chain_4L/K|NADH-ubiquinone_oxidoreductase_chain_4L/Mnh_complex_subunit_C1-like
+PRED|WP_003416452.1||NADH-ubiquinone_oxidoreductase_chain_4L/K|NADH-ubiquinone_oxidoreductase_chain_4L/Mnh_complex_subunit_C1-like
+PRED|YP_003734932.1||NADH-ubiquinone_oxidoreductase_chain_4L/K|NADH-ubiquinone_oxidoreductase_chain_4L/Mnh_complex_subunit_C1-like
+PRED|YP_009568258.1||NADH-ubiquinone_oxidoreductase_chain_4L/K|NADH-ubiquinone_oxidoreductase_chain_4L/Mnh_complex_subunit_C1-like
+PRED|YP_010963487.1||NADH-ubiquinone_oxidoreductase_chain_4L/K|NADH-ubiquinone_oxidoreductase_chain_4L/Mnh_complex_subunit_C1-like
+PRED|YP_203378.1||NADH-ubiquinone_oxidoreductase_chain_4L/K|NADH-ubiquinone_oxidoreductase_chain_4L/Mnh_complex_subunit_C1-like

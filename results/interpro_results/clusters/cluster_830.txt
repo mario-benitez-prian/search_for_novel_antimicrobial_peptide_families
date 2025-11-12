@@ -1,0 +1,6 @@
+PRED|NP_001077509.1||Embryo_surrounding_factor_1,_brassicaceae
+PRED|NP_001077510.1||Embryo_surrounding_factor_1,_brassicaceae
+PRED|NP_001077511.1||Embryo_surrounding_factor_1,_brassicaceae
+PRED|NP_001077601.1||Embryo_surrounding_factor_1,_brassicaceae
+PRED|NP_001077896.2||Embryo_surrounding_factor_1,_brassicaceae
+PRED|NP_001078036.1||Embryo_surrounding_factor_1,_brassicaceae

@@ -1,0 +1,6 @@
+DATABASE|sp|A0A0K1YW63|SECP_APICE_Secapin_OS=Apis_cerana_OX=7461_PE=1_SV=1||Secapin
+DATABASE|sp|C0HLU0|SECP1_APIME_Secapin-1_OS=Apis_mellifera_OX=7460_PE=1_SV=1||Secapin
+DATABASE|sp|I1VC85|SECP2_APIME_Secapin-2_OS=Apis_mellifera_OX=7460_PE=1_SV=1||Secapin
+DATABASE|sp|P02852|SECP_APIME_Secapin_OS=Apis_mellifera_OX=7460_PE=1_SV=2||Secapin
+PRED|NP_001011618.1||Secapin
+PRED|XP_016767767.2||Secapin

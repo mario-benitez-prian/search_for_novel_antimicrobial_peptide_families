@@ -1,0 +1,1 @@
+PRED|NP_001261370.1||Junction-associated_protein_Tjap1/BEGAIN

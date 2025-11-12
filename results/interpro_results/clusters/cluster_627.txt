@@ -1,0 +1,1 @@
+DATABASE|sp|Q7Y3F3|PLYCB_BPSC1_Endolysin_PlyC,_small_cell-wall_binding_subunit_OS=Streptococcus_phage_C1_OX=2907838_GN=orf9dod_PE=1_SV=1||Endolysin_PlyC|Endolysin_PlyC_small_cell-wall_binding_subunit_superfamily

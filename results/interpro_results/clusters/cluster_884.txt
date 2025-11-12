@@ -1,0 +1,6 @@
+PRED|XP_009050040.1||Endonuclease/exonuclease/phosphatase|Endonuclease/exonuclease/phosphatase_superfamily
+PRED|XP_009065488.1||Endonuclease/exonuclease/phosphatase|Endonuclease/exonuclease/phosphatase_superfamily
+PRED|XP_014774934.1||Endonuclease/exonuclease/phosphatase_superfamily
+PRED|XP_014781095.1||Endonuclease/exonuclease/phosphatase_superfamily|Sphingomyelinase_C/Sphingomyelin_phosphodiesterase_2-like
+PRED|XP_015170354.1||Endonuclease/exonuclease/phosphatase_superfamily|Inositol_5-phosphatase|Inositol_polyphosphate-related_phosphatase
+PRED|XP_030837263.1||Endonuclease/exonuclease/phosphatase_superfamily

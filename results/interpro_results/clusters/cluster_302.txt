@@ -1,0 +1,13 @@
+PRED|NP_001090807.1||Somatostatin|Somatostatin/Cortistatin,_C-terminal
+PRED|NP_001373151.1||Somatostatin|Somatostatin/Cortistatin,_C-terminal
+PRED|NP_036967.1||Somatostatin|Somatostatin/Cortistatin,_C-terminal
+PRED|NP_989786.2||Somatostatin|Somatostatin/Cortistatin,_C-terminal
+PRED|NP_990667.1||Somatostatin|Somatostatin/Cortistatin,_C-terminal
+PRED|XP_002944417.2||Somatostatin|Somatostatin/Cortistatin,_C-terminal
+PRED|XP_003968367.1||Somatostatin|Somatostatin/Cortistatin,_C-terminal
+PRED|XP_005992512.1||Somatostatin|Somatostatin/Cortistatin,_C-terminal
+PRED|XP_007895974.1||Somatostatin|Somatostatin/Cortistatin,_C-terminal
+PRED|XP_007910586.1||Somatostatin|Somatostatin/Cortistatin,_C-terminal
+PRED|XP_040029793.1||Somatostatin|Somatostatin/Cortistatin,_C-terminal
+PRED|XP_040050257.1||Somatostatin|Somatostatin/Cortistatin,_C-terminal
+PRED|XP_062822123.1||Somatostatin|Somatostatin/Cortistatin,_C-terminal

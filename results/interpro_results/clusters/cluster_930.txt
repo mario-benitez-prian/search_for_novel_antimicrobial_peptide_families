@@ -1,0 +1,3 @@
+DATABASE|sp|C6FX52|NOSM_STRAS_Nosiheptide_precursor_OS=Streptomyces_actuosus_OX=1885_GN=nosM_PE=1_SV=1||Thiazolylpeptide-type_bacteriocin_precursor
+DATABASE|sp|P0C8P8|THCL_STRAJ_Thiostrepton_OS=Streptomyces_azureus_OX=146537_GN=tpdA_PE=1_SV=2||Thiazolylpeptide-type_bacteriocin_precursor
+DATABASE|sp|Q812G9|THCL_BACCR_Thiocillin_OS=Bacillus_cereus_(strain_ATCC_14579_/_DSM_31_/_CCUG_7414_/_JCM_2152_/_NBRC_15305_/_NCIMB_9373_/_NCTC_2599_/_NRRL_B-3711)_OX=226900_GN=BC_5087_PE=1_SV=1||Thiazolylpeptide-type_bacteriocin_precursor

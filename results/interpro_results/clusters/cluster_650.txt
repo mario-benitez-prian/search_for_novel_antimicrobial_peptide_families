@@ -1,0 +1,4 @@
+PRED|NP_001403377.1||Retinin-like_protein
+PRED|NP_001403405.1||Retinin-like_protein
+PRED|NP_648870.1||Retinin-like_protein
+PRED|XP_314230.3||Retinin-like_protein

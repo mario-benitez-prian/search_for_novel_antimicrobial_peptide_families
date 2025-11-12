@@ -1,0 +1,2 @@
+PRED|WP_012214545.1||FERREDOXIN-RELATED|Nitrite_reductase/ring-hydroxylating_ferredoxin_subunit|Rieske
+PRED|XP_001701993.1||FERREDOXIN-RELATED|Ferredoxin_component|Rieske

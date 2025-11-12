@@ -1,0 +1,5 @@
+PRED|XP_024366270.1||D-aminoacyl-tRNA_deacylase_DTD|D-aminoacyl-tRNA_deacylase-like_superfamily
+PRED|XP_037867899.1||D-aminoacyl-tRNA_deacylase_DTD|D-aminoacyl-tRNA_deacylase-like_superfamily
+PRED|XP_037867900.1||D-aminoacyl-tRNA_deacylase_DTD|D-aminoacyl-tRNA_deacylase-like_superfamily
+PRED|XP_042188988.1||D-aminoacyl-tRNA_deacylase_DTD|D-aminoacyl-tRNA_deacylase-like_superfamily
+PRED|XP_061497188.1||D-aminoacyl-tRNA_deacylase_DTD|D-aminoacyl-tRNA_deacylase-like_superfamily

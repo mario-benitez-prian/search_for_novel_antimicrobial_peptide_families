@@ -1,0 +1,2 @@
+DATABASE|CAMPSQ10542_PepR||Capsid_protein_C,_flavivirus|Flavivirus_capsid_protein_C_superfamily
+DATABASE|Training_Seq727||Capsid_protein_C,_flavivirus|Flavivirus_capsid_protein_C_superfamily

@@ -1,0 +1,2 @@
+PRED|WP_001889657.1||Uncharacterised_conserved_protein_UCP037205
+PRED|XP_005536743.1||Uncharacterised_conserved_protein_UCP037205

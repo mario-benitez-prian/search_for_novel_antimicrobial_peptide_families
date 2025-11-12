@@ -1,0 +1,2 @@
+PRED|XP_008115436.1||NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_subunit_3
+PRED|XP_032227080.1||NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_subunit_3

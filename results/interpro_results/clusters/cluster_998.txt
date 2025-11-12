@@ -1,0 +1,6 @@
+PRED|NP_001329530.1||Casparian_strip_membrane_protein|Casparian_strip_membrane_protein/CASP-like_protein
+PRED|NP_001409582.1||Casparian_strip_membrane_protein
+PRED|XP_006376496.1||Casparian_strip_membrane_protein|Casparian_strip_membrane_protein/CASP-like_protein
+PRED|XP_008652280.1||Casparian_strip_membrane_protein|Casparian_strip_membrane_protein/CASP-like_protein
+PRED|XP_024438780.1||Casparian_strip_membrane_protein|Casparian_strip_membrane_protein/CASP-like_protein
+PRED|XP_028947805.1||Casparian_strip_membrane_protein

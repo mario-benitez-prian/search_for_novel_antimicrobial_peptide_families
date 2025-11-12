@@ -1,0 +1,3 @@
+PRED|NP_919307.1||Active_regulator_of_SIRT1
+PRED|XP_063120211.1||Active_regulator_of_SIRT1
+PRED|XP_063120212.1||Active_regulator_of_SIRT1

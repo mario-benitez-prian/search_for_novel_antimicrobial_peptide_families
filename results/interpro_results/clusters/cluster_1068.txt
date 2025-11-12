@@ -1,0 +1,1 @@
+PRED|XP_003964214.1||TMEM14_family|TMEM14_superfamily

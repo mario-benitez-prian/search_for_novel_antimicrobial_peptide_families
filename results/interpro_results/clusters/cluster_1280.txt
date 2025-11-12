@@ -1,0 +1,1 @@
+PRED|XP_001347014.1||Paramecium_surface_antigen

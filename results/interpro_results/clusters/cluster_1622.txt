@@ -1,0 +1,1 @@
+DATABASE|sp|Q3T4L9|HOLIN_BPPRD_Holin_OS=Enterobacteria_phage_PRD1_OX=10658_GN=XXXV_PE=3_SV=1||LydA-like_holin

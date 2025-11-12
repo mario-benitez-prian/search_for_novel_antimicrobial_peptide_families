@@ -1,0 +1,3 @@
+PRED|NP_001007352.1||Anti-proliferative_protein|BTG_family
+PRED|XP_009065967.1||Anti-proliferative_protein|BTG_family
+PRED|XP_040038294.1||Anti-proliferative_protein|BTG_family

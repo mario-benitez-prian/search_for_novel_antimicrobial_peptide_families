@@ -1,0 +1,11 @@
+PRED|NP_001235584.1||Keratinocyte-associated_protein_2
+PRED|XP_001629285.1||Keratinocyte-associated_protein_2
+PRED|XP_003523425.1||Keratinocyte-associated_protein_2
+PRED|XP_004149432.1||Keratinocyte-associated_protein_2
+PRED|XP_006371363.1||Keratinocyte-associated_protein_2
+PRED|XP_013461302.1||Keratinocyte-associated_protein_2
+PRED|XP_031742452.1||Keratinocyte-associated_protein_2
+PRED|XP_039687579.1||Keratinocyte-associated_protein_2
+PRED|XP_040871000.1||Keratinocyte-associated_protein_2
+PRED|XP_046441263.1||Keratinocyte-associated_protein_2
+PRED|XP_070670845.1||Keratinocyte-associated_protein_2

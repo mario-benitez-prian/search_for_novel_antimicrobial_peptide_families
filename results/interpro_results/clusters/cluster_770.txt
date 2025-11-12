@@ -1,0 +1,1 @@
+PRED|XP_645662.1||Small_ribosomal_subunit_protein_eS25

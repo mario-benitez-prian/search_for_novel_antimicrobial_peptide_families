@@ -1,0 +1,1 @@
+PRED|WP_000762708.1||RsaX20-like

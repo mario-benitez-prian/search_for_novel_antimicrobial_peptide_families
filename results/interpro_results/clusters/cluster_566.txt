@@ -1,0 +1,2 @@
+PRED|NP_149976.1||Corticotropin-releasing_factor|Urocortin_II/III
+PRED|XP_040027717.1||Corticotropin-releasing_factor|Urocortin/corticotropin-releasing_factor

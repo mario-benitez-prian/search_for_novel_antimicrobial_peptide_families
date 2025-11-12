@@ -1,0 +1,1 @@
+PRED|XP_003966057.1||Gamma-secretase_aspartyl_protease_complex,_presenilin_enhancer-2_subunit

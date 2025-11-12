@@ -1,0 +1,1 @@
+PRED|WP_005775585.1||NAD(P)H-quinone_oxidoreductase_subunit_3,_bacterial/plastid|NADH:ubiquinone_oxidoreductase,_subunit_3_superfamily|NADH:ubiquinone/plastoquinone_oxidoreductase,_chain_3

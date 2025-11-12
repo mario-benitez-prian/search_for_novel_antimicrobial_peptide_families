@@ -1,0 +1,1 @@
+PRED|XP_024329006.1||Integral_membrane_protein_SYS1-related

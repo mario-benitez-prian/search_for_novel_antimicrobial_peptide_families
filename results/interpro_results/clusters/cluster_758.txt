@@ -1,0 +1,1 @@
+PRED|WP_003091657.1||Cytochrome_c_oxidase_subunit_CcoM-like

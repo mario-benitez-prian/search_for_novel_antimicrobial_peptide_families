@@ -1,0 +1,2 @@
+PRED|WP_003725163.1||Bacterial_toxin_35
+PRED|WP_301178907.1||Bacterial_toxin_35

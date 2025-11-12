@@ -1,0 +1,3 @@
+PRED|WP_000953271.1||DNA-binding_transcriptional_activator_AlpA|Prophage_regulatory_DNA-binding_activator
+PRED|WP_001211490.1||DNA-binding_transcriptional_activator_AlpA|Prophage_regulatory_DNA-binding_activator
+PRED|WP_002209920.1||DNA-binding_transcriptional_activator_AlpA|Prophage_regulatory_DNA-binding_activator

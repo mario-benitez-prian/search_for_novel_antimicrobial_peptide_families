@@ -1,0 +1,2 @@
+DATABASE|AP03806||Enolase-like,_N-terminal
+PRED|XP_014624160.1||Enolase|Enolase,_N-terminal|Enolase-like,_N-terminal

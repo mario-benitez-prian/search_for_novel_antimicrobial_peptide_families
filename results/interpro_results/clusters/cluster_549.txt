@@ -1,0 +1,1 @@
+PRED|WP_070799136.1||Alpha-L_RNA-binding_motif|S4

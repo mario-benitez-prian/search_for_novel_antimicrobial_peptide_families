@@ -1,0 +1,3 @@
+PRED|NP_043011.1||Photosystem_II_PsbZ_superfamily|Photosystem_II_PsbZ,_reaction_centre
+PRED|NP_904205.1||Photosystem_II_PsbZ_superfamily|Photosystem_II_PsbZ,_reaction_centre
+PRED|XP_002297533.1||Photosystem_II_PsbZ_superfamily|Photosystem_II_PsbZ,_reaction_centre

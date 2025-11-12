@@ -1,0 +1,1 @@
+PRED|XP_039683402.1||Enoyl-CoA_hydratase,_C-terminal

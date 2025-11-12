@@ -1,0 +1,1 @@
+PRED|WP_001062338.1||Bacteriophage_Mu,_GpM,_tail_tube

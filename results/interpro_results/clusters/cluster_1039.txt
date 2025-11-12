@@ -1,0 +1,5 @@
+PRED|XP_008111792.2||Sarcoplasmic_reticulum_histidine-rich_calcium-binding_protein
+PRED|XP_009055751.1||Sarcoplasmic_reticulum_histidine-rich_calcium-binding_protein
+PRED|XP_011431006.3||Sarcoplasmic_reticulum_histidine-rich_calcium-binding_protein
+PRED|XP_032242619.1||Sarcoplasmic_reticulum_histidine-rich_calcium-binding_protein
+PRED|XP_040047495.1||Sarcoplasmic_reticulum_histidine-rich_calcium-binding_protein

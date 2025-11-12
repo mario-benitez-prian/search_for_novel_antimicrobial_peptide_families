@@ -1,0 +1,1 @@
+DATABASE|AP01154||Antimicrobial_Activity_and_Nucleic_Acid-Binding_Superfamily|LCI_fold

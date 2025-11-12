@@ -1,0 +1,3 @@
+PRED|XP_014344365.1||Uncharacterized_protein_KIAA0040-like
+PRED|XP_031756824.1||Uncharacterized_protein_KIAA0040-like
+PRED|XP_064415535.1||Uncharacterized_protein_KIAA0040-like

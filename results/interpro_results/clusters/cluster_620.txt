@@ -1,0 +1,7 @@
+DATABASE|Training_Seq1077||Metal-nicotianamine_transporter_YSL-like|Oligopeptide_transporter,_OPT_superfamily
+DATABASE|Training_Seq1204||Metal-nicotianamine_transporter_YSL-like|Oligopeptide_transporter,_OPT_superfamily
+PRED|NP_001325744.1||Metal-nicotianamine_transporter_YSL-like|Oligopeptide_transporter,_OPT_superfamily
+PRED|NP_566584.1||Metal-nicotianamine_transporter_YSL-like|Oligopeptide_transporter,_OPT_superfamily
+PRED|XP_024438303.1||Metal-nicotianamine_transporter_YSL-like
+PRED|XP_039687987.1||Metal-nicotianamine_transporter_YSL-like|Oligopeptide_transporter,_OPT_superfamily
+PRED|XP_052301728.1||Metal-nicotianamine_transporter_YSL-like|Oligopeptide_transporter,_OPT_superfamily

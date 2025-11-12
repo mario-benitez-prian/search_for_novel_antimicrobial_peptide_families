@@ -1,0 +1,1 @@
+PRED|NP_878103.1||ERMES_regulator_1

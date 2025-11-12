@@ -1,0 +1,1 @@
+PRED|WP_011012348.1||Protein_of_unknown_function_DUF7557

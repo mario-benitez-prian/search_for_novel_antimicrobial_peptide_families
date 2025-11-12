@@ -1,0 +1,2 @@
+PRED|WP_001385884.1||small_toxic_inner_membrane_protein_TimP
+PRED|WP_242617614.1||small_toxic_inner_membrane_protein_TimP

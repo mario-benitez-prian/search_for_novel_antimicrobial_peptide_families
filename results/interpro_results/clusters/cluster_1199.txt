@@ -1,0 +1,1 @@
+PRED|XP_031762550.1||Proacrosin_binding_sp32

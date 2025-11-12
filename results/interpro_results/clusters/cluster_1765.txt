@@ -1,0 +1,1 @@
+PRED|XP_016768288.1||TMTC_O-mannosyl-transferase

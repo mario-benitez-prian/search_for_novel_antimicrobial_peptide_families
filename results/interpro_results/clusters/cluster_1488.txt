@@ -1,0 +1,1 @@
+PRED|WP_004143727.1||Ribosome_hibernation_factor_SRA

@@ -1,0 +1,1 @@
+PRED|WP_048655266.1||Protein_of_unknown_function_DUF4306|Uncharacterised_conserved_protein_UCP007103

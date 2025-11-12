@@ -1,0 +1,3 @@
+PRED|WP_001001755.1||Manganase_accumulation_protein_MntS
+PRED|WP_001001761.1||Manganase_accumulation_protein_MntS
+PRED|WP_002895851.1||Manganase_accumulation_protein_MntS

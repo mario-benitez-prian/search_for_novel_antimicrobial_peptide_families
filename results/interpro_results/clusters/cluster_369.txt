@@ -1,0 +1,4 @@
+PRED|XP_003226908.3||Neuritin_family
+PRED|XP_005992872.1||Neuritin_family
+PRED|XP_007900852.1||Neuritin_family
+PRED|XP_040536821.1||Neuritin_family

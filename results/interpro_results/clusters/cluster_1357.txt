@@ -1,0 +1,2 @@
+PRED|WP_000932073.1||Fe(2+)_transport_protein_A
+PRED|WP_001160955.1||Fe(2+)_transport_protein_A

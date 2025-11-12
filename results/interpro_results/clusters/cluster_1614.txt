@@ -1,0 +1,1 @@
+PRED|XP_040025184.1||Sodium-dependent_phosphate_transport_protein

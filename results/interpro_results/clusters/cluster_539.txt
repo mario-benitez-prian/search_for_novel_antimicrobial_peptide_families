@@ -1,0 +1,5 @@
+PRED|WP_003228404.1||Metal-sensitive_repressor,_helix_protomer_superfamily|Metal-sensitive_transcriptional_repressor
+PRED|WP_003852393.1||Metal-sensitive_repressor,_helix_protomer_superfamily|Metal-sensitive_transcriptional_repressor
+PRED|WP_003899012.1||Metal-sensitive_repressor,_helix_protomer_superfamily|Metal-sensitive_transcriptional_repressor
+PRED|WP_005407873.1||Metal-sensitive_repressor,_helix_protomer_superfamily|Metal-sensitive_transcriptional_repressor
+PRED|WP_052781939.1||Metal-sensitive_repressor,_helix_protomer_superfamily|Metal-sensitive_transcriptional_repressor

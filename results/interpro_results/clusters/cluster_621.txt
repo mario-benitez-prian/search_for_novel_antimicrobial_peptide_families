@@ -1,0 +1,3 @@
+PRED|WP_001103198.1||Stress_response_membrane_protein_YncL
+PRED|WP_001303494.1||Stress_response_membrane_protein_YncL
+PRED|WP_002906891.1||Stress_response_membrane_protein_YncL

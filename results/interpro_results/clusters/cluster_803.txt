@@ -1,0 +1,1 @@
+PRED|WP_000990056.1||Trp-rich_small_protein,_SAOUHSC_02157_family

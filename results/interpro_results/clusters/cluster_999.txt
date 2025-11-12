@@ -1,0 +1,5 @@
+DATABASE|CAMPSQ20787_OrexinBORXB||Prepro-orexin
+DATABASE|Training_Seq418||Prepro-orexin
+PRED|NP_001515.1||Prepro-orexin
+PRED|NP_034540.1||Prepro-orexin
+PRED|NP_037311.1||Prepro-orexin

@@ -1,0 +1,1 @@
+PRED|NP_500456.2||Protein_of_unknown_function_DUF870,_Caenorhabditis_species

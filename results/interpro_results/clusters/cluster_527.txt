@@ -1,0 +1,1 @@
+PRED|NP_181356.1||Aldolase-type_TIM_barrel|Pyridoxal_5'-phosphate_synthase_subunit_PdxS/SNZ

@@ -1,0 +1,3 @@
+PRED|XP_073391703.1||Tubulin_binding_cofactor_A|Tubulin_binding_cofactor_A_superfamily
+PRED|XP_073393817.1||Tubulin_binding_cofactor_A|Tubulin_binding_cofactor_A_superfamily
+PRED|XP_073393818.1||Tubulin_binding_cofactor_A|Tubulin_binding_cofactor_A_superfamily

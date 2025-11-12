@@ -1,0 +1,1 @@
+PRED|XP_009045804.1||Polycystin|Polycystin_cation_channel,_PKD1/PKD2

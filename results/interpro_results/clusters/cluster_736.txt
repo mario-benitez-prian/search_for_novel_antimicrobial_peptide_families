@@ -1,0 +1,2 @@
+PRED|XP_001830338.2||Protein_of_unknown_function_DUF92,_TMEM19
+PRED|XP_073394447.1||Protein_of_unknown_function_DUF92,_TMEM19

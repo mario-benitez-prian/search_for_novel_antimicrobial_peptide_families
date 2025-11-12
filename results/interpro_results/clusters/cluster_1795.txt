@@ -1,0 +1,1 @@
+PRED|XP_015161842.1||Glycosyltransferase-like_KOBITO_1

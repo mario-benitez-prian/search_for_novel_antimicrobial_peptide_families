@@ -1,0 +1,6 @@
+DATABASE|CAMPSQ811_LactococcinQbeta||Bacteriocin,_lactococcin-G
+DATABASE|DBAASPR_1347_Bacteriocin_Lactococcin-G_subunit_beta||Bacteriocin,_lactococcin-G
+DATABASE|DBAASPR_3498_Bacteriocin_Enterocin_1071_subunit_beta||Bacteriocin,_lactococcin-G
+DATABASE|Training_Seq137||Bacteriocin,_lactococcin-G
+DATABASE|Training_Seq19||Bacteriocin,_lactococcin-G
+DATABASE|Training_Seq21||Bacteriocin,_lactococcin-G

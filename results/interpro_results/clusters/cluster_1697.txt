@@ -1,0 +1,1 @@
+PRED|WP_009881183.1||Small_ribosomal_subunit_protein_bS20|Small_ribosomal_subunit_protein_bS20_superfamily

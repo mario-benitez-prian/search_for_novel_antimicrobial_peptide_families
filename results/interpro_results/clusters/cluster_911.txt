@@ -1,0 +1,9 @@
+PRED|NP_001344819.1||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like
+PRED|XP_002183494.1||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like
+PRED|XP_005109483.1||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like
+PRED|XP_007893907.1||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like
+PRED|XP_011244487.1||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like
+PRED|XP_029696927.1||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like
+PRED|XP_040040948.1||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like
+PRED|XP_042202400.1||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like
+PRED|XP_064413407.1||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like

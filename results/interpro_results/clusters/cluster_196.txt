@@ -1,0 +1,11 @@
+PRED|NP_001242586.2||Arabidopsis_DESIGUAL|DESIGUAL/Modifying_wall_lignin-1/2
+PRED|XP_002269579.1||Arabidopsis_DESIGUAL|DESIGUAL/Modifying_wall_lignin-1/2
+PRED|XP_003534339.1||Arabidopsis_DESIGUAL|DESIGUAL/Modifying_wall_lignin-1/2
+PRED|XP_003542769.1||Arabidopsis_DESIGUAL|DESIGUAL/Modifying_wall_lignin-1/2
+PRED|XP_003547734.2||Arabidopsis_DESIGUAL|DESIGUAL/Modifying_wall_lignin-1/2
+PRED|XP_003612494.1||Arabidopsis_DESIGUAL|DESIGUAL/Modifying_wall_lignin-1/2
+PRED|XP_003629015.1||Arabidopsis_DESIGUAL|DESIGUAL/Modifying_wall_lignin-1/2
+PRED|XP_004151872.1||Arabidopsis_DESIGUAL|DESIGUAL/Modifying_wall_lignin-1/2
+PRED|XP_010644493.1||Arabidopsis_DESIGUAL|DESIGUAL/Modifying_wall_lignin-1/2
+PRED|XP_039690178.1||Arabidopsis_DESIGUAL|DESIGUAL/Modifying_wall_lignin-1/2
+PRED|XP_040872824.1||Arabidopsis_DESIGUAL|DESIGUAL/Modifying_wall_lignin-1/2

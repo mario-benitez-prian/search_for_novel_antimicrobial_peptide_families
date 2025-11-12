@@ -1,0 +1,1 @@
+PRED|XP_002178267.1||DnaJ_subfamily_B/C_chaperone_co-factors

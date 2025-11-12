@@ -1,0 +1,5 @@
+PRED|WP_000057241.1||Large_ribosomal_subunit_protein_uL30,_bacterial-type
+PRED|WP_001140433.1||Large_ribosomal_subunit_protein_uL30,_bacterial-type
+PRED|WP_001140434.1||Large_ribosomal_subunit_protein_uL30,_bacterial-type
+PRED|WP_002986624.1||Large_ribosomal_subunit_protein_uL30,_bacterial-type
+PRED|WP_003403683.1||Large_ribosomal_subunit_protein_uL30,_bacterial-type

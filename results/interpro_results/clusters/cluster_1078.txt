@@ -1,0 +1,8 @@
+PRED|XP_011649156.1||CASP-like_protein_5
+PRED|XP_073388157.1||CASP-like_protein_5
+PRED|XP_073388158.1||CASP-like_protein_5
+PRED|XP_073388159.1||CASP-like_protein_5
+PRED|XP_073388160.1||CASP-like_protein_5
+PRED|XP_073388161.1||CASP-like_protein_5
+PRED|XP_073388162.1||CASP-like_protein_5
+PRED|XP_073388163.1||CASP-like_protein_5

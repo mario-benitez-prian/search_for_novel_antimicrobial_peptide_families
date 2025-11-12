@@ -1,0 +1,1 @@
+PRED|WP_002916578.1||Uncharacterised_protein_family_YqgB

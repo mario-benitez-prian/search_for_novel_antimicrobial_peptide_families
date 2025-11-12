@@ -1,0 +1,3 @@
+PRED|NP_001257467.1||Calmodulin_Regulator_PCP4-like
+PRED|XP_038943970.1||Calmodulin_Regulator_PCP4-like
+PRED|XP_040038740.1||Calmodulin_Regulator_PCP4-like

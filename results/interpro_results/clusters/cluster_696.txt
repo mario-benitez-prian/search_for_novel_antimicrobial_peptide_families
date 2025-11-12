@@ -1,0 +1,1 @@
+PRED|XP_042914920.1||Glycosyltransferase,_GlcNAc

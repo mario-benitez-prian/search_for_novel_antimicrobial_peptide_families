@@ -1,0 +1,1 @@
+PRED|NP_006676.1||Submaxillary_gland_androgen-regulated_protein_like

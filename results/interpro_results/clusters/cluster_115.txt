@@ -1,0 +1,2 @@
+PRED|NP_477521.1||Mucin-like_protein_1
+PRED|XP_047284228.1||Mucin-like_protein_1

@@ -1,0 +1,7 @@
+DATABASE|CAMPSQ1024_Actinoxanthin||Neocarzinostatin_family|Neocarzinostatin-like
+DATABASE|sp|P01549|MACM_STRMA_Macromomycin_OS=Streptomyces_macromomyceticus_OX=1917_PE=1_SV=2||Neocarzinostatin_family|Neocarzinostatin-like
+DATABASE|sp|P01551|ATXA_STRGL_Actinoxanthin_OS=Streptomyces_globisporus_OX=1908_GN=axnA_PE=1_SV=2||Neocarzinostatin_family|Neocarzinostatin-like
+DATABASE|sp|P0A3R9|NCZS_STRCZ_Neocarzinostatin_OS=Streptomyces_carzinostaticus_OX=1897_GN=ncsA_PE=1_SV=1||Neocarzinostatin_family|Neocarzinostatin-like
+DATABASE|sp|P0A3S0|NCZS_STRML_Neocarzinostatin_OS=Streptomyces_malayensis_OX=1918_GN=ncsA_PE=1_SV=1||Neocarzinostatin_family|Neocarzinostatin-like
+DATABASE|sp|P41249|KEDA_ACTSL_Apokedarcidin_OS=Actinomycete_sp._(strain_L585-6_/_ATCC_53650)_OX=38989_PE=1_SV=1||Neocarzinostatin_family|Neocarzinostatin-like
+DATABASE|sp|Q06110|CAGA_STRGL_Antitumor_antibiotic_C-1027_apoprotein_OS=Streptomyces_globisporus_OX=1908_GN=cagA_PE=1_SV=1||Neocarzinostatin_family|Neocarzinostatin-like

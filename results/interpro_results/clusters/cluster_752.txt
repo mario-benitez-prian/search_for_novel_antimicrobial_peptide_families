@@ -1,0 +1,7 @@
+DATABASE|AP00171||Metchnikowin
+DATABASE|AP03066||Metchnikowin
+DATABASE|CAMPSQ663_Metchnikowin-2||Metchnikowin
+DATABASE|Training_Seq1486||Metchnikowin
+DATABASE|Training_Seq588||Metchnikowin
+DATABASE|sp|Q24395|MTK_DROME_Metchnikowin_OS=Drosophila_melanogaster_OX=7227_GN=Mtk_PE=1_SV=1||Metchnikowin
+PRED|NP_523752.1||Metchnikowin

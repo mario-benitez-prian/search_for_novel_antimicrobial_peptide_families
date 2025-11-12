@@ -1,0 +1,1 @@
+PRED|WP_371260264.1||Mobilization_protein_NikA-like

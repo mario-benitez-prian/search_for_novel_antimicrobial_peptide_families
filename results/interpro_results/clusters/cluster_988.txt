@@ -1,0 +1,1 @@
+PRED|WP_003098360.1||Cysteine-rich_CWC

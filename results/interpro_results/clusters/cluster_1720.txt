@@ -1,0 +1,1 @@
+PRED|WP_000872176.1||ISC_system_FeS_cluster_assembly,_IscX|IscX-like_superfamily

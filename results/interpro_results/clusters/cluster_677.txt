@@ -1,0 +1,1 @@
+PRED|WP_032574255.1||Lysine_exporter_LysO

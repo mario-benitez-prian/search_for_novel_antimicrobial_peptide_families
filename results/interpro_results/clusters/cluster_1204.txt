@@ -1,0 +1,2 @@
+PRED|NP_001006890.1||Membrane-associated_proteins_in_eicosanoid_and_glutathione_metabolism|Membrane-associated,_eicosanoid/glutathione_metabolism_(MAPEG)_protein
+PRED|NP_001191297.1||Membrane-associated_proteins_in_eicosanoid_and_glutathione_metabolism

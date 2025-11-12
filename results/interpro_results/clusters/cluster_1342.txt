@@ -1,0 +1,1 @@
+PRED|XP_029702458.1||RNA_polymerase_II_elongation_factor_ELL,_N-terminal

@@ -1,0 +1,1 @@
+PRED|WP_000735804.1||NF038215_family_lipoprotein

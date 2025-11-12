@@ -1,0 +1,6 @@
+PRED|XP_001836050.2||Plant_Cell_Wall_Expansin
+PRED|XP_011386999.1||Plant_Cell_Wall_Expansin
+PRED|XP_011389373.1||Plant_Cell_Wall_Expansin
+PRED|XP_011389791.1||Plant_Cell_Wall_Expansin
+PRED|XP_012053429.1||Plant_Cell_Wall_Expansin
+PRED|XP_638517.2||Papain_inhibitor|Plant_Cell_Wall_Expansin

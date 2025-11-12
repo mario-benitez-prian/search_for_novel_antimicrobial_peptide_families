@@ -1,0 +1,5 @@
+PRED|XP_002182413.1||PpiC/parvulin_rotamase
+PRED|XP_002185400.1||Peptidyl-prolyl_cis-trans_isomerase_FKBP2/11
+PRED|XP_020398849.1||PEPTIDYL-PROLYL_CIS-TRANS_ISOMERASE|Peptidyl-prolyl_cis-trans_isomerase
+PRED|XP_065929538.1||FKBP-like
+PRED|XP_065930244.1||FKBP-like

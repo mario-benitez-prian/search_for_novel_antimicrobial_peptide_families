@@ -1,0 +1,1 @@
+PRED|XP_009051334.1||Mitochondrial_18kDa_protein

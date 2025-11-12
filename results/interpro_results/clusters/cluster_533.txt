@@ -1,0 +1,2 @@
+DATABASE|sp|Q77WJ4|ENLYS_METM2_Pseudomurein_endoisopeptidase_OS=Methanobacterium_phage_psiM2_OX=77048_GN=peiP_PE=1_SV=1||Peptidase_C71,_pseudomurein_endo-isopeptidase_Pei|Pseudomurein-binding_repeat
+DATABASE|sp|Q7LYX0|ENLYS_BPM10_Pseudomurein_endoisopeptidase_PeiW_OS=Methanothermobacter_phage_psiM100_OX=173824_GN=peiW_PE=1_SV=1||Peptidase_C71,_pseudomurein_endo-isopeptidase_Pei|Pseudomurein-binding_repeat

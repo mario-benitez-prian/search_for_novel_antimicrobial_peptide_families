@@ -1,0 +1,1 @@
+PRED|XP_073798219.1||Telomerase_RNA_component_interacting_RNase

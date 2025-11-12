@@ -1,0 +1,9 @@
+PRED|WP_000239596.1||Entericidin_A/B
+PRED|WP_000239598.1||Entericidin_A/B
+PRED|WP_000977687.1||Entericidin_A/B
+PRED|WP_000977756.1||lipoprotein_antitoxin_entericidin_A
+PRED|WP_000977757.1||Entericidin_A/B
+PRED|WP_001984826.1||Entericidin_A/B
+PRED|WP_002885511.1||Entericidin_A/B
+PRED|WP_002885518.1||Entericidin_A/B
+PRED|WP_005407710.1||Entericidin_A/B

@@ -1,0 +1,1 @@
+PRED|XP_006007391.2||Integrin-binding_sialoprotein

@@ -1,0 +1,5 @@
+PRED|XP_002968443.2||GPI-anchored_protein_LORELEI-like
+PRED|XP_002971419.1||GPI-anchored_protein_LORELEI-like
+PRED|XP_015625073.1||GPI-anchored_protein_LORELEI-like
+PRED|XP_015635290.1||GPI-anchored_protein_LORELEI-like
+PRED|XP_024526029.1||GPI-anchored_protein_LORELEI-like

@@ -1,0 +1,2 @@
+PRED|XP_012047162.1||Nis1-like
+PRED|XP_680647.1||Nis1-like

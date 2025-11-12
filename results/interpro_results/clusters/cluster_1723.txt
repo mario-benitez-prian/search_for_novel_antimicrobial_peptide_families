@@ -1,0 +1,1 @@
+PRED|NP_500731.1||Uncharacterized_protein_C27D6.3-like

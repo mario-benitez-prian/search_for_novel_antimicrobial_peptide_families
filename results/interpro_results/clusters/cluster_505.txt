@@ -1,0 +1,1 @@
+PRED|NP_001191958.1||Nuclear_protein_MDM1

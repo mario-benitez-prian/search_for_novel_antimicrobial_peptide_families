@@ -1,0 +1,1 @@
+PRED|XP_001020086.1||Metallothionein_family_7

@@ -1,0 +1,1 @@
+PRED|NP_001303592.1||Protamine-like

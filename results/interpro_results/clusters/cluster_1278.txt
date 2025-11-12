@@ -1,0 +1,4 @@
+PRED|NP_001287425.1||Metallothionein,_family_5,_Diptera
+PRED|NP_001287426.1||Metallothionein,_family_5,_Diptera
+PRED|NP_524413.1||Metallothionein,_family_5,_Diptera
+PRED|NP_650882.1||Metallothionein,_family_5,_Diptera

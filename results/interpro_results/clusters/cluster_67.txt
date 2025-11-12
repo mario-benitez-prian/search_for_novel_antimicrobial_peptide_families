@@ -1,0 +1,1 @@
+PRED|XP_040870803.1||Peptidyl-tRNA_hydrolase,_PTH2

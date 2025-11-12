@@ -1,0 +1,5 @@
+PRED|XP_009066306.1||Barrier-_to-autointegration_factor,_BAF|Barrier-to-autointegration_factor|Barrier-to-autointegration_factor,_BAF_superfamily
+PRED|XP_009066307.1||Barrier-_to-autointegration_factor,_BAF|Barrier-to-autointegration_factor|Barrier-to-autointegration_factor,_BAF_superfamily
+PRED|XP_018669723.1||Barrier-_to-autointegration_factor,_BAF|Barrier-to-autointegration_factor|Barrier-to-autointegration_factor,_BAF_superfamily
+PRED|XP_030855108.1||Barrier-_to-autointegration_factor,_BAF|Barrier-to-autointegration_factor|Barrier-to-autointegration_factor,_BAF_superfamily
+PRED|XP_787992.1||Barrier-_to-autointegration_factor,_BAF|Barrier-to-autointegration_factor|Barrier-to-autointegration_factor,_BAF_superfamily

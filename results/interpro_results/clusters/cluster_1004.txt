@@ -1,0 +1,2 @@
+PRED|NP_001384461.1||Protein_egg_apparatus-1
+PRED|XP_003560537.1||Protein_egg_apparatus-1

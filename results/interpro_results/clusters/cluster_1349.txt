@@ -1,0 +1,1 @@
+DATABASE|Training_Seq2883||Class_II_Aminoacyl-tRNA_synthetase/Biotinyl_protein_ligase_(BPL)_and_lipoyl_protein_ligase_(LPL)|Octanoyltransferase

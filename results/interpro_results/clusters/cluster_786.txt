@@ -1,0 +1,2 @@
+PRED|WP_001300896.1||Membrane_protein_YmiA,_putative-like
+PRED|WP_213083417.1||Membrane_protein_YmiA,_putative-like

@@ -1,0 +1,2 @@
+PRED|WP_099540229.1||Phage-associated_protein,_BcepMu_gp16_family
+PRED|WP_148561128.1||Phage-associated_protein,_BcepMu_gp16_family

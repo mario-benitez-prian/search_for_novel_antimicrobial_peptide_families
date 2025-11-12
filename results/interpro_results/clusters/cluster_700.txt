@@ -1,0 +1,1 @@
+PRED|WP_011113070.1||Chloramphenicol_resistance_gene_leader_peptide

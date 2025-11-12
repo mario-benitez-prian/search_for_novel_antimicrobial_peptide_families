@@ -1,0 +1,2 @@
+DATABASE|AP00238||Waglerin
+DATABASE|Training_Seq1547||Waglerin

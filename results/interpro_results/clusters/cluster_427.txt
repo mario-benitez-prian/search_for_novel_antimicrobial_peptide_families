@@ -1,0 +1,4 @@
+PRED|WP_001364200.1||Histidine_operon_leader_peptide
+PRED|WP_002231208.1||Histidine_operon_leader_peptide
+PRED|WP_004899375.1||Histidine_operon_leader_peptide
+PRED|WP_071779509.1||Histidine_operon_leader_peptide

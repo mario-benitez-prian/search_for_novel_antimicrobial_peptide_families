@@ -1,0 +1,4 @@
+PRED|XP_024312325.1||WD_repeat_Cdc20/Fizzy
+PRED|XP_075916222.1||WD_repeat_Cdc20/Fizzy
+PRED|XP_075916233.1||WD_repeat_Cdc20/Fizzy
+PRED|XP_075916243.1||WD_repeat_Cdc20/Fizzy

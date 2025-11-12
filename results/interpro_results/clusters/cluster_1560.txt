@@ -1,0 +1,1 @@
+DATABASE|sp|P13559|ENLYS_BPPRD_Endolysin_OS=Enterobacteria_phage_PRD1_OX=10658_GN=XV_PE=1_SV=2||Bacteriophage_PRD1,_P15,_lysozyme|N-acetylmuramidase

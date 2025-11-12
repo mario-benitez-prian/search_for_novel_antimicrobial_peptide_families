@@ -1,0 +1,1 @@
+PRED|NP_001273335.1||Motilin/ghrelin|Motilin/ghrelin-associated_peptide|Preproghrelin_peptide

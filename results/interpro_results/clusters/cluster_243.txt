@@ -1,0 +1,5 @@
+PRED|NP_001257068.1||Orcokinin_peptides_type_A/B
+PRED|XP_046455999.1||Orcokinin_peptides_type_A/B
+PRED|XP_046461413.1||Orcokinin_peptides_type_A/B
+PRED|XP_046461414.1||Orcokinin_peptides_type_A/B
+PRED|XP_046461421.1||Orcokinin_peptides_type_A/B

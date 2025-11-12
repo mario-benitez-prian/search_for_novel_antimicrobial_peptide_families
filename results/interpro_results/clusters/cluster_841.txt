@@ -1,0 +1,1 @@
+PRED|NP_001256704.1||7TM_GPCR,_serpentine_receptor_class_h_(Srh)

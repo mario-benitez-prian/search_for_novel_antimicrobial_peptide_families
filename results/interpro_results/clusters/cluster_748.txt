@@ -1,0 +1,2 @@
+DATABASE|Training_Seq2729||Tyrosinase_and_Hemocyanin
+PRED|XP_052822300.1||Tyrosinase_and_Hemocyanin

@@ -1,0 +1,2 @@
+PRED|WP_000784380.1||Uncharacterised_protein_family_YbgS
+PRED|WP_002895084.1||Uncharacterised_protein_family_YbgS

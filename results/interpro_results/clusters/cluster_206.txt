@@ -1,0 +1,12 @@
+PRED|NP_001013246.1||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|NP_001093289.1||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|NP_001264663.1||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|NP_006511.1||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|NP_080251.3||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|XP_002294635.1||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|XP_002585445.1||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|XP_003218965.1||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|XP_003961771.1||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|XP_040033301.1||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|XP_062831263.1||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|XP_823253.1||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily

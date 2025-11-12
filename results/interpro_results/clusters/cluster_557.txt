@@ -1,0 +1,1 @@
+PRED|WP_081423283.1||Modified_peptide_precursor_CbpA

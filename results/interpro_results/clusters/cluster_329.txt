@@ -1,0 +1,5 @@
+PRED|WP_000483445.1||Protein_of_unknown_function_DUF645
+PRED|WP_000947517.1||Protein_of_unknown_function_DUF645
+PRED|WP_001882300.1||Protein_of_unknown_function_DUF645
+PRED|WP_001905700.1||Protein_of_unknown_function_DUF645
+PRED|WP_001944767.1||Protein_of_unknown_function_DUF645

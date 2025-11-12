@@ -1,0 +1,1 @@
+PRED|WP_371218641.1||Transposase_IS3/IS911family

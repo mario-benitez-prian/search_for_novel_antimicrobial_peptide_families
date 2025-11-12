@@ -1,0 +1,1 @@
+PRED|XP_042202123.1||PLAT_repeat

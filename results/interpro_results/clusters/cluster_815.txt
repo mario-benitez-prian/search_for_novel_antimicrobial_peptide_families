@@ -1,0 +1,2 @@
+PRED|WP_000999629.1||YoaI-like
+PRED|WP_000999630.1||YoaI-like

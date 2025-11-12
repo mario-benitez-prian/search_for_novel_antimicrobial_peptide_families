@@ -1,0 +1,2 @@
+PRED|XP_009046613.1||Circadian_locomoter_output_cycles_protein_kaput-like
+PRED|XP_009046619.1||Circadian_locomoter_output_cycles_protein_kaput-like

@@ -1,0 +1,4 @@
+PRED|NP_001016485.1||Unique_cartilage_matrix-associated_protein
+PRED|NP_001159404.1||Unique_cartilage_matrix-associated_protein
+PRED|NP_001298137.1||Unique_cartilage_matrix-associated_protein
+PRED|NP_081030.1||Unique_cartilage_matrix-associated_protein

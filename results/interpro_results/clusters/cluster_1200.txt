@@ -1,0 +1,3 @@
+PRED|XP_003623497.3||LURP-one-related|LURP-one-related_superfamily
+PRED|XP_039685888.1||LURP-one-related|LURP-one-related_superfamily
+PRED|XP_040863863.1||LURP-one-related|LURP-one-related_superfamily

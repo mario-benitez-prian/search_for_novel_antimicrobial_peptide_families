@@ -1,0 +1,4 @@
+PRED|XP_048587450.1||Y'_element_ATP-dependent_helicase
+PRED|XP_048587451.1||Y'_element_ATP-dependent_helicase
+PRED|XP_048587452.1||Y'_element_ATP-dependent_helicase
+PRED|XP_048587453.1||Y'_element_ATP-dependent_helicase

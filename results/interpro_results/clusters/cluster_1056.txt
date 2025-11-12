@@ -1,0 +1,3 @@
+DATABASE|CAMPSQ1958_Megourin-2||Aphid_megourin
+DATABASE|CAMPSQ1959_Megourin-1||Aphid_megourin
+DATABASE|CAMPSQ1960_Megourin-3||Aphid_megourin

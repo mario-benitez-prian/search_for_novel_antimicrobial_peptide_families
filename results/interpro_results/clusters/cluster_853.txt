@@ -1,0 +1,1 @@
+DATABASE|CAMPSQ7559_L-lysine6-oxidase||L-Lysine_epsilon_oxidase,_N-terminal|L-lysine_epsilon-oxidase

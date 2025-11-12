@@ -1,0 +1,3 @@
+PRED|WP_004454815.1||type_I_toxin-antitoxin_system_toxin
+PRED|WP_009901465.1||type_I_toxin-antitoxin_system_toxin
+PRED|WP_011861731.1||type_I_toxin-antitoxin_system_toxin

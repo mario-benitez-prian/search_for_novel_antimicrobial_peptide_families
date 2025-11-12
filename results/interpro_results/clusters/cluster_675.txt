@@ -1,0 +1,5 @@
+PRED|WP_000102278.1||Membrane_protein_YnhF-like
+PRED|WP_000434306.1||Membrane_protein_YnhF-like
+PRED|WP_002216285.1||Membrane_protein_YnhF-like
+PRED|WP_002907776.1||Membrane_protein_YnhF-like
+PRED|WP_032155892.1||Membrane_protein_YnhF-like

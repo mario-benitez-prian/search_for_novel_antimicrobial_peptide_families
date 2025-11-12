@@ -1,0 +1,14 @@
+PRED|NP_001028438.1||Protein_of_unknown_function_DUF4543
+PRED|NP_001078899.2||Protein_of_unknown_function_DUF4543
+PRED|NP_001106539.1||Protein_of_unknown_function_DUF4543
+PRED|NP_001264952.1||Protein_of_unknown_function_DUF4543
+PRED|NP_001289676.1||Protein_of_unknown_function_DUF4543
+PRED|NP_001289677.1||Protein_of_unknown_function_DUF4543
+PRED|NP_001364062.1||Protein_of_unknown_function_DUF4543
+PRED|XP_005999990.1||Protein_of_unknown_function_DUF4543
+PRED|XP_007909820.1||Protein_of_unknown_function_DUF4543
+PRED|XP_008112581.1||Protein_of_unknown_function_DUF4543
+PRED|XP_036012480.1||Protein_of_unknown_function_DUF4543
+PRED|XP_040042439.1||Protein_of_unknown_function_DUF4543
+PRED|XP_046785349.1||Protein_of_unknown_function_DUF4543
+PRED|XP_075929523.1||Protein_of_unknown_function_DUF4543

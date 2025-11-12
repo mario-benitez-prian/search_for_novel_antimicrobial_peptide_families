@@ -1,0 +1,1 @@
+PRED|XP_075912467.1||Peptidase_C14_family

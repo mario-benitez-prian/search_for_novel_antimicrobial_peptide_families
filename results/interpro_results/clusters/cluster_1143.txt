@@ -1,0 +1,1 @@
+PRED|NP_904215.1||Photosystem_II_reaction_center_protein_Ycf12

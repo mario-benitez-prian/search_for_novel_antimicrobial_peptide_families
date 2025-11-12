@@ -1,0 +1,2 @@
+PRED|WP_003419654.1||PE-PGRS_family,_N-terminal|PPE_superfamily
+PRED|WP_050167243.1||PE-PGRS_family,_N-terminal|PPE_superfamily

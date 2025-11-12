@@ -1,0 +1,4 @@
+PRED|NP_001351534.1||PAMP-induced_secreted_peptide_1
+PRED|NP_001351591.1||PAMP-induced_secreted_peptide_1
+PRED|XP_008663356.1||PAMP-induced_secreted_peptide_1
+PRED|XP_031739745.1||PAMP-induced_secreted_peptide_1

@@ -1,0 +1,6 @@
+PRED|NP_039404.1||Cytochrome_b6-f_complex_subunit_6
+PRED|NP_904182.1||Cytochrome_b6-f_complex_subunit_6
+PRED|YP_001109520.1||Cytochrome_b6-f_complex_subunit_6
+PRED|YP_247617.1||Cytochrome_b6-f_complex_subunit_6
+PRED|YP_538782.1||Cytochrome_b6-f_complex_subunit_6
+PRED|YP_635657.1||Cytochrome_b6-f_complex_subunit_6

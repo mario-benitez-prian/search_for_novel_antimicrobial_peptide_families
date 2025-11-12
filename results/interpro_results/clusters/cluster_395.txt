@@ -1,0 +1,10 @@
+PRED|NP_001289735.1||Mitotic-spindle_organizing_protein_1
+PRED|XP_001350123.1||Mitotic-spindle_organizing_protein_1
+PRED|XP_002976972.2||Mitotic-spindle_organizing_protein_1
+PRED|XP_002980712.2||Mitotic-spindle_organizing_protein_1
+PRED|XP_003963788.1||Mitotic-spindle_organizing_protein_1
+PRED|XP_006011682.1||Mitotic-spindle_organizing_protein_1
+PRED|XP_007888920.1||Mitotic-spindle_organizing_protein_1
+PRED|XP_024392953.1||Mitotic-spindle_organizing_protein_1
+PRED|XP_040034401.1||Mitotic-spindle_organizing_protein_1
+PRED|XP_073393747.1||Mitotic-spindle_organizing_protein_1

@@ -1,0 +1,1 @@
+PRED|XP_064213466.1||Centrosomal_protein_of_131kDa

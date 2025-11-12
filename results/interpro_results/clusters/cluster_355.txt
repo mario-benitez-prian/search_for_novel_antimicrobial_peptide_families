@@ -1,0 +1,2 @@
+PRED|XP_001347359.1||Microprotein,_apicomplexa_17
+PRED|XP_002368802.1||Microprotein,_apicomplexa_17

@@ -1,0 +1,4 @@
+PRED|NP_001040770.1||Domain_of_unknown_function_DB
+PRED|NP_495327.1||Domain_of_unknown_function_DB
+PRED|NP_508084.2||Domain_of_unknown_function_DB
+PRED|NP_872073.1||Domain_of_unknown_function_DB

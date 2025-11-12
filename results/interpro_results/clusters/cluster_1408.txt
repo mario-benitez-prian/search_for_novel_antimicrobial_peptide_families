@@ -1,0 +1,1 @@
+PRED|XP_020395332.1||tRNA_(guanine-N(7)-)-methyltransferase_non-catalytic_subunit

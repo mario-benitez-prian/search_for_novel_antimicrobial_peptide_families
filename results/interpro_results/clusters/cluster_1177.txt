@@ -1,0 +1,1 @@
+PRED|XP_640556.1||Domain_of_unknown_function_DUF5898

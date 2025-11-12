@@ -1,0 +1,1 @@
+PRED|WP_003240817.1||YuzL-like_protein

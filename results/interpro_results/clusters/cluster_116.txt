@@ -1,0 +1,3 @@
+PRED|NP_001237332.1||At5g01610-like_superfamily|Protein_of_unknown_function_DUF538
+PRED|XP_002446034.1||At5g01610-like_superfamily|Protein_of_unknown_function_DUF538
+PRED|XP_015616511.1||At5g01610-like_superfamily|Protein_of_unknown_function_DUF538

@@ -1,0 +1,7 @@
+PRED|NP_001267705.1||High_mobility_group_protein_HMGB,_plant
+PRED|XP_003580334.1||High_mobility_group_protein_HMGB,_plant
+PRED|XP_007018068.1||High_mobility_group_protein_HMGB,_plant
+PRED|XP_015637123.1||High_mobility_group_protein_HMGB,_plant
+PRED|XP_015637124.1||High_mobility_group_protein_HMGB,_plant
+PRED|XP_024364947.1||High_mobility_group_protein_HMGB,_plant
+PRED|XP_073387442.1||High_mobility_group_protein_HMGB,_plant

@@ -1,0 +1,1 @@
+PRED|WP_002209001.1||DNA-directed_RNA_polymerase,_omega_subunit|RNA_polymerase,_subunit_omega/Rpo6/RPB6|RPB6/omega_subunit-like_superfamily

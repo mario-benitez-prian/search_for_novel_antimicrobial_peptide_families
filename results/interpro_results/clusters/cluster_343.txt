@@ -1,0 +1,3 @@
+PRED|XP_073387662.1||UPF0047_protein_YjbQ-like|YjbQ-like_superfamily
+PRED|XP_073387663.1||UPF0047_protein_YjbQ-like|YjbQ-like_superfamily
+PRED|XP_073387664.1||UPF0047_protein_YjbQ-like|YjbQ-like_superfamily

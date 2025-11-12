@@ -1,0 +1,1 @@
+PRED|WP_003229081.1||Membrane_protein_YtzI-like

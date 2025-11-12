@@ -1,0 +1,8 @@
+PRED|WP_011278250.1||Zinc_finger,_FYVE/PHD-type
+PRED|WP_013999353.1||Zinc_finger,_FYVE/PHD-type
+PRED|WP_015410975.1||Zinc_finger,_FYVE/PHD-type
+PRED|XP_002179559.1||FYVE_zinc_finger|Zinc_finger,_FYVE/PHD-type
+PRED|XP_009050670.1||FYVE_zinc_finger|FYVE-type_Zinc_Finger_Domain-Containing_Protein|Zinc_finger,_FYVE/PHD-type
+PRED|XP_009053887.1||Int12,_PHD_finger|Integrator_complex_subunit_12|Zinc_finger,_FYVE/PHD-type|Zinc_finger,_PHD-finger|Zinc_finger,_PHD-type
+PRED|XP_009058539.1||ING_family|Zinc_finger,_FYVE/PHD-type|Zinc_finger,_PHD-type
+PRED|XP_009063832.1||ING_family|Zinc_finger,_FYVE/PHD-type

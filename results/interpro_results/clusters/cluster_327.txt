@@ -1,0 +1,2 @@
+PRED|XP_011239225.1||Mucosal_Integrity_Associated
+PRED|XP_048577044.1||Mucosal_Integrity_Associated

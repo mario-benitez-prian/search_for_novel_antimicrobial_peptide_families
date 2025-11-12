@@ -1,0 +1,1 @@
+PRED|WP_001259309.1||T6SS_superfamily

@@ -1,0 +1,1 @@
+PRED|WP_002221314.1||Membrane_protein_NGO_0222-like

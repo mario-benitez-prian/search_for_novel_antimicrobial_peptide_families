@@ -1,0 +1,2 @@
+PRED|WP_003416889.1||50S_ribosomal_protein_bL37,_Actinomycetota_type
+PRED|WP_014300525.1||50S_ribosomal_protein_bL37,_Actinomycetota_type

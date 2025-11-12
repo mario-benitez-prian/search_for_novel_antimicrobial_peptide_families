@@ -1,0 +1,3 @@
+PRED|NP_001138218.1||Pupal_cuticle_protein_C1
+PRED|XP_318181.3||Pupal_cuticle_protein_C1
+PRED|XP_563741.2||Pupal_cuticle_protein_C1

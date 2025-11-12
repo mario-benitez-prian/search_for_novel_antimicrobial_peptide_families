@@ -1,0 +1,1 @@
+PRED|NP_001289675.1||Tumor_necrosis_factor_ligand_superfamily_member_6

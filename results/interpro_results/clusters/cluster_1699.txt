@@ -1,0 +1,1 @@
+PRED|XP_012937070.2||Sodium:neurotransmitter_symporter|Sodium:neurotransmitter_symporter_superfamily

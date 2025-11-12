@@ -1,0 +1,11 @@
+PRED|NP_001264777.1||Lysine_methyltransferase|S-adenosyl-L-methionine-dependent_methyltransferase_superfamily
+PRED|NP_001264778.1||Lysine_methyltransferase|S-adenosyl-L-methionine-dependent_methyltransferase_superfamily
+PRED|NP_001264803.1||S-adenosyl-L-methionine-dependent_methyltransferase_superfamily
+PRED|XP_003633182.1||S-adenosyl-L-methionine-dependent_methyltransferase_superfamily|tRNA_methyltransferase,_Trm1|tRNA_methyltransferase,_Trm1,_C-terminal
+PRED|XP_006587529.1||S-adenosyl-L-methionine-dependent_methyltransferase_superfamily|rRNA_N6-Adenosine-Methyltransferase/Polyamine_Synthase
+PRED|XP_009045228.1||Kelch_repeat_type_1|Kelch-type_beta-propeller
+PRED|XP_031753467.1||Kelch-type_beta-propeller|Methyltransferase_Ppm1/Ppm2/Tcmp|S-adenosyl-L-methionine-dependent_methyltransferase_superfamily
+PRED|XP_040860972.1||S-adenosyl-L-methionine-dependent_methyltransferase_superfamily|rRNA_N6-Adenosine-Methyltransferase/Polyamine_Synthase
+PRED|XP_046777308.1||Lysine_methyltransferase|S-adenosyl-L-methionine-dependent_methyltransferase_superfamily
+PRED|XP_070681804.1||Kelch-type_beta-propeller
+PRED|XP_637695.1||S-adenosyl-L-methionine-dependent_methyltransferase_superfamily

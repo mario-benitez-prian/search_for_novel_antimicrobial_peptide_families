@@ -1,0 +1,1 @@
+PRED|XP_061513940.1||Olfactory_receptor,_insect

@@ -1,0 +1,9 @@
+PRED|NP_001339616.1||Protein_of_unknown_function_DUF4730
+PRED|NP_001339617.1||Protein_of_unknown_function_DUF4730
+PRED|NP_001339816.1||Protein_of_unknown_function_DUF4730
+PRED|XP_038956436.1||Protein_of_unknown_function_DUF4730
+PRED|XP_040031152.1||Protein_of_unknown_function_DUF4730
+PRED|XP_042191355.1||Protein_of_unknown_function_DUF4730
+PRED|XP_047275585.1||Protein_of_unknown_function_DUF4730
+PRED|XP_064417623.1||Protein_of_unknown_function_DUF4730
+PRED|XP_068076835.1||Protein_of_unknown_function_DUF4730

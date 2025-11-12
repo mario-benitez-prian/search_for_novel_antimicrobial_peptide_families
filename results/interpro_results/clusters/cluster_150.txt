@@ -1,0 +1,15 @@
+DATABASE|AP01552||Macin|Macin_superfamily
+DATABASE|AP01556||Macin|Macin_superfamily
+DATABASE|AP02025||Macin|Macin_superfamily
+DATABASE|AP02160||Macin|Macin_superfamily
+DATABASE|AP03099||Macin|Macin_superfamily
+DATABASE|AP04246||Macin|Macin_superfamily
+DATABASE|CAMPSQ11321_Hirudomacin||Macin|Macin_superfamily
+DATABASE|CAMPSQ2591_Hydramacin-1||Macin|Macin_superfamily
+DATABASE|DBAASPR_6691_Hydramacin-1||Macin|Macin_superfamily
+DATABASE|Training_Seq2421||Macin|Macin_superfamily
+DATABASE|Training_Seq3086||Macin|Macin_superfamily
+DATABASE|Training_Seq3558||Macin|Macin_superfamily
+DATABASE|Training_Seq3661||Macin|Macin_superfamily
+DATABASE|Training_Seq893||Macin|Macin_superfamily
+DATABASE|sp|A8I0L8|THMAC_HIRME_Theromacin_OS=Hirudo_medicinalis_OX=6421_PE=1_SV=1||Macin|Macin_superfamily

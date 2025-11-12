@@ -1,0 +1,12 @@
+PRED|XP_002965062.2||Meiotically_up-regulated_gene_117_protein
+PRED|XP_002973233.1||Meiotically_up-regulated_gene_117_protein
+PRED|XP_002973237.1||Meiotically_up-regulated_gene_117_protein
+PRED|XP_002976622.1||Meiotically_up-regulated_gene_117_protein
+PRED|XP_002976633.1||Meiotically_up-regulated_gene_117_protein
+PRED|XP_002976634.1||Meiotically_up-regulated_gene_117_protein
+PRED|XP_002991042.1||Meiotically_up-regulated_gene_117_protein
+PRED|XP_002991691.1||Meiotically_up-regulated_gene_117_protein
+PRED|XP_002993645.1||Meiotically_up-regulated_gene_117_protein
+PRED|XP_002993647.1||Meiotically_up-regulated_gene_117_protein
+PRED|XP_024365318.1||Meiotically_up-regulated_gene_117_protein
+PRED|XP_024521211.1||Meiotically_up-regulated_gene_117_protein

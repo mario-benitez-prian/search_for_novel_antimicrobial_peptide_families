@@ -1,0 +1,5 @@
+PRED|NP_001334937.1||Arabinogalactan_protein_3/12/13/14/21
+PRED|NP_001349771.1||Arabinogalactan_protein_3/12/13/14/21
+PRED|XP_006362250.1||Arabinogalactan_protein_3/12/13/14/21
+PRED|XP_008351440.1||Arabinogalactan_protein_3/12/13/14/21
+PRED|XP_015645473.1||Arabinogalactan_protein_3/12/13/14/21

@@ -1,0 +1,2 @@
+PRED|NP_001305136.1||Transmembrane_protein_239
+PRED|XP_011527430.1||Transmembrane_protein_239

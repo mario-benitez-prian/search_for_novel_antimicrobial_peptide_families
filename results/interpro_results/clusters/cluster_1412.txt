@@ -1,0 +1,1 @@
+PRED|XP_009065039.1||Protein_TBATA-like

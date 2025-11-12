@@ -1,0 +1,1 @@
+PRED|NP_011483.3||A-agglutinin-binding_subunit_Aga2

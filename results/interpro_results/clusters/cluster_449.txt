@@ -1,0 +1,2 @@
+PRED|WP_000863859.1||Protein_of_unknown_function_DUF4044
+PRED|WP_002984145.1||Protein_of_unknown_function_DUF4044

@@ -1,0 +1,1 @@
+PRED|WP_434239312.1||Variable_surface_antigen_VlsE

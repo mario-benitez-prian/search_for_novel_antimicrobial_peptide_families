@@ -1,0 +1,3 @@
+PRED|NP_001161911.1||Scoloptoxin-like
+PRED|XP_012544857.1||Scoloptoxin-like
+PRED|XP_061504335.1||Scoloptoxin-like

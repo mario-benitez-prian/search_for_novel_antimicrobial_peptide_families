@@ -1,0 +1,1 @@
+PRED|XP_001015773.2||Chromatin_target_of_PRMT1_protein,_C-terminal

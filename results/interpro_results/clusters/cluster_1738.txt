@@ -1,0 +1,1 @@
+PRED|NP_001318779.1||ER_membrane_protein_complex_subunit_8/9

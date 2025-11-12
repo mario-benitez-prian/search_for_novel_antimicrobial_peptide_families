@@ -1,0 +1,2 @@
+PRED|WP_010878036.1||Transcription_regulator_TrmB,_N-terminal
+PRED|WP_011277028.1||HTH-type_transcriptional_regulator_lrs14|Transcription_regulator_TrmB,_N-terminal

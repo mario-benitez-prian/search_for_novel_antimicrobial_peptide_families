@@ -1,0 +1,5 @@
+PRED|XP_001622900.2||Import_inner_membrane_translocase_subunit_tim14
+PRED|XP_006562154.1||Import_inner_membrane_translocase_subunit_tim14
+PRED|XP_009064476.1||Import_inner_membrane_translocase_subunit_tim14
+PRED|XP_011435291.1||Import_inner_membrane_translocase_subunit_tim14
+PRED|XP_313276.4||Import_inner_membrane_translocase_subunit_tim14

@@ -1,0 +1,1 @@
+DATABASE|sp|B7PLT0|DAE2_IXOSC_Domesticated_amidase_effector_2_OS=Ixodes_scapularis_OX=6945_GN=IscW_ISCW006596_PE=1_SV=2||Cell_wall_amidase_Dae2/Tae2-like

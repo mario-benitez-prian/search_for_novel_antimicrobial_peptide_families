@@ -1,0 +1,1 @@
+PRED|YP_539002.1||ATP_synthase,_F0_complex,_subunit_B/MI25|ATP_synthase,_F0_complex,_subunit_MI25,_plants

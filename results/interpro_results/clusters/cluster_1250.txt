@@ -1,0 +1,5 @@
+PRED|NP_851821.1||Large_ribosomal_subunit_protein_mL52
+PRED|NP_851822.1||Large_ribosomal_subunit_protein_mL52
+PRED|NP_851823.1||Large_ribosomal_subunit_protein_mL52
+PRED|XP_047286874.1||Large_ribosomal_subunit_protein_mL52
+PRED|XP_047286875.1||Large_ribosomal_subunit_protein_mL52

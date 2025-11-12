@@ -1,0 +1,5 @@
+PRED|NP_001380031.1||ATP_synthase,_F1_complex,_epsilon_subunit_superfamily,_mitochondrial|ATP_synthase,_F1_complex,_epsilon_subunit,_mitochondrial
+PRED|NP_498839.1||ATP_synthase,_F1_complex,_epsilon_subunit_superfamily,_mitochondrial|ATP_synthase,_F1_complex,_epsilon_subunit,_mitochondrial
+PRED|NP_504198.1||ATP_synthase,_F1_complex,_epsilon_subunit_superfamily,_mitochondrial|ATP_synthase,_F1_complex,_epsilon_subunit,_mitochondrial
+PRED|XP_002364672.1||ATP_synthase,_F1_complex,_epsilon_subunit_superfamily,_mitochondrial|ATP_synthase,_F1_complex,_epsilon_subunit,_mitochondrial
+PRED|XP_005993632.1||ATP_synthase,_F1_complex,_epsilon_subunit_superfamily,_mitochondrial|ATP_synthase,_F1_complex,_epsilon_subunit,_mitochondrial

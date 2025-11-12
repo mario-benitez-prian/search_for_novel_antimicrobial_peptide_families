@@ -1,0 +1,1 @@
+PRED|WP_121980491.1||RpoE_leader_peptide

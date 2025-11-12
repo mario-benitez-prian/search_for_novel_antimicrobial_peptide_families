@@ -1,0 +1,2 @@
+PRED|WP_000177186.1||Archaeal/bacterial_translation_initiation_factor_SUI1|DENR/SUI1_Translation_Initiation_Factor
+PRED|XP_001350120.1||Large_ribosomal_subunit_protein_mL49

@@ -1,0 +1,3 @@
+PRED|WP_001387183.1||peptide_IlvX
+PRED|WP_192930503.1||peptide_IlvX
+PRED|WP_201281575.1||peptide_IlvX

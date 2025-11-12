@@ -1,0 +1,1 @@
+PRED|WP_001199099.1||Bacteriophage_lambda,_CIII,_regulatory_protein

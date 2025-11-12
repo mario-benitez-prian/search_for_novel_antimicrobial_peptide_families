@@ -1,0 +1,2 @@
+PRED|NP_001071812.1||Frizzled/secreted_frizzled-related_protein
+PRED|XP_005106398.1||Frizzled/secreted_frizzled-related_protein

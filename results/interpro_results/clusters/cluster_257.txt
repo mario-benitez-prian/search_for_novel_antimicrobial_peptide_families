@@ -1,0 +1,6 @@
+PRED|NP_001119514.1||C-terminally_encoded_peptide
+PRED|NP_001235091.2||C-terminally_encoded_peptide
+PRED|NP_569039.1||C-terminally_encoded_peptide
+PRED|XP_025979588.1||C-terminally_encoded_peptide
+PRED|XP_025980294.1||C-terminally_encoded_peptide
+PRED|XP_025984375.1||C-terminally_encoded_peptide

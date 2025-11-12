@@ -1,0 +1,5 @@
+PRED|NP_001033589.1||Exocrine_gland-secreted_peptide_Esp1/Esp22
+PRED|NP_001171053.1||Exocrine_gland-secreted_peptide_Esp1/Esp22
+PRED|NP_001171054.1||Exocrine_gland-secreted_peptide_Esp1/Esp22
+PRED|NP_001238845.1||Exocrine_gland-secreted_peptide_Esp1/Esp22
+PRED|NP_001242979.1||Exocrine_gland-secreted_peptide_Esp1/Esp22

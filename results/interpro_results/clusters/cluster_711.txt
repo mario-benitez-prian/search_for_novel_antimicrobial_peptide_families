@@ -1,0 +1,1 @@
+PRED|WP_306921051.1||Rv2334A_family_Cys-rich_leader_peptide

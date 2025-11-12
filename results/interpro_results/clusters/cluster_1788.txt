@@ -1,0 +1,1 @@
+PRED|XP_024303621.1||Protein_of_unknown_function_DUF4514

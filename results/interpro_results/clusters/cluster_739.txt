@@ -1,0 +1,1 @@
+PRED|WP_000148169.1||biofilm-regulating_peptide_BriC

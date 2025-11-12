@@ -1,0 +1,1 @@
+PRED|XP_015166440.1||Vacuolar_protein_sorting-associated_Vps28

@@ -1,0 +1,5 @@
+PRED|WP_002218169.1||Unknown
+PRED|WP_011069541.1||Unknown
+PRED|WP_011277393.1||Unknown
+PRED|WP_011278775.1||Repressor-like_regulatory_protein
+PRED|WP_102210014.1||Antitoxin_VapB2-like|Type_II_toxin-antitoxin_VapB_antitoxins

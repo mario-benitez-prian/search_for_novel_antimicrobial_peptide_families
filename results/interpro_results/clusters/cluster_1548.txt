@@ -1,0 +1,1 @@
+PRED|WP_139116736.1||Translation_of_predicted_DNA_regulatory_sequence

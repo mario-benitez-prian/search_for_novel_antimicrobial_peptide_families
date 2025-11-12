@@ -1,0 +1,5 @@
+DATABASE|AP01238||Big_defensin
+DATABASE|AP02043||Big_defensin
+DATABASE|Training_Seq2237||Big_defensin
+DATABASE|Training_Seq958||Big_defensin
+DATABASE|sp|Q86QN6|BDEF_BRABE_Big_defensin_OS=Branchiostoma_belcheri_OX=7741_PE=3_SV=1||Big_defensin

@@ -1,0 +1,1 @@
+DATABASE|sp|O48400|GP46_BPSP1_Inhibitor_of_histone-like_protein_HU_OS=Bacillus_phage_SP01_OX=2884427_GN=46_PE=1_SV=1||Inhibitor_of_histone-like_protein_HU

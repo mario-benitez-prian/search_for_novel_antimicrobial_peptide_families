@@ -1,0 +1,3 @@
+PRED|NP_001300817.1||Interleukin-7|Interleukin-7_superfamily
+PRED|NP_001300818.1||Interleukin-7|Interleukin-7_superfamily
+PRED|NP_001300819.1||Interleukin-7|Interleukin-7_superfamily

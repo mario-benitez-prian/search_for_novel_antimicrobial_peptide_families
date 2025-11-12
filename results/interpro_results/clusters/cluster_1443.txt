@@ -1,0 +1,2 @@
+PRED|XP_009048390.1||Nucleophile_aminohydrolases,_N-terminal|Proteasome_subunit_alpha|Proteasome,_subunit_alpha/beta
+PRED|XP_714697.1||Nucleophile_aminohydrolases,_N-terminal|Peptidase_T1A,_proteasome_beta-subunit|Proteasome_B-type_subunit|Proteasome,_subunit_alpha/beta

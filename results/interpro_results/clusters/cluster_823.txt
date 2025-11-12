@@ -1,0 +1,3 @@
+PRED|WP_001091314.1||Flp/Fap_pilin_component
+PRED|WP_003107380.1||Flp/Fap_pilin_component
+PRED|WP_005409991.1||Flp/Fap_pilin_component

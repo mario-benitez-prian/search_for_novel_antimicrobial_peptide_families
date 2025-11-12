@@ -1,0 +1,2 @@
+DATABASE|AP00208||Enhancer_of_rudimentary|Enhancer_of_rudimentary_superfamily
+DATABASE|Training_Seq1519||Enhancer_of_rudimentary|Enhancer_of_rudimentary_superfamily

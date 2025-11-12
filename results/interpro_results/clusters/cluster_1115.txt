@@ -1,0 +1,4 @@
+PRED|NP_001305414.1||Large_ribosomal_subunit_protein_bL20|Ribosomal_protein_bL20,_C-terminal
+PRED|NP_904177.1||Large_ribosomal_subunit_protein_bL20|Ribosomal_protein_bL20,_C-terminal
+PRED|WP_009872966.1||Large_ribosomal_subunit_protein_bL20|Ribosomal_protein_bL20,_C-terminal
+PRED|WP_010882292.1||Large_ribosomal_subunit_protein_bL20|Ribosomal_protein_bL20,_C-terminal

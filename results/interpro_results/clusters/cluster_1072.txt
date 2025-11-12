@@ -1,0 +1,1 @@
+PRED|NP_001248376.2||Myelin_proteolipid_protein_PLP

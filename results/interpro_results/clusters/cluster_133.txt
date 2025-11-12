@@ -1,0 +1,8 @@
+PRED|NP_001104825.1||Adipokinetic_hormone/red_pigment-concentrating_hormone
+PRED|NP_001107797.1||Adipokinetic_hormone/red_pigment-concentrating_hormone
+PRED|NP_001107818.1||Adipokinetic_hormone/red_pigment-concentrating_hormone
+PRED|NP_001124365.1||Adipokinetic_hormone/red_pigment-concentrating_hormone
+PRED|NP_001159497.2||Adipokinetic_hormone/red_pigment-concentrating_hormone
+PRED|NP_523918.1||Adipokinetic_hormone/red_pigment-concentrating_hormone
+PRED|XP_001689190.1||Adipokinetic_hormone/red_pigment-concentrating_hormone
+PRED|XP_563757.1||Adipokinetic_hormone/red_pigment-concentrating_hormone

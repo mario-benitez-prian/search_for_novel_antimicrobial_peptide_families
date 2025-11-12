@@ -1,0 +1,1 @@
+PRED|WP_000778133.1||Heat_shock_protein_HslJ-like|HslJ-like_superfamily

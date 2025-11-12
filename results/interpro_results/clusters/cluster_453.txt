@@ -1,0 +1,2 @@
+PRED|NP_001369022.1||Induced_by_infection
+PRED|NP_001369097.1||Induced_by_infection

@@ -1,0 +1,6 @@
+PRED|NP_001177920.1||Domain_of_unknown_function_DUF3456|Protein_canopy_homolog
+PRED|XP_024451520.1||Domain_of_unknown_function_DUF3456
+PRED|XP_024451521.1||Domain_of_unknown_function_DUF3456
+PRED|XP_024451522.1||Domain_of_unknown_function_DUF3456
+PRED|XP_024451524.1||Domain_of_unknown_function_DUF3456
+PRED|XP_052306605.1||Domain_of_unknown_function_DUF3456

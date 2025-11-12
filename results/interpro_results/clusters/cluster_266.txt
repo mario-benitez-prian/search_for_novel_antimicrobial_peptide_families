@@ -1,0 +1,3 @@
+PRED|NP_001022484.1||Protein_of_unknown_function_DUF1179
+PRED|NP_001022485.1||Protein_of_unknown_function_DUF1179
+PRED|NP_001076641.1||Protein_of_unknown_function_DUF1179

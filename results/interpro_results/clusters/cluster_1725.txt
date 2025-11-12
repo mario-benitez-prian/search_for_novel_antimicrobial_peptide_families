@@ -1,0 +1,2 @@
+PRED|WP_370736902.1||ArgL-like
+PRED|WP_371045364.1||ArgL-like

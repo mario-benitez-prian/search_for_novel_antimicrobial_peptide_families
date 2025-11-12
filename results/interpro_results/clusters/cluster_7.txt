@@ -1,0 +1,8 @@
+DATABASE|AP01228||Microcin_V_bacteriocin
+DATABASE|AP01229||Microcin_V_bacteriocin
+DATABASE|AP01230||Microcin_V_bacteriocin
+DATABASE|Training_Seq2230||Microcin_V_bacteriocin
+DATABASE|Training_Seq2231||Microcin_V_bacteriocin
+DATABASE|Training_Seq2232||Microcin_V_bacteriocin
+DATABASE|sp|P22522|CEAV_ECOLX_Colicin-V_OS=Escherichia_coli_OX=562_GN=cvaC_PE=1_SV=1||Microcin_V_bacteriocin
+PRED|WP_001259758.1||Microcin_V_bacteriocin

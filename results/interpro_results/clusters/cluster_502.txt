@@ -1,0 +1,4 @@
+PRED|XP_011389810.1||Long_chronological_lifespan_protein_2
+PRED|XP_711696.1||Long_chronological_lifespan_protein_2
+PRED|XP_747940.1||Long_chronological_lifespan_protein_2
+PRED|XP_960990.1||Long_chronological_lifespan_protein_2

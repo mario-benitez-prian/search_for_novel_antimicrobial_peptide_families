@@ -1,0 +1,8 @@
+PRED|NP_001075888.2||Prolactin-releasing_peptide
+PRED|NP_001095117.1||Prolactin-releasing_peptide
+PRED|NP_001107975.1||Prolactin-releasing_peptide
+PRED|NP_001232914.1||Prolactin-releasing_peptide
+PRED|NP_056977.1||Prolactin-releasing_peptide
+PRED|NP_071558.1||Prolactin-releasing_peptide
+PRED|XP_006245540.1||Prolactin-releasing_peptide
+PRED|XP_046777209.1||Prolactin-releasing_peptide

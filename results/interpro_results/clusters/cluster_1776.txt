@@ -1,0 +1,1 @@
+PRED|XP_024449576.1||GIY-YIG_endonuclease_superfamily|SLX1_structure-specific_endonuclease

@@ -1,0 +1,2 @@
+PRED|XP_001120888.2||Small_integral_membrane_protein_20
+PRED|XP_001808390.2||Small_integral_membrane_protein_20

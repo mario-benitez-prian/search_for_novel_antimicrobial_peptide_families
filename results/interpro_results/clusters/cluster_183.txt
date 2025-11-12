@@ -1,0 +1,4 @@
+PRED|WP_000714547.1||PhoP/PhoQ_regulator_MgrB
+PRED|WP_000714550.1||PhoP/PhoQ_regulator_MgrB
+PRED|WP_002430101.1||PhoP/PhoQ_regulator_MgrB
+PRED|WP_002911375.1||PhoP/PhoQ_regulator_MgrB

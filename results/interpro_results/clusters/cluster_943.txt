@@ -1,0 +1,6 @@
+PRED|WP_000956458.1||Hok/gef_cell_toxic_protein
+PRED|WP_000956463.1||Hok/gef_cell_toxic_protein
+PRED|WP_000956465.1||Hok/gef_cell_toxic_protein
+PRED|WP_001312851.1||Hok/gef_cell_toxic_protein
+PRED|WP_002915097.1||Hok/gef_cell_toxic_protein
+PRED|WP_096937776.1||Hok/gef_cell_toxic_protein

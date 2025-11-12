@@ -1,0 +1,1 @@
+PRED|NP_001254820.1||Neurokinin-B/Tachykinin-3

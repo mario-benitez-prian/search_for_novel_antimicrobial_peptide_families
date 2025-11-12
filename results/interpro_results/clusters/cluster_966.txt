@@ -1,0 +1,1 @@
+PRED|NP_853651.1||Keratin-associated_matrix_protein|Keratin-associated_protein,_type8/19/20/21/22

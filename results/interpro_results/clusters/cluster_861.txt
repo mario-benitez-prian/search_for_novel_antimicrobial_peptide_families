@@ -1,0 +1,1 @@
+PRED|NP_001143313.2||CLE-related_protein_45-like

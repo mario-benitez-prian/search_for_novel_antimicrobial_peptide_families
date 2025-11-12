@@ -1,0 +1,1 @@
+PRED|XP_026693413.1||NADH_dehydrogenase_[ubiquinone]_1_subunit_C2,_NDUC2

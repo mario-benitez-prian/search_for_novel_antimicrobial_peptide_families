@@ -1,0 +1,1 @@
+DATABASE|Training_Seq638||Ribosomal_RNA_Pseudouridine_Synthase_RsuA

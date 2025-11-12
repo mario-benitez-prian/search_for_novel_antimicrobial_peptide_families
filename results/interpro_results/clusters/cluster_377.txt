@@ -1,0 +1,12 @@
+DATABASE|AP02515||Apolipoprotein_C-I
+DATABASE|CAMPSQ15164_Apo6APOC167-88||Apolipoprotein_C-I
+DATABASE|Training_Seq277||Apolipoprotein_C-I
+PRED|NP_001278815.1||Apolipoprotein_C-I
+PRED|NP_001278816.1||Apolipoprotein_C-I
+PRED|NP_001307994.1||Apolipoprotein_C-I
+PRED|NP_001307995.1||Apolipoprotein_C-I
+PRED|NP_001366616.1||Apolipoprotein_C-I
+PRED|NP_001636.1||Apolipoprotein_C-I
+PRED|XP_004912067.1||Apolipoprotein_C-I
+PRED|XP_073941020.1||Apolipoprotein_C-I
+PRED|XP_073941021.1||Apolipoprotein_C-I

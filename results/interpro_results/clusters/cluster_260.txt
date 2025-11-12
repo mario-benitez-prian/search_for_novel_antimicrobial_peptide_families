@@ -1,0 +1,11 @@
+DATABASE|AP01632||cypemycin_family_RiPP
+DATABASE|CAMPSQ11828_CypAvariantC19S||cypemycin_family_RiPP
+DATABASE|CAMPSQ11829_CypAvariantT2S||cypemycin_family_RiPP
+DATABASE|CAMPSQ11830_CypAvariantT17S||cypemycin_family_RiPP
+DATABASE|CAMPSQ11831_CypAvariantQ14E||cypemycin_family_RiPP
+DATABASE|CAMPSQ11832_CypAvariantT7K||cypemycin_family_RiPP
+DATABASE|CAMPSQ2587_Cypemycin||cypemycin_family_RiPP
+DATABASE|DBAASPR_21825_Linaridin_Salinipeptin_A||cypemycin_family_RiPP
+DATABASE|Training_Seq1336||cypemycin_family_RiPP
+DATABASE|Training_Seq2485||cypemycin_family_RiPP
+DATABASE|sp|E5KIB6|CYPA_STRSQ_Cypemycin_OS=Streptomyces_sp_OX=1931_GN=cypA_PE=1_SV=1||cypemycin_family_RiPP

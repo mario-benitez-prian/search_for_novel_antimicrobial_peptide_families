@@ -1,0 +1,1 @@
+PRED|NP_075647.3||CXC_chemokine_16

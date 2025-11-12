@@ -1,0 +1,2 @@
+PRED|XP_021313180.1||Metallothionein-like_protein_3
+PRED|XP_024446769.2||Metallothionein-like_protein_3

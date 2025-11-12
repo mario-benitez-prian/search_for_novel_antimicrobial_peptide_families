@@ -1,0 +1,4 @@
+PRED|XP_007019406.2||Protein_IDA-like
+PRED|XP_015165741.1||Protein_IDA-like
+PRED|XP_021315757.1||Protein_IDA-like
+PRED|XP_021319737.1||Protein_IDA-like

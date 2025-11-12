@@ -1,0 +1,2 @@
+PRED|WP_001299730.1||ANR_transcriptional_regulator
+PRED|WP_004971339.1||ANR_transcriptional_regulator

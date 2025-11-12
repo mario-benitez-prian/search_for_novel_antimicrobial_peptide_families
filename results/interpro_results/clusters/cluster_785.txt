@@ -1,0 +1,2 @@
+PRED|WP_011012134.1||Conserved_hypothetical_protein_CHP04076
+PRED|WP_011998658.1||Conserved_hypothetical_protein_CHP04076

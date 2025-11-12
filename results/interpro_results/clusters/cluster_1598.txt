@@ -1,0 +1,1 @@
+PRED|XP_073768553.1||NALCN_channel_auxiliary_factor_1/2

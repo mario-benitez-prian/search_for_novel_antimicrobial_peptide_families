@@ -1,0 +1,1 @@
+PRED|NP_001382153.1||NEDD4-binding_protein_2-like_1/3

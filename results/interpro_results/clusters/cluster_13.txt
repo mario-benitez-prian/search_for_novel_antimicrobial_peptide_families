@@ -1,0 +1,17 @@
+DATABASE|AP00412||Coleoptericin
+DATABASE|AP00413||Coleoptericin
+DATABASE|AP02128||Coleoptericin
+DATABASE|AP02129||Coleoptericin
+DATABASE|AP03837||Coleoptericin
+DATABASE|AP04048||Coleoptericin
+DATABASE|CAMPSQ16689_ColLC||Coleoptericin
+DATABASE|CAMPSQ16690_Col1||Coleoptericin
+DATABASE|CAMPSQ16691_Col6||Coleoptericin
+DATABASE|CAMPSQ900_Holotricin-2||Coleoptericin
+DATABASE|CAMPSQ905_Rhinocerosin||Coleoptericin
+DATABASE|Training_Seq559||Coleoptericin|O-acyltransferase_WSD1-like
+DATABASE|Training_Seq71||Coleoptericin
+DATABASE|Training_Seq935||Coleoptericin
+DATABASE|sp|P81592|ACALA_ACALU_Acaloleptin_A_OS=Acalolepta_luxuriosa_OX=85306_PE=1_SV=2||Coleoptericin
+PRED|XP_008199791.1||Coleoptericin
+PRED|XP_008199794.1||Coleoptericin

@@ -1,0 +1,1 @@
+PRED|XP_002488967.2||Glycoside_hydrolase_family_9|Six-hairpin_glycosidase_superfamily|Six-hairpin_glycosidase-like_superfamily

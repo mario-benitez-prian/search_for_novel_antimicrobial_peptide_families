@@ -1,0 +1,2 @@
+PRED|XP_004147499.1||Ribonuclease_T2,_eukaryotic|Ribonuclease_T2-like|Ribonuclease_T2-like_superfamily
+PRED|XP_658572.1||Ribonuclease_T2-like_superfamily

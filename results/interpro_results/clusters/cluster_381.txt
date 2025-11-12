@@ -1,0 +1,3 @@
+PRED|WP_000494244.1||Uncharacterised_protein_family_YncJ
+PRED|WP_001537894.1||Uncharacterised_protein_family_YncJ
+PRED|WP_004143781.1||Uncharacterised_protein_family_YncJ

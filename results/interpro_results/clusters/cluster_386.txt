@@ -1,0 +1,15 @@
+PRED|NP_001315087.1||Small_EDRK-rich_factor_1/2-like|Small_EDRK-rich_factor-like,_N-terminal
+PRED|NP_001335084.1||At2g23090-like|Small_EDRK-rich_factor-like,_N-terminal|ZNF706/At2g23090_superfamily
+PRED|NP_565547.1||At2g23090-like|Small_EDRK-rich_factor-like,_N-terminal|ZNF706/At2g23090_superfamily
+PRED|XP_006369804.1||Small_EDRK-rich_factor_1/2-like|Small_EDRK-rich_factor-like,_N-terminal
+PRED|XP_006599192.1||Small_EDRK-rich_factor_1/2-like|Small_EDRK-rich_factor-like,_N-terminal
+PRED|XP_008108077.2||Small_EDRK-rich_factor_1/2-like|Small_EDRK-rich_factor-like,_N-terminal
+PRED|XP_010646210.3||Small_EDRK-rich_factor_1/2-like|Small_EDRK-rich_factor-like,_N-terminal
+PRED|XP_015631203.1||At2g23090-like|Small_EDRK-rich_factor-like,_N-terminal|ZNF706/At2g23090_superfamily
+PRED|XP_019330620.1||Small_EDRK-rich_factor-like,_N-terminal
+PRED|XP_046793199.1||Small_EDRK-rich_factor_1/2-like|Small_EDRK-rich_factor-like,_N-terminal
+PRED|XP_062828374.1||Small_EDRK-rich_factor_1/2-like|Small_EDRK-rich_factor-like,_N-terminal
+PRED|XP_643685.1||At2g23090-like|Small_EDRK-rich_factor-like,_N-terminal|ZNF706/At2g23090_superfamily
+PRED|XP_661944.1||Small_EDRK-rich_factor-like,_N-terminal
+PRED|XP_803636.1||Small_EDRK-rich_factor_1/2-like|Small_EDRK-rich_factor-like,_N-terminal
+PRED|XP_956904.1||Small_EDRK-rich_factor-like,_N-terminal

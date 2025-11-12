@@ -1,0 +1,4 @@
+PRED|WP_010870917.1||Class_III_signal_peptide_motif
+PRED|WP_010870989.1||Class_III_signal_peptide_motif
+PRED|WP_011249009.1||Class_III_signal_peptide_motif
+PRED|WP_064496494.1||Class_III_signal_peptide_motif

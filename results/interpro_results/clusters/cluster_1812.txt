@@ -1,0 +1,1 @@
+PRED|WP_002234540.1||Surface-adhesin_protein_E-like

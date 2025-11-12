@@ -1,0 +1,2 @@
+PRED|NP_001025184.1||Neuropeptide_S
+PRED|NP_001157083.1||Neuropeptide_S

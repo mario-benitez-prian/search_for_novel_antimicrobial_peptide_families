@@ -1,0 +1,3 @@
+PRED|NP_001259793.1||NADH:ubiquinone_oxidoreductase,_iron-sulphur_subunit_5
+PRED|NP_001259794.1||NADH:ubiquinone_oxidoreductase,_iron-sulphur_subunit_5
+PRED|NP_001323508.1||NADH:ubiquinone_oxidoreductase,_iron-sulphur_subunit_5

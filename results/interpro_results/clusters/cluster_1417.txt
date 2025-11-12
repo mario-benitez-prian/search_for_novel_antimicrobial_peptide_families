@@ -1,0 +1,3 @@
+PRED|WP_011032874.1||MM0924-like|Protein_of_unknown_function_DUF6897
+PRED|WP_011032875.1||MM0924-like|Protein_of_unknown_function_DUF6897
+PRED|WP_011034904.1||MM0924-like|Protein_of_unknown_function_DUF6897

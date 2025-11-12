@@ -1,0 +1,11 @@
+PRED|XP_002297988.1||Arabinogalactan_protein_16/20/22/41
+PRED|XP_002304544.1||Arabinogalactan_protein_16/20/22/41
+PRED|XP_002318371.1||Arabinogalactan_protein_16/20/22/41
+PRED|XP_002320846.1||Arabinogalactan_protein_16/20/22/41
+PRED|XP_007040434.1||Arabinogalactan_protein_16/20/22/41
+PRED|XP_008349187.1||Arabinogalactan_protein_16/20/22/41
+PRED|XP_013447162.1||Arabinogalactan_protein_16/20/22/41
+PRED|XP_013466382.1||Arabinogalactan_protein_16/20/22/41
+PRED|XP_015167694.1||Arabinogalactan_protein_16/20/22/41
+PRED|XP_015167698.1||Arabinogalactan_protein_16/20/22/41
+PRED|XP_025985011.1||Arabinogalactan_protein_16/20/22/41

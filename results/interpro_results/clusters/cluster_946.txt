@@ -1,0 +1,2 @@
+PRED|XP_030834149.1||Iron-binding_zinc_finger,_CDGSH_type
+PRED|XP_046439937.1||Iron-binding_zinc_finger,_CDGSH_type

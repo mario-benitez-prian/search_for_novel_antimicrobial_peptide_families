@@ -1,0 +1,1 @@
+PRED|YP_001109512.1||Photosystem_I_reaction_centre_subunit_VIII|Photosystem_I_reaction_centre_subunit_VIII_superfamily

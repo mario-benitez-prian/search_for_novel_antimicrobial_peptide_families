@@ -1,0 +1,2 @@
+PRED|NP_061257.1||Pro-FMRFamide-related_neuropeptide_FF
+PRED|NP_072108.1||Pro-FMRFamide-related_neuropeptide_FF

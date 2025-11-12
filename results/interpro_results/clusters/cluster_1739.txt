@@ -1,0 +1,1 @@
+PRED|WP_001082117.1||MgtR-like

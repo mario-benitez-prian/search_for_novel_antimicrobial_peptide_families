@@ -1,0 +1,7 @@
+DATABASE|Training_Seq1165||Small_auxin-up_RNA
+PRED|NP_001236702.1||Small_auxin-up_RNA
+PRED|XP_002272614.1||Small_auxin-up_RNA
+PRED|XP_003559616.1||Small_auxin-up_RNA
+PRED|XP_013454485.1||Small_auxin-up_RNA
+PRED|XP_013461602.1||Small_auxin-up_RNA
+PRED|XP_015624162.1||Small_auxin-up_RNA

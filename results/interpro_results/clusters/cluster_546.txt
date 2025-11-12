@@ -1,0 +1,5 @@
+DATABASE|AP00806||Antimicrobial_peptide_microplusin
+DATABASE|CAMPSQ2454_Antimicrobialpeptidemicroplusin||Antimicrobial_peptide_microplusin
+DATABASE|Training_Seq954||Antimicrobial_peptide_microplusin
+DATABASE|sp|B7PCF6|MPSIN_IXOSC_Antimicrobial_peptide_microplusin_OS=Ixodes_scapularis_OX=6945_GN=ISCW002113_PE=3_SV=1||Unknown
+DATABASE|sp|Q09JR4|MPSIN_ARGMO_Antimicrobial_peptide_microplusin_OS=Argas_monolakensis_OX=34602_GN=AM-189_PE=3_SV=1||Antimicrobial_peptide_microplusin

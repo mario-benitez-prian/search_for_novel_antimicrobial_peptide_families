@@ -1,0 +1,7 @@
+PRED|NP_476985.1||Cytochrome_b-c1_complex_subunit_9|Cytochrome_b-c1_complex_subunit_9_superfamily
+PRED|XP_001554922.1||Cytochrome_b-c1_complex_subunit_9|Cytochrome_b-c1_complex_subunit_9_superfamily
+PRED|XP_001689102.1||Cytochrome_b-c1_complex_subunit_9|Cytochrome_b-c1_complex_subunit_9_superfamily
+PRED|XP_001836941.1||Cytochrome_b-c1_complex_subunit_9|Cytochrome_b-c1_complex_subunit_9_superfamily
+PRED|XP_005535420.1||Cytochrome_b-c1_complex_subunit_9|Cytochrome_b-c1_complex_subunit_9_superfamily
+PRED|XP_011392492.1||Cytochrome_b-c1_complex_subunit_9|Cytochrome_b-c1_complex_subunit_9_superfamily
+PRED|XP_024379949.1||Cytochrome_b-c1_complex_subunit_9|Cytochrome_b-c1_complex_subunit_9_superfamily

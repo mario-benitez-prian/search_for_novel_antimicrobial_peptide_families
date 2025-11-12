@@ -1,0 +1,6 @@
+PRED|XP_003972494.1||Group_XII_secretory_phospholipase_A2_precursor
+PRED|XP_005096638.1||Group_XII_secretory_phospholipase_A2_precursor
+PRED|XP_006012040.1||Group_XII_secretory_phospholipase_A2_precursor
+PRED|XP_032805889.1||Group_XII_secretory_phospholipase_A2_precursor
+PRED|XP_064416838.1||Group_XII_secretory_phospholipase_A2_precursor
+PRED|XP_075921829.1||Group_XII_secretory_phospholipase_A2_precursor

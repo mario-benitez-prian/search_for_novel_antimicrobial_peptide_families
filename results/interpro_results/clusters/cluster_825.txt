@@ -1,0 +1,3 @@
+PRED|XP_011658404.1||Plant_EC_metallothionein-like_protein,_family_15
+PRED|XP_015159382.1||Plant_EC_metallothionein-like_protein,_family_15
+PRED|XP_039683386.1||Plant_EC_metallothionein-like_protein,_family_15

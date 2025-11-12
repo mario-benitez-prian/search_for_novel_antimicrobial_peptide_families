@@ -1,0 +1,1 @@
+PRED|XP_009050161.1||Transmembrane_protein_135

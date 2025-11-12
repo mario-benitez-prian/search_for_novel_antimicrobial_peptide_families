@@ -1,0 +1,2 @@
+DATABASE|CAMPSQ8974_Cs02||Photosystem_antenna_protein-like
+DATABASE|Training_Seq1205||Photosystem_I_PsaA/PsaB_superfamily|Photosystem_antenna_protein-like

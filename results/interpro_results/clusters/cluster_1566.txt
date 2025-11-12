@@ -1,0 +1,1 @@
+PRED|WP_226987695.1||Methionine_Synthase/Corrinoid

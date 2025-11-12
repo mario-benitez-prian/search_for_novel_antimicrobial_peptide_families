@@ -1,0 +1,1 @@
+PRED|XP_040025526.1||Pyrin_ASC-like

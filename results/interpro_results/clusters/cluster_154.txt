@@ -1,0 +1,13 @@
+PRED|NP_001191545.1||Temptin-like
+PRED|XP_005097156.1||Temptin-like
+PRED|XP_009062297.1||Temptin-like
+PRED|XP_009062354.1||Temptin-like
+PRED|XP_009064017.1||Temptin-like
+PRED|XP_009065838.1||Temptin-like
+PRED|XP_011418766.3||Temptin-like
+PRED|XP_011420314.3||Temptin-like
+PRED|XP_011442116.1||Temptin-like
+PRED|XP_012937462.1||Temptin-like
+PRED|XP_012937463.1||Temptin-like
+PRED|XP_012940561.1||Temptin-like
+PRED|XP_065927747.1||Temptin-like

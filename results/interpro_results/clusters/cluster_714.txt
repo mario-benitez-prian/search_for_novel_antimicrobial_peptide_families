@@ -1,0 +1,1 @@
+PRED|XP_024516000.1||Respirasome_Complex_Assembly_Factor_1

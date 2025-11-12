@@ -1,0 +1,1 @@
+PRED|WP_001386836.1||protein_YoaJ

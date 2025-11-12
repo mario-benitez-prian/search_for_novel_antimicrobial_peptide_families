@@ -1,0 +1,1 @@
+PRED|XP_001841627.2||Glycoside_hydrolase,_family_7

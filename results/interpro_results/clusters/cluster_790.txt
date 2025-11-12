@@ -1,0 +1,3 @@
+PRED|NP_001355181.1||L6_membrane
+PRED|XP_007900628.1||L6_membrane
+PRED|XP_016847556.1||L6_membrane

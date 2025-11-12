@@ -1,0 +1,2 @@
+PRED|NP_524057.2||Sex_peptide
+PRED|NP_996305.1||Sex_peptide

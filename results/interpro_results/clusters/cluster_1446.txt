@@ -1,0 +1,2 @@
+DATABASE|CAMPSQ8977_Gr02||Plant_AUGMIN_subunit_7
+DATABASE|Training_Seq1258||HAUS_augmin-like_complex_subunit_7-like|Plant_AUGMIN_subunit_7

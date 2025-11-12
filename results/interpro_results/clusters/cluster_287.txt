@@ -1,0 +1,16 @@
+PRED|NP_001145016.2||Tapetum_determinant_1
+PRED|NP_194937.1||Tapetum_determinant_1
+PRED|XP_002450778.1||Tapetum_determinant_1
+PRED|XP_006589291.1||Tapetum_determinant_1
+PRED|XP_006606369.1||Tapetum_determinant_1
+PRED|XP_007038067.2||Tapetum_determinant_1
+PRED|XP_007043226.2||Tapetum_determinant_1
+PRED|XP_008652373.1||Tapetum_determinant_1
+PRED|XP_008678160.1||Tapetum_determinant_1
+PRED|XP_008678161.1||Tapetum_determinant_1
+PRED|XP_015616568.1||Tapetum_determinant_1
+PRED|XP_015619589.1||Tapetum_determinant_1
+PRED|XP_015619597.1||Tapetum_determinant_1
+PRED|XP_015619640.1||Tapetum_determinant_1
+PRED|XP_021317240.1||Tapetum_determinant_1
+PRED|XP_031742370.1||Tapetum_determinant_1

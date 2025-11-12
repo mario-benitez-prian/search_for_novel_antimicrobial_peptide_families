@@ -1,0 +1,1 @@
+PRED|NP_188566.1||Polyadenylate-binding_protein/Hyperplastic_disc_protein,_C-terminal

@@ -1,0 +1,3 @@
+PRED|XP_015835423.1||Caveolin
+PRED|XP_015835424.1||Caveolin
+PRED|XP_971609.2||Caveolin

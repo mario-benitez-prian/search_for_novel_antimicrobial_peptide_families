@@ -1,0 +1,1 @@
+PRED|XP_048582650.1||Zinc_finger,_LIM-type

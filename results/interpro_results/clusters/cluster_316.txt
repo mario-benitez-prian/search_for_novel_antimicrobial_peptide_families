@@ -1,0 +1,15 @@
+DATABASE|AP00333||Myticin_preproprotein
+DATABASE|AP01788||Myticin_preproprotein
+DATABASE|AP01789||Myticin_preproprotein
+DATABASE|AP01790||Myticin_preproprotein
+DATABASE|AP03470||Myticin_preproprotein
+DATABASE|CAMPSQ8852_MytC||Myticin_preproprotein
+DATABASE|Training_Seq1074||Myticin_preproprotein
+DATABASE|Training_Seq1355||Myticin_preproprotein
+DATABASE|Training_Seq1616||Myticin_preproprotein
+DATABASE|Training_Seq2586||Myticin_preproprotein
+DATABASE|Training_Seq2587||Myticin_preproprotein
+DATABASE|Training_Seq2588||Myticin_preproprotein
+DATABASE|Training_Seq3283||Myticin_preproprotein
+DATABASE|Training_Seq3284||Myticin_preproprotein
+DATABASE|Training_Seq399||Myticin_preproprotein

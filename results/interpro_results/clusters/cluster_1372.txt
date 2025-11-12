@@ -1,0 +1,1 @@
+PRED|XP_007905840.2||Store-operated_calcium_entry_regulator_STIMATE/YPL162C

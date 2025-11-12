@@ -1,0 +1,1 @@
+DATABASE|Training_Seq3350||2Fe-2S_ferredoxin-like_superfamily|Aldehyde_oxidase/xanthine_dehydrogenase,_a/b_hammerhead|Aldehyde_oxidase/xanthine_dehydrogenase-like|CO_dehydrogenase_flavoprotein,_C-terminal|Xanthine_dehydrogenase,_small_subunit

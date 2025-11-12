@@ -1,0 +1,1 @@
+PRED|WP_010723106.1||Stress_response_protein_AzuC

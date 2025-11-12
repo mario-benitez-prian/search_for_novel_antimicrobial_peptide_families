@@ -1,0 +1,1 @@
+PRED|XP_030843620.1||Concentrative_nucleoside_transporter

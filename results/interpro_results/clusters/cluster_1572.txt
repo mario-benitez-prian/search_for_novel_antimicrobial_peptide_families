@@ -1,0 +1,1 @@
+PRED|NP_001300651.1||Trafficking_protein_particle_complex_subunit_2

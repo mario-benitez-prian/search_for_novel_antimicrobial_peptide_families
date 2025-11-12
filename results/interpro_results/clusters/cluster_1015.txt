@@ -1,0 +1,1 @@
+PRED|XP_065929381.1||Transcriptional_regulator_TACO1-like|YebC-like

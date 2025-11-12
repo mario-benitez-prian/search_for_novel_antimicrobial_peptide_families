@@ -1,0 +1,1 @@
+PRED|XP_629522.1||Autophagy-related_protein_27

@@ -1,0 +1,3 @@
+DATABASE|AP05493||Honey_bee_toxin
+PRED|NP_001011611.2||Honey_bee_toxin
+PRED|NP_001011612.1||Honey_bee_toxin

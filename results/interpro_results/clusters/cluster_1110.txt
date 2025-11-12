@@ -1,0 +1,1 @@
+PRED|NP_001263279.1||Enhancer_of_polycomb_protein

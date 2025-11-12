@@ -1,0 +1,3 @@
+PRED|XP_028943417.1||GroES-like_superfamily
+PRED|XP_070661913.1||GroES-like_superfamily
+PRED|XP_070661914.1||GroES-like_superfamily

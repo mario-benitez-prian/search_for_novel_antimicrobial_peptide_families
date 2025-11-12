@@ -1,0 +1,3 @@
+PRED|WP_001093929.1||AgrD,_cyclic_lactone_autoinducer_peptide
+PRED|WP_003426457.1||AgrD,_cyclic_lactone_autoinducer_peptide
+PRED|WP_003427910.1||AgrD,_cyclic_lactone_autoinducer_peptide

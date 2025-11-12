@@ -1,0 +1,7 @@
+PRED|WP_000807657.1||Stress-induced_protein,_KGG,_repeat
+PRED|WP_001273654.1||Stress-induced_protein,_KGG,_repeat
+PRED|WP_001273658.1||Stress-induced_protein,_KGG,_repeat
+PRED|WP_001273663.1||Stress-induced_protein,_KGG,_repeat
+PRED|WP_002898708.1||Stress-induced_protein,_KGG,_repeat
+PRED|WP_004143718.1||Stress-induced_protein,_KGG,_repeat
+PRED|WP_004150795.1||Stress-induced_protein,_KGG,_repeat

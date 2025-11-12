@@ -1,0 +1,2 @@
+PRED|WP_000901367.1||Small_protein_MgtS
+PRED|WP_000901531.1||Small_protein_MgtS

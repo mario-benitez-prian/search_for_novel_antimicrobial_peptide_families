@@ -1,0 +1,1 @@
+PRED|XP_009047503.1||Histone_deacetylase_complex_subunit_SAP30_zinc-finger|Histone_deacetylase_complex_subunit_SAP30/SAP30-like

@@ -1,0 +1,1 @@
+PRED|XP_014632052.1||Mitochondrial_import_inner_membrane_translocase_subunit_Tim16

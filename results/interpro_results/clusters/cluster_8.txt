@@ -1,0 +1,5 @@
+PRED|XP_001351047.1||Mitochondrial_distribution/morphology_family_35/apoptosis
+PRED|XP_003526024.1||Mitochondrial_distribution/morphology_family_35/apoptosis
+PRED|XP_007012362.2||Mitochondrial_distribution/morphology_family_35/apoptosis
+PRED|XP_014632762.1||Mitochondrial_distribution/morphology_family_35/apoptosis
+PRED|XP_024459339.1||Mitochondrial_distribution/morphology_family_35/apoptosis

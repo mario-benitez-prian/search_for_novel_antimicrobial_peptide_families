@@ -1,0 +1,8 @@
+DATABASE|AP00485||Cupiennin
+DATABASE|AP00486||Cupiennin
+DATABASE|AP00487||Cupiennin
+DATABASE|AP00488||Cupiennin
+DATABASE|CAMPSQ371_Cupiennin-1d||Cupiennin
+DATABASE|Training_Seq1728||Cupiennin
+DATABASE|Training_Seq1730||Cupiennin
+DATABASE|Training_Seq1731||Cupiennin

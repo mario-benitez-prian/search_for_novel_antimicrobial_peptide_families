@@ -1,0 +1,6 @@
+PRED|XP_003552277.1||Mitochondrial_pyruvate_carrier
+PRED|XP_006343815.1||Mitochondrial_pyruvate_carrier
+PRED|XP_006352237.1||Mitochondrial_pyruvate_carrier
+PRED|XP_009054545.1||Mitochondrial_pyruvate_carrier
+PRED|XP_017981162.1||Mitochondrial_pyruvate_carrier
+PRED|XP_019082250.1||Mitochondrial_pyruvate_carrier

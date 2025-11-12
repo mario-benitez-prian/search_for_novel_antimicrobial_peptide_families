@@ -1,0 +1,4 @@
+PRED|WP_000481166.1||osmotically-inducible_lipoprotein_OsmB
+PRED|WP_000498253.1||osmotically-inducible_lipoprotein_OsmB
+PRED|WP_002210611.1||osmotically-inducible_lipoprotein_OsmB
+PRED|WP_002901783.1||osmotically-inducible_lipoprotein_OsmB

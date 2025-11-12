@@ -1,0 +1,2 @@
+PRED|XP_028958908.1||Ceramide_glucosyltransferase
+PRED|XP_070682242.1||Ceramide_glucosyltransferase

@@ -1,0 +1,2 @@
+PRED|WP_000739253.1||Ribonuclease_P
+PRED|WP_003723727.1||Ribonuclease_P

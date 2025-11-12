@@ -1,0 +1,1 @@
+PRED|NP_001076543.1||TMEM238_protein

@@ -1,0 +1,9 @@
+PRED|NP_571568.1||Apoptosis_inducing_factor_BLCAP
+PRED|NP_647972.1||Apoptosis_inducing_factor_BLCAP
+PRED|XP_009061019.1||Apoptosis_inducing_factor_BLCAP
+PRED|XP_016769970.1||Apoptosis_inducing_factor_BLCAP
+PRED|XP_040060639.1||Apoptosis_inducing_factor_BLCAP
+PRED|XP_040060640.1||Apoptosis_inducing_factor_BLCAP
+PRED|XP_040060641.1||Apoptosis_inducing_factor_BLCAP
+PRED|XP_042197731.1||Apoptosis_inducing_factor_BLCAP
+PRED|XP_061505592.1||Apoptosis_inducing_factor_BLCAP

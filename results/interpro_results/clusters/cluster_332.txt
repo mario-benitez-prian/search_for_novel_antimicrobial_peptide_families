@@ -1,0 +1,3 @@
+PRED|WP_023287561.1||Protein_of_unknown_function_DUF3304
+PRED|WP_023287562.1||Protein_of_unknown_function_DUF3304
+PRED|WP_023287563.1||Protein_of_unknown_function_DUF3304

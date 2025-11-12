@@ -1,0 +1,2 @@
+PRED|WP_001310756.1||YmiC-like
+PRED|WP_223148964.1||YmiC-like

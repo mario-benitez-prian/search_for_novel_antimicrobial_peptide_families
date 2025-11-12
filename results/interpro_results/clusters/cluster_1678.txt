@@ -1,0 +1,4 @@
+PRED|NP_033976.1||Signal_transducer_CD24
+PRED|NP_036884.1||Signal_transducer_CD24
+PRED|XP_036011462.1||Signal_transducer_CD24
+PRED|XP_063135042.1||Signal_transducer_CD24

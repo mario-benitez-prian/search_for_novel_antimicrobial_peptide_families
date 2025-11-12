@@ -1,0 +1,6 @@
+PRED|NP_001324480.1||Yippee_family|Yippee/Mis18/Cereblon
+PRED|NP_001324481.1||Yippee_family|Yippee/Mis18/Cereblon
+PRED|XP_002442626.1||Yippee_family|Yippee/Mis18/Cereblon
+PRED|XP_008369243.1||Yippee_family|Yippee/Mis18/Cereblon
+PRED|XP_008369244.1||Yippee_family|Yippee/Mis18/Cereblon
+PRED|XP_050467695.1||Yippee_family|Yippee/Mis18/Cereblon

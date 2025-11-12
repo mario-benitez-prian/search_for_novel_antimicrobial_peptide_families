@@ -1,0 +1,2 @@
+PRED|WP_000590344.1||YecU-like
+PRED|WP_032155628.1||YecU-like

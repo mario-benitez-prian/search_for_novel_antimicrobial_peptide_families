@@ -1,0 +1,2 @@
+PRED|NP_001156931.1||Cytochrome_c_oxidase_subunit_VIIc|Cytochrome_c_oxidase_subunit_VIIc_superfamily
+PRED|XP_038934109.1||Cytochrome_c_oxidase_subunit_VIIc|Cytochrome_c_oxidase_subunit_VIIc_superfamily

@@ -1,0 +1,2 @@
+PRED|WP_000691708.1||Membrane_protein_YohP-like
+PRED|WP_000698460.1||Membrane_protein_YohP-like

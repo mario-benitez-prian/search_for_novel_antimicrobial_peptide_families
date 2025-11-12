@@ -1,0 +1,4 @@
+DATABASE|AP01963||Laterosporulin_defensin-like_peptide
+DATABASE|AP02850||Laterosporulin_defensin-like_peptide
+DATABASE|Training_Seq2958||Laterosporulin_defensin-like_peptide
+DATABASE|Training_Seq3527||Laterosporulin_defensin-like_peptide

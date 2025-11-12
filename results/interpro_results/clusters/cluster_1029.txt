@@ -1,0 +1,2 @@
+PRED|XP_008107104.1||Immediate_early_response
+PRED|XP_009053206.1||Immediate_early_response

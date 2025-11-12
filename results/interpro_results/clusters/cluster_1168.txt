@@ -1,0 +1,8 @@
+DATABASE|AP01166||Diapausin_superfamily
+DATABASE|AP02718||Diapausin_superfamily
+DATABASE|AP03624||Diapausin_superfamily
+DATABASE|CAMPSQ1212_Psychimicin||Diapausin_superfamily
+DATABASE|CAMPSQ291_Spodomicin||Diapausin_superfamily
+DATABASE|Training_Seq2188||Diapausin_superfamily
+DATABASE|Training_Seq2881||Diapausin_superfamily
+DATABASE|Training_Seq3333||Diapausin_superfamily

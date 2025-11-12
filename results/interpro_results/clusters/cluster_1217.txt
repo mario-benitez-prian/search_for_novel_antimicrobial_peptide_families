@@ -1,0 +1,1 @@
+PRED|NP_001136544.1||Alanyl-tRNA_Editing_Enzymes

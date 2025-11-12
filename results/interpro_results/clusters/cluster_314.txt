@@ -1,0 +1,2 @@
+PRED|XP_011448452.3||Transmembrane_protein_179
+PRED|XP_046454443.1||Transmembrane_protein_179

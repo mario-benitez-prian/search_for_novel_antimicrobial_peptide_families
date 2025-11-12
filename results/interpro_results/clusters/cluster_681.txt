@@ -1,0 +1,2 @@
+PRED|NP_001163242.1||Protein_of_unknown_function_DUF4748
+PRED|XP_061515238.1||Protein_of_unknown_function_DUF4748

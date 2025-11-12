@@ -1,0 +1,1 @@
+PRED|XP_075914581.1||ER_membrane_protein_complex_subunit_1|ER_membrane_protein_complex_subunit_1,_C-terminal

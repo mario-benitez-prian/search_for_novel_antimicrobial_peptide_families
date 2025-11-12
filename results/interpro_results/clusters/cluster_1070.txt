@@ -1,0 +1,2 @@
+DATABASE|CAMPSQ15195_CPcAMP1||Protein_Yip1/4-like
+DATABASE|Training_Seq2856||Protein_Yip1/4-like

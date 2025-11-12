@@ -1,0 +1,1 @@
+PRED|XP_021317487.1||L-type_Lectin-Domain_Containing_Receptor_Kinases

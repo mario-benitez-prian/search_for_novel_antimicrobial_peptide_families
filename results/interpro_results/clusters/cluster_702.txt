@@ -1,0 +1,1 @@
+PRED|NP_001308176.1||Vesicular,_overexpressed_in_cancer,_prosurvival_protein_1

@@ -1,0 +1,2 @@
+PRED|XP_017984341.1||Protein_phosphatase_PTC7_homolog
+PRED|XP_641223.1||Protein_phosphatase_PTC7_homolog

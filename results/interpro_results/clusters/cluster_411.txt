@@ -1,0 +1,4 @@
+PRED|WP_001386991.1||Phe_operon_leader_peptide
+PRED|WP_010723158.1||Phe_operon_leader_peptide
+PRED|WP_010989056.1||Phe_operon_leader_peptide
+PRED|WP_100250063.1||Phe_operon_leader_peptide

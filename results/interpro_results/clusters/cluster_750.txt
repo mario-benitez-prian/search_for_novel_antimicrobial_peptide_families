@@ -1,0 +1,7 @@
+PRED|NP_001040454.1||Sterol_transport_protein_NPC2-like
+PRED|NP_001379800.1||Sterol_transport_protein_NPC2-like
+PRED|NP_650331.1||Sterol_transport_protein_NPC2-like
+PRED|NP_731880.1||Sterol_transport_protein_NPC2-like
+PRED|XP_005112192.1||Sterol_transport_protein_NPC2-like
+PRED|XP_032238789.2||Unknown
+PRED|XP_638189.1||Sterol_transport_protein_NPC2-like

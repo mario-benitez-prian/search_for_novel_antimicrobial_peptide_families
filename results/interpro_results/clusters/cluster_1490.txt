@@ -1,0 +1,3 @@
+PRED|XP_024394201.1||Outer_envelope_membrane_protein_7-like
+PRED|XP_024394202.1||Outer_envelope_membrane_protein_7-like
+PRED|XP_024394203.1||Outer_envelope_membrane_protein_7-like

@@ -1,0 +1,6 @@
+DATABASE|AP00484||Stomoxyn
+DATABASE|AP02512||Stomoxyn
+DATABASE|AP02513||Stomoxyn
+DATABASE|CAMPSQ16679_AllDLS-stomoxyn||Stomoxyn
+DATABASE|Training_Seq1727||Stomoxyn
+DATABASE|Training_Seq384||Stomoxyn

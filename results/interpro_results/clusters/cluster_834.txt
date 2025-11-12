@@ -1,0 +1,2 @@
+PRED|WP_001311244.1||IlvGEDA_operon_leader_peptide
+PRED|WP_002231873.1||IlvGEDA_operon_leader_peptide

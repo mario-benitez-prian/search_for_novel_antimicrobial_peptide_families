@@ -1,0 +1,2 @@
+PRED|WP_011250191.1||SigmaK-factor_processing_regulatory_BofA
+PRED|WP_015412025.1||SigmaK-factor_processing_regulatory_BofA

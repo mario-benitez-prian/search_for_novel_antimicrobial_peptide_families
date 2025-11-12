@@ -1,0 +1,4 @@
+PRED|NP_001120865.1||ATP_synthase_subunit_ATP5MJ,_mitochondrial
+PRED|XP_007886449.1||ATP_synthase_subunit_ATP5MJ,_mitochondrial
+PRED|XP_008103792.1||ATP_synthase_subunit_ATP5MJ,_mitochondrial
+PRED|XP_029705651.1||ATP_synthase_subunit_ATP5MJ,_mitochondrial

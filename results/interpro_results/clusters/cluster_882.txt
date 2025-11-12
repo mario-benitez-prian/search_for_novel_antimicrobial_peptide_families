@@ -1,0 +1,3 @@
+PRED|XP_005089596.1||PAT_complex_subunit_Asterix
+PRED|XP_037869279.1||PAT_complex_subunit_Asterix
+PRED|XP_037869280.1||PAT_complex_subunit_Asterix

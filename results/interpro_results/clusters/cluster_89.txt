@@ -1,0 +1,16 @@
+PRED|NP_001150243.1||Stress-associated_endoplasmic_reticulum_protein
+PRED|NP_001313620.1||Stress-associated_endoplasmic_reticulum_protein
+PRED|NP_001379193.1||Stress-associated_endoplasmic_reticulum_protein
+PRED|XP_001013338.3||Stress-associated_endoplasmic_reticulum_protein
+PRED|XP_001349695.2||Stress-associated_endoplasmic_reticulum_protein
+PRED|XP_002443260.1||Stress-associated_endoplasmic_reticulum_protein
+PRED|XP_002965315.1||Stress-associated_endoplasmic_reticulum_protein
+PRED|XP_003546194.1||Stress-associated_endoplasmic_reticulum_protein
+PRED|XP_003975991.1||Stress-associated_endoplasmic_reticulum_protein
+PRED|XP_004152134.1||Stress-associated_endoplasmic_reticulum_protein
+PRED|XP_010236372.1||Stress-associated_endoplasmic_reticulum_protein
+PRED|XP_012655001.1||Stress-associated_endoplasmic_reticulum_protein
+PRED|XP_025883056.1||Stress-associated_endoplasmic_reticulum_protein
+PRED|XP_040036445.1||Stress-associated_endoplasmic_reticulum_protein
+PRED|XP_052303932.1||Stress-associated_endoplasmic_reticulum_protein
+PRED|XP_064408822.1||Stress-associated_endoplasmic_reticulum_protein

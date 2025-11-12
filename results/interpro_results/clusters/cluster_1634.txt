@@ -1,0 +1,1 @@
+PRED|XP_009048647.1||Ser/Thr-Protein_Kinase_&_FNIP_Repeat-Containing_Protein

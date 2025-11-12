@@ -1,0 +1,1 @@
+PRED|WP_005407874.1||Mercury_transport_protein_MerC

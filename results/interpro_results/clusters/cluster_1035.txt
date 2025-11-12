@@ -1,0 +1,2 @@
+PRED|XP_009050022.1||Peptidase_M13
+PRED|XP_009059088.1||Peptidase_M13

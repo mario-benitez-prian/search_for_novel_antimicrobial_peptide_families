@@ -1,0 +1,1 @@
+PRED|WP_001176803.1||ABC-three_component_system,_Middle_Component_7

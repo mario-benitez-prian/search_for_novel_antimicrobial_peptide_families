@@ -1,0 +1,1 @@
+PRED|WP_000711977.1||Putative_formate_dehydrogenase,_TAT_signal-containing

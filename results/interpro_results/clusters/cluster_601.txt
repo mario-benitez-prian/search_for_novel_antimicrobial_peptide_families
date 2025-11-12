@@ -1,0 +1,2 @@
+PRED|WP_000880863.1||Uncharacterised_protein_family_UPF0756,_transmembrame
+PRED|WP_004398695.1||Uncharacterised_protein_family_UPF0756,_transmembrame

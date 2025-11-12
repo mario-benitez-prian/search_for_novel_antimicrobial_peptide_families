@@ -1,0 +1,1 @@
+PRED|XP_024316788.1||FLUCTUATING-LIGHT-ACCLIMATION_modulator|Protein_of_unknown_function_DUF1517

@@ -1,0 +1,2 @@
+DATABASE|DBAASPR_21249_Ranthipeptide_Freyrasin||freyrasin_family_ranthipeptide
+DATABASE|Training_Seq521||freyrasin_family_ranthipeptide

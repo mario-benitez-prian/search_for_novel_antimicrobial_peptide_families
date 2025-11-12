@@ -1,0 +1,1 @@
+PRED|NP_011820.1||Yeast_membrane_protein_DUP/COS

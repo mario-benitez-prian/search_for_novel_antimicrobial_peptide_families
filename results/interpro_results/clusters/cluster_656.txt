@@ -1,0 +1,1 @@
+PRED|XP_075925481.1||Emopamil-binding_protein

@@ -1,0 +1,9 @@
+PRED|NP_001033367.1||C._elegans_Fungus-Induced_Response|Fungus-induced_protein
+PRED|NP_001343724.1||Fungus-induced_protein
+PRED|NP_001367400.1||C._elegans_Fungus-Induced_Response|Fungus-induced_protein
+PRED|NP_001367928.1||C._elegans_Fungus-Induced_Response|Fungus-induced_protein
+PRED|NP_001367931.1||C._elegans_Fungus-Induced_Response|Fungus-induced_protein
+PRED|NP_498890.1||C._elegans_Fungus-Induced_Response|Fungus-induced_protein
+PRED|NP_499414.1||C._elegans_Fungus-Induced_Response|Fungus-induced_protein
+PRED|NP_502017.2||C._elegans_Fungus-Induced_Response|Fungus-induced_protein
+PRED|NP_502019.2||C._elegans_Fungus-Induced_Response|Fungus-induced_protein

@@ -1,0 +1,2 @@
+PRED|WP_002658582.1||Holin,_BlyA
+PRED|WP_012666069.1||Holin,_BlyA

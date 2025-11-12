@@ -1,0 +1,2 @@
+PRED|WP_017283718.1||DUF1104_superfamily|Protein_of_unknown_function_DUF1104
+PRED|WP_075708414.1||DUF1104_superfamily|Protein_of_unknown_function_DUF1104

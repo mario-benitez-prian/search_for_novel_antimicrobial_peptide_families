@@ -1,0 +1,1 @@
+PRED|WP_003096511.1||Cytochrome_c,_class_IE

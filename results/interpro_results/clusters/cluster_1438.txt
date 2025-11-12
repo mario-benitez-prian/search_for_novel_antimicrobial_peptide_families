@@ -1,0 +1,1 @@
+PRED|WP_003898712.1||Domain_of_unknown_function_DUF222

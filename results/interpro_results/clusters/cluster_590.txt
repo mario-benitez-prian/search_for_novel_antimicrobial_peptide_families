@@ -1,0 +1,2 @@
+DATABASE|DBAASPR_12435_Brachyin||Magi_peptide_toxin
+DATABASE|Training_Seq397||Magi_peptide_toxin

@@ -1,0 +1,1 @@
+PRED|WP_003403376.1||Plasmid_maintenance_toxin/Cell_growth_inhibitor|mRNA_interferase_PemK-like

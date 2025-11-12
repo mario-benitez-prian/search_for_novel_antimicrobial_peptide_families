@@ -1,0 +1,1 @@
+PRED|NP_044550.1||Large_ribosomal_subunit_protein_uL16_superfamily

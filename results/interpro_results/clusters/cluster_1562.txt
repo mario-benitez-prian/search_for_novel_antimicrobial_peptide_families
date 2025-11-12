@@ -1,0 +1,1 @@
+PRED|XP_059592774.1||Acriflavin_resistance_protein

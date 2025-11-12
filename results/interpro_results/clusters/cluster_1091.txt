@@ -1,0 +1,1 @@
+PRED|WP_004212825.1||Phosphoribosyl-AMP_cyclohydrolase

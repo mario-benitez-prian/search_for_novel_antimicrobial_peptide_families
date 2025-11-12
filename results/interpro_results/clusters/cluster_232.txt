@@ -1,0 +1,15 @@
+PRED|NP_001021506.4||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_001123180.1||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_001256514.1||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_001256812.1||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_001256814.1||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_496453.1||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_498658.1||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_499054.1||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_499202.1||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_499285.1||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_500522.1||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_506226.2||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_506227.2||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_506433.1||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_507630.1||Transthyretin-like|Transthyretin-like_superfamily

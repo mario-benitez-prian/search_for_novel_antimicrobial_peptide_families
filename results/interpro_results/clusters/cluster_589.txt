@@ -1,0 +1,3 @@
+PRED|NP_001237432.1||F-BOX_ONLY_PROTEIN_48-RELATED
+PRED|XP_009065287.1||GEF_and_Ubiquitin-Proteasome_Regulators
+PRED|XP_792991.1||F-box/WD_repeat-containing_protein_2

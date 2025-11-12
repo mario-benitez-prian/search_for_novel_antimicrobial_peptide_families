@@ -1,0 +1,3 @@
+DATABASE|Training_Seq3040||DNA-directed_RNA_polymerase_subunit_beta/EpuA
+PRED|WP_001036519.1||DNA-directed_RNA_polymerase_subunit_beta/EpuA
+PRED|WP_011017613.1||DNA-directed_RNA_polymerase_subunit_beta/EpuA

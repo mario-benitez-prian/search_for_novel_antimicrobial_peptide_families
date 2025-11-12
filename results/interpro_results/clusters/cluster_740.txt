@@ -1,0 +1,5 @@
+PRED|NP_001036552.1||Large_ribosomal_subunit_protein_bL34
+PRED|NP_001186609.1||Large_ribosomal_subunit_protein_bL34
+PRED|NP_001289436.1||Large_ribosomal_subunit_protein_bL34
+PRED|WP_002776864.1||Large_ribosomal_subunit_protein_bL34
+PRED|XP_001689581.1||Large_ribosomal_subunit_protein_bL34

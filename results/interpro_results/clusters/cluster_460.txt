@@ -1,0 +1,1 @@
+PRED|NP_001136889.1||Histidine-containing_phosphotransfer_protein_1-5/Phosphorelay_intermediate_protein_YPD1

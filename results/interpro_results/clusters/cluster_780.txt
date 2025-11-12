@@ -1,0 +1,6 @@
+PRED|WP_000490072.1||Protein_of_unknown_function_DUF2502
+PRED|WP_000490091.1||Protein_of_unknown_function_DUF2502
+PRED|WP_000738721.1||Protein_of_unknown_function_DUF2502
+PRED|WP_000738723.1||Protein_of_unknown_function_DUF2502
+PRED|WP_002211829.1||Protein_of_unknown_function_DUF2502
+PRED|WP_002913419.1||Protein_of_unknown_function_DUF2502

@@ -1,0 +1,1 @@
+PRED|WP_048055782.1||Protein_of_unknown_function_DUF486

@@ -1,0 +1,2 @@
+PRED|WP_000797656.1||LpxT_activity_modulator_PmrR
+PRED|WP_000844399.1||LpxT_activity_modulator_PmrR

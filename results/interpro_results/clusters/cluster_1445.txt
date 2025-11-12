@@ -1,0 +1,1 @@
+PRED|NP_001304150.1||Uncharacterized_protein_CXorf65-like

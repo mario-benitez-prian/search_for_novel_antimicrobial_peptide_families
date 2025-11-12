@@ -1,0 +1,10 @@
+PRED|NP_001027534.1||Mitofissin
+PRED|XP_011395232.1||Mitofissin
+PRED|XP_011395234.1||Mitofissin
+PRED|XP_011395235.1||Mitofissin
+PRED|XP_019330841.1||Mitofissin
+PRED|XP_024546653.1||Mitofissin
+PRED|XP_024546654.1||Mitofissin
+PRED|XP_024546655.1||Mitofissin
+PRED|XP_024546656.1||Mitofissin
+PRED|XP_644029.1||Mitofissin

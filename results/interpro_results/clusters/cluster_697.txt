@@ -1,0 +1,15 @@
+DATABASE|AP00612||Chromogranin_A/B|Chromogranin_A/B/C
+DATABASE|AP01478||Chromogranin_A/B|Chromogranin_A/B/C
+DATABASE|AP02353||Chromogranin_A/B|Chromogranin_A/B/C
+DATABASE|Training_Seq1119||Chromogranin_A/B|Chromogranin_A/B/C
+DATABASE|Training_Seq1811||Chromogranin_A/B|Chromogranin_A/B/C
+DATABASE|Training_Seq1968||Chromogranin_A/B|Chromogranin_A/B/C
+DATABASE|Training_Seq2684||Chromogranin_A/B|Chromogranin_A/B/C
+DATABASE|Training_Seq560||Chromogranin_A/B|Chromogranin_A/B/C
+DATABASE|sp|P05059|CMGA_BOVIN_Chromogranin-A_OS=Bos_taurus_OX=9913_GN=CHGA_PE=1_SV=1||Chromogranin_A/B|Chromogranin_A/B/C
+DATABASE|sp|P10645|CMGA_HUMAN_Chromogranin-A_OS=Homo_sapiens_OX=9606_GN=CHGA_PE=1_SV=7||Chromogranin_A/B|Chromogranin_A/B/C
+PRED|NP_001266.1||Chromogranin_A/B|Chromogranin_A/B/C
+PRED|NP_036658.2||Chromogranin_A/B|Chromogranin_A/B/C
+PRED|XP_006235134.1||Chromogranin_A/B|Chromogranin_A/B/C
+PRED|XP_011534672.1||Chromogranin_A/B|Chromogranin_A/B/C
+PRED|XP_054184929.1||Chromogranin_A/B|Chromogranin_A/B/C

@@ -1,0 +1,1 @@
+PRED|XP_042190425.1||Anaphase-promoting_complex_subunit_15

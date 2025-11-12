@@ -1,0 +1,5 @@
+PRED|XP_014769559.1||Bcl-2_family|Bcl-2,_Bcl-2_homology_region_1-3|Bcl-2-like_superfamily
+PRED|XP_026695029.1||Bcl-2_family|Bcl-2,_Bcl-2_homology_region_1-3|Bcl-2-like_superfamily
+PRED|XP_075916160.1||Bcl-2_family|Bcl-2,_Bcl-2_homology_region_1-3|Bcl-2-like_superfamily
+PRED|XP_075916214.1||Bcl-2_family|Bcl-2,_Bcl-2_homology_region_1-3|Bcl-2-like_superfamily
+PRED|XP_075918260.1||Bcl-2_family|Bcl-2,_Bcl-2_homology_region_1-3|Bcl-2-like_superfamily

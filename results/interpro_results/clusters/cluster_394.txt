@@ -1,0 +1,2 @@
+DATABASE|Training_Seq2229||microcin_B17_family_TOMM
+DATABASE|sp|P05834|MCBA_ECOLX_Bacteriocin_microcin_B17_OS=Escherichia_coli_OX=562_GN=mcbA_PE=1_SV=1||microcin_B17_family_TOMM

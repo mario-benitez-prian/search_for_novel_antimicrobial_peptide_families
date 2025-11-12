@@ -1,0 +1,1 @@
+PRED|WP_003430857.1||Glucitol_operon_activator

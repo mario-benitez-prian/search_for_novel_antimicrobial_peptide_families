@@ -1,0 +1,2 @@
+PRED|WP_001190057.1||Acetolactate_synthase/Transcription_factor_NikR,_C-terminal|Arc-type_ribbon-helix-helix|Nickel-responsive_transcriptional_regulator|Nickel-responsive_transcriptional_regulator_NikR|Nickel-responsive_transcriptional_regulator_NikR,_proteobacteria|Ribbon-helix-helix|Ribbon-helix-helix_protein,_CopG
+PRED|WP_011277384.1||Arc-type_ribbon-helix-helix|Ribbon-helix-helix|Ribbon-helix-helix_protein,_CopG

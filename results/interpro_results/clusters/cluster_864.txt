@@ -1,0 +1,1 @@
+PRED|XP_017453028.1||Transmembrane_protein_107

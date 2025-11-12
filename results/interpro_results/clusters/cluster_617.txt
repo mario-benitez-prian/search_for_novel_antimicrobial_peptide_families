@@ -1,0 +1,2 @@
+PRED|NP_001165069.1||Cytochrome_C_oxidase,_subunit_VIIB
+PRED|XP_040036943.1||Cytochrome_C_oxidase,_subunit_VIIB

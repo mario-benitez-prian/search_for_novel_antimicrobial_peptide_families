@@ -1,0 +1,2 @@
+PRED|NP_499088.1||Neuropeptide-like_peptide_36
+PRED|NP_501920.1||Neuropeptide-like_peptide_36

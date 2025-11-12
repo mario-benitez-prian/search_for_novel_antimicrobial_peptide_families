@@ -1,0 +1,1 @@
+PRED|XP_009055351.1||Cell_Cycle_and_Developmental_Transcription_Regulators

@@ -1,0 +1,1 @@
+PRED|XP_009066134.1||DNA-directed_RNA_polymerases_I,_II,_and_III_subunit_RPABC4|RNA_polymerase_archaeal_subunit_P/eukaryotic_subunit_RPABC4|RNA_polymerase_subunit_RPABC4/transcription_elongation_factor_Spt4

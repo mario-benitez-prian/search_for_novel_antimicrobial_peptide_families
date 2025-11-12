@@ -1,0 +1,2 @@
+PRED|XP_047280389.1||Yippee_homolog_double_zinc_finger_protein
+PRED|XP_063128672.1||Yippee_homolog_double_zinc_finger_protein

@@ -1,0 +1,1 @@
+PRED|WP_005784908.1||Transcription_regulator,_HipB-like

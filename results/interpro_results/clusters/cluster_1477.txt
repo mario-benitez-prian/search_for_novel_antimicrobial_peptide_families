@@ -1,0 +1,1 @@
+PRED|WP_017629000.1||TnsA_endonuclease_C-terminal

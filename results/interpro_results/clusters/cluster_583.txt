@@ -1,0 +1,3 @@
+PRED|NP_001034881.1||Histidine-rich_carboxyl_terminus_protein_1
+PRED|NP_001385982.1||Histidine-rich_carboxyl_terminus_protein_1
+PRED|NP_081787.1||Histidine-rich_carboxyl_terminus_protein_1

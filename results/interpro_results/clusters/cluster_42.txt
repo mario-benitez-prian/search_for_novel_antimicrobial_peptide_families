@@ -1,0 +1,1 @@
+PRED|XP_024636280.2||Harbinger_transposase-derived_protein

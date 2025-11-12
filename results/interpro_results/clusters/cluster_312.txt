@@ -1,0 +1,14 @@
+PRED|NP_723227.1||Protein_of_unknown_function_DUF4779
+PRED|XP_001120792.2||Protein_of_unknown_function_DUF4779
+PRED|XP_004925582.1||Protein_of_unknown_function_DUF4779
+PRED|XP_004925584.1||Protein_of_unknown_function_DUF4779
+PRED|XP_004925585.2||Protein_of_unknown_function_DUF4779
+PRED|XP_004925592.4||Protein_of_unknown_function_DUF4779
+PRED|XP_004929560.1||Protein_of_unknown_function_DUF4779
+PRED|XP_006560111.1||Protein_of_unknown_function_DUF4779
+PRED|XP_008192027.1||Protein_of_unknown_function_DUF4779
+PRED|XP_015834707.2||Protein_of_unknown_function_DUF4779
+PRED|XP_037877524.2||Protein_of_unknown_function_DUF4779
+PRED|XP_061501784.1||Protein_of_unknown_function_DUF4779
+PRED|XP_061509478.1||Protein_of_unknown_function_DUF4779
+PRED|XP_968196.1||Protein_of_unknown_function_DUF4779

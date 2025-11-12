@@ -1,0 +1,2 @@
+PRED|XP_064211969.1||Microtubule-associated_protein_Jupiter
+PRED|XP_970940.1||Microtubule-associated_protein_Jupiter

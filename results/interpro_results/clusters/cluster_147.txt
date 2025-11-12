@@ -1,0 +1,5 @@
+PRED|WP_001312198.1||IlvB_leader_peptide
+PRED|WP_001315912.1||IlvB_leader_peptide
+PRED|WP_001541152.1||IlvB_leader_peptide
+PRED|WP_002232808.1||IlvB_leader_peptide
+PRED|WP_002923286.1||IlvB_leader_peptide

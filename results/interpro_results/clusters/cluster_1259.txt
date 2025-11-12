@@ -1,0 +1,1 @@
+PRED|XP_001551911.1||PDZ-binding_protein,_CRIPT

@@ -1,0 +1,5 @@
+DATABASE|AP02105||Delta-hemolysin
+DATABASE|CAMPSQ14591_Delta-toxin||Delta-hemolysin
+DATABASE|CAMPSQ14593_STIP3-1||Delta-hemolysin
+DATABASE|Training_Seq3619||Delta-hemolysin
+PRED|WP_000046022.1||Delta-hemolysin

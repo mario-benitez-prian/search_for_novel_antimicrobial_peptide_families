@@ -1,0 +1,2 @@
+PRED|XP_030839108.1||Lysosomal-associated_transmembrane_protein_4/5|Lysosomal-associated_transmembrane_transporter
+PRED|XP_030839117.1||Lysosomal-associated_transmembrane_protein_4/5|Lysosomal-associated_transmembrane_transporter

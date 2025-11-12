@@ -1,0 +1,3 @@
+PRED|WP_001365705.1||RepA1_leader_peptide_Tap
+PRED|WP_001442103.1||RepA1_leader_peptide_Tap
+PRED|WP_002233140.1||RepA1_leader_peptide_Tap

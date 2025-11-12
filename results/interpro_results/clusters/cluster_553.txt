@@ -1,0 +1,5 @@
+DATABASE|AP02440||Fungal_defensin_Copsin
+DATABASE|CAMPSQ12582_Copsin||Fungal_defensin_Copsin
+DATABASE|DBAASPR_8129_Copsin||Fungal_defensin_Copsin
+DATABASE|Training_Seq2724||Fungal_defensin_Copsin
+PRED|XP_001839618.1||Fungal_defensin_Copsin

@@ -1,0 +1,4 @@
+PRED|XP_008102994.2||Protein_of_unknown_function_DUF4658
+PRED|XP_008103045.2||Protein_of_unknown_function_DUF4658
+PRED|XP_008103103.2||Protein_of_unknown_function_DUF4658
+PRED|XP_062824612.1||Protein_of_unknown_function_DUF4658

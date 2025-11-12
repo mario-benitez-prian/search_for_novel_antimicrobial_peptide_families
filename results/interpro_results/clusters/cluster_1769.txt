@@ -1,0 +1,1 @@
+DATABASE|sp|C0HLR9|LEC_PARPU_Mannose/glucose-specific_lectin_OS=Parkia_pendula_OX=1905032_PE=1_SV=1||JACALIN-RELATED_LECTIN_3|Jacalin-related_lectin_33

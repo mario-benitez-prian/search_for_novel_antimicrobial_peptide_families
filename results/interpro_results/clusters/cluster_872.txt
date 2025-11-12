@@ -1,0 +1,2 @@
+PRED|WP_004065342.1||Fluoride-specific_ion_channel_FluC
+PRED|WP_049922134.1||Fluoride-specific_ion_channel_FluC

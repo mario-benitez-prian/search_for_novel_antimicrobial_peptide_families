@@ -1,0 +1,5 @@
+PRED|NP_059335.1||ATP_synthase_protein_8,_metazoa|Mitochondrial_ATP_synthase_protein_8
+PRED|NP_059478.1||ATP_synthase_protein_8,_metazoa
+PRED|NP_694919.1||ATP_synthase_protein_8,_metazoa|Mitochondrial_ATP_synthase_protein_8
+PRED|YP_009047269.1||ATP_synthase_protein_8,_metazoa
+PRED|YP_010963481.1||ATP_synthase_protein_8,_metazoa

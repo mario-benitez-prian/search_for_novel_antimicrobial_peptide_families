@@ -1,0 +1,9 @@
+PRED|NP_001267986.1||Ctr_copper_transporter
+PRED|NP_001407346.1||Ctr_copper_transporter
+PRED|NP_001415069.1||Ctr_copper_transporter
+PRED|NP_001415070.1||Ctr_copper_transporter
+PRED|XP_003569917.1||Ctr_copper_transporter
+PRED|XP_008370021.1||Ctr_copper_transporter
+PRED|XP_013454938.1||Ctr_copper_transporter
+PRED|XP_019075840.1||Ctr_copper_transporter
+PRED|XP_019075841.1||Ctr_copper_transporter

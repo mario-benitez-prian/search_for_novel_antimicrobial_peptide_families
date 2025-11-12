@@ -1,0 +1,1 @@
+DATABASE|Training_Seq1151||Viral_coat_protein_subunit

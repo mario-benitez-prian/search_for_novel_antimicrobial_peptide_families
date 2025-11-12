@@ -1,0 +1,2 @@
+PRED|XP_024308640.1||Formiminotransferase-cyclodeaminase
+PRED|XP_047300130.1||Formiminotransferase-cyclodeaminase

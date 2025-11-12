@@ -1,0 +1,1 @@
+PRED|XP_028945167.1||Beta-ketoacyl_synthase|Thiolase-like

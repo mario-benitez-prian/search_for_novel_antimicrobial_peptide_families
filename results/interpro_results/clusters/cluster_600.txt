@@ -1,0 +1,2 @@
+PRED|XP_002808743.1||Plasmodium_histidine-rich
+PRED|XP_002809126.1||Plasmodium_histidine-rich

@@ -1,0 +1,1 @@
+PRED|WP_000977276.1||KGW_motif_small_protein

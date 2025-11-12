@@ -1,0 +1,1 @@
+PRED|WP_004140489.1||Protein_of_unknown_function_DUF2534

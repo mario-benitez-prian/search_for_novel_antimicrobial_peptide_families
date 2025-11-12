@@ -1,0 +1,1 @@
+PRED|WP_003426266.1||Bacterial_Transpeptidases_and_Beta-Lactamases|Beta-lactamase/transpeptidase-like

@@ -1,0 +1,1 @@
+PRED|XP_002183036.1||Aurora_kinase-like

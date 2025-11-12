@@ -1,0 +1,1 @@
+PRED|NP_595154.3||ATP_synthase,_F0_complex,_subunit_E,_mitochondrial

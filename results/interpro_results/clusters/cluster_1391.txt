@@ -1,0 +1,1 @@
+PRED|NP_001379317.1||UDP-Glycosyltransferase/glycogen_phosphorylase

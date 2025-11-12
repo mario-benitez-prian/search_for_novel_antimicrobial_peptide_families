@@ -1,0 +1,1 @@
+PRED|WP_307772164.1||Nucleotidyltransferase_superfamily

@@ -1,0 +1,5 @@
+PRED|XP_002939400.2||Endothelin|Endothelin-like_toxin
+PRED|XP_011610078.1||Endothelin|Endothelin-like_toxin
+PRED|XP_011610079.1||Endothelin|Endothelin-like_toxin
+PRED|XP_016856001.2||Endothelin|Endothelin-like_toxin
+PRED|XP_040050318.1||Endothelin|Endothelin-like_toxin

@@ -1,0 +1,7 @@
+DATABASE|AP00330||Styelin
+DATABASE|AP00331||Styelin
+DATABASE|AP00435||Styelin
+DATABASE|DBAASPR_4937_Styelin-D||Styelin
+DATABASE|Training_Seq1614||Styelin
+DATABASE|Training_Seq1615||Styelin
+DATABASE|Training_Seq1688||Styelin

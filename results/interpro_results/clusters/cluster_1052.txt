@@ -1,0 +1,6 @@
+PRED|WP_000221179.1||HTH-type_Metal-responsive_Transcriptional_Regulators
+PRED|WP_002234555.1||HTH-type_Metal-responsive_Transcriptional_Regulators
+PRED|WP_003120011.1||Metal-responsive_transcriptional_regulator
+PRED|WP_003430158.1||HTH-type_Metal-responsive_Transcriptional_Regulators
+PRED|WP_005407603.1||Metal-responsive_transcriptional_regulator
+PRED|WP_011889243.1||Metal-responsive_transcriptional_regulator

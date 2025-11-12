@@ -1,0 +1,3 @@
+PRED|XP_008120691.2||Wilm's_tumour_protein_signature
+PRED|XP_062825641.1||Wilm's_tumour_protein_signature
+PRED|XP_062825648.1||Wilm's_tumour_protein_signature

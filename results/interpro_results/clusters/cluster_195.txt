@@ -1,0 +1,14 @@
+PRED|NP_039364.1||Photosystem_II_PsbI|Photosystem_II_PsbI_superfamily
+PRED|NP_043008.1||Photosystem_II_PsbI|Photosystem_II_PsbI_superfamily
+PRED|NP_051043.1||Photosystem_II_PsbI|Photosystem_II_PsbI_superfamily
+PRED|NP_904213.2||Photosystem_II_PsbI|Photosystem_II_PsbI_superfamily
+PRED|YP_001109483.1||Photosystem_II_PsbI|Photosystem_II_PsbI_superfamily
+PRED|YP_001381720.1||Photosystem_II_PsbI|Photosystem_II_PsbI_superfamily
+PRED|YP_002000472.1||Photosystem_II_PsbI|Photosystem_II_PsbI_superfamily
+PRED|YP_004021301.1||Photosystem_II_PsbI|Photosystem_II_PsbI_superfamily
+PRED|YP_010304142.1||Photosystem_II_PsbI|Photosystem_II_PsbI_superfamily
+PRED|YP_247583.1||Photosystem_II_PsbI|Photosystem_II_PsbI_superfamily
+PRED|YP_538771.1||Photosystem_II_PsbI|Photosystem_II_PsbI_superfamily
+PRED|YP_567060.1||Photosystem_II_PsbI|Photosystem_II_PsbI_superfamily
+PRED|YP_635623.1||Photosystem_II_PsbI|Photosystem_II_PsbI_superfamily
+PRED|YP_899391.1||Photosystem_II_PsbI|Photosystem_II_PsbI_superfamily

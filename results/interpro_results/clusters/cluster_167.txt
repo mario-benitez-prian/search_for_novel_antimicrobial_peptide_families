@@ -1,0 +1,4 @@
+PRED|NP_906269.1||Orexigenic_neuropeptide_QRFP/P518
+PRED|NP_937843.1||Orexigenic_neuropeptide_QRFP/P518
+PRED|XP_008123041.1||Orexigenic_neuropeptide_QRFP/P518
+PRED|XP_040541388.1||Orexigenic_neuropeptide_QRFP/P518

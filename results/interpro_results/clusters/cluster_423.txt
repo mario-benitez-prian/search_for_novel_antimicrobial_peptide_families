@@ -1,0 +1,4 @@
+DATABASE|AP01188||LsbB_family_leaderless_bacteriocin
+DATABASE|AP02914||LsbB_family_leaderless_bacteriocin
+DATABASE|CAMPSQ14122_K1||LsbB_family_leaderless_bacteriocin
+DATABASE|Training_Seq2208||LsbB_family_leaderless_bacteriocin

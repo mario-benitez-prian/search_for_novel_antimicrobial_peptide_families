@@ -1,0 +1,3 @@
+PRED|NP_001343171.1||Signal_peptidase_complex_subunit_1
+PRED|XP_006013246.1||Signal_peptidase_complex_subunit_1
+PRED|XP_006356072.1||Signal_peptidase_complex_subunit_1

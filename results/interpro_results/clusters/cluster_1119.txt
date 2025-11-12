@@ -1,0 +1,2 @@
+PRED|XP_070680719.1||Adaptor_complexes_medium_subunit
+PRED|XP_070680720.1||Adaptor_complexes_medium_subunit

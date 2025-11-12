@@ -1,0 +1,1 @@
+PRED|WP_009885634.1||Endoribonuclease_YbeY

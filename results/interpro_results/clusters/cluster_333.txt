@@ -1,0 +1,16 @@
+DATABASE|AP02679||Casein,_alpha/beta
+DATABASE|AP03131||Alpha-s2_casein|Casein,_alpha/beta
+DATABASE|Training_Seq1197||Casein,_alpha/beta|Kappa_casein|Odontogenic_ameloblast-associated_protein
+DATABASE|Training_Seq1752||Casein,_alpha/beta|Casein,_beta
+DATABASE|Training_Seq200||Casein,_alpha/beta|Casein,_beta
+DATABASE|sp|P02663|CASA2_BOVIN_Alpha-S2-casein_OS=Bos_taurus_OX=9913_GN=CSN1S2_PE=1_SV=2||Alpha-s2_casein|Casein,_alpha/beta
+PRED|NP_001288263.1||Alpha-s2_casein|Casein,_alpha/beta
+PRED|NP_001288264.1||Alpha-s2_casein|Casein,_alpha/beta
+PRED|NP_001291694.1||Alpha-s2_casein
+PRED|NP_001291696.1||Alpha-s2_casein
+PRED|NP_001291697.1||Alpha-s2_casein
+PRED|NP_001291698.1||Alpha-s2_casein
+PRED|NP_031811.1||Alpha-s2_casein
+PRED|NP_034103.2||Alpha-s2_casein|Casein,_alpha/beta
+PRED|NP_775129.1||Alpha-s2_casein|Casein,_alpha/beta
+PRED|XP_063128958.1||Alpha-s2_casein|Casein,_alpha/beta

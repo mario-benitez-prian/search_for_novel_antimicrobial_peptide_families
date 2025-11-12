@@ -1,0 +1,1 @@
+PRED|WP_020833188.1||quorum-sensing_system_DWW-type_pheromone

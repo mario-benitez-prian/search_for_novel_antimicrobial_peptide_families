@@ -1,0 +1,2 @@
+PRED|WP_049892776.1||halo-CC-star_protein_HcsS
+PRED|WP_144859512.1||halo-CC-star_protein_HcsS

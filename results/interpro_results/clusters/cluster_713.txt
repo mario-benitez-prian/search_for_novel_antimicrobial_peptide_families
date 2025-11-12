@@ -1,0 +1,1 @@
+PRED|WP_003225207.1||Cortex_morphogenetic_protein_CmpA

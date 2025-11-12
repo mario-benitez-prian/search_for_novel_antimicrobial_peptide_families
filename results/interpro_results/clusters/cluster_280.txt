@@ -1,0 +1,4 @@
+PRED|NP_001255275.2||Domain_of_unknown_function_DUF7808
+PRED|NP_001256224.1||Domain_of_unknown_function_DUF7808
+PRED|NP_495688.1||Domain_of_unknown_function_DUF7808
+PRED|NP_500475.2||Domain_of_unknown_function_DUF7808

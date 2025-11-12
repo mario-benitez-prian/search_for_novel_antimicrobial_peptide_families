@@ -1,0 +1,1 @@
+PRED|WP_273887724.1||Protein_of_unknown_function_DUF4222

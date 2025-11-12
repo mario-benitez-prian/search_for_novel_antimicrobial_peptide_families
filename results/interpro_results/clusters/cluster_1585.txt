@@ -1,0 +1,1 @@
+PRED|XP_024357680.1||RNA_polymerase_II_transcription_factor_SIII,_subunit_A

@@ -1,0 +1,5 @@
+PRED|NP_001381889.1||NADH-ubiquinone_reductase_complex_1_MLRQ_subunit
+PRED|NP_001381890.1||NADH-ubiquinone_reductase_complex_1_MLRQ_subunit
+PRED|NP_064527.1||NADH-ubiquinone_reductase_complex_1_MLRQ_subunit
+PRED|XP_030101014.1||NADH-ubiquinone_reductase_complex_1_MLRQ_subunit
+PRED|XP_040049359.1||NADH-ubiquinone_reductase_complex_1_MLRQ_subunit

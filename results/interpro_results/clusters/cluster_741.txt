@@ -1,0 +1,3 @@
+PRED|XP_012942140.1||Small_integral_membrane_protein_7
+PRED|XP_012942141.1||Small_integral_membrane_protein_7
+PRED|XP_035827644.1||Small_integral_membrane_protein_7

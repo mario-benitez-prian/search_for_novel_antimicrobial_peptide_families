@@ -1,0 +1,2 @@
+PRED|WP_001146150.1||Binding-protein-dependent_transport_system_permease|MetI-like_superfamily
+PRED|WP_001146163.1||Binding-protein-dependent_transport_system_permease|MetI-like_superfamily

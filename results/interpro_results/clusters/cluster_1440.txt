@@ -1,0 +1,3 @@
+PRED|XP_006340427.1||CLV3/ESR_signal_peptide_family
+PRED|XP_013456236.1||CLV3/ESR_signal_peptide_family
+PRED|XP_024631555.1||CLV3/ESR_signal_peptide_family

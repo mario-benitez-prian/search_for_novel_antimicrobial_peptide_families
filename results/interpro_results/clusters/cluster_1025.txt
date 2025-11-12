@@ -1,0 +1,2 @@
+PRED|WP_011033374.1||Uncharacterised_protein_family_UPF0228
+PRED|WP_157858611.1||Uncharacterised_protein_family_UPF0228

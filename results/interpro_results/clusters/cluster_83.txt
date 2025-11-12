@@ -1,0 +1,8 @@
+DATABASE|AP02557||Spider_toxin_CSTX,_Knottin_scaffold
+DATABASE|AP04196||Spider_toxin_CSTX,_Knottin_scaffold
+DATABASE|CAMPSQ20187_Omega-ctenitoxin-Cs1aCsTx-1||Spider_toxin_CSTX,_Knottin_scaffold
+DATABASE|CAMPSQ20188_ToxinCsTx-2aOmega-ctenitoxin-Cs1a||Spider_toxin_CSTX,_Knottin_scaffold
+DATABASE|CAMPSQ20189_ToxinCsTx-2bOmega-ctenitoxin-Cs1a||Spider_toxin_CSTX,_Knottin_scaffold
+DATABASE|Training_Seq2802||Spider_toxin_CSTX,_Knottin_scaffold
+DATABASE|Training_Seq99||Spider_toxin_CSTX,_Knottin_scaffold
+DATABASE|sp|P0DV62|TX4A_PARAW_Lycotoxin-Pa4a_OS=Pardosa_astrigera_OX=317848_PE=2_SV=1||Spider_toxin_CSTX,_Knottin_scaffold

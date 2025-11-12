@@ -1,0 +1,1 @@
+PRED|WP_003095983.1||BamE-like

@@ -1,0 +1,2 @@
+PRED|NP_084304.1||Transmembrane_protein_190
+PRED|XP_036009458.1||Transmembrane_protein_190

@@ -1,0 +1,7 @@
+PRED|NP_001279269.1||Guanylin|Guanylin_superfamily
+PRED|NP_001279275.1||Guanylin|Guanylin_superfamily
+PRED|NP_001279281.1||Guanylin|Guanylin_superfamily
+PRED|XP_021335528.1||Guanylin|Guanylin_superfamily
+PRED|XP_031758435.1||Guanylin|Guanylin_superfamily
+PRED|XP_031758799.1||Guanylin|Guanylin_superfamily
+PRED|XP_040060819.1||Guanylin|Guanylin_superfamily

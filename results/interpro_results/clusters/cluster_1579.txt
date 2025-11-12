@@ -1,0 +1,2 @@
+PRED|WP_002213291.1||IS66_family_insertion_sequence_element_accessory_protein_TnpA
+PRED|WP_023148296.1||IS66_family_insertion_sequence_element_accessory_protein_TnpA

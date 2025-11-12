@@ -1,0 +1,3 @@
+PRED|XP_003435814.1||Diuretic_hormone_class_2-like
+PRED|XP_061497087.1||Diuretic_hormone_class_2-like
+PRED|XP_321755.3||Diuretic_hormone_class_2-like

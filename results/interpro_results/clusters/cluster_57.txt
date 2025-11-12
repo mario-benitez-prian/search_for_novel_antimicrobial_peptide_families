@@ -1,0 +1,11 @@
+DATABASE|AP01131||Bacteriocin_class_II,_aureocin-like
+DATABASE|AP02247||Bacteriocin_class_II,_aureocin-like
+DATABASE|AP02251||Bacteriocin_class_II,_aureocin-like
+DATABASE|AP02802||aureocin_A53_family_class_IId_bacteriocin
+DATABASE|AP02816||Bacteriocin_class_II,_aureocin-like
+DATABASE|AP02817||Bacteriocin_class_II,_aureocin-like
+DATABASE|AP02902||Bacteriocin_class_II,_aureocin-like
+DATABASE|AP03132||Bacteriocin_class_II,_aureocin-like
+DATABASE|AP03640||Bacteriocin_class_II,_aureocin-like
+DATABASE|CAMPSQ10938_LacticinZ||Bacteriocin_class_II,_aureocin-like
+DATABASE|Training_Seq2977||Bacteriocin_class_II,_aureocin-like

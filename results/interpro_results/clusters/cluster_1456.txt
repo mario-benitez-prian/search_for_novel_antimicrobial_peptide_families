@@ -1,0 +1,2 @@
+PRED|NP_001286080.1||Domain_of_unknown_function_DUF753
+PRED|NP_609927.1||Domain_of_unknown_function_DUF753

@@ -1,0 +1,2 @@
+PRED|XP_003726400.1||Ribonuclease_P_subunit_RNP4
+PRED|XP_030851370.1||Ribonuclease_P_subunit_RNP4

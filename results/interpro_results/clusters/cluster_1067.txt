@@ -1,0 +1,2 @@
+PRED|XP_002313321.3||Uncharacterised_protein_family_UPF0390
+PRED|XP_050467379.1||Uncharacterised_protein_family_UPF0390

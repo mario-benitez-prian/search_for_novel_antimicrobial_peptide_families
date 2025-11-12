@@ -1,0 +1,4 @@
+DATABASE|AP01407||Semenogelin
+DATABASE|AP01408||Semenogelin
+DATABASE|Training_Seq2329||Semenogelin
+DATABASE|Training_Seq2330||Semenogelin

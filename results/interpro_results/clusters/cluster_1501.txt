@@ -1,0 +1,1 @@
+DATABASE|Training_Seq3492||Splicing_factor,_arginine/serine-rich_19

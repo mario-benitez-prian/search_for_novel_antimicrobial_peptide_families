@@ -1,0 +1,10 @@
+DATABASE|AP04828||ESAT-6-like_superfamily|Type_VII_secretion_system_ESAT-6-like
+PRED|NP_001152667.1||Snf7_family
+PRED|XP_010238191.1||Snf7_family
+PRED|XP_014758283.1||Snf7_family
+PRED|XP_014758285.1||Snf7_family
+PRED|XP_015645576.1||Snf7_family
+PRED|XP_015645577.1||Snf7_family
+PRED|XP_020396188.1||Snf7_family
+PRED|XP_021309864.1||Snf7_family
+PRED|XP_021309865.1||Snf7_family

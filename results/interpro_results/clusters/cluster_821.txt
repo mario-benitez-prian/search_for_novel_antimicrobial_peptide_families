@@ -1,0 +1,14 @@
+PRED|NP_039372.1||Cytochrome_b6-f_complex,_subunit_8|Cytochrome_b6-f_complex,_subunit_8_superfamily
+PRED|NP_043014.1||Cytochrome_b6-f_complex,_subunit_8|Cytochrome_b6-f_complex,_subunit_8_superfamily
+PRED|NP_051052.1||Cytochrome_b6-f_complex,_subunit_8|Cytochrome_b6-f_complex,_subunit_8_superfamily
+PRED|NP_904169.1||Cytochrome_b6-f_complex,_subunit_8|Cytochrome_b6-f_complex,_subunit_8_superfamily
+PRED|YP_001109492.1||Cytochrome_b6-f_complex,_subunit_8|Cytochrome_b6-f_complex,_subunit_8_superfamily
+PRED|YP_001381729.1||Cytochrome_b6-f_complex,_subunit_8|Cytochrome_b6-f_complex,_subunit_8_superfamily
+PRED|YP_002000477.1||Cytochrome_b6-f_complex,_subunit_8|Cytochrome_b6-f_complex,_subunit_8_superfamily
+PRED|YP_004021310.1||Cytochrome_b6-f_complex,_subunit_8|Cytochrome_b6-f_complex,_subunit_8_superfamily
+PRED|YP_010304151.1||Cytochrome_b6-f_complex,_subunit_8|Cytochrome_b6-f_complex,_subunit_8_superfamily
+PRED|YP_247592.1||Cytochrome_b6-f_complex,_subunit_8|Cytochrome_b6-f_complex,_subunit_8_superfamily
+PRED|YP_538762.1||Cytochrome_b6-f_complex,_subunit_8|Cytochrome_b6-f_complex,_subunit_8_superfamily
+PRED|YP_567069.1||Cytochrome_b6-f_complex,_subunit_8|Cytochrome_b6-f_complex,_subunit_8_superfamily
+PRED|YP_635632.1||Cytochrome_b6-f_complex,_subunit_8|Cytochrome_b6-f_complex,_subunit_8_superfamily
+PRED|YP_899396.1||Cytochrome_b6-f_complex,_subunit_8|Cytochrome_b6-f_complex,_subunit_8_superfamily

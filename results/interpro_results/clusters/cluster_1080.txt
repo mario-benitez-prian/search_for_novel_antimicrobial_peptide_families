@@ -1,0 +1,2 @@
+PRED|NP_001003481.1||Transmembrane_Fragile-X-F-associated_protein
+PRED|XP_073798094.1||Transmembrane_Fragile-X-F-associated_protein

@@ -1,0 +1,4 @@
+PRED|WP_000760414.1||Probable_chaperone-like_protein_YdbL
+PRED|WP_001325798.1||Probable_chaperone-like_protein_YdbL
+PRED|WP_003098276.1||Probable_chaperone-like_protein_YdbL
+PRED|WP_011069403.1||Probable_chaperone-like_protein_YdbL

@@ -1,0 +1,1 @@
+PRED|XP_029701877.1||Selenoprotein_S

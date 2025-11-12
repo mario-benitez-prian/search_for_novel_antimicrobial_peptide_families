@@ -1,0 +1,16 @@
+PRED|NP_001238143.1||Selenoprotein_SelK/SelG
+PRED|NP_001294102.1||Selenoprotein_SelK/SelG
+PRED|NP_001358501.1||Selenoprotein_SelK/SelG
+PRED|NP_192563.2||Selenoprotein_SelK/SelG
+PRED|NP_572763.3||Selenoprotein_SelK/SelG
+PRED|XP_001237299.3||Selenoprotein_SelK/SelG
+PRED|XP_002985964.1||Selenoprotein_SelK/SelG
+PRED|XP_003614777.1||Selenoprotein_SelK/SelG
+PRED|XP_004140863.1||Selenoprotein_SelK/SelG
+PRED|XP_006351881.1||Selenoprotein_SelK/SelG
+PRED|XP_006595518.1||Selenoprotein_SelK/SelG
+PRED|XP_008385565.1||Selenoprotein_SelK/SelG
+PRED|XP_010228832.1||Selenoprotein_SelK/SelG
+PRED|XP_013453984.1||Selenoprotein_SelK/SelG
+PRED|XP_015628134.1||Selenoprotein_SelK/SelG
+PRED|XP_031743925.1||Selenoprotein_SelK/SelG

@@ -1,0 +1,1 @@
+PRED|WP_013999027.1||FeoA-like

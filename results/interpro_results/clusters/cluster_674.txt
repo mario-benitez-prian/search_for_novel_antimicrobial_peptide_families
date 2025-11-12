@@ -1,0 +1,2 @@
+PRED|WP_001142445.1||YniD-like
+PRED|WP_100208136.1||YniD-like

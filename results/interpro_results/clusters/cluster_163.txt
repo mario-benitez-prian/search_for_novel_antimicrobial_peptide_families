@@ -1,0 +1,2 @@
+PRED|NP_001015402.3||MICOS_complex_subunit_Mic10
+PRED|XP_001629900.1||MICOS_complex_subunit_Mic10

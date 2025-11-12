@@ -1,0 +1,2 @@
+PRED|XP_001546498.1||Chitin_synthesis_regulation,_Congo_red_resistance,_RCR_protein
+PRED|XP_024547941.1||Chitin_synthesis_regulation,_Congo_red_resistance,_RCR_protein

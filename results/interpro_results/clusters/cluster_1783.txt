@@ -1,0 +1,1 @@
+DATABASE|Training_Seq3354||Glycine_cleavage_system_P_protein|Pyridoxal_phosphate-dependent_transferase

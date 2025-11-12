@@ -1,0 +1,12 @@
+PRED|NP_001002153.2||NADH_dehydrogenase_[ubiquinone]_(complex_I),_alpha_subcomplex_subunit_1
+PRED|NP_001102283.2||NADH_dehydrogenase_[ubiquinone]_(complex_I),_alpha_subcomplex_subunit_1
+PRED|NP_001161327.1||NADH_dehydrogenase_[ubiquinone]_(complex_I),_alpha_subcomplex_subunit_1
+PRED|NP_001289044.1||NADH_dehydrogenase_[ubiquinone]_(complex_I),_alpha_subcomplex_subunit_1
+PRED|XP_003534626.2||NADH_dehydrogenase_[ubiquinone]_(complex_I),_alpha_subcomplex_subunit_1
+PRED|XP_003552331.1||NADH_dehydrogenase_[ubiquinone]_(complex_I),_alpha_subcomplex_subunit_1
+PRED|XP_003970602.1||NADH_dehydrogenase_[ubiquinone]_(complex_I),_alpha_subcomplex_subunit_1
+PRED|XP_004142669.1||NADH_dehydrogenase_[ubiquinone]_(complex_I),_alpha_subcomplex_subunit_1
+PRED|XP_028945585.1||NADH_dehydrogenase_[ubiquinone]_(complex_I),_alpha_subcomplex_subunit_1
+PRED|XP_028945587.1||NADH_dehydrogenase_[ubiquinone]_(complex_I),_alpha_subcomplex_subunit_1
+PRED|XP_031740619.1||NADH_dehydrogenase_[ubiquinone]_(complex_I),_alpha_subcomplex_subunit_1
+PRED|XP_040029277.1||NADH_dehydrogenase_[ubiquinone]_(complex_I),_alpha_subcomplex_subunit_1

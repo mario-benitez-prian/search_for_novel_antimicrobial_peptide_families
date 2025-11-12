@@ -1,0 +1,6 @@
+DATABASE|AP04649||Protein_of_unknown_function_DUF4576
+DATABASE|AP05249||Protein_of_unknown_function_DUF4576
+DATABASE|Training_Seq3478||Protein_of_unknown_function_DUF4576
+PRED|NP_996849.2||Protein_of_unknown_function_DUF4576
+PRED|XP_005268503.3||Protein_of_unknown_function_DUF4576
+PRED|XP_047273125.1||Protein_of_unknown_function_DUF4576

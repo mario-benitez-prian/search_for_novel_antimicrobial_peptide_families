@@ -1,0 +1,3 @@
+PRED|XP_040016568.1||Mitoregulin
+PRED|XP_040016569.1||Mitoregulin
+PRED|XP_068070683.1||Mitoregulin

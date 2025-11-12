@@ -1,0 +1,1 @@
+PRED|XP_059589540.1||Multi_antimicrobial_extrusion_protein

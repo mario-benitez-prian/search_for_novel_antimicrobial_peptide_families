@@ -1,0 +1,4 @@
+PRED|XP_075912536.1||Serine/threonine_and_dual-specificity_kinase
+PRED|XP_075912539.1||Serine/threonine_and_dual-specificity_kinase
+PRED|XP_075912540.1||Serine/threonine_and_dual-specificity_kinase
+PRED|XP_075912541.1||Serine/threonine_and_dual-specificity_kinase

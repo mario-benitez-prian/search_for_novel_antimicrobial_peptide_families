@@ -1,0 +1,3 @@
+PRED|NP_001189306.1||Translation_Initiation_factor_eIF-_4e|Translation_Initiation_factor_eIF-_4e-like
+PRED|NP_001189307.1||Translation_Initiation_factor_eIF-_4e|Translation_Initiation_factor_eIF-_4e-like
+PRED|NP_651654.1||Translation_Initiation_factor_eIF-_4e|Translation_Initiation_factor_eIF-_4e-like

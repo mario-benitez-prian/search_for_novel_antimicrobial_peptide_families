@@ -1,0 +1,5 @@
+PRED|XP_005987237.1||CD225/Dispanin_family
+PRED|XP_007902979.1||CD225/Dispanin_family|Interferon-induced_transmembrane_antiviral_protein
+PRED|XP_042193576.1||CD225/Dispanin_family
+PRED|XP_042193577.1||CD225/Dispanin_family
+PRED|XP_042193578.1||CD225/Dispanin_family

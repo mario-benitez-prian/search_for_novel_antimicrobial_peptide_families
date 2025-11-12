@@ -1,0 +1,2 @@
+PRED|WP_120795373.1||small_protein_YadW
+PRED|WP_128567298.1||small_protein_YadW

@@ -1,0 +1,2 @@
+PRED|WP_003226961.1||RapG/RapK_inhibitor
+PRED|WP_004399440.1||Phr_signaling_regulator|RapG/RapK_inhibitor

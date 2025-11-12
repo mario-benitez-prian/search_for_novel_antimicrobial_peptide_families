@@ -1,0 +1,2 @@
+PRED|XP_009059938.1||Basic_helix-loop-helix_transcription_factors
+PRED|XP_009065103.1||Basic_helix-loop-helix_transcription_factors

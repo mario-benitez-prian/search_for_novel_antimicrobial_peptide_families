@@ -1,0 +1,2 @@
+PRED|NP_001097701.1||Male_specific_sperm_protein
+PRED|NP_524254.1||Male_specific_sperm_protein

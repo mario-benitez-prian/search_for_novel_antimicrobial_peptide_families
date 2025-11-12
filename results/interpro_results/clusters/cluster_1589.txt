@@ -1,0 +1,1 @@
+PRED|XP_075919473.1||Alkaline_phosphatase

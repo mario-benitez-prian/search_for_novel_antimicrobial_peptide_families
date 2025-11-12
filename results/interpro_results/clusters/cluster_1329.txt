@@ -1,0 +1,1 @@
+PRED|XP_073391395.1||Chromatin_modification-related_protein_EAF1A/B

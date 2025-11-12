@@ -1,0 +1,2 @@
+PRED|WP_002218002.1||Bacterial_HTH-type_regulators_and_antitoxins
+PRED|WP_031299284.1||Bacterial_HTH-type_regulators_and_antitoxins

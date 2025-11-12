@@ -1,0 +1,1 @@
+PRED|WP_002982891.1||Aromatic_acid_exporter_family_member_1

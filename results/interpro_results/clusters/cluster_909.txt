@@ -1,0 +1,3 @@
+PRED|WP_001364348.1||Tryptophanese_operon_leader_peptide
+PRED|WP_011069570.1||Tryptophanese_operon_leader_peptide
+PRED|WP_071908331.1||Tryptophanese_operon_leader_peptide

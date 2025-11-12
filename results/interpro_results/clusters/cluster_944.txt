@@ -1,0 +1,1 @@
+PRED|XP_002288304.1||Large_ribosomal_subunit_protein_bL27

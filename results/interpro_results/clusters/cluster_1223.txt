@@ -1,0 +1,2 @@
+PRED|XP_013443041.1||Uncharacterized_protein_At5g23160-like
+PRED|XP_039689782.1||Uncharacterized_protein_At5g23160-like

@@ -1,0 +1,10 @@
+DATABASE|AP00766||Bacteriocin_class_IIc
+DATABASE|AP00927||Bacteriocin_class_IIc
+DATABASE|AP00932||Bacteriocin_class_IIc
+DATABASE|AP02954||Bacteriocin_class_IIc
+DATABASE|AP05500||Bacteriocin_class_IIc
+DATABASE|CAMPSQ808_AcidocinB||Bacteriocin_class_IIc
+DATABASE|Training_Seq1918||Bacteriocin_class_IIc
+DATABASE|Training_Seq2004||Bacteriocin_class_IIc
+DATABASE|Training_Seq2999||Bacteriocin_class_IIc
+DATABASE|Training_Seq892||Bacteriocin_class_IIc

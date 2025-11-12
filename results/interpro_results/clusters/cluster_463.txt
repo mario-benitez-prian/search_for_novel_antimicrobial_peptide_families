@@ -1,0 +1,1 @@
+PRED|XP_009053485.1||Programmed_Cell_Death_10_Homolog

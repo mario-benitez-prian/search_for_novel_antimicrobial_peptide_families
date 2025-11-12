@@ -1,0 +1,1 @@
+PRED|XP_009051730.1||ZNRF3/Arkadia_E3_ubiquitin-protein_ligases

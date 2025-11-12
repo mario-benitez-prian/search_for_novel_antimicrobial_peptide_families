@@ -1,0 +1,8 @@
+PRED|NP_001151250.1||Tim10-like
+PRED|XP_001014018.1||Tim10-like
+PRED|XP_001683179.1||Tim10-like
+PRED|XP_003602769.1||Tim10-like
+PRED|XP_009061572.1||Mitochondrial_import_inner_membrane_translocase_subunit|Tim10-like
+PRED|XP_015833017.1||Tim10-like
+PRED|XP_019331040.1||Mitochondrial_import_inner_membrane_translocase_subunit|Tim10-like
+PRED|XP_845843.1||Tim10-like

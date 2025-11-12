@@ -1,0 +1,2 @@
+PRED|NP_652293.1||ATP_synthase_membrane_subunit_K
+PRED|XP_004915907.1||ATP_synthase_membrane_subunit_K

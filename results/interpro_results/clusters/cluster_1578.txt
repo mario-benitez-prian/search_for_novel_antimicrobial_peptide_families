@@ -1,0 +1,1 @@
+PRED|XP_038935899.1||AT_hook,_DNA-binding_motif|High_mobility_group_protein_HMGA

@@ -1,0 +1,1 @@
+PRED|XP_012549341.1||NADH-ubiquinone_oxidoreductase_flavoprotein_3

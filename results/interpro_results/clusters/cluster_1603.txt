@@ -1,0 +1,1 @@
+PRED|XP_647345.1||ATP_synthase_F0_complex_subunit_G,_mitochondrial

@@ -1,0 +1,5 @@
+PRED|XP_006344324.1||Carboxypeptidase_A_inhibitor-like
+PRED|XP_006357940.1||Carboxypeptidase_A_inhibitor-like
+PRED|XP_006359520.1||Carboxypeptidase_A_inhibitor-like
+PRED|XP_015162190.1||Carboxypeptidase_A_inhibitor-like
+PRED|XP_015169937.1||Carboxypeptidase_A_inhibitor-like

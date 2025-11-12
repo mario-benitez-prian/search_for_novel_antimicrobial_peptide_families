@@ -1,0 +1,3 @@
+PRED|XP_015613894.1||Protein_of_unknown_function_DUF1677,_plant
+PRED|XP_015630142.1||Protein_of_unknown_function_DUF1677,_plant
+PRED|XP_020393504.1||Protein_of_unknown_function_DUF1677,_plant

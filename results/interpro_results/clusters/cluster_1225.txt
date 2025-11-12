@@ -1,0 +1,2 @@
+PRED|WP_001237866.1||YecR-like_lipoprotein
+PRED|WP_001237869.1||YecR-like_lipoprotein

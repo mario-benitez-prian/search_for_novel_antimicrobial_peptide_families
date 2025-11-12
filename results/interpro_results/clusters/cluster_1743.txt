@@ -1,0 +1,1 @@
+PRED|WP_446001138.1||REP-associated_tyrosine_transposase|Transposase_IS200-like|Transposase_IS200-like_superfamily

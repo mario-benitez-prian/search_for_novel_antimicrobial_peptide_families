@@ -1,0 +1,1 @@
+PRED|XP_070662854.1||Carbohydrate_kinase_PfkB|PfkB_Carbohydrate_Kinase|Ribokinase-like

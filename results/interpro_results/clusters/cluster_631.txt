@@ -1,0 +1,9 @@
+PRED|NP_001011400.1||Pituitary_tumor-transforming_gene_1_protein-interacting
+PRED|XP_001634273.2||Pituitary_tumor-transforming_gene_1_protein-interacting
+PRED|XP_002128662.2||Pituitary_tumor-transforming_gene_1_protein-interacting
+PRED|XP_002128761.1||Pituitary_tumor-transforming_gene_1_protein-interacting
+PRED|XP_004226430.1||Pituitary_tumor-transforming_gene_1_protein-interacting
+PRED|XP_008760957.1||Pituitary_tumor-transforming_gene_1_protein-interacting
+PRED|XP_032239555.2||Pituitary_tumor-transforming_gene_1_protein-interacting
+PRED|XP_032807301.1||Pituitary_tumor-transforming_gene_1_protein-interacting
+PRED|XP_038964508.1||Pituitary_tumor-transforming_gene_1_protein-interacting

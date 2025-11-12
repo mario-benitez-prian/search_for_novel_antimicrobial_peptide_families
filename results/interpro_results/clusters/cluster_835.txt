@@ -1,0 +1,1 @@
+PRED|XP_063133351.1||AP_complex,_mu/sigma_subunit|Adaptor_protein_complex,_sigma_subunit

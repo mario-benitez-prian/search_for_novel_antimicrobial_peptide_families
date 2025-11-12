@@ -1,0 +1,7 @@
+DATABASE|AP02360||Small_toxic_protein_BsrE-like
+DATABASE|AP02361||Small_toxic_protein_BsrE-like
+DATABASE|Training_Seq2689||Small_toxic_protein_BsrE-like
+DATABASE|Training_Seq2690||Small_toxic_protein_BsrE-like
+PRED|WP_000226108.1||Small_toxic_protein_BsrE-like
+PRED|WP_074794433.1||Small_toxic_protein_BsrE-like
+PRED|WP_099112139.1||Small_toxic_protein_BsrE-like

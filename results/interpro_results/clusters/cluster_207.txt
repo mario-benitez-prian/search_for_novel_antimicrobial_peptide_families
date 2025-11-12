@@ -1,0 +1,12 @@
+PRED|NP_001289107.1||Scrapie-responsive_protein_1
+PRED|NP_001316526.1||Scrapie-responsive_protein_1
+PRED|NP_001411804.1||Scrapie-responsive_protein_1
+PRED|NP_009212.1||Scrapie-responsive_protein_1
+PRED|NP_033162.1||Scrapie-responsive_protein_1
+PRED|NP_277034.1||Scrapie-responsive_protein_1
+PRED|XP_007894140.1||Scrapie-responsive_protein_1
+PRED|XP_014353809.1||Scrapie-responsive_protein_1
+PRED|XP_014353810.1||Scrapie-responsive_protein_1
+PRED|XP_017946493.1||Scrapie-responsive_protein_1
+PRED|XP_046772030.1||Scrapie-responsive_protein_1
+PRED|XP_047305519.1||Scrapie-responsive_protein_1

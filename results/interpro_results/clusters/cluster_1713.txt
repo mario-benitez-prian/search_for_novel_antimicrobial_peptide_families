@@ -1,0 +1,1 @@
+DATABASE|Training_Seq2698||Bacteriocin,_heterocycloanthracin/sonorensin_family

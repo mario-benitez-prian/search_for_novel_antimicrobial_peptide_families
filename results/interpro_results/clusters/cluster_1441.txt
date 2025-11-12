@@ -1,0 +1,1 @@
+PRED|XP_065939423.1||THAP-type_zinc_finger

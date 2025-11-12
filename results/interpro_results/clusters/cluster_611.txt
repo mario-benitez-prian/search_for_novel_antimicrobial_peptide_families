@@ -1,0 +1,2 @@
+PRED|NP_001036920.2||Pigment-dispersing_hormone
+PRED|NP_524517.1||Pigment-dispersing_hormone

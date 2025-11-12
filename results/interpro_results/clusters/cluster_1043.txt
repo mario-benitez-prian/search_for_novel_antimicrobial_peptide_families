@@ -1,0 +1,1 @@
+PRED|NP_001251149.1||Aquaporin-11/12_water_channel|Aquaporin-like

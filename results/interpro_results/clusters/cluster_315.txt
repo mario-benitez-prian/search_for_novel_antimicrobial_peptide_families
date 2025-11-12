@@ -1,0 +1,4 @@
+PRED|WP_000350095.1||GlgS_superfamily|Surface_composition_regulator
+PRED|WP_000928927.1||GlgS_superfamily|Surface_composition_regulator
+PRED|WP_002916857.1||GlgS_superfamily|Surface_composition_regulator
+PRED|WP_005051912.1||GlgS_superfamily|Surface_composition_regulator

@@ -1,0 +1,3 @@
+PRED|WP_001216963.1||Uncharacterised_protein_family_UPF0387,_membrane
+PRED|WP_001261696.1||Uncharacterised_protein_family_UPF0387,_membrane
+PRED|WP_002912762.1||Uncharacterised_protein_family_UPF0387,_membrane

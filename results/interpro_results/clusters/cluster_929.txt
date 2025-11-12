@@ -1,0 +1,2 @@
+PRED|WP_000616642.1||Na(+)/H(+)_antiporter_subunit_F-like
+PRED|WP_011012292.1||Na(+)/H(+)_antiporter_subunit_F-like

@@ -1,0 +1,1 @@
+PRED|XP_063130149.1||Centrosomal_protein_15-like

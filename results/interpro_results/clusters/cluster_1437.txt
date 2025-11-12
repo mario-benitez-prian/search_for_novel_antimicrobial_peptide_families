@@ -1,0 +1,1 @@
+PRED|WP_000346297.1||PncF-like

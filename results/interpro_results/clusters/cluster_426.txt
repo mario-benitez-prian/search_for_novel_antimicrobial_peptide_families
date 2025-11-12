@@ -1,0 +1,7 @@
+PRED|NP_001093387.1||PDZK1-interacting_protein_1/SMIM24
+PRED|NP_001264522.2||PDZK1-interacting_protein_1/SMIM24
+PRED|NP_001385548.1||PDZK1-interacting_protein_1/SMIM24
+PRED|XP_007901865.1||PDZK1-interacting_protein_1/SMIM24
+PRED|XP_007901866.1||PDZK1-interacting_protein_1/SMIM24
+PRED|XP_008114557.2||PDZK1-interacting_protein_1/SMIM24
+PRED|XP_038966772.1||PDZK1-interacting_protein_1/SMIM24

@@ -1,0 +1,2 @@
+PRED|XP_066167582.1||Cation_Transport_P-type_ATPase
+PRED|XP_066167583.1||Cation_Transport_P-type_ATPase

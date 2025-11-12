@@ -1,0 +1,1 @@
+PRED|WP_000569968.1||Accessory_secretory_protein_Asp5

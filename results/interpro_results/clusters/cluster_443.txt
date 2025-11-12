@@ -1,0 +1,4 @@
+PRED|WP_001068154.1||KPN_01571_family_protein
+PRED|WP_001299090.1||KPN_01571_family_protein
+PRED|WP_001351109.1||KPN_01571_family_protein
+PRED|WP_004206050.1||KPN_01571_family_protein

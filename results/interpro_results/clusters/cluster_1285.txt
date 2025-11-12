@@ -1,0 +1,1 @@
+PRED|XP_020398787.1||Pre-mRNA-splicing_factor_38

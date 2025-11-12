@@ -1,0 +1,1 @@
+PRED|XP_318332.5||Glucosidase_II_beta_subunit,_N-terminal|Glucosidase_II_beta_subunit-like

@@ -1,0 +1,1 @@
+PRED|XP_002296045.1||NADH_dehydrogenase_[ubiquinone]_1_beta_subcomplex_subunit_9

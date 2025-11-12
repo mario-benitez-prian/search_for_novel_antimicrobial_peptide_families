@@ -1,0 +1,1 @@
+DATABASE|Training_Seq1108||Aminoglycoside_phosphotransferase|Cell_Cycle_Regulator_and_Phase_Variation_Mediator

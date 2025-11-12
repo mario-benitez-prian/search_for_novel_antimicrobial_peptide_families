@@ -1,0 +1,2 @@
+DATABASE|sp|P04399|RIP2_HORVU_Protein_synthesis_inhibitor_II_OS=Hordeum_vulgare_OX=4513_GN=RIP30A_PE=1_SV=1||Ribosome-inactivating_protein|Ribosome-inactivating_protein_superfamily|Ribosome-inactivating_protein_type_1/2
+DATABASE|sp|P22244|RIP1_HORVU_Protein_synthesis_inhibitor_I_OS=Hordeum_vulgare_OX=4513_GN=RIP30_PE=1_SV=2||Ribosome-inactivating_protein|Ribosome-inactivating_protein_superfamily|Ribosome-inactivating_protein_type_1/2

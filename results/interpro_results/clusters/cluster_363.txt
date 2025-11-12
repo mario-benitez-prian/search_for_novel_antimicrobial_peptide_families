@@ -1,0 +1,4 @@
+PRED|XP_006346937.1||Small_subunit_of_serine_palmitoyltransferase-like
+PRED|XP_014631149.1||Small_subunit_of_serine_palmitoyltransferase-like
+PRED|XP_014634283.1||Small_subunit_of_serine_palmitoyltransferase-like
+PRED|XP_039684688.1||Small_subunit_of_serine_palmitoyltransferase-like

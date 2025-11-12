@@ -1,0 +1,2 @@
+PRED|XP_009050661.1||Keratin,_high-sulphur_matrix_protein
+PRED|XP_009066077.1||Keratin,_high-sulphur_matrix_protein

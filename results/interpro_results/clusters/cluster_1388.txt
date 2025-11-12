@@ -1,0 +1,1 @@
+PRED|WP_080925801.1||Ferrous_iron_transport_protein_B,_C-terminal

@@ -1,0 +1,4 @@
+PRED|XP_014769506.1||Sarcoglycan_alpha/epsilon
+PRED|XP_014769507.1||Sarcoglycan_alpha/epsilon
+PRED|XP_014769508.1||Sarcoglycan_alpha/epsilon
+PRED|XP_014769509.1||Sarcoglycan_alpha/epsilon

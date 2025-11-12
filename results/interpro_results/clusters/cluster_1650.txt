@@ -1,0 +1,1 @@
+DATABASE|sp|O34344|SDPC_BACSU_Sporulation_delaying_protein_C_OS=Bacillus_subtilis_(strain_168)_OX=224308_GN=sdpC_PE=1_SV=1||Sporulation_delaying_protein_C-like

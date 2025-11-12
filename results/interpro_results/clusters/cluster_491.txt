@@ -1,0 +1,10 @@
+PRED|NP_001037307.1||Eclosion_hormone
+PRED|NP_001262668.1||Eclosion_hormone
+PRED|NP_524386.1||Eclosion_hormone
+PRED|XP_001230805.2||Eclosion_hormone
+PRED|XP_006557391.2||Eclosion_hormone
+PRED|XP_012553269.1||Eclosion_hormone
+PRED|XP_015838085.1||Eclosion_hormone
+PRED|XP_026295903.1||Eclosion_hormone
+PRED|XP_037867323.1||Eclosion_hormone
+PRED|XP_064212533.1||Eclosion_hormone

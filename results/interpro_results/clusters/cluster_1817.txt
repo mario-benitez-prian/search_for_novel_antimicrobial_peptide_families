@@ -1,0 +1,1 @@
+PRED|YP_002608343.1||Domain_X

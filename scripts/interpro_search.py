@@ -41,6 +41,7 @@ cmd = [
     "-f", "tsv",
     "-dp",        # enable domain/family annotation
     "-goterms",   # include GO terms
+    "-pathways",
     "-iprlookup", # include InterPro annotations
     "-appl", "AntiFam, CDD, FunFam, Gene3D, Hamap, NCBIfam, PANTHER, PIRSF, PRINTS, Pfam, SMART, SUPERFAMILY",
     "-b", str(OUTPUT_PREFIX)

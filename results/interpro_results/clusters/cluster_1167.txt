@@ -1,0 +1,2 @@
+PRED|XP_004926112.1||Protein_of_unknown_function_DUF1676
+PRED|XP_972042.1||Protein_of_unknown_function_DUF1676

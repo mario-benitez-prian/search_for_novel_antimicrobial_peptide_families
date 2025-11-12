@@ -1,0 +1,1 @@
+PRED|XP_031758854.1||Transmembrane_protein_207

@@ -1,0 +1,1 @@
+PRED|XP_004929740.2||SLC12A_transporter_family|SLC12A_transporter,_C-terminal

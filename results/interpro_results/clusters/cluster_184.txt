@@ -1,0 +1,2 @@
+PRED|WP_003428889.1||AhpD-like|Carboxymuconolactone_decarboxylase-like
+PRED|WP_424353379.1||AhpD-like

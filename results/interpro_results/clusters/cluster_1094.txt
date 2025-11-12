@@ -1,0 +1,1 @@
+PRED|NP_001177661.1||Humanin_family

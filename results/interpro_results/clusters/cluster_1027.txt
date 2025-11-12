@@ -1,0 +1,1 @@
+PRED|XP_006580275.1||Large_ribosomal_subunit_protein_uL23-like

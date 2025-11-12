@@ -1,0 +1,1 @@
+PRED|XP_025982353.1||Ovate_protein_family|Ovate_protein_family,_C-terminal

@@ -1,0 +1,7 @@
+PRED|NP_001011061.1||Dolichol-phosphate_mannosyltransferase_subunit_3
+PRED|XP_008372500.3||Dolichol-phosphate_mannosyltransferase_subunit_3
+PRED|XP_019330909.1||Dolichol-phosphate_mannosyltransferase_subunit_3
+PRED|XP_024527251.1||Dolichol-phosphate_mannosyltransferase_subunit_3
+PRED|XP_028965725.2||Dolichol-phosphate_mannosyltransferase_subunit_3
+PRED|XP_032824716.2||Dolichol-phosphate_mannosyltransferase_subunit_3
+PRED|XP_070678652.1||Dolichol-phosphate_mannosyltransferase_subunit_3

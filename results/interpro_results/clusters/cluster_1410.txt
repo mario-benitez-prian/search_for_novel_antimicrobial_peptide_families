@@ -1,0 +1,1 @@
+PRED|WP_001201825.1||Outer_Membrane_Peptidase_A26|Outer_membrane_adhesin/peptidase_omptin|Peptidase_A26,_omptin

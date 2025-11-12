@@ -1,0 +1,3 @@
+PRED|WP_000893994.1||Small_membrane_protein_YshB
+PRED|WP_001578131.1||Small_membrane_protein_YshB
+PRED|WP_004152951.1||Small_membrane_protein_YshB

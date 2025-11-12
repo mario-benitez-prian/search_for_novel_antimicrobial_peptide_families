@@ -1,0 +1,13 @@
+PRED|NP_001006689.1||Osteocalcin
+PRED|NP_001027469.2||Osteocalcin
+PRED|NP_001292377.1||Osteocalcin
+PRED|NP_001292378.1||Osteocalcin
+PRED|NP_001292379.1||Osteocalcin
+PRED|NP_031567.1||Osteocalcin
+PRED|NP_038200.1||Osteocalcin
+PRED|NP_112736.3||Osteocalcin
+PRED|NP_954642.1||Osteocalcin
+PRED|NP_990718.2||Osteocalcin
+PRED|XP_002935655.1||Osteocalcin
+PRED|XP_040047837.1||Osteocalcin
+PRED|XP_042200993.1||Osteocalcin

@@ -1,0 +1,1 @@
+PRED|WP_025461996.1||Capsid_protein_G8P

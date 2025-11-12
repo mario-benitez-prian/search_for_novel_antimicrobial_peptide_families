@@ -1,0 +1,1 @@
+PRED|NP_039440.1||NAD(P)H-quinone_oxidoreductase_subunit_D/H|[NiFe]-hydrogenase,_large_subunit

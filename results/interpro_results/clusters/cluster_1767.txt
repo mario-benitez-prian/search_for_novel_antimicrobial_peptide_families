@@ -1,0 +1,1 @@
+PRED|YP_001381725.1||Small_ribosomal_subunit_protein_uS2|Small_ribosomal_subunit_protein_uS2,_bacteria/mitochondria/plastid

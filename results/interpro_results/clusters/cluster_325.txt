@@ -1,0 +1,2 @@
+DATABASE|CAMPSQ1124_N-acetylmuramoyl-L-alanineamidaseA||N-acetylmuramoyl-L-alanine_amidase_2
+DATABASE|sp|P14892|CWLA_BACSP_N-acetylmuramoyl-L-alanine_amidase_CwlA_OS=Bacillus_sp_OX=1409_GN=cwlA_PE=3_SV=1||N-acetylmuramoyl-L-alanine_amidase_2

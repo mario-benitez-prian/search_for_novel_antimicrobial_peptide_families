@@ -1,0 +1,7 @@
+DATABASE|AP00594||Bacteriocin,_lactococcin_972
+DATABASE|AP02399||Bacteriocin,_lactococcin_972
+DATABASE|Training_Seq1800||Bacteriocin,_lactococcin_972
+DATABASE|Training_Seq2700||Bacteriocin,_lactococcin_972
+PRED|WP_000726502.1||Bacteriocin,_lactococcin_972
+PRED|WP_001230165.1||Bacteriocin,_lactococcin_972
+PRED|WP_001790097.1||Bacteriocin,_lactococcin_972

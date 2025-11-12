@@ -1,0 +1,4 @@
+PRED|NP_001285713.1||Adult_cuticle_protein_1
+PRED|NP_609141.1||Adult_cuticle_protein_1
+PRED|NP_609143.2||Adult_cuticle_protein_1
+PRED|XP_976379.1||Adult_cuticle_protein_1

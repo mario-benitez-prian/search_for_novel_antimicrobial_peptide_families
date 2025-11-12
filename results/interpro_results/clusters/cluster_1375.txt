@@ -1,0 +1,1 @@
+PRED|NP_506634.1||DUF236_repeat

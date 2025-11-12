@@ -1,0 +1,3 @@
+DATABASE|DBAASPR_22069_Lantipeptide_Avermipeptin_B||Lanthionine-containing_peptide_SapB_precursor_RamS
+DATABASE|Training_Seq2776||Lanthionine-containing_peptide_SapB_precursor_RamS
+DATABASE|Training_Seq2777||Lanthionine-containing_peptide_SapB_precursor_RamS

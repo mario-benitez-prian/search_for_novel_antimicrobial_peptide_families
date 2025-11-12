@@ -1,0 +1,2 @@
+PRED|XP_024553498.1||Domain_of_unknown_function_DUF4470
+PRED|XP_024553499.1||Domain_of_unknown_function_DUF4470

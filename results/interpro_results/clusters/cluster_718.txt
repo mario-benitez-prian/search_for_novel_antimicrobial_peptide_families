@@ -1,0 +1,2 @@
+DATABASE|Training_Seq2821||Acyl-CoA_dehydrogenase
+PRED|XP_005113535.2||Acyl-CoA_dehydrogenase

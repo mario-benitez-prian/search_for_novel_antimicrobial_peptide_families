@@ -1,0 +1,1 @@
+PRED|WP_009484997.1||Phage_shock_protein,_PspG

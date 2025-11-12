@@ -1,0 +1,1 @@
+PRED|XP_005539505.1||NADH-ubiquinone_oxidoreductase_subunit|NADH-ubiquinone_oxidoreductase,_21kDa_subunit,_N-terminal

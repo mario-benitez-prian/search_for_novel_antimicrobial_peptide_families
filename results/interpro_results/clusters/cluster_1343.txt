@@ -1,0 +1,1 @@
+PRED|XP_019330961.1||Non-classical_export_protein_1

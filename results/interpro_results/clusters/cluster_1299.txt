@@ -1,0 +1,2 @@
+DATABASE|Training_Seq3534||Lipid_transport_protein,_beta-sheet_shell|Vitellinogen,_beta-sheet_N-terminal|Vitellinogen,_open_beta-sheet|Vitellogenin,_N-terminal|Vitellogenin/Apolipophorin
+DATABASE|Training_Seq3535||Vitellogenin,_N-terminal|Vitellogenin/Apolipophorin

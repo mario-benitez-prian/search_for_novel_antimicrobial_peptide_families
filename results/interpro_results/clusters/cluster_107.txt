@@ -1,0 +1,2 @@
+PRED|WP_004150462.1||Small_ribosomal_subunit_protein_bTHX/bTHXc/bTHXm
+PRED|XP_042921156.1||Small_ribosomal_subunit_protein_bTHX|Small_ribosomal_subunit_protein_bTHX/bTHXc/bTHXm

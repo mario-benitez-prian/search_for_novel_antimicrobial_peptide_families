@@ -1,0 +1,3 @@
+PRED|XP_003961530.1||NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_assembly_factor_8
+PRED|XP_011388848.1||NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_assembly_factor_8
+PRED|XP_016846738.1||NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_assembly_factor_8

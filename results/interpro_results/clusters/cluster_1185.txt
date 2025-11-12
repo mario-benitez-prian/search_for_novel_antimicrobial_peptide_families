@@ -1,0 +1,1 @@
+PRED|XP_003634104.1||Tubulin

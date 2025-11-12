@@ -1,0 +1,1 @@
+PRED|XP_009060569.1||STE20_Ser/Thr_Protein_Kinase

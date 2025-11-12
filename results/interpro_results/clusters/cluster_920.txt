@@ -1,0 +1,1 @@
+PRED|NP_001099428.1||tRNA-splicing_endonuclease_subunit_Sen15

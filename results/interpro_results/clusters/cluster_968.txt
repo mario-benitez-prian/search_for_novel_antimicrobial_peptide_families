@@ -1,0 +1,1 @@
+PRED|XP_065926694.1||Mitogen-activated_protein_kinase_kinase_kinase,_N-terminal

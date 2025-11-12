@@ -1,0 +1,2 @@
+PRED|XP_042193907.1||Proline-rich_membrane_anchor_1
+PRED|XP_046774876.1||Proline-rich_membrane_anchor_1

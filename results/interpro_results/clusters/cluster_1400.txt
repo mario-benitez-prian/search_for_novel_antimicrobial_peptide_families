@@ -1,0 +1,2 @@
+PRED|XP_004142978.1||Cytochrome_b-c1_complex_subunit_8_superfamily|Cytochrome_b-c1_complex_subunit_8,_plants
+PRED|XP_073394255.1||Cytochrome_b-c1_complex_subunit_8_superfamily|Cytochrome_b-c1_complex_subunit_8,_plants

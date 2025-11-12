@@ -1,0 +1,9 @@
+PRED|NP_001185985.1||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_001021936.1||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_001022444.1||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_001030377.1||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_001030565.1||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_001347077.1||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_004927943.1||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_011444612.3||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_037870913.1||LPS-induced_tumour_necrosis_factor_alpha_factor

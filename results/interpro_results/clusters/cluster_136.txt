@@ -1,0 +1,2 @@
+PRED|NP_505440.1||GETHR_pentapeptide_repeat
+PRED|NP_510809.1||GETHR_pentapeptide_repeat

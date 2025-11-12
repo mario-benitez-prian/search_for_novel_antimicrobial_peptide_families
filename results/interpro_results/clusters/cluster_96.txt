@@ -1,0 +1,1 @@
+PRED|XP_731495.1||Bubble_protein|Bubble_superfamily

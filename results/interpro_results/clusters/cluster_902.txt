@@ -1,0 +1,1 @@
+PRED|WP_003245487.1||Phosphatase_RapA_inhibitor

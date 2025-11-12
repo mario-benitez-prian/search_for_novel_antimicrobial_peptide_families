@@ -1,0 +1,2 @@
+PRED|XP_008668691.1||Small_ribosomal_subunit_protein_mS34
+PRED|XP_021318990.1||Small_ribosomal_subunit_protein_mS34

@@ -1,0 +1,4 @@
+PRED|NP_001100961.1||C-X-C_motif_chemokine_17
+PRED|NP_705804.2||C-X-C_motif_chemokine_17
+PRED|NP_940879.1||C-X-C_motif_chemokine_17
+PRED|XP_038967392.1||C-X-C_motif_chemokine_17

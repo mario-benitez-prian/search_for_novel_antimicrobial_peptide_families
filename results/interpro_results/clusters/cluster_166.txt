@@ -1,0 +1,1 @@
+PRED|XP_002292827.1||GUN4-like|GUN4-like_superfamily

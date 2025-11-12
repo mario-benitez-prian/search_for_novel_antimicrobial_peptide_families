@@ -1,0 +1,6 @@
+PRED|NP_569030.2||RHOD
+PRED|WP_001156179.1||Thiosulfate_sulfurtransferase_GlpE
+PRED|WP_001315904.1||Thiosulfate_sulfurtransferase_GlpE
+PRED|WP_002221191.1||Thiosulfate_sulfurtransferase_GlpE
+PRED|WP_005052206.1||Thiosulfate_sulfurtransferase_GlpE
+PRED|WP_023291350.1||Thiosulfate_sulfurtransferase_GlpE

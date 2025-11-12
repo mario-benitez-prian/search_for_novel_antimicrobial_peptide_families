@@ -1,0 +1,1 @@
+PRED|WP_001623090.1||Llipid_A_acylation_PagP|Outer_membrane_protein/outer_membrane_enzyme_PagP,_beta-barrel

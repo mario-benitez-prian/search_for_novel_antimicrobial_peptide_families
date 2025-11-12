@@ -1,0 +1,2 @@
+PRED|WP_000855059.1||Antirestriction_protein
+PRED|WP_005011597.1||Antirestriction_protein

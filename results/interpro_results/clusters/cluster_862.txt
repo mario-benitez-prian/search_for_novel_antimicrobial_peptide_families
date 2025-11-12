@@ -1,0 +1,8 @@
+DATABASE|AP00002||Abaecin,_antimicrobial_peptide
+DATABASE|AP01215||Abaecin,_antimicrobial_peptide
+DATABASE|AP02330||Abaecin,_antimicrobial_peptide
+DATABASE|CAMPSQ11336_Abaecin||Abaecin,_antimicrobial_peptide
+DATABASE|CAMPSQ11898_Abacein||Abaecin,_antimicrobial_peptide
+DATABASE|Training_Seq1372||Abaecin,_antimicrobial_peptide
+DATABASE|Training_Seq2675||Abaecin,_antimicrobial_peptide
+PRED|NP_001011617.1||Abaecin,_antimicrobial_peptide

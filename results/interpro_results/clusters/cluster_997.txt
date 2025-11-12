@@ -1,0 +1,1 @@
+PRED|XP_009048487.1||Salmonella/Shigella_invasin_protein_C_signature

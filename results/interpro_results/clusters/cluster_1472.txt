@@ -1,0 +1,3 @@
+PRED|NP_001166776.1||Cuticle_protein_CPCFC
+PRED|NP_610394.2||Cuticle_protein_CPCFC
+PRED|XP_317486.3||Cuticle_protein_CPCFC

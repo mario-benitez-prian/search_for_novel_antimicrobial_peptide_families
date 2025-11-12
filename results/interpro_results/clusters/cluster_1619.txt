@@ -1,0 +1,1 @@
+PRED|XP_075908514.1||Centrosome_and_spindle_pole_associated_protein_1

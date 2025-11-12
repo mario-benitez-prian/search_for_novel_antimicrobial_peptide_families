@@ -1,0 +1,4 @@
+PRED|NP_001328050.1||Splicing_factor_3B_subunit_5/RDS3_complex_subunit_10
+PRED|XP_015648517.2||Splicing_factor_3B_subunit_5/RDS3_complex_subunit_10
+PRED|XP_017974609.1||Splicing_factor_3B_subunit_5/RDS3_complex_subunit_10
+PRED|XP_024365096.1||Splicing_factor_3B_subunit_5/RDS3_complex_subunit_10|Splicing_factor_3B,_subunit_5

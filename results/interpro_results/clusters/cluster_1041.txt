@@ -1,0 +1,8 @@
+DATABASE|AP00865||Bacteriocin,_class_IId
+DATABASE|AP00998||Bacteriocin,_class_IId
+DATABASE|AP03076||Bacteriocin,_class_IId
+DATABASE|Training_Seq2061||Bacteriocin,_class_IId
+DATABASE|Training_Seq226||Bacteriocin,_class_IId
+DATABASE|Training_Seq3076||Bacteriocin,_class_IId
+DATABASE|sp|P0A313|LCNA_LACLC_Bacteriocin_lactococcin-A_OS=Lactococcus_lactis_subsp._cremoris_OX=1359_GN=lcnA_PE=1_SV=1||Bacteriocin,_class_IId
+DATABASE|sp|P35518|LCNB_LACLC_Bacteriocin_lactococcin-B_OS=Lactococcus_lactis_subsp._cremoris_OX=1359_GN=lcnB_PE=1_SV=1||Bacteriocin,_class_IId

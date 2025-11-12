@@ -1,0 +1,1 @@
+PRED|WP_005408004.1||H-NS_histone-like_proteins

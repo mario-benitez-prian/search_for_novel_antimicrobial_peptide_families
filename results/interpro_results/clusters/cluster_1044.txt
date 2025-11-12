@@ -1,0 +1,4 @@
+PRED|NP_051086.1||Photosystem_II_PsbN
+PRED|NP_904173.1||Photosystem_II_PsbN
+PRED|YP_010304186.1||Photosystem_II_PsbN
+PRED|YP_635667.1||Photosystem_II_PsbN

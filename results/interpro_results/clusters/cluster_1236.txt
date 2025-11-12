@@ -1,0 +1,1 @@
+PRED|WP_001295255.1||rho_operon_leader_peptide_rhoL

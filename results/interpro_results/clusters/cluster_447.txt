@@ -1,0 +1,7 @@
+PRED|WP_001889156.1||Protein_of_unknown_function_DUF3709
+PRED|WP_001894451.1||Protein_of_unknown_function_DUF3709
+PRED|WP_001909360.1||Protein_of_unknown_function_DUF3709
+PRED|WP_001917086.1||Protein_of_unknown_function_DUF3709
+PRED|WP_001999499.1||Protein_of_unknown_function_DUF3709
+PRED|WP_032473865.1||Protein_of_unknown_function_DUF3709
+PRED|WP_313904856.1||Protein_of_unknown_function_DUF3709

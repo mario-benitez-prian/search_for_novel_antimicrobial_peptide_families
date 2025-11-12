@@ -1,0 +1,2 @@
+DATABASE|AP02895||Subtilisin-like_serine_protease
+DATABASE|Training_Seq2972||Subtilisin-like_serine_protease

@@ -1,0 +1,2 @@
+PRED|WP_009990357.1||PINc/VapC_ribonuclease_toxin-antitoxin
+PRED|WP_011249802.1||Type_II_TA_system_ribonuclease_PINc/VapC

@@ -1,0 +1,1 @@
+PRED|XP_001694606.2||Pherophorin

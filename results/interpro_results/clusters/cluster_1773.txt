@@ -1,0 +1,1 @@
+PRED|NP_181073.1||Late_embryogenesis_abundant_protein,_LEA_1_subgroup

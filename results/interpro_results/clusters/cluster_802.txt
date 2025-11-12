@@ -1,0 +1,1 @@
+PRED|XP_004920591.1||Apolipoprotein_C-II

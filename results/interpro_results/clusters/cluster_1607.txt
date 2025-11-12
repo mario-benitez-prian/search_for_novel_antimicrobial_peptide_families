@@ -1,0 +1,1 @@
+PRED|XP_845612.1||Mago_nashi_protein|Mago_nashi_superfamily

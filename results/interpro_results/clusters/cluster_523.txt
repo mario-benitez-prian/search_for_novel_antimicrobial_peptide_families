@@ -1,0 +1,6 @@
+DATABASE|AP00522||Mastoparan_peptide
+DATABASE|AP01636||Mastoparan_peptide
+DATABASE|AP01640||Mastoparan_peptide
+DATABASE|AP01641||Mastoparan_peptide
+DATABASE|CAMPSQ3393_Polybia-MP-II||Mastoparan_peptide
+DATABASE|DBAASPR_21995_Synoeca-MP||Mastoparan_peptide

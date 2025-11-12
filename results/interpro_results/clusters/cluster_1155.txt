@@ -1,0 +1,1 @@
+PRED|XP_048584363.1||Hydroxysteroid_dehydrogenase-like_protein_2

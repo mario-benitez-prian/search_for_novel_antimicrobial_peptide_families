@@ -1,0 +1,1 @@
+PRED|XP_070667984.1||Potassium_transporter

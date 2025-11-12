@@ -1,0 +1,14 @@
+>DATABASE|AP01593||Lantibiotic_duramycin/duramycin_B-like
+CKQSCSFGPFTFVCDGNTK
+>DATABASE|AP01594||Lantibiotic_duramycin/duramycin_B-like
+CRQSCSFGPLTFVCDGNTK
+>DATABASE|AP01596||Lantibiotic_duramycin/duramycin_B-like
+CRQSCSFGPFTFVCDGNTK
+>DATABASE|Training_Seq2450||Lantibiotic_cinnamycin|Lantibiotic_duramycin/duramycin_B-like
+MTASILQQSVVDADFRAALIENPAAFGASTAVLPTPVEQQDQASLDFWTKDIAATEAFACKQSCSFGPFTFVCDGNTK
+>DATABASE|Training_Seq2452||Lantibiotic_cinnamycin|Lantibiotic_duramycin/duramycin_B-like
+MTTSLLQQAVVDAEFRAALRANPAEFGLTEAVLPASVEQHDQASLDFWTKDIAATEAYACANSCSYGPLTWSCDGNTK
+>DATABASE|Training_Seq2453||Lantibiotic_cinnamycin|Lantibiotic_duramycin/duramycin_B-like
+MTASILQQSVVDADFRAALLENPAAFGASAAALPTPVEAQDQASLDFWTKDIAATEAFACRQSCSFGPFTFVCDGNTK
+>DATABASE|sp|P38655|LANC_STRS6_Lantibiotic_ancovenin_OS=Streptomyces_sp._(strain_A647P-2)_OX=72591_PE=1_SV=1||Lantibiotic_duramycin/duramycin_B-like
+CVQSCSFGPLTWSCDGNTK

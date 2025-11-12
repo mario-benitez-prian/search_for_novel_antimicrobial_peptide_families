@@ -1,0 +1,3 @@
+PRED|WP_005799093.1||Natural_product_precursor,_GG-Bacteroidales
+PRED|WP_005811687.1||Natural_product_precursor,_GG-Bacteroidales
+PRED|WP_008661762.1||Natural_product_precursor,_GG-Bacteroidales

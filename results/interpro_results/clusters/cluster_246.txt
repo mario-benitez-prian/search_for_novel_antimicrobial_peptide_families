@@ -1,0 +1,11 @@
+PRED|NP_001189113.1||Insect_protein_of_unknown_function
+PRED|NP_001261889.1||Insect_protein_of_unknown_function
+PRED|NP_524088.2||Insect_protein_of_unknown_function
+PRED|NP_524089.2||Insect_protein_of_unknown_function
+PRED|NP_524090.2||Insect_protein_of_unknown_function
+PRED|NP_524091.1||Insect_protein_of_unknown_function
+PRED|NP_524093.2||Insect_protein_of_unknown_function
+PRED|NP_524094.2||Insect_protein_of_unknown_function
+PRED|NP_648794.3||Insect_protein_of_unknown_function
+PRED|NP_648795.2||Insect_protein_of_unknown_function
+PRED|NP_648797.1||Insect_protein_of_unknown_function

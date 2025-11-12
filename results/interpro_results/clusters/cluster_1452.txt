@@ -1,0 +1,1 @@
+PRED|XP_001558120.1||ATP_synthase_subunit_K

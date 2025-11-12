@@ -1,0 +1,1 @@
+PRED|XP_075930492.1||Ragulator_complex_protein_LAMTOR4

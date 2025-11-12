@@ -1,0 +1,10 @@
+DATABASE|AP00475||Pseudin_antimicrobial_peptide
+DATABASE|AP00476||Pseudin_antimicrobial_peptide
+DATABASE|AP00477||Pseudin_antimicrobial_peptide
+DATABASE|AP00478||Pseudin_antimicrobial_peptide
+DATABASE|CAMPSQ11807_Ps-K18||Pseudin_antimicrobial_peptide
+DATABASE|CAMPSQ11808_Ps-K14-K18||Pseudin_antimicrobial_peptide
+DATABASE|CAMPSQ11809_Ps-P||Pseudin_antimicrobial_peptide
+DATABASE|CAMPSQ11810_Ps-K18-P||Pseudin_antimicrobial_peptide
+DATABASE|CAMPSQ11811_Ps-K18-P||Pseudin_antimicrobial_peptide
+DATABASE|CAMPSQ8749_PseudinB||Pseudin_antimicrobial_peptide

@@ -1,0 +1,1 @@
+PRED|XP_008363088.1||Protein_BPS1,_chloroplastic

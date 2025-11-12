@@ -1,0 +1,2 @@
+PRED|WP_001405930.1||Colicin_lysis_protein
+PRED|WP_004152552.1||Colicin_lysis_protein

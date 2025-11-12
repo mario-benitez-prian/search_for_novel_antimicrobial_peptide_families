@@ -1,0 +1,2 @@
+PRED|XP_008673459.1||rRNA_biogenesis_protein_RRP36
+PRED|XP_020397098.1||rRNA_biogenesis_protein_RRP36

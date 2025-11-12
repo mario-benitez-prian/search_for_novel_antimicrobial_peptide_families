@@ -1,0 +1,1 @@
+PRED|XP_002296562.1||Histone_acetyltransferase_Rtt109/CBP|Zinc_finger,_TAZ-type

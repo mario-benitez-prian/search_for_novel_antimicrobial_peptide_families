@@ -1,0 +1,3 @@
+PRED|XP_003623667.1||Late_embryogenesis_abundant_protein,_LEA_2_subgroup|Protein_NDR1-like
+PRED|XP_007022217.2||Late_embryogenesis_abundant_protein,_LEA_2_subgroup|Protein_NDR1-like
+PRED|XP_008670081.1||Protein_NDR1-like

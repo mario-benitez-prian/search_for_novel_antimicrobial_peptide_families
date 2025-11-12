@@ -1,0 +1,5 @@
+PRED|NP_001097586.1||Vago-like
+PRED|NP_001245618.1||Vago-like
+PRED|NP_572690.1||Vago-like
+PRED|XP_008190831.1||Vago-like
+PRED|XP_064211673.1||Vago-like

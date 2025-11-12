@@ -1,0 +1,6 @@
+DATABASE|CAMPSQ15142_C_AMP593||Ribosomal_protein_mS38,_C-terminal
+DATABASE|DBAASPR_21475_Streptomyces_highly_conserved_AMP,_SHC-AMP||Ribosomal_protein_mS38,_C-terminal
+DATABASE|Training_Seq3240||Ribosomal_protein_mS38,_C-terminal
+DATABASE|Training_Seq524||Ribosomal_protein_mS38,_C-terminal
+PRED|WP_003402602.1||Ribosomal_protein_mS38,_C-terminal
+PRED|WP_071804592.1||Ribosomal_protein_mS38,_C-terminal

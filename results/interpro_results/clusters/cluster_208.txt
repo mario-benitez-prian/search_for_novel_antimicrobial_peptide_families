@@ -1,0 +1,1 @@
+PRED|NP_001189240.1||Sodium:Solute_Symporter_(SSF)

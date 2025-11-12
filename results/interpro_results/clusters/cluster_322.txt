@@ -1,0 +1,6 @@
+PRED|WP_000221701.1||(Na+)-NQR_maturation_factor_NqrM
+PRED|WP_001091359.1||(Na+)-NQR_maturation_factor_NqrM
+PRED|WP_002214684.1||(Na+)-NQR_maturation_factor_NqrM
+PRED|WP_002219688.1||(Na+)-NQR_maturation_factor_NqrM
+PRED|WP_003091178.1||(Na+)-NQR_maturation_factor_NqrM
+PRED|WP_004178678.1||(Na+)-NQR_maturation_factor_NqrM

@@ -1,0 +1,4 @@
+PRED|XP_003557460.1||Associate_of_Myc_1
+PRED|XP_006367029.1||Associate_of_Myc_1
+PRED|XP_015645197.1||Associate_of_Myc_1
+PRED|XP_021308411.1||Associate_of_Myc_1

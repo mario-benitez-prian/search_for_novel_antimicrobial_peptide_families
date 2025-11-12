@@ -1,0 +1,1 @@
+PRED|WP_072035654.1||Phage-encoded_virulence_factor

@@ -1,0 +1,3 @@
+DATABASE|AP02132||Mannan-binding_protein|Oligomannose-binding_and_Chitinase-activity_Domain-containing_Protein
+DATABASE|CAMPSQ3783_Microcystisviridislectin||Mannan-binding_protein|Oligomannose-binding_and_Chitinase-activity_Domain-containing_Protein
+DATABASE|Training_Seq3636||Mannan-binding_protein|Oligomannose-binding_and_Chitinase-activity_Domain-containing_Protein

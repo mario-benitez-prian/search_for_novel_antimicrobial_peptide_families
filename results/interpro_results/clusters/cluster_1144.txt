@@ -1,0 +1,5 @@
+PRED|WP_001219350.1||Small_membrane_protein_YoaK
+PRED|WP_001589065.1||Small_membrane_protein_YoaK
+PRED|WP_004150782.1||Small_membrane_protein_YoaK
+PRED|WP_032155854.1||Small_membrane_protein_YoaK
+PRED|WP_136085610.1||Small_membrane_protein_YoaK

@@ -1,0 +1,2 @@
+PRED|NP_010898.1||Plasma_membrane_ATPase_proteolipid
+PRED|NP_058137.1||Plasma_membrane_ATPase_proteolipid

@@ -1,0 +1,3 @@
+PRED|WP_002853093.1||Helix-hairpin-helix_DNA-binding_motif,_class_1
+PRED|WP_162992192.1||Helix-hairpin-helix_DNA-binding_motif,_class_1
+PRED|WP_442496531.1||Helix-hairpin-helix_DNA-binding_motif,_class_1

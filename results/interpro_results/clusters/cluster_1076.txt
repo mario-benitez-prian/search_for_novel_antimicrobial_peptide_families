@@ -1,0 +1,1 @@
+PRED|XP_009054244.1||Forkhead_box_transcription_regulator

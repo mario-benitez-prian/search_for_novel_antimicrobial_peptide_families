@@ -1,0 +1,1 @@
+PRED|WP_064496619.1||Protein_of_unknown_function_DUF5400

@@ -1,0 +1,4 @@
+PRED|WP_000377225.1||Putative_metal-binding_protein
+PRED|WP_000377229.1||Putative_metal-binding_protein
+PRED|WP_004175410.1||Putative_metal-binding_protein
+PRED|WP_023224917.1||Putative_metal-binding_protein

@@ -1,0 +1,1 @@
+PRED|WP_005410498.1||LiaI-LiaF-like_transmembrane_region

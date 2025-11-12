@@ -1,0 +1,1 @@
+PRED|XP_030832645.1||Complex_I_51_kDa_subunit

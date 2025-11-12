@@ -1,0 +1,3 @@
+PRED|NP_001162859.1||Seminal_fluid_protein_24Bc
+PRED|NP_001162861.1||Seminal_fluid_protein_24Bc
+PRED|NP_001162862.1||Seminal_fluid_protein_24Bc

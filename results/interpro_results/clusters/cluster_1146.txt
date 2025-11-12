@@ -1,0 +1,3 @@
+DATABASE|AP00666||Bombesin/neuromedin-B/ranatensin_peptide_family
+DATABASE|Training_Seq2234||Bombesin/neuromedin-B/ranatensin_peptide_family
+PRED|XP_004916033.2||Bombesin/neuromedin-B/ranatensin_peptide_family

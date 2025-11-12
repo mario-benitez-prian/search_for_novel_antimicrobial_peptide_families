@@ -1,0 +1,17 @@
+DATABASE|sp|A0A452E9Y6|PERL_CAPHI_Lactoperoxidase_OS=Capra_hircus_OX=9925_GN=LPO_PE=1_SV=1||Haem_peroxidase_superfamily|Haem_peroxidase,_animal-type
+DATABASE|sp|A5JUY8|PERL_BUBBU_Lactoperoxidase_OS=Bubalus_bubalis_OX=89462_GN=LPO_PE=1_SV=1||Haem_peroxidase_superfamily|Haem_peroxidase,_animal-type
+DATABASE|sp|P22079|PERL_HUMAN_Lactoperoxidase_OS=Homo_sapiens_OX=9606_GN=LPO_PE=1_SV=2||Haem_peroxidase_superfamily|Haem_peroxidase,_animal-type
+DATABASE|sp|P80025|PERL_BOVIN_Lactoperoxidase_OS=Bos_taurus_OX=9913_GN=LPO_PE=1_SV=1||Haem_peroxidase_superfamily|Haem_peroxidase,_animal-type
+DATABASE|sp|Q5SW46|PERL_MOUSE_Lactoperoxidase_OS=Mus_musculus_OX=10090_GN=Lpo_PE=1_SV=1||Haem_peroxidase_superfamily|Haem_peroxidase,_animal-type
+DATABASE|sp|Q8R481|PERL_MESAU_Lactoperoxidase_OS=Mesocricetus_auratus_OX=10036_GN=LPO_PE=1_SV=1||Haem_peroxidase_superfamily|Haem_peroxidase,_animal-type
+PRED|NP_001153574.1||Haem_peroxidase_superfamily|Haem_peroxidase,_animal-type
+PRED|NP_001401265.1||Haem_peroxidase_superfamily|Haem_peroxidase,_animal-type
+PRED|NP_006142.1||Haem_peroxidase_superfamily|Haem_peroxidase,_animal-type
+PRED|NP_536345.2||Haem_peroxidase_superfamily|Haem_peroxidase,_animal-type
+PRED|XP_011247600.1||Haem_peroxidase_superfamily|Haem_peroxidase,_animal-type
+PRED|XP_011523110.1||Haem_peroxidase_superfamily|Haem_peroxidase,_animal-type
+PRED|XP_024316460.1||Haem_peroxidase|Haem_peroxidase_superfamily|Plant_peroxidase|Secretory_peroxidase
+PRED|XP_024316664.1||Haem_peroxidase|Haem_peroxidase_superfamily|Plant_peroxidase|Secretory_peroxidase
+PRED|XP_024358477.1||Haem_peroxidase_superfamily
+PRED|XP_062815645.1||Haem_peroxidase_superfamily|Haem_peroxidase,_animal-type
+PRED|XP_063124774.1||Haem_peroxidase_superfamily|Haem_peroxidase,_animal-type

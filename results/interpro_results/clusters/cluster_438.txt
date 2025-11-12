@@ -1,0 +1,3 @@
+PRED|NP_001290058.1||Mitochondrial_F1-F0_ATP_synthase_subunit_F,_predicted
+PRED|XP_007904303.1||Mitochondrial_F1-F0_ATP_synthase_subunit_F,_predicted
+PRED|XP_012825902.1||Mitochondrial_F1-F0_ATP_synthase_subunit_F,_predicted

@@ -1,0 +1,1 @@
+DATABASE|sp|J9ZXD8|PROT_BACS1_Polytheonamide_B_OS=Bacterium_symbiont_subsp._Theonella_swinhoei_(strain_pTSMAC1)_OX=1221190_GN=poyA_PE=1_SV=1||Nitrile_hydratase_alpha_/Thiocyanate_hydrolase_gamma_superfamily

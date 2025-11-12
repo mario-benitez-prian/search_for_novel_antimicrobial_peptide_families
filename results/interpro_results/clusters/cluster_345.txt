@@ -1,0 +1,6 @@
+PRED|WP_002898600.1||Small_membrane_protein_KPN01023-like
+PRED|WP_004143611.1||Small_membrane_protein_KPN01023-like
+PRED|WP_004144151.1||Small_membrane_protein_KPN01023-like
+PRED|WP_004175940.1||Small_membrane_protein_KPN01023-like
+PRED|WP_004180546.1||Small_membrane_protein_KPN01023-like
+PRED|WP_004195995.1||Small_membrane_protein_KPN01023-like

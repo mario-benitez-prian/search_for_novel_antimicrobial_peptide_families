@@ -1,0 +1,1 @@
+PRED|NP_509168.1||Systemic_RNA_interference_defective_protein_5

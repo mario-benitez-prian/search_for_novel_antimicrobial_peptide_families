@@ -1,0 +1,11 @@
+PRED|NP_001023410.1||Proteolipid_membrane_potential_modulator
+PRED|NP_001323801.1||Proteolipid_membrane_potential_modulator
+PRED|NP_001370602.1||Proteolipid_membrane_potential_modulator
+PRED|NP_001379923.1||Proteolipid_membrane_potential_modulator
+PRED|WP_000508175.1||Proteolipid_membrane_potential_modulator
+PRED|WP_000508176.1||Proteolipid_membrane_potential_modulator
+PRED|WP_000508177.1||Proteolipid_membrane_potential_modulator
+PRED|WP_002903230.1||Proteolipid_membrane_potential_modulator
+PRED|XP_012047684.1||Proteolipid_membrane_potential_modulator
+PRED|XP_042926401.1||Proteolipid_membrane_potential_modulator
+PRED|XP_646355.2||Proteolipid_membrane_potential_modulator

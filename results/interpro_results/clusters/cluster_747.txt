@@ -1,0 +1,1 @@
+PRED|XP_075925963.1||6-pyruvoyl_tetrahydropterin_synthase/QueD_family|6-pyruvoyl_tetrahydropterin_synthase/QueD_superfamily

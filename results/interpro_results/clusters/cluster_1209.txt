@@ -1,0 +1,1 @@
+PRED|NP_001254628.1||Small_ribosomal_subunit_protein_eS1

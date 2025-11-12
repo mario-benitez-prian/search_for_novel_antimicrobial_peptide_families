@@ -1,0 +1,3 @@
+PRED|WP_001881287.1||Ribosome_modulation_factor
+PRED|WP_002228015.1||Ribosome_modulation_factor
+PRED|WP_002898396.1||Ribosome_modulation_factor

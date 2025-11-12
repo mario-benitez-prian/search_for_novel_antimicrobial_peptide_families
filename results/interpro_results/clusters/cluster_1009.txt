@@ -1,0 +1,1 @@
+PRED|WP_424353533.1||Transcriptional_regulator/dioxygenase,_bacterial-type

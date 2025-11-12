@@ -1,0 +1,4 @@
+PRED|NP_001285990.1||Sarcolamban_A/B
+PRED|NP_001285991.1||Sarcolamban_A/B
+PRED|NP_001285992.1||Sarcolamban_A/B
+PRED|NP_001285993.1||Sarcolamban_A/B

@@ -1,0 +1,1 @@
+PRED|WP_002905689.1||Coenzyme_PQQ_biosynthesis_protein_A

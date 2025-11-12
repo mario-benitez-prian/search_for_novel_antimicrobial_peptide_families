@@ -1,0 +1,2 @@
+PRED|XP_002181523.1||ARFGAP/RecO-like_zinc_finger|Arf_GTPase_activating_protein
+PRED|XP_002291797.1||ARFGAP/RecO-like_zinc_finger|Arf_GTPase_activating_protein

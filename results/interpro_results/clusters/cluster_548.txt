@@ -1,0 +1,6 @@
+PRED|NP_001106949.1||Ribonuclease_kappa|Ribonuclease_kappa-like
+PRED|NP_500905.2||Ribonuclease_kappa
+PRED|NP_611644.1||Ribonuclease_kappa
+PRED|XP_004922397.1||Ribonuclease_kappa|Ribonuclease_kappa-like
+PRED|XP_024549228.1||Ribonuclease_kappa|Ribonuclease_kappa-like
+PRED|XP_050468850.1||Ribonuclease_kappa-like

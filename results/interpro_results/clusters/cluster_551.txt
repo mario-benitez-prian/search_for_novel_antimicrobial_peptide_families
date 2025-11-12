@@ -1,0 +1,2 @@
+PRED|XP_002121100.1||Superoxide_dismutase_(Cu/Zn)_/_superoxide_dismutase_copper_chaperone
+PRED|XP_026695155.1||Superoxide_dismutase_(Cu/Zn)_/_superoxide_dismutase_copper_chaperone

@@ -1,0 +1,1 @@
+DATABASE|Training_Seq686||Glutathione_synthase|Glutathione_synthase,_C-terminal,_eukaryotic

@@ -1,0 +1,3 @@
+PRED|NP_001016493.1||Cysteine_and_tyrosine-rich_protein_1
+PRED|XP_040514719.1||Cysteine_and_tyrosine-rich_protein_1
+PRED|XP_040514720.1||Cysteine_and_tyrosine-rich_protein_1

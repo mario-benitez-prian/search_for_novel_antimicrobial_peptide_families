@@ -1,0 +1,1 @@
+PRED|WP_005780999.1||Histone_H1-like_Hc1

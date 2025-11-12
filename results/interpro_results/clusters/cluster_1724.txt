@@ -1,0 +1,1 @@
+PRED|NP_001076602.1||Mitochondrial_Protein_Transport_Metaxin

@@ -1,0 +1,1 @@
+DATABASE|Training_Seq572||Erythrocyte_Invasion_and_Immune_Modulation_Protein|Transglutaminase_elicitor

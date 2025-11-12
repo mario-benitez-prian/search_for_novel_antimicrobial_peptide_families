@@ -1,0 +1,2 @@
+PRED|NP_001327924.1||Protein_of_unknown_function_DUF3067
+PRED|XP_024386319.1||Protein_of_unknown_function_DUF3067

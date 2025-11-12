@@ -1,0 +1,4 @@
+PRED|NP_001331125.1||Respiratory_supercomplex_factor_2,_mitochondrial
+PRED|XP_002450135.2||Respiratory_supercomplex_factor_2,_mitochondrial
+PRED|XP_003552153.1||Respiratory_supercomplex_factor_2,_mitochondrial
+PRED|XP_061512343.1||Mitochondrial_Respiratory_Supercomplex_Factor_1

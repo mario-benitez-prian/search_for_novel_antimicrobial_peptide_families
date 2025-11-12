@@ -1,0 +1,2 @@
+DATABASE|AP02628||Urease_Alpha_Subunit
+DATABASE|Training_Seq2836||Urease_Alpha_Subunit

@@ -1,0 +1,1 @@
+PRED|WP_003419503.1||Sporulation_protein_YlmC/YmxH

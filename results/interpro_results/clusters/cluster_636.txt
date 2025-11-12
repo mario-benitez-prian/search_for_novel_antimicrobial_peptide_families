@@ -1,0 +1,3 @@
+PRED|WP_002892701.1||Nickel/cobalt_homeostasis_protein_RcnB
+PRED|WP_003090028.1||anti-virulence_regulator_CigR_family_protein|inner_membrane_protein_cigr
+PRED|WP_099540070.1||Nickel/cobalt_homeostasis_protein_RcnB

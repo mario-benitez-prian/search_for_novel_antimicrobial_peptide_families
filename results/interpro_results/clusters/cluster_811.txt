@@ -1,0 +1,3 @@
+PRED|WP_000556760.1||Preprotein_translocase_SecG_subunit
+PRED|WP_002658319.1||Preprotein_translocase_SecG_subunit
+PRED|WP_003220028.1||Preprotein_translocase_SecG_subunit

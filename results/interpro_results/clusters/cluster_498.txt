@@ -1,0 +1,2 @@
+PRED|WP_000643375.1||Protein_fil
+PRED|WP_023343330.1||Protein_fil

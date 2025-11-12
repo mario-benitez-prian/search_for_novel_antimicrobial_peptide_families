@@ -1,0 +1,3 @@
+PRED|NP_001276572.1||Secretoglobin_3A
+PRED|NP_001276573.1||Secretoglobin_3A
+PRED|XP_036016835.1||Secretoglobin_3A

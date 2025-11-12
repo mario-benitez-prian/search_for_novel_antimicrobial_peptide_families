@@ -1,0 +1,7 @@
+DATABASE|AP01151||Alpha_enterocin/lactococcin
+DATABASE|AP01152||Alpha_enterocin/lactococcin
+DATABASE|AP01155||Alpha_enterocin/lactococcin
+DATABASE|DBAASPR_1336_Bacteriocin_Lactococcin-G_subunit_alpha||Alpha_enterocin/lactococcin
+DATABASE|Training_Seq20||Alpha_enterocin/lactococcin
+DATABASE|Training_Seq2176||Alpha_enterocin/lactococcin
+DATABASE|Training_Seq2179||Alpha_enterocin/lactococcin

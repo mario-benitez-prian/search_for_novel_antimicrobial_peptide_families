@@ -1,0 +1,1 @@
+PRED|XP_008106169.2||Uncharacterized_protein_C11orf87

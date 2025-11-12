@@ -1,0 +1,4 @@
+PRED|NP_001235677.2||Photosystem_II_5kDa_protein,_chloroplastic
+PRED|NP_001238741.2||Photosystem_II_5kDa_protein,_chloroplastic
+PRED|XP_004143237.1||Photosystem_II_5kDa_protein,_chloroplastic
+PRED|XP_015623863.1||Photosystem_II_5kDa_protein,_chloroplastic

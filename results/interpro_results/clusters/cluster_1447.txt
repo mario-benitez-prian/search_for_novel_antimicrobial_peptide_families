@@ -1,0 +1,1 @@
+PRED|WP_002981918.1||Cell_division_protein_DivIC|Septum_formation_initiator_FtsL/DivIC

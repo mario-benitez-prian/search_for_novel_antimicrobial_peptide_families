@@ -1,0 +1,3 @@
+PRED|XP_001839471.2||Secreted_LysM_effector_LysM1-like
+PRED|XP_014754133.1||Secreted_LysM_effector_LysM1-like
+PRED|XP_024315926.1||Secreted_LysM_effector_LysM1-like

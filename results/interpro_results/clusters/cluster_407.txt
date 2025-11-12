@@ -1,0 +1,11 @@
+DATABASE|AP00276||Clavanin
+DATABASE|AP00277||Clavanin
+DATABASE|AP00278||Clavanin
+DATABASE|AP00279||Clavanin
+DATABASE|AP00280||Clavanin
+DATABASE|AP00502||Clavanin
+DATABASE|Training_Seq1579||Clavanin
+DATABASE|Training_Seq1580||Clavanin
+DATABASE|Training_Seq1581||Clavanin
+DATABASE|Training_Seq1582||Clavanin
+DATABASE|Training_Seq1740||Clavanin

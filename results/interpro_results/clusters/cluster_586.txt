@@ -1,0 +1,5 @@
+PRED|WP_005409958.1||Tetratricopeptide_repeat
+PRED|WP_231856869.1||Tetratricopeptide_repeat
+PRED|XP_012650599.1||Tetratricopeptide_repeat|Tetratricopeptide_repeat_2|Ycf3/AcsC/BcsC/TPR_Multifunctional
+PRED|XP_012654030.1||Tetratricopeptide_repeat|Ycf3/AcsC/BcsC/TPR_Multifunctional
+PRED|XP_048590050.1||Tetratricopeptide_repeat

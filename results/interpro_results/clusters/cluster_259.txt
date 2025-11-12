@@ -1,0 +1,12 @@
+DATABASE|Training_Seq1885||Unknown
+DATABASE|Training_Seq1886||Unknown
+DATABASE|Training_Seq3049||Unknown
+DATABASE|Training_Seq3108||Unknown
+DATABASE|Training_Seq3457||Pulmonary_surfactant-associated_protein_C|Surfactant_protein_C,_N-terminal_propeptide
+DATABASE|Training_Seq3458||Pulmonary_surfactant-associated_protein_C|Surfactant_protein_C,_N-terminal_propeptide
+DATABASE|sp|Q5SC60|ANN1_AREMA_Arenicin-1_OS=Arenicola_marina_OX=6344_PE=1_SV=1||Unknown
+PRED|XP_002935350.1||Gastrokine
+PRED|XP_002935351.1||Gastrokine
+PRED|XP_031754001.1||Gastrokine
+PRED|XP_031754002.1||Gastrokine
+PRED|XP_031754003.1||Gastrokine

@@ -1,0 +1,2 @@
+PRED|WP_000469266.1||Translation_of_intergenic_region
+PRED|WP_052939280.1||Translation_of_intergenic_region

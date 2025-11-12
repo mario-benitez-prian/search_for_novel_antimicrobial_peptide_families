@@ -1,0 +1,2 @@
+PRED|NP_652413.1||Deltamethrin_resistance_protein_prag01
+PRED|XP_005102276.1||Deltamethrin_resistance_protein_prag01

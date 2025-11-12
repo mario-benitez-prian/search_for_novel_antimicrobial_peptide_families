@@ -1,0 +1,7 @@
+DATABASE|AP00930||glycocin_F_family_RiPP_peptide
+DATABASE|AP01761||Unknown
+DATABASE|AP05680||glycocin_F_family_RiPP_peptide
+DATABASE|DBAASPR_21775_Glycocin_F,_GccF||Unknown
+DATABASE|DBAASPR_21776_Plantaricin_ASM1||Unknown
+DATABASE|Training_Seq2006||glycocin_F_family_RiPP_peptide
+DATABASE|Training_Seq2570||glycocin_F_family_RiPP_peptide

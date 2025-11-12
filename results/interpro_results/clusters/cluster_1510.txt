@@ -1,0 +1,1 @@
+PRED|XP_046763402.1||Tumor_necrosis_factor_receptor_13C/17

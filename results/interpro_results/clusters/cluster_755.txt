@@ -1,0 +1,3 @@
+PRED|XP_001629482.1||Aerolysin-like_pore-forming_protein|Aerolysin-like,_C-terminal
+PRED|XP_001639919.2||Aerolysin-like_pore-forming_protein|Aerolysin-like,_C-terminal
+PRED|XP_048579804.1||Aerolysin-like_pore-forming_protein|Aerolysin-like,_C-terminal

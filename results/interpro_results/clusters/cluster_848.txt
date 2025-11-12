@@ -1,0 +1,14 @@
+PRED|NP_001262214.1||New-glue_1-3-like
+PRED|NP_001287026.1||New-glue_1-3-like
+PRED|NP_001287146.1||New-glue_1-3-like
+PRED|NP_476655.1||New-glue_1-3-like
+PRED|NP_476941.2||New-glue_1-3-like
+PRED|NP_649404.1||New-glue_1-3-like
+PRED|NP_649406.2||New-glue_1-3-like
+PRED|NP_729668.1||New-glue_1-3-like
+PRED|NP_730308.1||New-glue_1-3-like
+PRED|NP_730309.1||New-glue_1-3-like
+PRED|NP_730733.1||New-glue_1-3-like
+PRED|NP_996046.2||New-glue_1-3-like
+PRED|NP_996052.1||New-glue_1-3-like
+PRED|NP_996053.1||New-glue_1-3-like

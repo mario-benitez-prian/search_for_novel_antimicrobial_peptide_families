@@ -1,0 +1,9 @@
+PRED|NP_001100075.1||Protein_of_unknown_function_DUF842,_eukaryotic
+PRED|NP_001316684.1||Protein_of_unknown_function_DUF842,_eukaryotic
+PRED|NP_001316686.1||Protein_of_unknown_function_DUF842,_eukaryotic
+PRED|NP_001316687.1||Protein_of_unknown_function_DUF842,_eukaryotic
+PRED|NP_001355292.1||Protein_of_unknown_function_DUF842,_eukaryotic
+PRED|NP_079867.1||Protein_of_unknown_function_DUF842,_eukaryotic
+PRED|NP_116211.2||Protein_of_unknown_function_DUF842,_eukaryotic
+PRED|XP_036010318.1||Protein_of_unknown_function_DUF842,_eukaryotic
+PRED|XP_064421770.1||Protein_of_unknown_function_DUF842,_eukaryotic

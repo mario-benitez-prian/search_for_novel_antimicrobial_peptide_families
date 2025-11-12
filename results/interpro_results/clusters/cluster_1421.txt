@@ -1,0 +1,2 @@
+PRED|XP_014768611.1||PiggyBac_transposable_element-derived_protein
+PRED|XP_048577203.1||PiggyBac_transposable_element-derived_protein

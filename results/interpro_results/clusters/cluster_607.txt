@@ -1,0 +1,1 @@
+PRED|XP_062839663.1||Integrin_binding_protein,_ICAP-1

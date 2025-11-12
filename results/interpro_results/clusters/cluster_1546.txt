@@ -1,0 +1,3 @@
+PRED|NP_001161864.1||Receptor_activity_modifying_protein
+PRED|XP_038940076.1||Receptor_activity_modifying_protein
+PRED|XP_063123731.1||Receptor_activity_modifying_protein

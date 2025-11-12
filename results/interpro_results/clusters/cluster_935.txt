@@ -1,0 +1,2 @@
+PRED|WP_000648140.1||HofP_protein
+PRED|WP_001264141.1||HofP_protein

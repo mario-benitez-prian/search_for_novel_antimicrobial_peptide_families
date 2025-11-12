@@ -1,0 +1,1 @@
+PRED|WP_003082429.1||Nitrate_reductas,_NapE,_periplasmic|Nitrate/trimethylamine_N-oxide_reductase_NapE/TorE

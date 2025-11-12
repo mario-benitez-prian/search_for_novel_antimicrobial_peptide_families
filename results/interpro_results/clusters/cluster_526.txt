@@ -1,0 +1,3 @@
+PRED|XP_008647319.1||Cation_Diffusion_Facilitator/SLC30A|Cation_efflux_protein
+PRED|XP_012653489.1||Cation_efflux_protein|Transmembrane_protein_163
+PRED|XP_030840893.1||Cation_efflux_protein|Zinc_transporter_Msc2-like

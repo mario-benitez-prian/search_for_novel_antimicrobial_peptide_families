@@ -1,0 +1,2 @@
+PRED|XP_002296778.1||MORN_repeat
+PRED|XP_030831432.1||Junctophilin|MORN_repeat

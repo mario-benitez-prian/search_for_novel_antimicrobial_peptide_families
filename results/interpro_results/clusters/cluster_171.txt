@@ -1,0 +1,3 @@
+PRED|NP_001373671.1||Otospiralin
+PRED|XP_011606390.1||Otospiralin
+PRED|XP_040023864.1||Otospiralin

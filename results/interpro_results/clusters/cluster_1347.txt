@@ -1,0 +1,1 @@
+PRED|XP_009046391.1||MADS-box/MEF2_Transcription_Factor|SRF-like,_MADS-box|Transcription_factor,_MADS-box|Transcription_factor,_MADS-box_superfamily

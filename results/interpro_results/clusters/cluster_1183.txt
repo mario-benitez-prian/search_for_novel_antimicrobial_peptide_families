@@ -1,0 +1,2 @@
+PRED|WP_001089087.1||Oxaloacetate_decarboxylase,_gamma_chain|Sodium_ion-translocating_decarboxylase
+PRED|WP_010881504.1||Sodium_ion-translocating_decarboxylase

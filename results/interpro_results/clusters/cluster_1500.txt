@@ -1,0 +1,1 @@
+PRED|WP_002430108.1||Bacteriophage_holin_HP1_family

@@ -1,0 +1,2 @@
+PRED|XP_024533922.1||Cyclin_PHO80-like
+PRED|XP_028963421.1||Cyclin-like_superfamily|Transcription_factor_TFIIB

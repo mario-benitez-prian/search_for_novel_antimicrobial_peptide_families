@@ -1,0 +1,1 @@
+PRED|WP_001047539.1||Sulphur_transfer_protein_DsrC/TusE

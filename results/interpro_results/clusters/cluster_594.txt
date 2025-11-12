@@ -1,0 +1,1 @@
+PRED|XP_042199347.1||Protein_male-specific_lethal-1

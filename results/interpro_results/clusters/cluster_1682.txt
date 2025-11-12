@@ -1,0 +1,1 @@
+PRED|NP_001246982.1||Conotoxin_I-superfamily

@@ -1,0 +1,2 @@
+PRED|WP_004043756.1||Protein_of_unknown_function_DUF7525
+PRED|WP_010902536.1||Protein_of_unknown_function_DUF7525

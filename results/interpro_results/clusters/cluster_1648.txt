@@ -1,0 +1,1 @@
+PRED|WP_009891067.1||Six-cysteine_peptide_SCIFF

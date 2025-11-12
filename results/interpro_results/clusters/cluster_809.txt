@@ -1,0 +1,8 @@
+PRED|WP_000838146.1||HicA_mRNA_interferase_family|HicA_superfamily
+PRED|WP_001259384.1||HicA_mRNA_interferase_family
+PRED|WP_002214976.1||HicA_mRNA_interferase_family|HicA_superfamily
+PRED|WP_010890096.1||Protein_of_unknown_function_DUF365
+PRED|WP_042014162.1||HicA_mRNA_interferase_family
+PRED|WP_074097982.1||HicA_mRNA_interferase_family|HicA_superfamily
+PRED|WP_076738546.1||HicA_mRNA_interferase_family|HicA_superfamily
+PRED|WP_231487535.1||HicA_superfamily

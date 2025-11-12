@@ -1,0 +1,1 @@
+DATABASE|sp|P42723|TFXA_RHILT_Trifolitoxin_OS=Rhizobium_leguminosarum_bv._trifolii_OX=386_GN=tfxA_PE=1_SV=1||trifolitoxin_family_RiPP_peptide

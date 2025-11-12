@@ -1,0 +1,1 @@
+PRED|WP_003238865.1||Uncharacterized_protein_YkpC-like

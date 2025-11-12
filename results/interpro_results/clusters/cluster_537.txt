@@ -1,0 +1,5 @@
+PRED|NP_001093144.1||Ribosomal_biogenesis_factor
+PRED|NP_001280249.1||Ribosomal_biogenesis_factor
+PRED|XP_007901429.1||Ribosomal_biogenesis_factor
+PRED|XP_038959276.1||Ribosomal_biogenesis_factor
+PRED|XP_047277733.1||Ribosomal_biogenesis_factor

@@ -1,0 +1,1 @@
+PRED|WP_003408509.1||CoA-dependent_acyltransferases

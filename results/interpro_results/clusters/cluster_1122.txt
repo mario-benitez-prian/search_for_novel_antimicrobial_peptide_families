@@ -1,0 +1,3 @@
+PRED|WP_002984200.1||D-Ala-teichoic_acid_biosynthesis_protein_DltX
+PRED|WP_003227330.1||D-Ala-teichoic_acid_biosynthesis_protein_DltX
+PRED|WP_003726190.1||D-Ala-teichoic_acid_biosynthesis_protein_DltX

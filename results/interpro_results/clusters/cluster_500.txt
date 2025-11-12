@@ -1,0 +1,10 @@
+PRED|NP_001105140.1||Basal_layer_antifungal_peptide
+PRED|NP_001105141.2||Basal_layer_antifungal_peptide
+PRED|NP_001105731.1||Basal_layer_antifungal_peptide
+PRED|NP_001145639.1||Basal_layer_antifungal_peptide
+PRED|NP_001353560.1||Basal_layer_antifungal_peptide
+PRED|XP_008661793.1||Basal_layer_antifungal_peptide
+PRED|XP_008662876.1||Basal_layer_antifungal_peptide
+PRED|XP_008678275.1||Basal_layer_antifungal_peptide
+PRED|XP_020401466.1||Basal_layer_antifungal_peptide
+PRED|XP_035818905.1||Basal_layer_antifungal_peptide

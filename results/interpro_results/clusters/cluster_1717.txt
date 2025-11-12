@@ -1,0 +1,1 @@
+PRED|NP_001407186.1||Peroxisomal_testis-specific_protein_1

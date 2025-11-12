@@ -1,0 +1,2 @@
+PRED|XP_003567508.1||ABA/WDS_induced_protein
+PRED|XP_035822464.1||ABA/WDS_induced_protein

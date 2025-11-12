@@ -1,0 +1,2 @@
+PRED|XP_005093369.1||LLP_homolog-like
+PRED|XP_040031228.1||LLP_homolog-like

@@ -1,0 +1,1 @@
+PRED|WP_033915387.1||4-oxalocrotonate_tautomerase|Tautomerase/MIF_superfamily

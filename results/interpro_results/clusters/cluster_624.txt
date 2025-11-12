@@ -1,0 +1,5 @@
+PRED|WP_001386572.1||Thr_operon_leader_peptide
+PRED|WP_001575544.1||Thr_operon_leader_peptide
+PRED|WP_001925859.1||Thr_operon_leader_peptide
+PRED|WP_002231504.1||Thr_operon_leader_peptide
+PRED|WP_004222578.1||Thr_operon_leader_peptide

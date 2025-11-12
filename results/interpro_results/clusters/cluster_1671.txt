@@ -1,0 +1,1 @@
+PRED|XP_001922019.3||SOUL_heme-binding_protein

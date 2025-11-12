@@ -1,0 +1,9 @@
+DATABASE|Training_Seq645||Opioid_neuropeptide_precursor|Proenkephalin_A
+DATABASE|sp|P01211|PENK_BOVIN_Proenkephalin-A_OS=Bos_taurus_OX=9913_GN=PENK_PE=1_SV=1||Opioid_neuropeptide_precursor|Proenkephalin_A
+PRED|NP_001002927.1||Opioid_neuropeptide_precursor|Proenkephalin_A
+PRED|NP_001015744.2||Opioid_neuropeptide_precursor|Proenkephalin_A
+PRED|NP_001335138.1||Opioid_neuropeptide_precursor|Proenkephalin_A
+PRED|NP_058835.2||Opioid_neuropeptide_precursor|Proenkephalin_A
+PRED|XP_003228529.1||Opioid_neuropeptide_precursor|Proenkephalin_A
+PRED|XP_006237897.1||Opioid_neuropeptide_precursor|Proenkephalin_A
+PRED|XP_008120389.1||Opioid_neuropeptide_precursor|Proenkephalin_A

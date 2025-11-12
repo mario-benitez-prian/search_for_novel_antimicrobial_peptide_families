@@ -1,0 +1,1 @@
+PRED|NP_001118829.1||Gal_Rha_Lectin_BGal

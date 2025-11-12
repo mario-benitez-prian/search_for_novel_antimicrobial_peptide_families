@@ -1,0 +1,1 @@
+PRED|XP_002296263.1||Serine/Threonine_Kinases_and_Pseudokinases

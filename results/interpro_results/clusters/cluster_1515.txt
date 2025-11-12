@@ -1,0 +1,1 @@
+PRED|XP_001031822.1||Sperm-tail_PG-rich_repeat

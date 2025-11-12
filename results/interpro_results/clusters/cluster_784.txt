@@ -1,0 +1,11 @@
+PRED|NP_001165148.1||Large_ribosomal_subunit_protein_eL29
+PRED|NP_001255763.1||Large_ribosomal_subunit_protein_eL29
+PRED|NP_477203.1||Large_ribosomal_subunit_protein_eL29
+PRED|NP_726053.1||Large_ribosomal_subunit_protein_eL29
+PRED|NP_726054.1||Large_ribosomal_subunit_protein_eL29
+PRED|XP_001704097.1||Large_ribosomal_subunit_protein_eL29
+PRED|XP_002368895.1||Large_ribosomal_subunit_protein_eL29
+PRED|XP_002585472.1||Large_ribosomal_subunit_protein_eL29
+PRED|XP_003217690.1||Large_ribosomal_subunit_protein_eL29
+PRED|XP_063140945.1||Large_ribosomal_subunit_protein_eL29
+PRED|XP_064422500.1||Large_ribosomal_subunit_protein_eL29

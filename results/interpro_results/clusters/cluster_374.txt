@@ -1,0 +1,2 @@
+PRED|NP_001386335.1||Succinate_dehydrogenase_assembly_factor_4
+PRED|XP_642377.1||Succinate_dehydrogenase_assembly_factor_4

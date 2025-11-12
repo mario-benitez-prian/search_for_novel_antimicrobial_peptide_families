@@ -1,0 +1,3 @@
+PRED|WP_000395692.1||ACP-like_superfamily|D-alanyl_carrier_protein
+PRED|XP_001349595.1||ACP-like_superfamily|Acyl_carrier_protein
+PRED|XP_002365498.1||ACP-like_superfamily|Acyl_carrier_protein

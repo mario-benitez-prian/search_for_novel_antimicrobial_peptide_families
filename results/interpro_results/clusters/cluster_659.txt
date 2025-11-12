@@ -1,0 +1,3 @@
+PRED|NP_566668.1||Arabinogalactan_protein_23/40
+PRED|XP_017192785.1||Arabinogalactan_protein_23/40
+PRED|XP_017976623.1||Arabinogalactan_protein_23/40

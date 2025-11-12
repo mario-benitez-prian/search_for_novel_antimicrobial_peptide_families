@@ -1,0 +1,1 @@
+PRED|WP_000633782.1||Flavoprotein-like_superfamily|Iron-sulfur_flavoprotein_SsuE-like

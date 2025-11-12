@@ -1,0 +1,3 @@
+PRED|NP_001097784.1||Neuropeptide_CCHamide_1/2
+PRED|XP_008190391.1||Neuropeptide_CCHamide_1/2
+PRED|XP_046453082.1||Neuropeptide_CCHamide_1/2

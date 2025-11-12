@@ -1,0 +1,1 @@
+PRED|NP_650373.1||Herpesvirus_Envelope_glycoprotein_GP350_C-terminal

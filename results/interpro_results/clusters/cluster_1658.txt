@@ -1,0 +1,1 @@
+PRED|WP_011278386.1||Cobalamin_adenosyltransferase-like|Cobalamin_adenosyltransferase-like_superfamily|Corrinoid_adenosyltransferase,_PduO-type

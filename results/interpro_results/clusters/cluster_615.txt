@@ -1,0 +1,6 @@
+PRED|NP_001243517.1||Zinc/iron_permease
+PRED|NP_998733.1||Zinc/iron_permease
+PRED|XP_006518858.1||Zinc/iron_permease
+PRED|XP_006518859.1||Zinc/iron_permease
+PRED|XP_015650691.1||Zinc/iron_permease
+PRED|XP_063130292.1||Zinc/iron_permease

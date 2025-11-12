@@ -1,0 +1,1 @@
+PRED|XP_073392775.1||NAD(P)H-quinone_oxidoreductase,_subunit_N

@@ -1,0 +1,8 @@
+PRED|XP_007887141.1||PLAC8_motif-containing_protein
+PRED|XP_029704274.1||PLAC8_motif-containing_protein
+PRED|XP_029704275.1||PLAC8_motif-containing_protein
+PRED|XP_040038888.1||PLAC8_motif-containing_protein
+PRED|XP_040038889.1||PLAC8_motif-containing_protein
+PRED|XP_042926763.1||PLAC8_motif-containing_protein
+PRED|XP_042926764.1||PLAC8_motif-containing_protein
+PRED|XP_042926765.1||PLAC8_motif-containing_protein

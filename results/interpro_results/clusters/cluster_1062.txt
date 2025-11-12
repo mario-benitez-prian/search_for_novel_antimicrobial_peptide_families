@@ -1,0 +1,2 @@
+PRED|XP_002322915.1||Cyclin-dependent_protein_kinase_inhibitor_SMR
+PRED|XP_014628252.1||Cyclin-dependent_protein_kinase_inhibitor_SMR

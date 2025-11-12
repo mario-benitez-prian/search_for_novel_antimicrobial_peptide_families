@@ -1,0 +1,1 @@
+DATABASE|sp|K9USW8|A1O_LOXGA_Dermonecrotic_toxin_LgSicTox-alphaIC1_OS=Loxosceles_gaucho_OX=58216_PE=1_SV=1||GDPD_like_SMaseD_PLD

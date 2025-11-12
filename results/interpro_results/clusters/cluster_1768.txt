@@ -1,0 +1,1 @@
+PRED|XP_009054371.1||V0_complex_accessory_subunit_Ac45

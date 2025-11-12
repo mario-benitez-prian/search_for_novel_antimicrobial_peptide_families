@@ -1,0 +1,1 @@
+PRED|WP_001227862.1||PhrA_family_quorum-sensing_system_peptide

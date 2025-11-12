@@ -1,0 +1,1 @@
+PRED|WP_048064265.1||Uncharacterised_conserved_protein_UCP037373,_transcriptional_regulator,_AF0674

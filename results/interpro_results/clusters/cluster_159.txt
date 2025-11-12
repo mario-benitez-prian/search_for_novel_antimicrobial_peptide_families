@@ -1,0 +1,8 @@
+PRED|NP_001320681.1||Zinc_finger,_GRF-type
+PRED|XP_003624653.1||Zinc_finger,_GRF-type
+PRED|XP_015163604.1||Zinc_finger,_GRF-type
+PRED|XP_015164970.1||Zinc_finger,_GRF-type
+PRED|XP_015166160.1||Zinc_finger,_GRF-type
+PRED|XP_015167300.1||Zinc_finger,_GRF-type
+PRED|XP_015170419.1||Zinc_finger,_GRF-type
+PRED|XP_024640631.1||Zinc_finger,_GRF-type

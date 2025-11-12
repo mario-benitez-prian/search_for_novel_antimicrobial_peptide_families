@@ -1,0 +1,2 @@
+PRED|WP_232500646.1||Dinitrogenase_iron-molybdenum_cofactor_biosynthesis_superfamily
+PRED|WP_424353357.1||Dinitrogenase_iron-molybdenum_cofactor_biosynthesis|Dinitrogenase_iron-molybdenum_cofactor_biosynthesis_superfamily

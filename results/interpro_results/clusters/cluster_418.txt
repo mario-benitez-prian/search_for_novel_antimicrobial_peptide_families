@@ -1,0 +1,2 @@
+PRED|WP_042741706.1||Protein_of_unknown_function_DUF3789
+PRED|WP_074044997.1||Protein_of_unknown_function_DUF3789

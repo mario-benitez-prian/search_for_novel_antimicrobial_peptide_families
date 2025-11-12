@@ -1,0 +1,1 @@
+PRED|XP_036009544.1||ARF7_effector_protein,_C-terminal

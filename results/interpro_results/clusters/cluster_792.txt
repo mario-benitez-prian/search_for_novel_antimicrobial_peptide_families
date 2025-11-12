@@ -1,0 +1,2 @@
+DATABASE|AP03322||Systemic_acquired_resistance_protein_SAR
+DATABASE|Training_Seq3224||Systemic_acquired_resistance_protein_SAR

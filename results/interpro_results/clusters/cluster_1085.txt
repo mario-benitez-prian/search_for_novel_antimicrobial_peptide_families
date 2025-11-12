@@ -1,0 +1,2 @@
+PRED|WP_000609144.1||DinQ-like_type_I_toxin_DqlB
+PRED|WP_004206884.1||DinQ-like_type_I_toxin_DqlB

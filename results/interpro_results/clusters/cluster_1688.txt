@@ -1,0 +1,1 @@
+PRED|XP_062831516.1||Testis-expressed_sequence_29_protein

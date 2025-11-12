@@ -1,0 +1,3 @@
+PRED|WP_000111118.1||FeoB-associated_Cys-rich_membrane_protein
+PRED|WP_003724531.1||FeoB-associated_Cys-rich_membrane_protein
+PRED|WP_021387842.1||FeoB-associated_Cys-rich_membrane_protein

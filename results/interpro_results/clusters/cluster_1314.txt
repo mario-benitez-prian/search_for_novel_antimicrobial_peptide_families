@@ -1,0 +1,1 @@
+DATABASE|sp|O31422|SKFA_BACSU_Sporulation_killing_factor_OS=Bacillus_subtilis_(strain_168)_OX=224308_GN=skfA_PE=1_SV=1||Sporulation_killing_factor_SkfA

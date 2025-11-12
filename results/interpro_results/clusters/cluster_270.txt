@@ -1,0 +1,10 @@
+PRED|WP_000270276.1||Cyd_operon_protein_YbgT|Membrane_bound_YbgT-like
+PRED|WP_000270278.1||Cyd_operon_protein_YbgT|Membrane_bound_YbgT-like
+PRED|WP_000270282.1||Cyd_operon_protein_YbgT|Membrane_bound_YbgT-like
+PRED|WP_000270285.1||Cyd_operon_protein_YbgT|Membrane_bound_YbgT-like
+PRED|WP_000270301.1||Membrane_bound_YbgT-like
+PRED|WP_000270305.1||Membrane_bound_YbgT-like
+PRED|WP_002210732.1||Cyd_operon_protein_YbgT|Membrane_bound_YbgT-like
+PRED|WP_002895051.1||Cyd_operon_protein_YbgT|Membrane_bound_YbgT-like
+PRED|WP_005410354.1||Cyd_operon_protein_YbgT|Membrane_bound_YbgT-like
+PRED|WP_071908327.1||Cyd_operon_protein_YbgT|Membrane_bound_YbgT-like

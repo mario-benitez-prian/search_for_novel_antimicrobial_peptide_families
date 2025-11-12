@@ -1,0 +1,1 @@
+PRED|WP_015251477.1||FxsA_cytoplasmic_membrane_protein

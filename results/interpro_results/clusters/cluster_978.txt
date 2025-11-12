@@ -1,0 +1,3 @@
+PRED|NP_001349393.1||Acyl-CoA_N-acyltransferase|Diverse_Substrate_Acetyltransferase
+PRED|WP_244409529.1||Acyl-CoA_N-acyltransferase
+PRED|XP_009060921.1||Acyl-CoA_N-acyltransferase|N-alpha-acetyltransferase_80

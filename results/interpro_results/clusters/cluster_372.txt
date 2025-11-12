@@ -1,0 +1,2 @@
+PRED|WP_001386977.1||YpfM-like
+PRED|WP_100181659.1||YpfM-like

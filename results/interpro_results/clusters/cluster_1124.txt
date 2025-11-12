@@ -1,0 +1,6 @@
+PRED|NP_001103717.1||Bursicon_subunit_beta
+PRED|XP_011661260.1||Bursicon_subunit_beta
+PRED|XP_011661261.1||Bursicon_subunit_beta
+PRED|XP_014782712.1||Bursicon_subunit_beta
+PRED|XP_030846767.1||Bursicon_subunit_beta
+PRED|XP_030846768.1||Bursicon_subunit_beta

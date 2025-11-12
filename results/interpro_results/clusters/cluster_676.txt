@@ -1,0 +1,2 @@
+PRED|XP_038949704.2||Disks_large_homolog_5,_N-terminal
+PRED|XP_063127902.1||SPEER/SPETEX

@@ -1,0 +1,11 @@
+PRED|NP_001284476.1||Apelin_receptor_early_endogenous_ligand
+PRED|NP_001284479.1||Apelin_receptor_early_endogenous_ligand
+PRED|NP_001284483.1||Apelin_receptor_early_endogenous_ligand
+PRED|NP_001295179.1||Apelin_receptor_early_endogenous_ligand
+PRED|NP_001386351.1||Apelin_receptor_early_endogenous_ligand
+PRED|NP_001386353.1||Apelin_receptor_early_endogenous_ligand
+PRED|XP_011611269.1||Apelin_receptor_early_endogenous_ligand
+PRED|XP_012811093.1||Apelin_receptor_early_endogenous_ligand
+PRED|XP_014352760.1||Apelin_receptor_early_endogenous_ligand
+PRED|XP_016863112.1||Apelin_receptor_early_endogenous_ligand
+PRED|XP_042193810.1||Apelin_receptor_early_endogenous_ligand
