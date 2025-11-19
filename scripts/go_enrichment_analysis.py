@@ -13,9 +13,17 @@ from goatools.go_enrichment import GOEnrichmentStudy
 # -----------------------------
 # CONFIGURATION
 # -----------------------------
-GO_FILE = Path("../results/go_analysis/interpro_GO_unique.tsv")
-GO_OBO = Path("../data/go_database/go-basic.obo")
-OUTPUT_FILE = Path("../results/go_analysis/go_enrichment_predicted.tsv")
+
+GO_OBO = Path("../data/go_database/go-basic.obo") # Database with GO term information
+
+# Con todas las predicted sequences
+
+GO_FILE = Path("../data/go_database/interpro_GO_unique_predicted_plus_database.tsv")
+OUTPUT_FILE = Path("../results/go_analysis/go_enrichment_predicted_vs_database.tsv")
+
+# Con novel sequences 
+"""GO_FILE = Path("../data/go_database/interpro_GO_unique_novel_plus_database.tsv")
+OUTPUT_FILE = Path("../results/go_analysis/go_enrichment_novel_vs_database.tsv")"""
 
 # -----------------------------
 # LOAD DATA
@@ -48,8 +56,6 @@ study_ids = list(pred_go.keys())
 
 # GO term to gene mapping
 gene2go = {k: v for k, v in all_go.items() if v}
-
-print(gene2go)
 
 # -----------------------------
 # RUN ENRICHMENT ANALYSIS

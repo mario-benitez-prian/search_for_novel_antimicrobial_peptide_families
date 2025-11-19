@@ -4,12 +4,14 @@ import matplotlib.pyplot as plt
 matplotlib.use("Agg")   # Non-interactive backend for WSL or servers
 import numpy as np
 from pathlib import Path
+import os
 
 # === Visualization section ===
 print("📊 Generating GO enrichment plots...")
 
 # Load GO enrichment results
-results_path = Path("../results/go_analysis/go_enrichment_predicted.tsv")
+results_path = Path("../results/go_analysis/go_enrichment_predicted_vs_database.tsv")
+#results_path = Path("../results/go_analysis/go_enrichment_novel_vs_database.tsv")
 df = pd.read_csv(results_path, sep="\t")
 
 # Filter enriched terms only (not depleted)
@@ -44,7 +46,7 @@ for ns in namespaces:
     plt.tight_layout()
 
     # Save plot
-    barplot_path = Path(f"../results/go_analysis/go_enrichment_top20_{ns}_predicted_vs_background.png")
+    barplot_path = Path(f"../results/go_analysis/{ns}_plot_top20_{results_path.stem}.png")
     plt.savefig(barplot_path, dpi=300)
     plt.close()
     print(f"✅ Saved barplot for {ns} at {barplot_path}")
@@ -59,7 +61,7 @@ plt.title("Distribution of Enriched GO Terms by Namespace")
 plt.tight_layout()
 
 # Save pie chart
-pie_path = Path("../results/go_analysis/go_enrichment_namespace_pie_predicted_vs_background.png")
+pie_path = Path(f"../results/go_analysis/namespace_plot_{results_path.stem}.png")
 plt.savefig(pie_path, dpi=300)
 plt.close()
 print(f"✅ Pie chart saved at {pie_path}")
