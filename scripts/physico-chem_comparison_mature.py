@@ -9,10 +9,10 @@ import matplotlib
 matplotlib.use("Agg")   # Non-interactive backend for WSL or servers
 
 
-# === Input ===
+# === Input for mature candidates ===
 FASTA_1 = "../data/database_amps/database_creation/database_mature_APD_CAMP_DBAASP_no_dups.fasta"
 FASTA_2 = "../data/predicted_amps/mature_candidates.faa"
-FASTA_3 = "../results/mature_predicted_novel.fasta"
+FASTA_3 = "../data/physico-chem_data/mature_predicted_novel.fasta"
 
 LABEL_1 = "Database Mature AMPs"
 LABEL_2 = "Predicted Mature AMPs"
@@ -20,6 +20,34 @@ LABEL_3 = "Predicted Mature Novel AMPs"
 
 OUTPUT_FIG_PATH = "../results/physicochem_analyses/AMP_mature_physicochemical_PCA.png"
 OUTPUT_TSV = "../results/physicochem_analyses/AMP_mature_physicochemical_properties.tsv"
+
+
+# === Input for predicted sequences (consensus) not all===
+
+FASTA_1 = "../data/predicted_amps/predicted_precursors_with_flag.fasta"
+FASTA_2 = "../data/database_amps/database_creation/database_precursors_training_plus_uniprot.fasta"
+FASTA_3 = "../data/physico-chem_data/shared_novel_seqs.fasta"
+
+LABEL_1 = "Predicted AMP Precursors"
+LABEL_2 = "Database AMP Precursors"
+LABEL_3 = "Predicted Novel AMP Precursors"
+
+OUTPUT_FIG_PATH = "../results/physicochem_analyses/AMP_precursors_physicochemical_PCA.png"
+OUTPUT_TSV = "../results/physicochem_analyses/AMP_precursors_physicochemical_properties.tsv"
+
+
+# === Input for uncharacterized and hypothetical predicted (consensus not all) and novel sequences.
+
+FASTA_1 = "../data/database_amps/database_creation/database_precursors_training_plus_uniprot.fasta"
+FASTA_2 = "../data/physico-chem_data/uncharacterized_shared_novel_seqs.fasta"
+FASTA_3 = "../data/physico-chem_data/hypothetical_shared_novel_seqs.fasta"
+
+LABEL_1 = "Database AMP Precursors"
+LABEL_2 = "Predicted AMP Precursors Uncharacterized"
+LABEL_3 = "Predicted AMP Precursors Hypothetical"
+
+OUTPUT_FIG_PATH = "../results/physicochem_analyses/uncharacterized_AMP_precursors_physicochemical_PCA.png"
+OUTPUT_TSV = "../results/physicochem_analyses/uncharacterized_AMP_precursors_physicochemical_properties.tsv"
 
 
 def compute_hydrophobicity(seq):
@@ -104,9 +132,7 @@ plt.legend()
 plt.grid(alpha=0.3)
 plt.tight_layout()
 plt.savefig(OUTPUT_FIG_PATH, dpi=300)
-plt.show()
 
 # Save results
 df.to_csv(OUTPUT_TSV, sep="\t", index=False)
-print("Saved results to AMPs_precursors_physicochemical_properties.tsv "
-      "and PCA plot to AMPs_physicochemical_PCA.png")
+print(f"Saved results to {OUTPUT_TSV} and PCA plot to {OUTPUT_FIG_PATH}")
