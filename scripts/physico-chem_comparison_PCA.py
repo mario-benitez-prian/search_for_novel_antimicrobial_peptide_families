@@ -21,7 +21,7 @@ LABEL_3 = "Predicted Mature Novel AMPs"
 OUTPUT_FIG_PATH = "../results/physicochem_analyses/AMP_mature_physicochemical_PCA.png"
 OUTPUT_TSV = "../results/physicochem_analyses/AMP_mature_physicochemical_properties.tsv"
 
-
+"""
 # === Input for predicted sequences (consensus) not all===
 
 FASTA_1 = "../data/predicted_amps/predicted_precursors_with_flag.fasta"
@@ -36,6 +36,7 @@ OUTPUT_FIG_PATH = "../results/physicochem_analyses/AMP_precursors_physicochemica
 OUTPUT_TSV = "../results/physicochem_analyses/AMP_precursors_physicochemical_properties.tsv"
 
 
+
 # === Input for uncharacterized and hypothetical predicted (consensus not all) and novel sequences.
 
 FASTA_1 = "../data/database_amps/database_creation/database_precursors_training_plus_uniprot.fasta"
@@ -48,7 +49,7 @@ LABEL_3 = "Predicted AMP Precursors Hypothetical"
 
 OUTPUT_FIG_PATH = "../results/physicochem_analyses/uncharacterized_AMP_precursors_physicochemical_PCA.png"
 OUTPUT_TSV = "../results/physicochem_analyses/uncharacterized_AMP_precursors_physicochemical_properties.tsv"
-
+"""
 
 def compute_hydrophobicity(seq):
     """Compute mean Kyte–Doolittle hydrophobicity."""
@@ -74,13 +75,33 @@ def compute_physicochemical_props(seq_record):
     return {
         "ID": seq_record.id,
         "Length": len(seq),
-        "GRAVY": analysed.gravy(),
         "Charge": analysed.charge_at_pH(7.0),
         "Aromaticity": analysed.aromaticity(),
         "InstabilityIndex": analysed.instability_index(),
         "IsoelectricPoint": analysed.isoelectric_point(),
         "Hydrophobicity": compute_hydrophobicity(seq)
     }
+
+# === Remove extreme outliers in PC1 and PC2 using IQR ===
+
+def remove_outliers_iqr(df, cols, k=1.5):
+    """Remove rows where any of the specified cols are outside the IQR range."""
+    mask = pd.Series([True] * len(df))
+    
+    for col in cols:
+        Q1 = df[col].quantile(0.25)
+        Q3 = df[col].quantile(0.75)
+        IQR = Q3 - Q1
+        
+        lower_bound = Q1 - k * IQR
+        upper_bound = Q3 + k * IQR
+        
+        mask &= df[col].between(lower_bound, upper_bound)
+    
+    removed = len(df) - mask.sum()
+    print(f"Removed {removed} outliers using IQR.")
+    
+    return df[mask]
 
 
 def fasta_to_dataframe(fasta_path, label):
@@ -105,7 +126,7 @@ print(f"Loaded {len(df1)} sequences from {LABEL_1}, "
 
 # --- PCA ---
 features = [
-    "Length", "GRAVY", "Charge", "Aromaticity",
+    "Length", "Charge", "Aromaticity",
     "InstabilityIndex", "IsoelectricPoint", "Hydrophobicity"
 ]
 X = df[features].values
@@ -115,6 +136,9 @@ pca = PCA(n_components=2)
 components = pca.fit_transform(X_scaled)
 df["PC1"] = components[:, 0]
 df["PC2"] = components[:, 1]
+
+# Apply outlier filtering
+df = remove_outliers_iqr(df, ["PC1", "PC2"], k=6)
 
 explained_var = pca.explained_variance_ratio_
 
@@ -136,3 +160,35 @@ plt.savefig(OUTPUT_FIG_PATH, dpi=300)
 # Save results
 df.to_csv(OUTPUT_TSV, sep="\t", index=False)
 print(f"Saved results to {OUTPUT_TSV} and PCA plot to {OUTPUT_FIG_PATH}")
+
+
+
+
+# === Plot loadings as horizontal barplots (positive vs negative) ===
+
+# Compute loadings dataframe
+loadings = pd.DataFrame(
+    pca.components_.T,
+    columns=["PC1", "PC2"],
+    index=features
+)
+
+# Plot loadings
+for pc in ["PC1", "PC2"]:
+    plt.figure(figsize=(7, 5))
+    loadings[pc].sort_values().plot(
+        kind="barh",
+        color=["#d62728" if v < 0 else "#1f77b4" for v in loadings[pc].sort_values()]
+    )
+    plt.axvline(0, color="black", linewidth=1)
+    plt.xlabel("Contribution (Loading)")
+    plt.title(f"Variable Loadings for {pc}")
+    plt.tight_layout()
+    plt.savefig(
+        OUTPUT_FIG_PATH.replace(".png", f"_{pc}_loadings.png"),
+        dpi=300
+    )
+    plt.close()
+
+print("Saved loading barplots for PC1 and PC2.")
+
