@@ -326,35 +326,7 @@ data_config = [
         "active": ["Interpro", "Predicted"],  
         "data": interpro,
         "color": "black"
-    },
-    
-    # --- INTERSECCIONES DOBLES ---
-    {
-        "label": "MM & Psi",        
-        "active": ["MMseqs", "Psi-CD-Hit", "Predicted"],      
-        "data": mmseqs & psi,
-        "color": "black"
-    },
-    {
-        "label": "MM & Inter",      
-        "active": ["MMseqs", "Interpro", "Predicted"], 
-        "data": mmseqs & interpro,
-        "color": "black"
-    },
-    {
-        "label": "Psi & Inter",     
-        "active": ["Psi-CD-Hit", "Interpro", "Predicted"],    
-        "data": psi & interpro,
-        "color": "black"
-    },
-    
-    # --- INTERSECCIÓN TRIPLE ---
-    {
-        "label": "All Three",       
-        "active": ["MMseqs", "Psi-CD-Hit", "Interpro", "Predicted"], 
-        "data": mmseqs & psi & interpro,
-        "color": "black"
-    },
+    }
 ]
 
 # ---- 3. Preparación de Valores ----
