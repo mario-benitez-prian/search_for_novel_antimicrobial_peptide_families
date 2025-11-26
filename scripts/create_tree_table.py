@@ -3,16 +3,6 @@
 import os
 from collections import defaultdict
 
-# ==================================================================
-# VARS
-# ==================================================================
-ID_FILE = "../data/shared_novel_seqs_ids_clean_no_header.txt"
-PREDICTIONS_FOLDER = "/home/mario/projects/100_proteomes_2/1_amp_locator_prediction/predictions"
-SUMMARY_TABLE = "../data/tree_data/AMPlocator_prediction_100_proteomes_analysis_summary.tsv"
-NEW_COLUMN_NAME = "Novel_AMPs"   # Name of new column to add
-OUTPUT_TABLE = "../data/tree_data/AMPlocator_prediction_100_proteomes_analysis_summary_updated.tsv"
-# ==================================================================
-
 
 def load_ids(id_file):
     """Load sequence IDs from file, one ID per line."""
@@ -126,9 +116,41 @@ def add_column_to_summary(summary_file, species_counts, new_column_name, output_
 
     print(f"\nUpdated table written to: {output_file}")
 
+def csv_to_tsv(input_csv, output_tsv):
+    """
+    Convert a comma-separated CSV file into a tab-separated TSV file.
+    """
+    with open(input_csv, "r", newline="", encoding="utf-8") as csv_file, \
+         open(output_tsv, "w", newline="", encoding="utf-8") as tsv_file:
+
+        reader = csv.reader(csv_file, delimiter=",")
+        writer = csv.writer(tsv_file, delimiter="\t")
+
+        for row in reader:
+            writer.writerow(row)
+
 
 if __name__ == "__main__":
-    
+
+    # ==================================================================
+    # VARS
+    # ==================================================================
+    ID_FILE = "../data/novel_seqs/shared_novel_seqs_ids_clean_no_header.txt"
+    PREDICTIONS_FOLDER = "/home/mario/projects/100_proteomes_2/1_amp_locator_prediction/predictions"
+    SUMMARY_TABLE = "../data/tree_data/AMPlocator_prediction_100_proteomes_analysis_summary.tsv"
+    NEW_COLUMN_NAME = "Novel_AMPs"   # Name of new column to add
+    OUTPUT_TABLE = "../data/tree_data/AMPlocator_prediction_100_proteomes_analysis_summary_updated.csv"
+    # ==================================================================    
+
     ids = load_ids(ID_FILE)
     species_counts = count_ids_per_species(ids, PREDICTIONS_FOLDER)
     add_column_to_summary(SUMMARY_TABLE, species_counts, NEW_COLUMN_NAME, OUTPUT_TABLE)
+
+    ID_FILE = "../data/novel_seqs/plus_psi_mmseqs_novel_seqs_clean_no_header.txt"
+    SUMMARY_TABLE = "../data/tree_data/AMPlocator_prediction_100_proteomes_analysis_summary_updated.csv"
+    NEW_COLUMN_NAME = "Novel_AMPs_mmseqs_psi"   # Name of new column to add
+
+    ids = load_ids(ID_FILE)
+    species_counts = count_ids_per_species(ids, PREDICTIONS_FOLDER)
+    add_column_to_summary(SUMMARY_TABLE, species_counts, NEW_COLUMN_NAME, OUTPUT_TABLE)
+
