@@ -11,7 +11,7 @@ print("📊 Generating GO enrichment plots...")
 
 # Load GO enrichment results
 results_path = Path("../results/go_analysis/go_enrichment_predicted_vs_database.tsv")
-#results_path = Path("../results/go_analysis/go_enrichment_novel_vs_database.tsv")
+results_path = Path("../results/go_analysis/go_enrichment_novel_vs_database.tsv")
 df = pd.read_csv(results_path, sep="\t")
 
 # Filter enriched terms only (not depleted)

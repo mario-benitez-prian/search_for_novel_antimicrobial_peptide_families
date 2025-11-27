@@ -18,8 +18,8 @@ GO_OBO = Path("../data/go_database/go-basic.obo") # Database with GO term inform
 
 # Con todas las predicted sequences
 
-GO_FILE = Path("../data/go_database/interpro_GO_unique_predicted_plus_database.tsv")
-OUTPUT_FILE = Path("../results/go_analysis/go_enrichment_predicted_vs_database.tsv")
+GO_FILE = Path("../data/go_database/nr_interpro_GO_unique_novel_plus_database_with_header.tsv")
+OUTPUT_FILE = Path("../results/go_analysis/go_enrichment_novel_vs_database.tsv")
 
 # Con novel sequences 
 """GO_FILE = Path("../data/go_database/interpro_GO_unique_novel_plus_database.tsv")

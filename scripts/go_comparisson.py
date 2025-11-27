@@ -6,8 +6,8 @@ from statsmodels.stats.multitest import multipletests
 from pathlib import Path
 
 # Ajusta estas rutas
-GO_FILE = Path("../data/go_database/interpro_GO_unique_predicted_plus_database.tsv")
-OUTPUT = Path("../results/go_analysis/go_enrichment_pred_vs_db_fisher.tsv")
+GO_FILE = Path("../data/go_database/nr_interpro_GO_unique_predicted_plus_database_with_header.tsv")
+OUTPUT = Path("../results/go_analysis/nr_go_enrichment_pred_vs_db_fisher.tsv")
 
 # Cargar
 df = pd.read_csv(GO_FILE, sep="\t", dtype=str)
