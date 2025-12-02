@@ -16,14 +16,18 @@ from goatools.go_enrichment import GOEnrichmentStudy
 
 GO_OBO = Path("../data/go_database/go-basic.obo") # Database with GO term information
 
-# Con todas las predicted sequences
+# --- Precursors with all predicted sequences (non-redundant) ---
 
-GO_FILE = Path("../data/go_database/nr_interpro_GO_unique_novel_plus_database_with_header.tsv")
-OUTPUT_FILE = Path("../results/go_analysis/go_enrichment_novel_vs_database.tsv")
+"""GO_FILE = Path("../data/go_database/nr_interpro_GO_unique_novel_plus_database_with_header.tsv")
+OUTPUT_FILE = Path("../results/go_analysis/go_enrichment_novel_vs_database.tsv")"""
 
-# Con novel sequences 
+# --- Precursors with novel sequences (redundant) ---
 """GO_FILE = Path("../data/go_database/interpro_GO_unique_novel_plus_database.tsv")
 OUTPUT_FILE = Path("../results/go_analysis/go_enrichment_novel_vs_database.tsv")"""
+
+# --- Mature peptide analysis (redundant) ---
+GO_FILE = Path("../data/go_database/interpro_GO_unique_mature_predictions_and_database.tsv")
+OUTPUT_FILE = Path("../results/go_analysis/go_enrichment_mature_predicted_vs_mature_database.tsv")
 
 # -----------------------------
 # LOAD DATA

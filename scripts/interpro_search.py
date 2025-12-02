@@ -16,6 +16,12 @@ PREDICTED_FASTA = Path("../data/predicted_amps/predicted_precursors_with_flag.fa
 OUTPUT_DIR = Path("../results/interpro_results")
 OUTPUT_PREFIX = OUTPUT_DIR / "predictions_and_database_families_interpro"
 
+# --- Mature data analysis 
+DATABASE_FASTA = Path("../data/database_amps/database_mature_amps.fasta")
+PREDICTED_FASTA = Path("../data/predicted_amps/mature_candidates_with_flag.fasta")
+OUTPUT_DIR = Path("../results/mature_interpro_results")
+OUTPUT_PREFIX = OUTPUT_DIR / "mature_and_database_families_interpro"
+
 # Create output directory if it doesn't exist
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 

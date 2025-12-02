@@ -1,0 +1,122 @@
+GO_ID	NS	Name	p_uncorrected	p_fdr_bh	enrichment	study_count	pop_count
+GO:0006412	BP	translation	9.635e-57	1.142e-54	enriched	440	442
+GO:0006869	BP	lipid transport	4.414e-19	3.140e-17	enriched	272	290
+GO:0006955	BP	immune response	5.986e-17	3.757e-15	enriched	398	445
+GO:0007186	BP	G protein-coupled receptor signaling pathway	8.697e-14	4.419e-12	enriched	99	99
+GO:0009664	BP	plant-type cell wall organization	2.977e-12	1.270e-10	enriched	89	89
+GO:0009627	BP	systemic acquired resistance	7.163e-12	2.729e-10	enriched	85	85
+GO:0019722	BP	calcium-mediated signaling	5.190e-11	1.786e-09	enriched	78	78
+GO:0016042	BP	lipid catabolic process	2.743e-10	8.869e-09	enriched	161	174
+GO:0006644	BP	phospholipid metabolic process	1.942e-08	5.452e-07	enriched	142	155
+GO:0030150	BP	protein import into mitochondrial matrix	3.353e-07	7.611e-06	enriched	50	50
+GO:0006508	BP	proteolysis	8.107e-07	1.730e-05	enriched	71	74
+GO:0045039	BP	protein insertion into mitochondrial inner membrane	1.555e-06	3.078e-05	enriched	46	46
+GO:0009755	BP	hormone-mediated signaling pathway	1.678e-05	2.888e-04	enriched	37	37
+GO:0007275	BP	multicellular organism development	7.473e-05	1.123e-03	enriched	33	33
+GO:0031145	BP	anaphase-promoting complex-dependent catabolic process	7.473e-05	1.123e-03	enriched	33	33
+GO:0032438	BP	melanosome organization	1.940e-04	2.836e-03	enriched	29	29
+GO:0008343	BP	adult feeding behavior	2.037e-04	2.898e-03	enriched	30	30
+GO:0050482	BP	arachidonate secretion	3.187e-04	4.417e-03	enriched	28	28
+GO:0006954	BP	inflammatory response	4.093e-04	5.599e-03	enriched	90	102
+GO:0033617	BP	mitochondrial respiratory chain complex IV assembly	5.592e-04	7.020e-03	enriched	27	27
+GO:0009267	BP	cellular response to starvation	8.552e-04	1.013e-02	enriched	24	24
+GO:0032099	BP	negative regulation of appetite	8.552e-04	1.013e-02	enriched	24	24
+GO:0007342	BP	fusion of sperm to egg plasma membrane involved in single fertilization	8.641e-04	1.013e-02	enriched	25	25
+GO:0043410	BP	positive regulation of MAPK cascade	8.641e-04	1.013e-02	enriched	25	25
+GO:0007304	BP	chorion-containing eggshell formation	2.258e-03	2.362e-02	enriched	21	21
+GO:0055085	BP	transmembrane transport	2.258e-03	2.362e-02	enriched	21	21
+GO:0006355	BP	regulation of DNA-templated transcription	2.362e-03	2.401e-02	enriched	22	22
+GO:0000028	BP	ribosomal small subunit assembly	2.362e-03	2.401e-02	enriched	22	22
+GO:0008285	BP	negative regulation of cell population proliferation	2.362e-03	2.401e-02	enriched	22	22
+GO:0007165	BP	signal transduction	2.568e-03	2.585e-02	enriched	39	42
+GO:0006334	BP	nucleosome assembly	2.601e-03	2.594e-02	enriched	40	43
+GO:0010466	BP	negative regulation of peptidase activity	3.718e-03	3.542e-02	enriched	20	20
+GO:0048332	BP	mesoderm morphogenesis	3.718e-03	3.542e-02	enriched	20	20
+GO:0000786	CC	nucleosome	3.671e-110	4.896e-108	enriched	989	1009
+GO:0005840	CC	ribosome	1.121e-38	1.087e-36	enriched	308	310
+GO:0022627	CC	cytosolic small ribosomal subunit	1.272e-15	7.540e-14	enriched	125	126
+GO:0016020	CC	membrane	2.044e-15	1.148e-13	enriched	171	178
+GO:0005886	CC	plasma membrane	2.448e-13	1.187e-11	enriched	107	108
+GO:0009506	CC	plasmodesma	1.320e-09	4.084e-08	enriched	78	79
+GO:0031012	CC	extracellular matrix	1.215e-06	2.543e-05	enriched	62	64
+GO:0005739	CC	mitochondrion	1.250e-06	2.566e-05	enriched	69	72
+GO:0005615	CC	extracellular space	2.829e-06	5.390e-05	enriched	723	903
+GO:0005744	CC	TIM23 mitochondrial import inner membrane translocase complex	3.856e-06	7.218e-05	enriched	42	42
+GO:0022625	CC	cytosolic large ribosomal subunit	1.028e-05	1.799e-04	enriched	39	39
+GO:0005743	CC	mitochondrial inner membrane	2.762e-05	4.534e-04	enriched	36	36
+GO:0009277	CC	fungal-type cell wall	7.372e-05	1.123e-03	enriched	32	32
+GO:0005680	CC	anaphase-promoting complex	7.473e-05	1.123e-03	enriched	33	33
+GO:0045271	CC	respiratory chain complex I	5.147e-04	6.697e-03	enriched	26	26
+GO:0001669	CC	acrosomal vesicle	5.147e-04	6.697e-03	enriched	26	26
+GO:0005783	CC	endoplasmic reticulum	5.147e-04	6.697e-03	enriched	26	26
+GO:0009986	CC	cell surface	1.013e-03	1.162e-02	enriched	31	32
+GO:0042600	CC	egg chorion	2.258e-03	2.362e-02	enriched	21	21
+GO:0005794	CC	Golgi apparatus	2.670e-03	2.638e-02	enriched	29	30
+GO:0036126	CC	sperm flagellum	3.953e-03	3.700e-02	enriched	26	27
+GO:0005634	CC	nucleus	4.576e-03	4.208e-02	enriched	70	80
+GO:0003677	MF	DNA binding	1.970e-212	7.006e-210	enriched	1686	1710
+GO:0030527	MF	structural constituent of chromatin	1.961e-211	5.231e-209	enriched	1672	1695
+GO:0046982	MF	protein heterodimerization activity	1.162e-205	2.480e-203	enriched	1670	1697
+GO:0003735	MF	structural constituent of ribosome	3.786e-42	4.040e-40	enriched	333	335
+GO:0008009	MF	chemokine activity	1.691e-14	9.023e-13	enriched	361	406
+GO:0004867	MF	serine-type endopeptidase inhibitor activity	2.440e-12	1.132e-10	enriched	197	213
+GO:0005504	MF	fatty acid binding	2.684e-12	1.193e-10	enriched	88	88
+GO:0005179	MF	hormone activity	4.108e-12	1.686e-10	enriched	226	248
+GO:0008270	MF	zinc ion binding	4.529e-12	1.790e-10	enriched	87	87
+GO:0008083	MF	growth factor activity	7.774e-11	2.592e-09	enriched	96	98
+GO:0004623	MF	phospholipase A2 activity	1.340e-09	4.084e-08	enriched	155	168
+GO:0001664	MF	G protein-coupled receptor binding	5.807e-09	1.721e-07	enriched	74	75
+GO:0005509	MF	calcium ion binding	1.655e-08	4.772e-07	enriched	164	181
+GO:0008289	MF	lipid binding	3.062e-08	8.378e-07	enriched	193	217
+GO:0047498	MF	calcium-dependent phospholipase A2 activity	6.018e-08	1.566e-06	enriched	138	151
+GO:0005543	MF	phospholipid binding	6.018e-08	1.566e-06	enriched	138	151
+GO:0003723	MF	RNA binding	1.263e-07	3.151e-06	enriched	53	53
+GO:0004252	MF	serine-type endopeptidase activity	1.270e-07	3.151e-06	enriched	71	73
+GO:0048018	MF	receptor ligand activity	2.103e-07	4.986e-06	enriched	52	52
+GO:0061630	MF	ubiquitin protein ligase activity	1.028e-05	1.799e-04	enriched	39	39
+GO:0009055	MF	electron transfer activity	1.028e-05	1.799e-04	enriched	39	39
+GO:0005102	MF	signaling receptor binding	2.557e-05	4.264e-04	enriched	44	45
+GO:0005199	MF	structural constituent of cell wall	4.444e-05	7.185e-04	enriched	34	34
+GO:0031779	MF	melanocortin receptor binding	4.868e-05	7.752e-04	enriched	35	35
+GO:0005184	MF	neuropeptide hormone activity	1.574e-04	2.333e-03	enriched	91	102
+GO:0097602	MF	cullin family protein binding	2.037e-04	2.898e-03	enriched	30	30
+GO:0008201	MF	heparin binding	8.552e-04	1.013e-02	enriched	24	24
+GO:0046872	MF	metal ion binding	8.641e-04	1.013e-02	enriched	25	25
+GO:0003676	MF	nucleic acid binding	9.269e-04	1.075e-02	enriched	107	124
+GO:0005213	MF	structural constituent of egg chorion	2.258e-03	2.362e-02	enriched	21	21
+GO:0005044	MF	scavenger receptor activity	3.718e-03	3.542e-02	enriched	20	20
+GO:0000981	MF	DNA-binding transcription factor activity, RNA polymerase II-specific	3.718e-03	3.542e-02	enriched	20	20
+GO:0005515	MF	protein binding	3.953e-03	3.700e-02	enriched	26	27
+GO:0006952	BP	defense response	0.000e+00	0.000e+00	depleted	235	1218
+GO:0042742	BP	defense response to bacterium	5.508e-218	2.938e-215	depleted	56	522
+GO:0098542	BP	defense response to other organism	1.108e-121	1.971e-119	depleted	2	212
+GO:0019731	BP	antibacterial humoral response	4.145e-37	3.685e-35	depleted	45	167
+GO:0006959	BP	humoral immune response	5.029e-26	4.127e-24	depleted	4	56
+GO:0019836	BP	symbiont-mediated hemolysis of host erythrocyte	2.936e-20	2.238e-18	depleted	1	37
+GO:0050829	BP	defense response to Gram-negative bacterium	2.227e-17	1.485e-15	depleted	45	121
+GO:0050830	BP	defense response to Gram-positive bacterium	1.578e-07	3.826e-06	depleted	141	242
+GO:0050832	BP	defense response to fungus	2.775e-07	6.437e-06	depleted	23	56
+GO:0009063	BP	amino acid catabolic process	4.083e-07	8.891e-06	depleted	0	11
+GO:0044179	BP	hemolysis in another organism	1.558e-06	3.078e-05	depleted	0	10
+GO:0031640	BP	killing of cells of another organism	2.421e-06	4.696e-05	depleted	4	19
+GO:0006629	BP	lipid metabolic process	7.342e-06	1.351e-04	depleted	4	18
+GO:0042381	BP	hemolymph coagulation	5.322e-04	6.760e-03	depleted	1	8
+GO:0006879	BP	intracellular iron ion homeostasis	1.986e-03	2.163e-02	depleted	30	55
+GO:0032880	BP	regulation of protein localization	4.772e-03	4.208e-02	depleted	0	4
+GO:0051607	BP	defense response to virus	4.772e-03	4.208e-02	depleted	0	4
+GO:0005576	CC	extracellular region	3.087e-118	4.706e-116	depleted	1150	2133
+GO:0019031	CC	viral envelope	1.253e-03	1.423e-02	depleted	0	5
+GO:0044194	CC	cytolytic granule	1.456e-03	1.618e-02	depleted	4	13
+GO:0070062	CC	extracellular exosome	1.785e-03	1.964e-02	depleted	1	7
+GO:0043005	CC	neuron projection	4.772e-03	4.208e-02	depleted	0	4
+GO:0008061	MF	chitin binding	2.299e-11	8.458e-10	depleted	32	83
+GO:0090729	MF	toxin activity	3.705e-11	1.318e-09	depleted	1	21
+GO:0001716	MF	L-amino-acid oxidase activity	4.083e-07	8.891e-06	depleted	0	11
+GO:0004860	MF	protein kinase inhibitor activity	2.265e-05	3.837e-04	depleted	0	8
+GO:0019871	MF	sodium channel inhibitor activity	3.125e-04	4.387e-03	depleted	7	20
+GO:0031731	MF	CCR6 chemokine receptor binding	4.717e-04	6.370e-03	depleted	22	45
+GO:0031841	MF	neuropeptide Y receptor binding	5.322e-04	6.760e-03	depleted	1	8
+GO:0042056	MF	chemoattractant activity	1.433e-03	1.609e-02	depleted	12	27
+GO:0016491	MF	oxidoreductase activity	4.299e-03	3.989e-02	depleted	9	21
+GO:0008233	MF	peptidase activity	4.772e-03	4.208e-02	depleted	0	4
+GO:0051428	MF	peptide hormone receptor binding	4.772e-03	4.208e-02	depleted	0	4

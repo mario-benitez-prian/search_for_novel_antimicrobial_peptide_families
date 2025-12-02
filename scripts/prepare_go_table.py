@@ -12,8 +12,14 @@ from pathlib import Path
 # -----------------------------
 # CONFIGURATION
 # -----------------------------
+"""
 INPUT_FILE = Path("../results/interpro_results/without_domains_predictions_and_database_families_interpro.tsv")  # raw InterProScan TSV
 OUTPUT_FILE = Path("../results/go_analysis/interpro_GO_unique.tsv")
+"""
+
+# --- Mature peptides analysis ---
+INPUT_FILE = Path("../results/mature_interpro_results/mature_and_database_families_interpro_domain_filtered.tsv")  # raw InterProScan TSV
+OUTPUT_FILE = Path("../data/go_database/interpro_GO_unique_mature_predictions_and_database.tsv")
 
 # -----------------------------
 # LOAD DATA

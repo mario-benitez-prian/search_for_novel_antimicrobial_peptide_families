@@ -120,6 +120,7 @@ def main(FASTA_1, FASTA_2, FASTA_3, LABEL_1, LABEL_2, LABEL_3, analysis):
         "InstabilityIndex", "IsoelectricPoint", "Hydrophobicity"
     ]
     X = df[features].values
+    # --- IMPORTANT: you have to standarized the data, otherwise length is going to absorb all the variance (because its high values)
     X_scaled = StandardScaler().fit_transform(X)
 
     pca = PCA(n_components=2)
