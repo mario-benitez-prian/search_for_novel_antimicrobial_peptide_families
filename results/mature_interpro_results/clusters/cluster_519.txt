@@ -1,0 +1,1 @@
+PRED|XP_015646041.3_mitochondrial_fission_1_protein_A_[Oryza_sativa_Japonica_Group]|0.58|0.75||Fis1,_C-terminal_tetratricopeptide_repeat|Mitochondria_fission_1_protein

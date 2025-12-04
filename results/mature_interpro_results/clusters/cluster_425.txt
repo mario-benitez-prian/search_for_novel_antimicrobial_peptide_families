@@ -1,0 +1,6 @@
+DATABASE|AP02515||Apolipoprotein_C-I
+DATABASE|CAMPSQ15164_Apo6APOC167-88||Apolipoprotein_C-I
+PRED|NP_001307994.1_apolipoprotein_C-I_isoform_a_precursor_[Homo_sapiens]|0.51|0.71||Apolipoprotein_C-I
+PRED|NP_001307995.1_apolipoprotein_C-I_isoform_a_precursor_[Homo_sapiens]|0.51|0.71||Apolipoprotein_C-I
+PRED|NP_001636.1_apolipoprotein_C-I_isoform_a_precursor_[Homo_sapiens]|0.51|0.71||Apolipoprotein_C-I
+PRED|XP_004912067.1_apolipoprotein_C-I_[Xenopus_tropicalis]|1.0|0.79||Apolipoprotein_C-I

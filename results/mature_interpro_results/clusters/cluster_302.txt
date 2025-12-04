@@ -1,0 +1,5 @@
+PRED|NP_001075888.2_prolactin-releasing_peptide_precursor_[Gallus_gallus]|0.73|0.73||Prolactin-releasing_peptide
+PRED|NP_001095117.1_prolactin-releasing_peptide_precursor_[Mus_musculus]|0.96|0.75||Prolactin-releasing_peptide
+PRED|NP_001232914.1_prolactin-releasing_peptide_precursor_[Danio_rerio]|0.68|0.73||Prolactin-releasing_peptide
+PRED|NP_056977.1_prolactin-releasing_peptide_precursor_[Homo_sapiens]|0.94|0.73||Prolactin-releasing_peptide
+PRED|XP_046777209.1_prolactin-releasing_peptide_isoform_X1_[Gallus_gallus]|0.74|0.74||Prolactin-releasing_peptide

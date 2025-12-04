@@ -1,0 +1,1 @@
+PRED|XP_070666834.1_large_ribosomal_subunit_protein_P1-like_[Malus_domestica]|0.56|0.74||60S_ACIDIC_RIBOSOMAL_PROTEIN_P1|60S_acidic_ribosomal_protein_P2|60s_Acidic_ribosomal_protein|Ribosomal_P1

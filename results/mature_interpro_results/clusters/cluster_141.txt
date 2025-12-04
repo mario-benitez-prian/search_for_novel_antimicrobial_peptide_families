@@ -1,0 +1,5 @@
+PRED|WP_010877856.1_MULTISPECIES:_universal_stress_protein_[Archaeoglobus]|0.72|0.75||Adenine_nucleotide_alpha_hydrolases-like
+PRED|XP_002130444.1_uncharacterized_protein_LOC100180023_isoform_X1_[Ciona_intestinalis]|0.79|0.73||Rossmann-like_alpha/beta/alpha_sandwich_fold|Universal_stress_protein_A|Universal_stress_protein_A_family|UspA
+PRED|XP_009060489.1_hypothetical_protein_LOTGIDRAFT_165237_[Lottia_gigantea]|0.71|0.8||Rossmann-like_alpha/beta/alpha_sandwich_fold|Universal_stress_protein_A_family|UspA
+PRED|XP_024462113.1_uncharacterized_protein_LOC7488363_[Populus_trichocarpa]|0.62|0.73||Rossmann-like_alpha/beta/alpha_sandwich_fold|UspA
+PRED|XP_646410.1_hypothetical_protein_DDB_G0270690_[Dictyostelium_discoideum_AX4]|0.81|0.71||Rossmann-like_alpha/beta/alpha_sandwich_fold

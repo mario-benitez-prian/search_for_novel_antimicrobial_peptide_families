@@ -1,0 +1,1 @@
+PRED|XP_001629154.1_protein_C19orf12_homolog_[Nematostella_vectensis]|0.62|0.76||Protein_C19orf12

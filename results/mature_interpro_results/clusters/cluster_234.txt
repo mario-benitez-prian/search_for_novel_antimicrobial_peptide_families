@@ -1,0 +1,3 @@
+DATABASE|CAMPSQ15142_C_AMP593||Ribosomal_protein_mS38,_C-terminal
+DATABASE|DBAASPR_21475_Streptomyces_highly_conserved_AMP,_SHC-AMP||Ribosomal_protein_mS38,_C-terminal
+PRED|WP_003402602.1_MULTISPECIES:_30S_ribosomal_protein_bS22_[Bacteria]|0.96|0.84||Ribosomal_protein_mS38,_C-terminal

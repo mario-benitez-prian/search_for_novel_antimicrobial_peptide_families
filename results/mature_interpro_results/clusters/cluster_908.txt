@@ -1,0 +1,1 @@
+PRED|XP_038962506.1_H/ACA_ribonucleoprotein_complex_subunit_3-like_[Rattus_norvegicus]|0.71|0.85||H/ACA_ribonucleoprotein_complex,_subunit_Nop10|H/ACA_ribonucleoprotein_complex,_subunit_Nop10_superfamily

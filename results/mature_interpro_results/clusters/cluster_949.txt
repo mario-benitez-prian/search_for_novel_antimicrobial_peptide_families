@@ -1,0 +1,1 @@
+PRED|WP_005410354.1_MULTISPECIES:_cytochrome_bd-I_oxidase_subunit_CydX_[Stenotrophomonas]|0.96|0.81||Cyd_operon_protein_YbgT|Membrane_bound_YbgT-like

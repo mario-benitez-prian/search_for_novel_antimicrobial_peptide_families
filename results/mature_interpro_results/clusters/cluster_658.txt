@@ -1,0 +1,1 @@
+PRED|XP_009062815.1_hypothetical_protein_LOTGIDRAFT_128978_partial_[Lottia_gigantea]|0.98|0.9||Armadillo-like_helical|Armadillo-type_fold

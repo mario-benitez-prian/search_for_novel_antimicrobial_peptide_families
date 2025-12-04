@@ -1,0 +1,4 @@
+PRED|NP_848518.1_late_cornified_envelope_protein_3A_[Homo_sapiens]|0.93|0.87||Late_cornified_envelope_protein
+PRED|NP_848520.1_late_cornified_envelope_protein_3B_[Homo_sapiens]|0.92|0.82||Late_cornified_envelope_protein
+PRED|NP_848521.1_late_cornified_envelope_protein_3C_[Homo_sapiens]|0.98|0.89||Late_cornified_envelope_protein
+PRED|NP_848522.1_late_cornified_envelope_protein_3E_[Homo_sapiens]|0.66|0.9||Late_cornified_envelope_protein

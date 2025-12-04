@@ -1,0 +1,1 @@
+PRED|XP_032230545.1_uncharacterized_protein_LOC116614066_[Nematostella_vectensis]|0.55|0.88||ANTHRAX_TOXIN_RECEPTOR

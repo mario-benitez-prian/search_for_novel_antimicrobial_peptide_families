@@ -1,0 +1,2 @@
+PRED|XP_038959873.2_glyceraldehyde-3-phosphate_dehydrogenase-like_[Rattus_norvegicus]|0.75|0.77||Glyceraldehyde/Erythrose_phosphate_dehydrogenase_family
+PRED|XP_063136837.1_glyceraldehyde-3-phosphate_dehydrogenase-like_[Rattus_norvegicus]|0.56|0.74||Glyceraldehyde/Erythrose_phosphate_dehydrogenase_family

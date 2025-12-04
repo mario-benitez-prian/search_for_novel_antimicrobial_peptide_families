@@ -1,0 +1,1 @@
+PRED|WP_003221545.1_MULTISPECIES:_stage_V_sporulation_protein_SpoVM_[Bacillus]|1.0|0.75||Sporulation_stage_V,_protein_M

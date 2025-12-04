@@ -1,0 +1,1 @@
+PRED|XP_008378669.3_uncharacterized_protein_[Malus_domestica]|0.72|0.8||RNase_H-like_EbsB-related

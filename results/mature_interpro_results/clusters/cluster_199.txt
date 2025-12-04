@@ -1,0 +1,10 @@
+PRED|NP_001021506.4_Transthyretin-like_family_protein_[Caenorhabditis_elegans]|0.58|0.91||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_001123180.1_Transthyretin-like_family_protein_[Caenorhabditis_elegans]|0.61|0.71||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_001256812.1_TransThyretin-Related_family_domain_[Caenorhabditis_elegans]|0.67|0.74||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_001256814.1_TransThyretin-Related_family_domain_[Caenorhabditis_elegans]|0.97|0.77||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_498658.1_Transthyretin-like_family_protein_[Caenorhabditis_elegans]|0.68|0.79||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_499054.1_Transthyretin-like_protein_5_[Caenorhabditis_elegans]|0.81|0.82||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_499202.1_Transthyretin-like_protein_3_[Caenorhabditis_elegans]|0.64|0.78||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_500522.1_Transthyretin-like_family_protein_[Caenorhabditis_elegans]|0.71|0.81||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_506227.2_Transthyretin-like_family_protein_[Caenorhabditis_elegans]|0.64|0.77||Transthyretin-like|Transthyretin-like_superfamily
+PRED|NP_507630.1_Transthyretin-like_family_protein_[Caenorhabditis_elegans]|0.65|0.78||Transthyretin-like|Transthyretin-like_superfamily

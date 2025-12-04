@@ -1,0 +1,1 @@
+PRED|XP_009048260.1_hypothetical_protein_LOTGIDRAFT_148915_partial_[Lottia_gigantea]|0.58|0.81||Unknown

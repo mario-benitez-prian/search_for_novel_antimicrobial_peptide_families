@@ -1,0 +1,1 @@
+PRED|XP_002808701.1_50S_ribosomal_protein_L14_mitochondrial_putative_[Plasmodium_falciparum_3D7]|0.61|0.91||Large_ribosomal_subunit_protein_uL14|Large_ribosomal_subunit_protein_uL14_superfamily

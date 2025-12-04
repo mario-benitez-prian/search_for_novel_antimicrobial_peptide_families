@@ -1,0 +1,15 @@
+DATABASE|AP00767||Bacteriocin_AS-48|Circular_bacteriocin
+DATABASE|AP00929||Bacteriocin_AS-48|Circular_bacteriocin
+DATABASE|AP00931||Bacteriocin_AS-48|Circular_bacteriocin
+DATABASE|AP01168||Bacteriocin_AS-48|Circular_bacteriocin
+DATABASE|AP01651||Circular_bacteriocin
+DATABASE|AP01767||Bacteriocin_AS-48
+DATABASE|AP02074||Bacteriocin_AS-48|Circular_bacteriocin
+DATABASE|AP02246||Bacteriocin_AS-48|Circular_bacteriocin
+DATABASE|AP02396||Bacteriocin_AS-48|Circular_bacteriocin
+DATABASE|AP02584||Bacteriocin_AS-48|Circular_bacteriocin
+DATABASE|AP03198||Bacteriocin_AS-48|Circular_bacteriocin
+DATABASE|AP03306||Bacteriocin_AS-48|Circular_bacteriocin
+DATABASE|AP04500||Bacteriocin_AS-48|Circular_bacteriocin
+DATABASE|CAMPSQ1026_BacteriocinAs-48||Bacteriocin_AS-48|Circular_bacteriocin
+DATABASE|DBAASPR_5810_Leucocyclicin_Q||Bacteriocin_AS-48

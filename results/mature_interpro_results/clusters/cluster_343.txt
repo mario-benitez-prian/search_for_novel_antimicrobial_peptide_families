@@ -1,0 +1,2 @@
+DATABASE|AP02851||Alpha-synuclein|Synuclein
+PRED|WP_002213442.1_MULTISPECIES:_hypothetical_protein_[Neisseria]|0.99|0.8||Helix_hairpin_bin

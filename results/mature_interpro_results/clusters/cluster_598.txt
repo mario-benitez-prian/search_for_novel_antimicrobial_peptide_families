@@ -1,0 +1,1 @@
+PRED|XP_070662854.1_probable_fructokinase-7_isoform_X1_[Malus_domestica]|0.63|0.76||Unknown

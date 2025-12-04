@@ -1,0 +1,4 @@
+PRED|XP_011389810.1_uncharacterized_protein_UMAG_10823_[Mycosarcoma_maydis]|0.94|0.79||Long_chronological_lifespan_protein_2
+PRED|XP_711696.1_uncharacterized_protein_CAALFM_CR05800CA_[Candida_albicans_SC5314]|0.66|0.83||Long_chronological_lifespan_protein_2
+PRED|XP_747940.1_protein_lcl2_[Aspergillus_fumigatus_Af293]|0.98|0.81||Long_chronological_lifespan_protein_2
+PRED|XP_960990.1_hypothetical_protein_NCU08860_[Neurospora_crassa_OR74A]|0.98|0.86||Long_chronological_lifespan_protein_2

@@ -1,0 +1,2 @@
+PRED|WP_000792012.1_MULTISPECIES:_alternative_ribosome-rescue_factor_A_[Vibrio]|0.73|0.71||Alternative_ribosome-rescue_factor_A
+PRED|WP_003093169.1_MULTISPECIES:_alternative_ribosome-rescue_factor_A_[Pseudomonas]|0.6|0.78||Alternative_ribosome-rescue_factor_A

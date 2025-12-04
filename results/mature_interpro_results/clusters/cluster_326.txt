@@ -1,0 +1,1 @@
+PRED|XP_003631963.1_uncharacterized_protein_LOC100852500_[Vitis_vinifera]|0.78|0.77||COX19-LIKE_CHCH_FAMILY_PROTEIN

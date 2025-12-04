@@ -1,0 +1,1 @@
+PRED|XP_009046619.1_hypothetical_protein_LOTGIDRAFT_137978_partial_[Lottia_gigantea]|0.54|0.9||Circadian_locomoter_output_cycles_protein_kaput-like

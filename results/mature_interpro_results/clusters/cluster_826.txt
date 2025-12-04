@@ -1,0 +1,2 @@
+PRED|XP_008115436.1_NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_subunit_3_[Anolis_carolinensis]|0.77|0.84||NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_subunit_3
+PRED|XP_032227080.1_uncharacterized_protein_LOC116610351_[Nematostella_vectensis]|0.53|0.85||NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_subunit_3

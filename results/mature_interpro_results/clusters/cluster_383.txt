@@ -1,0 +1,1 @@
+PRED|XP_001551911.1_hypothetical_protein_BCIN_16g03290_[Botrytis_cinerea_B05.10]|0.66|0.77||PDZ-binding_protein,_CRIPT

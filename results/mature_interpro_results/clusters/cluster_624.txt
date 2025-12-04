@@ -1,0 +1,2 @@
+PRED|WP_014479566.1_MULTISPECIES:_phage_holin_[Bacillus]|0.59|0.78||Holin
+PRED|WP_259013315.1_MULTISPECIES:_phage_holin_[Bacteria]|0.93|0.82||Holin

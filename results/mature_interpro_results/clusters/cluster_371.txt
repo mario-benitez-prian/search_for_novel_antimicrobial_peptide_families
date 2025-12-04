@@ -1,0 +1,10 @@
+PRED|NP_001147309.2_metallothionein-like_protein_type_2_[Zea_mays]|0.52|0.85||Metallothionein,_family_15,_plant
+PRED|NP_001188398.1_metallothionein-B-like_[Danio_rerio]|0.64|0.94||Metallothionein,_vertebrate
+PRED|NP_001384880.1_metallothionein-like_protein_2B_[Oryza_sativa_Japonica_Group]|0.64|0.84||Metallothionein,_family_15,_plant
+PRED|XP_003565174.1_metallothionein-like_protein_2C_[Brachypodium_distachyon]|0.96|0.82||Metallothionein,_family_15,_plant
+PRED|XP_003569083.1_metallothionein-like_protein_2C_[Brachypodium_distachyon]|0.51|0.77||Metallothionein,_family_15,_plant
+PRED|XP_007905782.1_metallothionein-like_isoform_X3_[Callorhinchus_milii]|0.93|0.89||Metallothionein,_vertebrate
+PRED|XP_042196333.1_metallothionein-like_isoform_X1_[Callorhinchus_milii]|0.75|0.87||Metallothionein,_vertebrate
+PRED|XP_042196334.1_metallothionein-like_isoform_X2_[Callorhinchus_milii]|0.79|0.89||Metallothionein,_vertebrate
+PRED|XP_042196335.1_metallothionein-like_isoform_X4_[Callorhinchus_milii]|0.93|0.88||Metallothionein,_vertebrate
+PRED|XP_062817681.1_metallothionein-1_[Anolis_carolinensis]|0.71|0.94||Metallothionein,_vertebrate

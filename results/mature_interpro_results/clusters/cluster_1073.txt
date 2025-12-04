@@ -1,0 +1,1 @@
+PRED|XP_009048426.1_hypothetical_protein_LOTGIDRAFT_151505_[Lottia_gigantea]|0.86|0.82||Large_ribosomal_subunit_protein_uL29,_eukaryotes

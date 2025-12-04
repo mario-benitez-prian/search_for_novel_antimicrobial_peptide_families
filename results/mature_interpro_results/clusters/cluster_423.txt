@@ -1,0 +1,5 @@
+DATABASE|AP00485||Cupiennin
+DATABASE|AP00486||Cupiennin
+DATABASE|AP00487||Cupiennin
+DATABASE|AP00488||Cupiennin
+DATABASE|CAMPSQ371_Cupiennin-1d||Cupiennin

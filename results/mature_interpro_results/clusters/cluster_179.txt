@@ -1,0 +1,6 @@
+PRED|NP_878158.3_Ksh1p_[Saccharomyces_cerevisiae_S288C]|0.88|0.85||Protein_kish
+PRED|XP_001702883.1_uncharacterized_protein_CHLRE_07g325735v5_[Chlamydomonas_reinhardtii]|0.64|0.9||Protein_kish
+PRED|XP_004144193.1_protein_kish_[Cucumis_sativus]|0.62|0.83||Protein_kish
+PRED|XP_040060007.1_protein_kish-B_[Gasterosteus_aculeatus_aculeatus]|0.77|0.7||Protein_kish|Protein_kish-B
+PRED|XP_046791341.1_protein_kish-A_isoform_X1_[Gallus_gallus]|0.58|0.72||Protein_kish
+PRED|XP_046791342.1_protein_kish-A_isoform_X2_[Gallus_gallus]|0.89|0.82||Protein_kish

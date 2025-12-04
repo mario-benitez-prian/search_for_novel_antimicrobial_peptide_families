@@ -1,0 +1,2 @@
+PRED|XP_075925455.1_uncharacterized_protein_LOC142928883_isoform_X2_[Petromyzon_marinus]|0.67|0.74||Protein_of_unknown_function_DUF5522
+PRED|XP_075925472.1_uncharacterized_protein_LOC116938963_isoform_X2_[Petromyzon_marinus]|0.67|0.74||Protein_of_unknown_function_DUF5522

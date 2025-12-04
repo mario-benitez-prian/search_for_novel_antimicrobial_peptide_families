@@ -1,0 +1,1 @@
+PRED|WP_000673327.1_MULTISPECIES:_TIGR02647_family_protein_[Vibrio]|0.77|0.73||Conserved_hypothetical_protein_CHP02647

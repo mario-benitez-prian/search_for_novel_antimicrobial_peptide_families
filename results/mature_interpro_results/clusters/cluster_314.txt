@@ -1,0 +1,9 @@
+PRED|NP_001371045.1_proline-rich_protein_3_isoform_e_[Mus_musculus]|0.81|0.76||Proline-rich_protein_3|Zinc_finger,_CCCH-type|Zinc_finger,_CCCH-type_superfamily
+PRED|NP_001371046.1_proline-rich_protein_3_isoform_f_[Mus_musculus]|0.91|0.78||Proline-rich_protein_3|Zinc_finger,_CCCH-type|Zinc_finger,_CCCH-type_superfamily
+PRED|NP_592962.1_cleavage_and_polyadenylation_specificity_factor_complex_subunit_Yth1_[Schizosaccharomyces_pombe]|0.85|0.72||CPSF_complex_subunit_CPSF4-like|Zinc_finger,_CCCH-type|Zinc_finger,_CCCH-type_superfamily
+PRED|XP_009062342.1_hypothetical_protein_LOTGIDRAFT_128024_[Lottia_gigantea]|0.97|0.76||ZN-FINGER,_C-X8-C-X5-C-X3-H_TYPE-CONTAINING
+PRED|XP_018635404.1_zinc_finger_(CCCH_type)_motif-containing_protein_[Toxoplasma_gondii_ME49]|0.98|0.78||Zinc_finger,_CCCH-type|Zinc_finger,_CCCH-type_superfamily
+PRED|XP_039689984.1_zinc_finger_CCCH_domain-containing_protein_15_[Medicago_truncatula]|0.81|0.72||RNA-binding_protein_ZFP36-like|Zinc_finger,_CCCH-type|Zinc_finger,_CCCH-type_superfamily
+PRED|XP_063135268.1_proline-rich_protein_3_isoform_X3_[Rattus_norvegicus]|0.86|0.8||Proline-rich_protein_3|Zinc_finger,_CCCH-type|Zinc_finger,_CCCH-type_superfamily
+PRED|XP_070675563.1_zinc_finger_CCCH_domain-containing_protein_32-like_[Malus_domestica]|0.89|0.73||Zinc_finger,_CCCH-type|Zinc_finger,_CCCH-type_superfamily
+PRED|XP_070679779.1_zinc_finger_CCCH_domain-containing_protein_32-like_isoform_X3_[Malus_domestica]|0.74|0.8||Zinc_finger,_CCCH-type|Zinc_finger,_CCCH-type_superfamily

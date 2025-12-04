@@ -1,0 +1,1 @@
+PRED|XP_019331048.1_uncharacterized_protein_CAALFM_CR00430CA_[Candida_albicans_SC5314]|0.57|0.81||BolA_protein|BolA-like_protein_2|BolA-like_superfamily

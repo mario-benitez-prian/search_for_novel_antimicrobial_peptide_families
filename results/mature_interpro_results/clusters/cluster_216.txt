@@ -1,0 +1,6 @@
+DATABASE|AP00333||Myticin_preproprotein
+DATABASE|AP01788||Myticin_preproprotein
+DATABASE|AP01789||Myticin_preproprotein
+DATABASE|AP01790||Myticin_preproprotein
+DATABASE|AP03470||Myticin_preproprotein
+DATABASE|CAMPSQ8852_MytC||Myticin_preproprotein

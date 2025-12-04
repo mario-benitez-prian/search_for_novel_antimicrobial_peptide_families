@@ -1,0 +1,3 @@
+PRED|WP_001881287.1_MULTISPECIES:_ribosome_modulation_factor_[Gammaproteobacteria]|0.96|0.84||Ribosome_modulation_factor
+PRED|WP_002228015.1_MULTISPECIES:_ribosome_modulation_factor_[Yersinia]|0.8|0.8||Ribosome_modulation_factor
+PRED|WP_002898396.1_MULTISPECIES:_ribosome_modulation_factor_[Gammaproteobacteria]|0.52|0.78||Ribosome_modulation_factor

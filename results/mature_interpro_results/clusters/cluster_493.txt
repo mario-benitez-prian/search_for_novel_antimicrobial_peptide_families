@@ -1,0 +1,3 @@
+DATABASE|AP01593||Lantibiotic_duramycin/duramycin_B-like
+DATABASE|AP01594||Lantibiotic_duramycin/duramycin_B-like
+DATABASE|AP01596||Lantibiotic_duramycin/duramycin_B-like

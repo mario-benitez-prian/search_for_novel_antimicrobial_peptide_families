@@ -1,0 +1,1 @@
+PRED|NP_001023901.1_Cytochrome_b561_domain-containing_protein_[Caenorhabditis_elegans]|0.65|0.78||Cytochrome_b561/Cytochrome_b_reductase_1-like|Cytochrome_b561/ferric_reductase_transmembrane

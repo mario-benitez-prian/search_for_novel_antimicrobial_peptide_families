@@ -1,0 +1,5 @@
+PRED|NP_001036552.1_mitochondrial_ribosomal_protein_L34_[Drosophila_melanogaster]|0.9|0.91||Large_ribosomal_subunit_protein_bL34
+PRED|NP_001186609.1_large_ribosomal_subunit_protein_bL34m_isoform_1_[Danio_rerio]|0.74|0.71||Large_ribosomal_subunit_protein_bL34
+PRED|NP_001289436.1_large_ribosomal_subunit_protein_bL34m_isoform_2_[Danio_rerio]|0.51|0.72||Large_ribosomal_subunit_protein_bL34
+PRED|WP_002776864.1_MULTISPECIES:_50S_ribosomal_protein_L34_[Campylobacter]|0.73|0.85||Large_ribosomal_subunit_protein_bL34
+PRED|XP_001689581.1_uncharacterized_protein_CHLRE_01g030050v5_[Chlamydomonas_reinhardtii]|0.63|0.76||Large_ribosomal_subunit_protein_bL34

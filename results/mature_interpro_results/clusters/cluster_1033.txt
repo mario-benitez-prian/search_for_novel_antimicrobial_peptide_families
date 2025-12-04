@@ -1,0 +1,1 @@
+PRED|WP_002218002.1_MULTISPECIES:_helix-turn-helix_domain-containing_protein_[Neisseria]|0.7|0.81||Bacterial_HTH-type_regulators_and_antitoxins

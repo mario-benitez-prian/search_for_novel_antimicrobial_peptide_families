@@ -1,0 +1,1 @@
+PRED|XP_001120855.2_rhodanese_domain-containing_protein_CG4456_isoform_X1_[Apis_mellifera]|0.5|0.82||THIOSULFATE_SULFURTRANSFERASE_RDL2,_MITOCHONDRIAL-RELATED

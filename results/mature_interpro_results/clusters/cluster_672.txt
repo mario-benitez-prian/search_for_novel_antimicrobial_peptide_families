@@ -1,0 +1,1 @@
+PRED|XP_009054545.1_hypothetical_protein_LOTGIDRAFT_117918_[Lottia_gigantea]|0.55|0.85||Mitochondrial_pyruvate_carrier

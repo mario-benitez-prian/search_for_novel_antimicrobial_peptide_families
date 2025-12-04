@@ -1,0 +1,9 @@
+PRED|WP_000239596.1_MULTISPECIES:_lipoprotein_toxin_entericidin_B_[Enterobacterales]|1.0|0.8||Entericidin_A/B
+PRED|WP_000239598.1_MULTISPECIES:_lipoprotein_toxin_entericidin_B_[Bacteria]|0.99|0.76||Entericidin_A/B
+PRED|WP_000977687.1_MULTISPECIES:_entericidin_A/B_family_lipoprotein_[Salmonella]|1.0|0.81||Entericidin_A/B
+PRED|WP_000977756.1_MULTISPECIES:_lipoprotein_antitoxin_entericidin_A_[Shigella]|1.0|0.8||Entericidin_A/B
+PRED|WP_000977757.1_MULTISPECIES:_lipoprotein_antitoxin_entericidin_A_[Bacteria]|1.0|0.79||Entericidin_A/B
+PRED|WP_001984826.1_MULTISPECIES:_entericidin_A/B_family_lipoprotein_[Acinetobacter]|0.97|0.85||Entericidin_A/B
+PRED|WP_002885511.1_MULTISPECIES:_entericidin_A/B_family_lipoprotein_[Gammaproteobacteria]|1.0|0.79||Entericidin_A/B
+PRED|WP_002885518.1_MULTISPECIES:_lipoprotein_toxin_entericidin_B_[Gammaproteobacteria]|0.99|0.77||Entericidin_A/B
+PRED|WP_005407710.1_MULTISPECIES:_entericidin_A/B_family_lipoprotein_[Stenotrophomonas]|0.99|0.91||Entericidin_A/B

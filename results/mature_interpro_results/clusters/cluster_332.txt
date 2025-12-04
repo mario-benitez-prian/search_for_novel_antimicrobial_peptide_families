@@ -1,0 +1,11 @@
+PRED|XP_009050338.1_hypothetical_protein_LOTGIDRAFT_89154_partial_[Lottia_gigantea]|0.99|0.72||SRCR_DOMAIN-CONTAINING_PROTEIN|Soluble_scavenger_receptor_cysteine-rich_domain-containing_protein_SSC5D
+PRED|XP_009055608.1_hypothetical_protein_LOTGIDRAFT_104858_[Lottia_gigantea]|0.93|0.83||SRCR_DOMAIN-CONTAINING_PROTEIN|neurotrypsin_isoform_X2
+PRED|XP_009059757.1_hypothetical_protein_LOTGIDRAFT_69892_partial_[Lottia_gigantea]|0.79|0.85||SRCR_DOMAIN-CONTAINING_PROTEIN|neurotrypsin_isoform_X2
+PRED|XP_009059894.1_hypothetical_protein_LOTGIDRAFT_125182_partial_[Lottia_gigantea]|0.87|0.8||SRCR_DOMAIN-CONTAINING_PROTEIN|Tequila,_isoform_D
+PRED|XP_012938540.1_galectin-3-binding_protein_partial_[Aplysia_californica]|0.82|0.86||Lysyl_oxidase-like_2|SCAVENGER_RECEPTOR_DOMAIN-CONTAINING
+PRED|XP_030851603.1_scavenger_receptor_cysteine-rich_type_1_protein_M130-like_[Strongylocentrotus_purpuratus]|0.53|0.82||SCAVENGER_RECEPTOR_DOMAIN-CONTAINING
+PRED|XP_030853648.1_scavenger_receptor_cysteine-rich_domain_superfamily_protein_isoform_X2_[Strongylocentrotus_purpuratus]|0.74|0.8||Lysyl_oxidase-like_2|SRCR_DOMAIN-CONTAINING_PROTEIN
+PRED|XP_052824172.1_scavenger_receptor_cysteine-rich_type_1_protein_M130-like_[Octopus_bimaculoides]|0.83|0.88||SRCR_DOMAIN-CONTAINING_PROTEIN
+PRED|XP_065941291.1_neurotrypsin-like_[Magallana_gigas]|0.55|0.76||SRCR_DOMAIN-CONTAINING_PROTEIN|neurotrypsin_isoform_X2
+PRED|XP_789586.4_galectin-3-binding_protein_B_[Strongylocentrotus_purpuratus]|0.72|0.8||CD163_molecule_like_1|SRCR_DOMAIN-CONTAINING_PROTEIN
+PRED|XP_795578.4_neurotrypsin_isoform_X1_[Strongylocentrotus_purpuratus]|0.66|0.79||Lysyl_oxidase-like_2|SRCR_DOMAIN-CONTAINING_PROTEIN

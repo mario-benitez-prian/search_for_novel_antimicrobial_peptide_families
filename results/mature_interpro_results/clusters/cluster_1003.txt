@@ -1,0 +1,2 @@
+PRED|XP_040034392.1_echinoderm_microtubule-associated_protein-like_6_[Gasterosteus_aculeatus_aculeatus]|0.9|0.83||HELP_motif|WD_repeat_Echinoderm_Microtubule-associated_Protein-like
+PRED|XP_040034394.1_echinoderm_microtubule-associated_protein-like_6_[Gasterosteus_aculeatus_aculeatus]|0.9|0.84||HELP_motif|WD_repeat_Echinoderm_Microtubule-associated_Protein-like

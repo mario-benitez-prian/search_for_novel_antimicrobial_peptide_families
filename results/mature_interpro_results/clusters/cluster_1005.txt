@@ -1,0 +1,1 @@
+PRED|WP_003403683.1_MULTISPECIES:_50S_ribosomal_protein_L30_[Mycobacterium]|0.5|0.71||Large_ribosomal_subunit_protein_uL30,_bacterial-type

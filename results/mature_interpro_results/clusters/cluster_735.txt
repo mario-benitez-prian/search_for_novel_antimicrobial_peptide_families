@@ -1,0 +1,1 @@
+PRED|WP_000965050.1_MULTISPECIES:_DUF2788_domain-containing_protein_[Vibrio]|0.64|0.89||Protein_of_unknown_function_DUF2788

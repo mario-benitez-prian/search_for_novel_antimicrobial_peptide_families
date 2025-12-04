@@ -1,0 +1,10 @@
+PRED|NP_001001663.1_LHFPL_tetraspan_subfamily_member_7_protein_isoform_1_[Homo_sapiens]|0.75|0.84||Lipoma_HMGIC_fusion_partner-like_protein
+PRED|NP_001004182.1_transmembrane_protein_178B_isoform_2_[Mus_musculus]|0.93|0.86||PMP-22/EMP/MP20/Claudin|Transmembrane_protein_178A/B
+PRED|XP_001637325.1_LHFPL_tetraspan_subfamily_member_6_protein_[Nematostella_vectensis]|0.53|0.87||Lipoma_HMGIC_fusion_partner-like_protein
+PRED|XP_002128949.1_uncharacterized_protein_LOC100186803_[Ciona_intestinalis]|0.86|0.81||Peripheral_myelin_protein_22/Epithelial_membrane_protein-like
+PRED|XP_003964293.1_epithelial_membrane_protein_2_[Takifugu_rubripes]|0.83|0.81||PMP-22/EMP/MP20/Claudin|Peripheral_myelin_protein_22/Epithelial_membrane_protein-like
+PRED|XP_005161336.1_claudin-like_protein_ZF-A89_[Danio_rerio]|0.81|0.8||Claudin|PMP-22/EMP/MP20/Claudin
+PRED|XP_011601835.1_epithelial_membrane_protein_2_[Takifugu_rubripes]|0.83|0.81||PMP-22/EMP/MP20/Claudin|Peripheral_myelin_protein_22/Epithelial_membrane_protein-like
+PRED|XP_032825951.1_peripheral_myelin_protein_22-like_[Petromyzon_marinus]|0.83|0.8||PMP-22/EMP/MP20|PMP-22/EMP/MP20/Claudin|Peripheral_myelin_protein_22/Epithelial_membrane_protein-like
+PRED|XP_046788660.1_lens_fiber_membrane_intrinsic_protein_isoform_X1_[Gallus_gallus]|0.79|0.75||Unknown
+PRED|XP_046788661.1_lens_fiber_membrane_intrinsic_protein_isoform_X2_[Gallus_gallus]|0.96|0.74||Unknown

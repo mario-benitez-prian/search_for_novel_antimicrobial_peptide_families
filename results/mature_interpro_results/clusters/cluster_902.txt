@@ -1,0 +1,1 @@
+PRED|XP_009053772.1_hypothetical_protein_LOTGIDRAFT_175168_[Lottia_gigantea]|0.51|0.71||Prominin

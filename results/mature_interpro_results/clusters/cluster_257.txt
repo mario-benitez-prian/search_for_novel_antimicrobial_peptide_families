@@ -1,0 +1,1 @@
+PRED|XP_019330682.1_uncharacterized_protein_CAALFM_C108930CA_[Candida_albicans_SC5314]|0.83|0.8||NADH_dehydrogenase_[ubiquinone]_1_beta_subcomplex_subunit_3

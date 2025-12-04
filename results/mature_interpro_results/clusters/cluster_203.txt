@@ -1,0 +1,5 @@
+PRED|NP_001381889.1_NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_subunit_4-like_2_[Homo_sapiens]|0.55|0.76||NADH-ubiquinone_reductase_complex_1_MLRQ_subunit
+PRED|NP_001381890.1_NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_subunit_4-like_2_[Homo_sapiens]|0.55|0.79||NADH-ubiquinone_reductase_complex_1_MLRQ_subunit
+PRED|NP_064527.1_NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_subunit_4-like_2_[Homo_sapiens]|0.55|0.79||NADH-ubiquinone_reductase_complex_1_MLRQ_subunit
+PRED|XP_030101014.1_NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_subunit_4-like_2_isoform_X2_[Mus_musculus]|0.59|0.83||NADH-ubiquinone_reductase_complex_1_MLRQ_subunit
+PRED|XP_040049359.1_NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_subunit_4-like_2_[Gasterosteus_aculeatus_aculeatus]|0.55|0.89||NADH-ubiquinone_reductase_complex_1_MLRQ_subunit

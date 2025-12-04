@@ -1,0 +1,1 @@
+PRED|XP_035827186.1_ADP-ribosyl_cyclase/cyclic_ADP-ribose_hydrolase-like_[Aplysia_californica]|0.86|0.82||ADP-ribosyl_cyclase_(CD38/157)

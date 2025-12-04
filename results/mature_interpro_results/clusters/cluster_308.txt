@@ -1,0 +1,1 @@
+PRED|WP_015411380.1_MULTISPECIES:_DUF5350_domain-containing_protein_[Methanosarcina]|0.87|0.88||Protein_of_unknown_function_DUF5350

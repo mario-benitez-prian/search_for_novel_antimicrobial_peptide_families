@@ -1,0 +1,4 @@
+PRED|WP_000377225.1_MULTISPECIES:_YecH_family_metal-binding_protein_[Gammaproteobacteria]|0.78|0.89||Putative_metal-binding_protein
+PRED|WP_000377229.1_MULTISPECIES:_YecH_family_metal-binding_protein_[Shigella]|0.76|0.87||Putative_metal-binding_protein
+PRED|WP_004175410.1_MULTISPECIES:_YecH_family_metal-binding_protein_[Enterobacteriaceae]|0.89|0.71||Putative_metal-binding_protein
+PRED|WP_023224917.1_MULTISPECIES:_YecH_family_metal-binding_protein_[Salmonella]|0.72|0.82||Putative_metal-binding_protein

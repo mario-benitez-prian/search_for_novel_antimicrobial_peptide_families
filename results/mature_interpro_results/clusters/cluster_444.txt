@@ -1,0 +1,1 @@
+PRED|XP_015635307.1_nuclear_poly(A)_polymerase_4_[Oryza_sativa_Japonica_Group]|0.88|0.86||PAP/OAS1_substrate-binding_domain|POLY_A__POLYMERASE

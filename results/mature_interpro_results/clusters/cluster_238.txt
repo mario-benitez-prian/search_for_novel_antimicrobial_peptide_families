@@ -1,0 +1,2 @@
+PRED|WP_000095496.1_MULTISPECIES:_YqjK-like_family_protein_[Salmonella]|0.58|0.83||YqjK-like_protein
+PRED|WP_000096086.1_MULTISPECIES:_YqjK-like_family_protein_[Gammaproteobacteria]|0.51|0.8||YqjK-like_protein

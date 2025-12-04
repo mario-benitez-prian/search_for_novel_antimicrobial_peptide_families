@@ -1,0 +1,4 @@
+PRED|XP_001350284.1_dynein_light_chain_putative_[Plasmodium_falciparum_3D7]|0.86|0.74||Dynein_light_chain_superfamily|Dynein_light_chain,_type_1/2
+PRED|XP_002304998.1_dynein_light_chain_1_cytoplasmic_[Populus_trichocarpa]|0.98|0.89||Dynein_light_chain_superfamily|Dynein_light_chain,_type_1/2
+PRED|XP_002729988.1_dynein_light_chain_1_cytoplasmic-like_[Rattus_norvegicus]|0.61|0.76||Dynein_light_chain_superfamily|Dynein_light_chain,_type_1/2
+PRED|XP_024315988.1_dynein_light_chain_LC6_flagellar_outer_arm-like_[Brachypodium_distachyon]|0.57|0.84||Dynein_light_chain_superfamily|Dynein_light_chain,_type_1/2

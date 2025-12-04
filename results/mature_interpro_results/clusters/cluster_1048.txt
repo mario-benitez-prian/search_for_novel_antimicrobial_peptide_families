@@ -1,0 +1,1 @@
+PRED|XP_658572.1_uncharacterized_protein_ANIA_00968_[Aspergillus_nidulans_FGSC_A4]|0.64|0.77||Ribonuclease_T2-like_superfamily

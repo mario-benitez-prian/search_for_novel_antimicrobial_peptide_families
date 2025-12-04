@@ -1,0 +1,1 @@
+PRED|XP_011520806.1_nucleoside_diphosphate_kinase_3_isoform_X3_[Homo_sapiens]|0.81|0.87||NUCLEOSIDE_DIPHOSPHATE_KINASE

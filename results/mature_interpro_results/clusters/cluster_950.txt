@@ -1,0 +1,1 @@
+PRED|WP_003430857.1_transcriptional_regulator_GutM_[Clostridioides_difficile]|0.58|0.71||Glucitol_operon_activator

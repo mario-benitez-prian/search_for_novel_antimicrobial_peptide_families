@@ -1,0 +1,1 @@
+PRED|WP_003723727.1_MULTISPECIES:_ribonuclease_P_protein_component_[Listeria]|0.72|0.74||Ribonuclease_P

@@ -1,0 +1,2 @@
+PRED|XP_040863661.1_tubby-like_F-box_protein_8_[Glycine_max]|0.73|0.85||Tubby-like,_C-terminal
+PRED|XP_040863863.1_protein_LURP-one-related_6_[Glycine_max]|0.59|0.72||LURP-one-related|LURP-one-related_superfamily|Tubby-like,_C-terminal

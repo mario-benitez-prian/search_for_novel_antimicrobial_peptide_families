@@ -1,0 +1,7 @@
+DATABASE|CAMPSQ13886_6350||Virus_ectodomain
+DATABASE|CAMPSQ13887_6351||Virus_ectodomain
+DATABASE|CAMPSQ13888_6352||Unknown
+PRED|NP_001193415.1_cyclic_AMP-dependent_transcription_factor_ATF-3_isoform_5_[Homo_sapiens]|0.69|0.87||Unknown
+PRED|XP_009053524.1_hypothetical_protein_LOTGIDRAFT_116432_partial_[Lottia_gigantea]|0.96|0.82||Unknown
+PRED|XP_009055250.1_hypothetical_protein_LOTGIDRAFT_145251_partial_[Lottia_gigantea]|0.91|0.76||Unknown
+PRED|XP_009060943.1_hypothetical_protein_LOTGIDRAFT_79466_partial_[Lottia_gigantea]|0.67|0.73||Unknown

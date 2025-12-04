@@ -1,0 +1,1 @@
+PRED|WP_048131895.1_MULTISPECIES:_type_II_toxin-antitoxin_system_HicB_family_antitoxin_[Methanosarcina]|0.96|0.73||TTHA1013/TTHA0281-like

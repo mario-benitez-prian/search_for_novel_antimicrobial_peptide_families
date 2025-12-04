@@ -1,0 +1,4 @@
+PRED|XP_003602028.1_uncharacterized_protein_[Medicago_truncatula]|0.71|0.84||OS04G0690500_PROTEIN
+PRED|XP_008388221.1_uncharacterized_protein_[Malus_domestica]|0.68|0.86||OS04G0690500_PROTEIN
+PRED|XP_008391895.3_uncharacterized_protein_[Malus_domestica]|0.59|0.8||OS04G0690500_PROTEIN
+PRED|XP_039687572.1_uncharacterized_protein_[Medicago_truncatula]|0.69|0.75||OS04G0690500_PROTEIN

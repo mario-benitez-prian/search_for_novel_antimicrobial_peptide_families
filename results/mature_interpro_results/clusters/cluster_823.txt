@@ -1,0 +1,3 @@
+PRED|XP_011658404.1_metallothionein-like_protein_4A_[Cucumis_sativus]|0.82|0.94||Plant_EC_metallothionein-like_protein,_family_15
+PRED|XP_015159382.1_metallothionein-like_protein_4B_[Solanum_tuberosum]|0.57|0.94||Plant_EC_metallothionein-like_protein,_family_15
+PRED|XP_039683386.1_metallothionein-like_protein_4A_[Medicago_truncatula]|0.56|0.92||Plant_EC_metallothionein-like_protein,_family_15

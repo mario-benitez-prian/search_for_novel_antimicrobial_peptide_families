@@ -1,0 +1,5 @@
+PRED|NP_001318123.1_uncharacterized_protein_LOC100303943_[Zea_mays]|0.62|0.86||Protein_BRAWNIN
+PRED|XP_014626719.1_uncharacterized_protein_[Glycine_max]|0.87|0.8||Protein_BRAWNIN
+PRED|XP_020407205.1_uncharacterized_protein_[Zea_mays]|0.62|0.86||Protein_BRAWNIN
+PRED|XP_035822878.1_uncharacterized_protein_[Zea_mays]|0.62|0.86||Protein_BRAWNIN
+PRED|XP_035822879.1_uncharacterized_protein_[Zea_mays]|0.62|0.86||Protein_BRAWNIN

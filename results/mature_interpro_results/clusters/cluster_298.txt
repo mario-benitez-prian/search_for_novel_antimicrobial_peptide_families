@@ -1,0 +1,2 @@
+PRED|WP_002882830.1_MULTISPECIES:_YdgH/BhsA/McbA-like_domain_containing_protein_[Klebsiella]|0.87|0.79||Dodecin-like|YdgH-like_superfamily
+PRED|WP_002907807.1_MULTISPECIES:_YdgH/BhsA/McbA-like_domain_containing_protein_[Gammaproteobacteria]|0.98|0.72||YdgH-like_superfamily

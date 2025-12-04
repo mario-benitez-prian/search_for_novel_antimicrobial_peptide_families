@@ -1,0 +1,1 @@
+PRED|WP_000939545.1_MULTISPECIES:_sigma(X)-activator_ComW_[Bacteria]|0.65|0.8||Sigma(X)-activator_ComW

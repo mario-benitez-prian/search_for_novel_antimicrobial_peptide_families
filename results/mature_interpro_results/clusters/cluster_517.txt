@@ -1,0 +1,2 @@
+PRED|NP_001315002.1_ragulator_complex_protein_LAMTOR5_[Danio_rerio]|0.8|0.78||Ragulator_complex_protein_LAMTOR5
+PRED|XP_042200482.1_profilin-2-like_isoform_X2_[Callorhinchus_milii]|0.62|0.77||Profilin|Profilin_superfamily

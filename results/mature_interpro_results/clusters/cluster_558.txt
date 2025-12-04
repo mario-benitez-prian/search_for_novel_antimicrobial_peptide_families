@@ -1,0 +1,1 @@
+PRED|WP_424353357.1_NifB/NifX_family_molybdenum-iron_cluster-binding_protein_[Methanosarcina_mazei]|0.86|0.73||Dinitrogenase_iron-molybdenum_cofactor_biosynthesis_superfamily

@@ -1,0 +1,2 @@
+PRED|NP_001360543.1_T20D4.11-like_domain-containing_protein_[Caenorhabditis_elegans]|0.59|0.77||PROTEIN_CBG19148-RELATED
+PRED|NP_505323.1_T20D4.11-like_domain-containing_protein_[Caenorhabditis_elegans]|0.67|0.74||PROTEIN_CBG19148-RELATED

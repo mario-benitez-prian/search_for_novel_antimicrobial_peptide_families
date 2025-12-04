@@ -1,0 +1,1 @@
+PRED|NP_044550.1_ribosomal_protein_L16_(apicoplast)_[Toxoplasma_gondii_RH]|0.69|0.73||Large_ribosomal_subunit_protein_uL16_superfamily

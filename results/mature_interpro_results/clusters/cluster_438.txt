@@ -1,0 +1,1 @@
+PRED|NP_502635.1_UPF0375_protein_ule-4_[Caenorhabditis_elegans]|0.7|0.72||Protein_of_unknown_function_DUF1505

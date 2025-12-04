@@ -1,0 +1,1 @@
+PRED|WP_003227293.1_MULTISPECIES:_sigma_Y_negative_regulator_YxlE_[Bacillus]|0.99|0.87||Cardiolipin_synthase_N-terminal

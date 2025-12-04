@@ -1,0 +1,2 @@
+PRED|NP_729654.1_uncharacterized_protein_Dmel_CG32069_[Drosophila_melanogaster]|0.98|0.77||Yos1-like
+PRED|XP_014775988.1_immediate_early_response_3-interacting_protein_1_[Octopus_bimaculoides]|0.67|0.73||Yos1-like

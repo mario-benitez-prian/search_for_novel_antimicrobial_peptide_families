@@ -1,0 +1,4 @@
+PRED|XP_026696274.1_uncharacterized_protein_LOC108951050_isoform_X3_[Ciona_intestinalis]|0.55|0.7||CUB_DOMAIN-CONTAINING_PROTEIN
+PRED|XP_026696275.1_uncharacterized_protein_LOC108951050_isoform_X3_[Ciona_intestinalis]|0.55|0.7||CUB_DOMAIN-CONTAINING_PROTEIN
+PRED|XP_026696276.1_uncharacterized_protein_LOC108951050_isoform_X4_[Ciona_intestinalis]|0.64|0.75||CUB_DOMAIN-CONTAINING_PROTEIN
+PRED|XP_026696277.1_uncharacterized_protein_LOC108951050_isoform_X5_[Ciona_intestinalis]|0.61|0.74||CUB_DOMAIN-CONTAINING_PROTEIN

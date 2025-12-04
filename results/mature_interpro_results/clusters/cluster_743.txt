@@ -1,0 +1,1 @@
+PRED|WP_004043756.1_MULTISPECIES:_DUF7525_family_protein_[Haloferax]|0.65|0.71||Protein_of_unknown_function_DUF7525

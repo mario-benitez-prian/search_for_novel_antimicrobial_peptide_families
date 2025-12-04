@@ -1,0 +1,1 @@
+PRED|XP_010237709.1_uncharacterized_protein_LOC100822203_[Brachypodium_distachyon]|0.5|0.9||OS07G0516700_PROTEIN

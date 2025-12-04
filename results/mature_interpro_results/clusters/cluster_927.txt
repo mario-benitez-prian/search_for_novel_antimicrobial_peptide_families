@@ -1,0 +1,1 @@
+PRED|XP_008391687.4_uncharacterized_protein_[Malus_domestica]|0.73|0.72||EMB|CAB87627.1-RELATED

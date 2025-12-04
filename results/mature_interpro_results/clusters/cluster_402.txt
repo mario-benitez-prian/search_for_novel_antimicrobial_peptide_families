@@ -1,0 +1,2 @@
+PRED|NP_001011618.1_secapin_preproprotein_[Apis_mellifera]|0.99|0.84||Secapin
+PRED|XP_016767767.2_secapin_isoform_X1_[Apis_mellifera]|1.0|0.79||Secapin

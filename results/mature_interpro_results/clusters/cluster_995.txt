@@ -1,0 +1,2 @@
+PRED|NP_001097701.1_Male-specific_RNA_84Dc_isoform_B_[Drosophila_melanogaster]|0.75|0.96||Male_specific_sperm_protein
+PRED|NP_524254.1_Male-specific_RNA_84Dc_isoform_A_[Drosophila_melanogaster]|0.75|0.96||Male_specific_sperm_protein

@@ -1,0 +1,3 @@
+PRED|XP_008645002.1_uncharacterized_protein_[Zea_mays]|0.93|0.79||CLAVATA3/ESR_(CLE)-RELATED_PROTEIN_20
+PRED|XP_008648903.1_uncharacterized_protein_[Zea_mays]|0.73|0.75||CLAVATA3/ESR_(CLE)-RELATED_PROTEIN_20
+PRED|XP_023155834.1_uncharacterized_protein_[Zea_mays]|0.86|0.85||CLAVATA3/ESR_(CLE)-RELATED_PROTEIN_20

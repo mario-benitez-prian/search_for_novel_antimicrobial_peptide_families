@@ -1,0 +1,1 @@
+PRED|WP_025711796.1_MULTISPECIES:_DUF4014_family_protein_[Salmonella]|0.72|0.93||Protein_of_unknown_function_DUF4014

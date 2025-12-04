@@ -1,0 +1,7 @@
+PRED|NP_001103581.2_Gal_Lectin_domain-containing_protein_precursor_[Danio_rerio]|0.61|0.86||Adhesion_G_protein-coupled_receptor_L2|PROTEIN_EVA-1
+PRED|NP_001153834.1_uncharacterized_protein_LOC100141361_precursor_[Danio_rerio]|0.57|0.86||Adhesion_G_protein-coupled_receptor_L2|PROTEIN_EVA-1
+PRED|NP_001153837.1_novel_rhamnose_binding_lectin-like_precursor_[Danio_rerio]|0.57|0.86||Adhesion_G_protein-coupled_receptor_L2|PROTEIN_EVA-1
+PRED|NP_001153845.2_uncharacterized_protein_LOC798111_precursor_[Danio_rerio]|0.64|0.86||Adhesion_G_protein-coupled_receptor_L2|Gal_Rha_Lectin_SUL-I-like|PROTEIN_EVA-1
+PRED|XP_002124924.1_D-galactoside-specific_lectin-like_[Ciona_intestinalis]|0.63|0.87||PROTEIN_EVA-1
+PRED|XP_011451344.3_D-galactoside-specific_lectin_[Magallana_gigas]|1.0|0.89||Adhesion_G_protein-coupled_receptor_L2|Gal_Rha_Lectin_SUL-I-like|PROTEIN_EVA-1
+PRED|XP_073793838.1_L-rhamnose-binding_lectin_ELEL-1-like_[Danio_rerio]|0.57|0.86||Adhesion_G_protein-coupled_receptor_L2|PROTEIN_EVA-1

@@ -1,0 +1,1 @@
+PRED|WP_004308130.1_MULTISPECIES:_reverse_transcriptase_N-terminal_domain-containing_protein_[Bacteroidales]|0.72|0.78||Group_II_Intron_Splicing_and_Mobility/Defense

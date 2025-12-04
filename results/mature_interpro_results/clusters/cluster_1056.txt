@@ -1,0 +1,1 @@
+PRED|XP_001030396.1_phage_lysozyme_protein_[Tetrahymena_thermophila_SB210]|0.75|0.73||Bacteriophage_lysozyme-like

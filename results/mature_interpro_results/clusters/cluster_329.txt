@@ -1,0 +1,4 @@
+DATABASE|AP01228||Microcin_V_bacteriocin
+DATABASE|AP01229||Microcin_V_bacteriocin
+DATABASE|AP01230||Microcin_V_bacteriocin
+PRED|WP_001259758.1_MULTISPECIES:_colicin_V_[Gammaproteobacteria]|0.99|0.9||Microcin_V_bacteriocin

@@ -1,0 +1,5 @@
+PRED|XP_002183036.1_predicted_protein_partial_[Phaeodactylum_tricornutum_CCAP_1055/1]|0.69|0.88||Aurora_kinase-like
+PRED|XP_002292202.1_predicted_protein_partial_[Thalassiosira_pseudonana_CCMP1335]|0.65|0.87||Transferase(Phosphotransferase)_domain_1
+PRED|XP_009060569.1_hypothetical_protein_LOTGIDRAFT_145838_partial_[Lottia_gigantea]|0.83|0.71||STE20_Ser/Thr_Protein_Kinase
+PRED|XP_014756311.1_rust_resistance_kinase_Lr10-like_[Brachypodium_distachyon]|0.72|0.86||Rust_resistance_kinase_Lr10/LRL2.1-2.5-like
+PRED|XP_014788158.2_serine/threonine-protein_kinase_10_[Octopus_bimaculoides]|0.63|0.76||STE20_Subfamily_Serine/Threonine_Kinases

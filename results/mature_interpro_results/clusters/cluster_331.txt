@@ -1,0 +1,1 @@
+PRED|XP_073392775.1_NAD(P)H-quinone_oxidoreductase_subunit_N_chloroplastic-like_isoform_X2_[Physcomitrium_patens]|0.87|0.74||NAD(P)H-quinone_oxidoreductase,_subunit_N

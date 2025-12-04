@@ -1,0 +1,1 @@
+PRED|NP_031411.1_apolipoprotein_C-IV_precursor_[Mus_musculus]|0.52|0.76||Apolipoprotein_C-IV

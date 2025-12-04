@@ -1,0 +1,1 @@
+PRED|XP_006364907.1_early_nodulin-93-like_[Solanum_tuberosum]|0.91|0.89||Early_nodulin_93_ENOD93_protein

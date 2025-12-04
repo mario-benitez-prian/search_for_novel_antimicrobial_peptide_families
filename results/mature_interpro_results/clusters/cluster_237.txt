@@ -1,0 +1,4 @@
+PRED|WP_000823874.1_MULTISPECIES:_stress-induced_protein_YchH_[Shigella]|0.93|0.82||Protein_of_unknown_function_DUF2583
+PRED|WP_000823879.1_MULTISPECIES:_stress-induced_protein_YchH_[Salmonella]|0.93|0.85||Protein_of_unknown_function_DUF2583
+PRED|WP_000823885.1_MULTISPECIES:_stress-induced_protein_YchH_[Bacteria]|0.93|0.81||Protein_of_unknown_function_DUF2583
+PRED|WP_002910437.1_MULTISPECIES:_stress-induced_protein_YchH_[Klebsiella]|0.86|0.88||Protein_of_unknown_function_DUF2583

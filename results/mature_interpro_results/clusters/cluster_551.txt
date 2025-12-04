@@ -1,0 +1,1 @@
+PRED|WP_003100051.1_MULTISPECIES:_glycine_zipper_domain-containing_protein_[Pseudomonas]|0.99|0.92||YMGG-like_Gly-zipper

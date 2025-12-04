@@ -1,0 +1,8 @@
+>PRED|WP_000714547.1_MULTISPECIES:_PhoP/PhoQ_regulator_MgrB_[Enterobacteriaceae]|1.0|0.79||PhoP/PhoQ_regulator_MgrB
+QFFSGICAINKFIPW
+>PRED|WP_000714550.1_MULTISPECIES:_PhoP/PhoQ_regulator_MgrB_[Bacteria]|1.0|0.85||PhoP/PhoQ_regulator_MgrB
+DQDVQFFSGICAINQFIPW
+>PRED|WP_002430101.1_MULTISPECIES:_PhoP/PhoQ_regulator_MgrB_[Yersinia_pseudotuberculosis_complex]|0.99|0.85||PhoP/PhoQ_regulator_MgrB
+YCDQGGTFSTGICAITTIVPW
+>PRED|WP_002911375.1_MULTISPECIES:_PhoP/PhoQ_regulator_MgrB_[Enterobacteriaceae]|0.99|0.89||PhoP/PhoQ_regulator_MgrB
+QFFSGICTINKFIPW

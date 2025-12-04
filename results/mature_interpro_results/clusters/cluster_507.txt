@@ -1,0 +1,2 @@
+PRED|NP_001351534.1_PAMP-induced_secreted_peptide_1_precursor_[Glycine_max]|0.98|0.71||PAMP-induced_secreted_peptide_1
+PRED|NP_001351591.1_PAMP-induced_secreted_peptide_1-like_precursor_[Glycine_max]|0.96|0.72||PAMP-induced_secreted_peptide_1

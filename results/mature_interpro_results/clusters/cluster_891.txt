@@ -1,0 +1,1 @@
+PRED|XP_040541388.1_orexigenic_neuropeptide_QRFP-like_[Gallus_gallus]|0.94|0.7||Orexigenic_neuropeptide_QRFP/P518

@@ -1,0 +1,1 @@
+PRED|NP_001303592.1_uncharacterized_protein_Dmel_CG46193_[Drosophila_melanogaster]|0.8|0.8||Protamine-like

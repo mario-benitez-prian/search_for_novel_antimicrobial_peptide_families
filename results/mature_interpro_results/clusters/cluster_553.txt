@@ -1,0 +1,1 @@
+PRED|NP_001183948.1_meiosis_5_precursor_[Zea_mays]|0.84|0.88||Protodermal_factor_1

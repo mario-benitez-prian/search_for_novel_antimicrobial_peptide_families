@@ -1,0 +1,1 @@
+PRED|WP_012480020.1_MULTISPECIES:_YeeE/YedE_family_protein_[Stenotrophomonas]|0.57|0.74||Sulphur_transport_TsuA/YedE

@@ -1,0 +1,1 @@
+PRED|NP_001289026.1_phorbol-12-myristate-13-acetate-induced_protein_1_[Gallus_gallus]|0.78|0.72||Phorbol-12-myristate-13-acetate-induced_protein_1

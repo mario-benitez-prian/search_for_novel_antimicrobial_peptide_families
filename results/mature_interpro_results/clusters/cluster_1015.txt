@@ -1,0 +1,1 @@
+PRED|XP_008201322.1_FUN14_domain-containing_protein_1B_[Tribolium_castaneum]|0.54|0.77||FUN14

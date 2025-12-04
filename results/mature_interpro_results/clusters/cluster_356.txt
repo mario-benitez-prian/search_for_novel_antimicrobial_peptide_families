@@ -1,0 +1,7 @@
+PRED|NP_001344819.1_vesicle_transport_protein_SFT2A_isoform_2_[Mus_musculus]|0.96|0.83||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like
+PRED|XP_005109483.1_vesicle_transport_protein_SFT2B_[Aplysia_californica]|0.62|0.76||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like
+PRED|XP_007893907.1_vesicle_transport_protein_SFT2B_[Callorhinchus_milii]|0.66|0.78||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like
+PRED|XP_011244487.1_vesicle_transport_protein_SFT2A_isoform_X1_[Mus_musculus]|0.96|0.83||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like
+PRED|XP_029696927.1_vesicle_transport_protein_SFT2A_isoform_X2_[Takifugu_rubripes]|0.59|0.92||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like
+PRED|XP_042202400.1_vesicle_transport_protein_SFT2B-like_partial_[Callorhinchus_milii]|0.92|0.88||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like
+PRED|XP_064413407.1_vesicle_transport_protein_SFT2B_isoform_X2_[Latimeria_chalumnae]|0.81|0.84||Vesicle_transport_protein_SFT2|Vesicle_transport_protein,_Got1/SFT2-like

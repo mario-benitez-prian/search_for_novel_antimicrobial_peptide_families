@@ -1,0 +1,1 @@
+PRED|XP_008679638.1_uncharacterized_protein_[Zea_mays]|0.75|0.85||Unknown

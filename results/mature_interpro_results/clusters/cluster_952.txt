@@ -1,0 +1,1 @@
+PRED|NP_001351586.1_uncharacterized_protein_LOC100527690_[Glycine_max]|0.57|0.76||OS01G0642200_PROTEIN

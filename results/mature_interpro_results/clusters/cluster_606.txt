@@ -1,0 +1,5 @@
+DATABASE|AP03698||salivaricin_M_family_lantibiotic
+DATABASE|AP03699||salivaricin_M_family_lantibiotic
+DATABASE|AP03700||salivaricin_M_family_lantibiotic
+DATABASE|DBAASPR_21208_Lantibiotic_Salivaricin_10A1||salivaricin_M_family_lantibiotic
+DATABASE|DBAASPR_21209_Lantibiotic_Salivaricin_10A2||salivaricin_M_family_lantibiotic

@@ -1,0 +1,1 @@
+PRED|YP_010963487.1_NADH_dehydrogenase_subunit_4L_(mitochondrion)_[Anopheles_gambiae]|0.75|0.73||Unknown

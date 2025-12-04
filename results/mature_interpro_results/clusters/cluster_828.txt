@@ -1,0 +1,1 @@
+PRED|XP_015159145.1_pectin_acetylesterase_8-like_[Solanum_tuberosum]|0.56|0.76||Pectinacetylesterase/NOTUM

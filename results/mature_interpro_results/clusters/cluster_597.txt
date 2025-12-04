@@ -1,0 +1,2 @@
+PRED|WP_003227330.1_MULTISPECIES:_teichoic_acid_D-Ala_incorporation-associated_protein_DltX_[Bacillus]|0.92|0.73||D-Ala-teichoic_acid_biosynthesis_protein_DltX
+PRED|WP_003726190.1_MULTISPECIES:_teichoic_acid_D-Ala_incorporation-associated_protein_DltX_[Bacillales]|0.82|0.8||D-Ala-teichoic_acid_biosynthesis_protein_DltX

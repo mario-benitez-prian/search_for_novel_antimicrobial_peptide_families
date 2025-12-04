@@ -1,0 +1,2 @@
+PRED|XP_020398174.1_CRIB_domain-containing_protein_RIC10_isoform_X2_[Zea_mays]|1.0|0.74||CRIB|Elongation_factor_Ts,_mitochondrial|OS06G0681300_PROTEIN-RELATED
+PRED|XP_020398175.1_CRIB_domain-containing_protein_RIC10_isoform_X3_[Zea_mays]|0.98|0.72||CRIB|Elongation_factor_Ts,_mitochondrial|OS06G0681300_PROTEIN-RELATED

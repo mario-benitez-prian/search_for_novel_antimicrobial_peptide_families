@@ -1,0 +1,1 @@
+PRED|XP_958708.1_clock_controlled_protein_CCG-14_[Neurospora_crassa_OR74A]|0.75|0.76||Cerato-platanin

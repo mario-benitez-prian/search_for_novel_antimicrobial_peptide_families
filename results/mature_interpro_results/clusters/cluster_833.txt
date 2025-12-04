@@ -1,0 +1,4 @@
+DATABASE|AP03187||Small_ribosomal_subunit_protein_uS12
+PRED|XP_020397148.1_uncharacterized_protein_[Zea_mays]|0.55|0.7||Nucleic_acid-binding,_OB-fold
+PRED|XP_662334.2_mitochondrial_37S_ribosomal_protein_uS12m_[Aspergillus_nidulans_FGSC_A4]|0.65|0.81||Nucleic_acid-binding,_OB-fold|Ribosomal_protein_uS12,_bacterial-type|Small_ribosomal_subunit_protein_uS12
+PRED|YP_588287.1_hypothetical_protein_ZeamMp023_(mitochondrion)_[Zea_mays_subsp._mays]|0.53|0.73||Nucleic_acid-binding,_OB-fold|Ribosomal_protein_uS12,_bacterial-type|Small_ribosomal_subunit_protein_uS12

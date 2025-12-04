@@ -1,0 +1,1 @@
+PRED|XP_009046765.1_hypothetical_protein_LOTGIDRAFT_80064_partial_[Lottia_gigantea]|0.85|0.92||Palmitoyltransferase_PFA4/ZDHHC16/ZDHHC20/ERF2-like

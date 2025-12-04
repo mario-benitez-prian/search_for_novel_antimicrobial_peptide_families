@@ -1,0 +1,2 @@
+PRED|NP_001230256.1_retinoic_acid_early_transcript_1E_isoform_3_precursor_[Homo_sapiens]|0.58|0.73||MHC_class_I-like_antigen_recognition-like_superfamily|MHC_classes_I/II-like_antigen_recognition_protein
+PRED|NP_001230257.1_retinoic_acid_early_transcript_1E_isoform_4_precursor_[Homo_sapiens]|0.58|0.77||MHC_class_I-like_antigen_recognition-like_superfamily|MHC_classes_I/II-like_antigen_recognition_protein

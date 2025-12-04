@@ -1,0 +1,1 @@
+PRED|XP_003631927.1_uncharacterized_protein_LOC100854263_[Vitis_vinifera]|0.79|0.73||OS06G0327400_PROTEIN

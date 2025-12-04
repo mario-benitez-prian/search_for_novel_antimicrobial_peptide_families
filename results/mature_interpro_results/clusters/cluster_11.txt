@@ -1,0 +1,13 @@
+DATABASE|AP00412||Coleoptericin
+DATABASE|AP00413||Coleoptericin
+DATABASE|AP02128||Coleoptericin
+DATABASE|AP02129||Coleoptericin
+DATABASE|AP03837||Coleoptericin
+DATABASE|AP04048||Coleoptericin
+DATABASE|CAMPSQ16689_ColLC||Coleoptericin
+DATABASE|CAMPSQ16690_Col1||Coleoptericin
+DATABASE|CAMPSQ16691_Col6||Coleoptericin
+DATABASE|CAMPSQ900_Holotricin-2||Coleoptericin
+DATABASE|CAMPSQ905_Rhinocerosin||Coleoptericin
+PRED|XP_008199791.1_coleoptericin_[Tribolium_castaneum]|0.86|0.85||Coleoptericin
+PRED|XP_008199794.1_coleoptericin_[Tribolium_castaneum]|0.81|0.85||Coleoptericin

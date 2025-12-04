@@ -1,0 +1,1 @@
+PRED|WP_002216493.1_MULTISPECIES:_YobH_family_protein_[Yersinia_pseudotuberculosis_complex]|0.92|0.91||YobH-like_protein

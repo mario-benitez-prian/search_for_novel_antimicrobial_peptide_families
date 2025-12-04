@@ -1,0 +1,7 @@
+DATABASE|CAMPSQ12738_492263LeguminAlike||RmlC-like_jelly_roll_fold
+DATABASE|CAMPSQ12743_379225LeguminAlike||RmlC-like_jelly_roll_fold
+DATABASE|CAMPSQ4345_Germin-likeprotein||Cupin_1|Germin|RmlC-like_jelly_roll_fold
+PRED|NP_001332456.1_RmlC-like_cupins_superfamily_protein_[Arabidopsis_thaliana]|0.52|0.71||Cupin_1|Germin|RmlC-like_jelly_roll_fold
+PRED|XP_002284616.2_germin-like_protein_subfamily_1_member_7_[Vitis_vinifera]|0.58|0.72||Cupin_1|Germin|RmlC-like_jelly_roll_fold
+PRED|XP_002294064.1_predicted_protein_partial_[Thalassiosira_pseudonana_CCMP1335]|0.88|0.86||RmlC-like_jelly_roll_fold
+PRED|XP_003594592.1_putative_germin-like_protein_2-1_[Medicago_truncatula]|0.58|0.7||Cupin_1|Germin|RmlC-like_jelly_roll_fold

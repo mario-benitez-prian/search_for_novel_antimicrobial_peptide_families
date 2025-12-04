@@ -1,0 +1,1 @@
+PRED|XP_007900852.1_neuritin_[Callorhinchus_milii]|0.83|0.71||Neuritin_family

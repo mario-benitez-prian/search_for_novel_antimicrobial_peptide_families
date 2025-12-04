@@ -1,0 +1,6 @@
+PRED|XP_006350652.1_EPIDERMAL_PATTERNING_FACTOR-like_protein_4_isoform_X3_[Solanum_tuberosum]|0.94|0.84||EPIDERMAL_PATTERNING_FACTOR-like_protein
+PRED|XP_006376332.1_protein_EPIDERMAL_PATTERNING_FACTOR_2_[Populus_trichocarpa]|0.7|0.84||Epidermal_patterning_factor_proteins
+PRED|XP_006595093.1_EPIDERMAL_PATTERNING_FACTOR-like_protein_3_[Glycine_max]|0.51|0.75||EPIDERMAL_PATTERNING_FACTOR-like_protein
+PRED|XP_015165644.1_EPIDERMAL_PATTERNING_FACTOR-like_protein_4_isoform_X1_[Solanum_tuberosum]|0.9|0.84||EPIDERMAL_PATTERNING_FACTOR-like_protein
+PRED|XP_015165645.1_EPIDERMAL_PATTERNING_FACTOR-like_protein_4_isoform_X2_[Solanum_tuberosum]|0.89|0.85||EPIDERMAL_PATTERNING_FACTOR-like_protein
+PRED|XP_024363472.1_uncharacterized_protein_[Physcomitrium_patens]|0.76|0.83||EPIDERMAL_PATTERNING_FACTOR-like_protein

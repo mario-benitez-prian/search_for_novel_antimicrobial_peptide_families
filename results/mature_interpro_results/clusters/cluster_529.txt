@@ -1,0 +1,5 @@
+DATABASE|AP00594||Bacteriocin,_lactococcin_972
+DATABASE|AP02399||Bacteriocin,_lactococcin_972
+PRED|WP_000726502.1_MULTISPECIES:_lactococcin_972_family_bacteriocin_[Bacteria]|0.87|0.91||Bacteriocin,_lactococcin_972
+PRED|WP_001230165.1_lactococcin_972_family_bacteriocin_[Streptococcus_pneumoniae]|0.84|0.89||Bacteriocin,_lactococcin_972
+PRED|WP_001790097.1_MULTISPECIES:_lactococcin_972_family_bacteriocin_[Staphylococcus]|0.86|0.91||Bacteriocin,_lactococcin_972

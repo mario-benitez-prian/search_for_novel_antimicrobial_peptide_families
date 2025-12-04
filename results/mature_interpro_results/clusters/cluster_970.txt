@@ -1,0 +1,1 @@
+PRED|WP_008657459.1_MULTISPECIES:_DUF6769_family_protein_[Bacteroides]|0.82|0.71||Protein_of_unknown_function_DUF6769

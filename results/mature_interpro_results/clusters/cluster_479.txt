@@ -1,0 +1,2 @@
+PRED|XP_002296778.1_predicted_protein_partial_[Thalassiosira_pseudonana_CCMP1335]|0.92|0.83||MORN_repeat
+PRED|XP_030831432.1_junctophilin-2-like_partial_[Strongylocentrotus_purpuratus]|0.83|0.8||Junctophilin|MORN_repeat

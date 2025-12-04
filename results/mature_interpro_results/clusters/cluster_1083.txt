@@ -1,0 +1,1 @@
+PRED|WP_000543395.1_MULTISPECIES:_two-component_system_connector_SafA_[Enterobacteriaceae]|0.98|0.81||Two-component-system_connector_protein_SafA

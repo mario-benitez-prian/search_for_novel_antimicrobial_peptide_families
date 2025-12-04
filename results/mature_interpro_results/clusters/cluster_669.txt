@@ -1,0 +1,1 @@
+PRED|WP_223499600.1_MULTISPECIES:_protein_YrbN_[Yersiniaceae]|0.96|0.76||YrbN-like

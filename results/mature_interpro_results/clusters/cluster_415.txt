@@ -1,0 +1,15 @@
+PRED|XP_002436778.1_uncharacterized_protein_LOC8065704_[Sorghum_bicolor]|0.65|0.89||OS02G0740600_PROTEIN
+PRED|XP_002452574.1_uncharacterized_protein_LOC8075729_[Sorghum_bicolor]|0.91|0.89||OS02G0740600_PROTEIN
+PRED|XP_003527498.1_uncharacterized_protein_[Glycine_max]|0.6|0.8||OS02G0740600_PROTEIN
+PRED|XP_003539861.1_uncharacterized_protein_[Glycine_max]|0.64|0.77||OS02G0740600_PROTEIN
+PRED|XP_003631290.1_uncharacterized_protein_LOC100262187_[Vitis_vinifera]|0.57|0.83||OS02G0740600_PROTEIN
+PRED|XP_006582358.1_uncharacterized_protein_[Glycine_max]|0.6|0.8||OS02G0740600_PROTEIN
+PRED|XP_006582359.1_uncharacterized_protein_[Glycine_max]|0.6|0.79||OS02G0740600_PROTEIN
+PRED|XP_006582360.1_uncharacterized_protein_[Glycine_max]|0.6|0.77||OS02G0740600_PROTEIN
+PRED|XP_008393077.2_uncharacterized_protein_[Malus_domestica]|0.92|0.83||OS02G0740600_PROTEIN
+PRED|XP_014632316.1_uncharacterized_protein_[Glycine_max]|0.62|0.78||OS02G0740600_PROTEIN
+PRED|XP_014632317.1_uncharacterized_protein_[Glycine_max]|0.6|0.76||OS02G0740600_PROTEIN
+PRED|XP_014755580.1_uncharacterized_protein_LOC100841037_[Brachypodium_distachyon]|0.72|0.9||OS02G0740600_PROTEIN
+PRED|XP_015629928.1_uncharacterized_protein_[Oryza_sativa_Japonica_Group]|0.73|0.83||OS02G0740600_PROTEIN
+PRED|XP_015629929.1_uncharacterized_protein_[Oryza_sativa_Japonica_Group]|0.73|0.83||OS02G0740600_PROTEIN
+PRED|XP_015629930.1_uncharacterized_protein_[Oryza_sativa_Japonica_Group]|0.73|0.83||OS02G0740600_PROTEIN

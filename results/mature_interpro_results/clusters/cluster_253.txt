@@ -1,0 +1,11 @@
+PRED|NP_995311.2_leukocyte-specific_transcript_1_protein_isoform_4_[Homo_sapiens]|0.55|0.72||Leukocyte-specific_transcript_1,_LST-1
+PRED|XP_047275313.1_leukocyte-specific_transcript_1_protein_isoform_X2_[Homo_sapiens]|0.55|0.72||Leukocyte-specific_transcript_1,_LST-1
+PRED|XP_054184495.1_leukocyte-specific_transcript_1_protein_isoform_X2_[Homo_sapiens]|0.55|0.72||Leukocyte-specific_transcript_1,_LST-1
+PRED|XP_054185885.1_leukocyte-specific_transcript_1_protein_isoform_X2_[Homo_sapiens]|0.54|0.72||Leukocyte-specific_transcript_1,_LST-1
+PRED|XP_054185886.1_leukocyte-specific_transcript_1_protein_isoform_X2_[Homo_sapiens]|0.55|0.72||Leukocyte-specific_transcript_1,_LST-1
+PRED|XP_054186377.1_leukocyte-specific_transcript_1_protein_isoform_X2_[Homo_sapiens]|0.55|0.72||Leukocyte-specific_transcript_1,_LST-1
+PRED|XP_054186378.1_leukocyte-specific_transcript_1_protein_isoform_X2_[Homo_sapiens]|0.55|0.72||Leukocyte-specific_transcript_1,_LST-1
+PRED|XP_054186657.1_leukocyte-specific_transcript_1_protein_isoform_X2_[Homo_sapiens]|0.55|0.72||Leukocyte-specific_transcript_1,_LST-1
+PRED|XP_054186870.1_leukocyte-specific_transcript_1_protein_isoform_X2_[Homo_sapiens]|0.55|0.72||Leukocyte-specific_transcript_1,_LST-1
+PRED|XP_054186871.1_leukocyte-specific_transcript_1_protein_isoform_X2_[Homo_sapiens]|0.55|0.72||Leukocyte-specific_transcript_1,_LST-1
+PRED|XP_054187154.1_leukocyte-specific_transcript_1_protein_isoform_X2_[Homo_sapiens]|0.55|0.72||Leukocyte-specific_transcript_1,_LST-1

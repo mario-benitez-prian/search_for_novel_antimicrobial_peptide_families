@@ -1,0 +1,1 @@
+DATABASE|CAMPSQ3858_Colicin-A||Channel_forming_colicin,_C-terminal_cytotoxic

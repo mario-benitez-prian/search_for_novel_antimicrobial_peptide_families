@@ -1,0 +1,8 @@
+DATABASE|AP02679||Casein,_alpha/beta
+DATABASE|AP03131||Alpha-s2_casein|Casein,_alpha/beta
+PRED|NP_001288263.1_alpha-S2-casein-like_B_isoform_2_precursor_[Mus_musculus]|0.87|0.79||Alpha-s2_casein|Casein,_alpha/beta
+PRED|NP_001288264.1_alpha-S2-casein-like_B_isoform_3_precursor_[Mus_musculus]|0.79|0.81||Alpha-s2_casein|Casein,_alpha/beta
+PRED|NP_001291698.1_alpha-S2-casein-like_A_isoform_4_precursor_[Mus_musculus]|0.69|0.77||Alpha-s2_casein
+PRED|NP_034103.2_alpha-S2-casein-like_B_isoform_1_precursor_[Mus_musculus]|0.83|0.83||Casein,_alpha/beta
+PRED|NP_775129.1_alpha-S2-casein-like_B_precursor_[Rattus_norvegicus]|0.77|0.74||Alpha-s2_casein|Casein,_alpha/beta
+PRED|XP_063128958.1_alpha-S2-casein-like_B_isoform_X1_[Rattus_norvegicus]|0.77|0.74||Alpha-s2_casein|Casein,_alpha/beta

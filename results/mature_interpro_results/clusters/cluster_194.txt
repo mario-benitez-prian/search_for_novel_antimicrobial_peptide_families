@@ -1,0 +1,8 @@
+PRED|NP_001033548.1_Nematocin_[Caenorhabditis_elegans]|1.0|0.93||Neurohypophysial_hormone
+PRED|NP_001078831.1_oxytocin/vasopressin-like_peptide_precursor_[Tribolium_castaneum]|0.76|0.83||Neurohypophysial_hormone|Neurohypophysial_hormone,_conserved_site
+PRED|XP_002936405.1_mesotocin-neurophysin_MT_[Xenopus_tropicalis]|0.72|0.76||Neurohypophysial_hormone
+PRED|XP_006498973.1_oxytocin-neurophysin_1_isoform_X1_[Mus_musculus]|0.81|0.78||Neurohypophysial_hormone|Neurohypophysial_hormone,_conserved_site
+PRED|XP_009058906.1_hypothetical_protein_LOTGIDRAFT_53893_partial_[Lottia_gigantea]|0.91|0.87||Neurohypophysial_hormone
+PRED|XP_014771402.1_terepressin/terephysin_isoform_X4_[Octopus_bimaculoides]|0.66|0.84||Neurohypophysial_hormone
+PRED|XP_040527589.1_neurophysin_1_[Gallus_gallus]|0.92|0.75||Neurohypophysial_hormone
+PRED|XP_062838642.1_neurophysin_1_[Anolis_carolinensis]|0.97|0.82||Neurohypophysial_hormone|Neurohypophysial_hormone,_conserved_site

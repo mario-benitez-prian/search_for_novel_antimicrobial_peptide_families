@@ -1,0 +1,2 @@
+PRED|XP_030834149.1_CDGSH_iron-sulfur_domain-containing_protein_3_mitochondrial-like_partial_[Strongylocentrotus_purpuratus]|0.61|0.89||Iron-binding_zinc_finger,_CDGSH_type
+PRED|XP_046439937.1_CDGSH_iron-sulfur_domain-containing_protein_1-like_isoform_X2_[Daphnia_pulex]|0.68|0.78||Iron-binding_zinc_finger,_CDGSH_type

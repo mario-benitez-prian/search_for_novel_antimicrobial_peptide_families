@@ -1,0 +1,2 @@
+PRED|WP_001297404.1_MULTISPECIES:_protein_YqgG_[Bacteria]|1.0|0.85||YqgG-like
+PRED|WP_001751809.1_MULTISPECIES:_hypothetical_protein_[Pseudomonadati]|0.98|0.87||YqgG-like

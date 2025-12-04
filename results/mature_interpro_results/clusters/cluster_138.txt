@@ -1,0 +1,15 @@
+DATABASE|AP01194||Lantibiotic_alpha_component
+DATABASE|AP01511||Lantibiotic_alpha_component
+DATABASE|AP01609||Lantibiotic_alpha_component
+DATABASE|AP01610||Lantibiotic_alpha_component
+DATABASE|AP01618||Lantibiotic_alpha_component
+DATABASE|AP01621||Lantibiotic_alpha_component
+DATABASE|AP02252||Lantibiotic_alpha_component
+DATABASE|AP02725||Lantibiotic_alpha_component
+DATABASE|AP02741||Lantibiotic_alpha_component
+DATABASE|AP02799||Lantibiotic_alpha_component
+DATABASE|AP05198||Lantibiotic_alpha_component
+DATABASE|CAMPSQ3300_Lichenicidin||Lantibiotic_alpha_component
+DATABASE|DBAASPR_1474_Lantibiotic_Enterocin_W-alpha||Lantibiotic_alpha_component
+DATABASE|DBAASPR_16366_Lacticin_3147_chain_A1,_LtnA1||Lantibiotic_alpha_component
+DATABASE|DBAASPR_9598_Thusin_A1,_ThsA1||Lantibiotic_alpha_component

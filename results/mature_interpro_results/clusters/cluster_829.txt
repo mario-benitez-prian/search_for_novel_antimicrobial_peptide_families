@@ -1,0 +1,1 @@
+PRED|WP_003225207.1_MULTISPECIES:_cortex_morphogenetic_protein_CmpA_[Bacillati]|0.63|0.82||Cortex_morphogenetic_protein_CmpA

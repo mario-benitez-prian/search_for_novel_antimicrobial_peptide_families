@@ -1,0 +1,2 @@
+PRED|WP_001036519.1_MULTISPECIES:_DNA-directed_RNA_polymerase_subunit_beta_[Streptococcus]|0.98|0.87||DNA-directed_RNA_polymerase_subunit_beta/EpuA
+PRED|WP_011017613.1_DNA-directed_RNA_polymerase_subunit_beta_[Streptococcus_pyogenes]|0.98|0.84||DNA-directed_RNA_polymerase_subunit_beta/EpuA

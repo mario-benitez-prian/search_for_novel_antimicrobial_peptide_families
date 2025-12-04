@@ -1,0 +1,2 @@
+PRED|XP_024518703.1_putative_per-hexamer_repeat_protein_5_[Selaginella_moellendorffii]|0.93|0.85||Unknown
+PRED|XP_063126960.1_keratin-associated_protein_21-1_[Rattus_norvegicus]|0.67|0.96||Unknown

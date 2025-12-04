@@ -1,0 +1,2 @@
+PRED|WP_001364348.1_MULTISPECIES:_tryptophanase_leader_peptide_[Gammaproteobacteria]|0.88|0.82||Tryptophanese_operon_leader_peptide
+PRED|WP_011069570.1_MULTISPECIES:_tryptophanase_leader_peptide_[Shigella]|0.87|0.84||Tryptophanese_operon_leader_peptide

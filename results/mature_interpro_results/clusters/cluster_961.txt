@@ -1,0 +1,1 @@
+PRED|NP_001162861.1_seminal_fluid_protein_24Bb_[Drosophila_melanogaster]|0.95|0.85||Seminal_fluid_protein_24Bc

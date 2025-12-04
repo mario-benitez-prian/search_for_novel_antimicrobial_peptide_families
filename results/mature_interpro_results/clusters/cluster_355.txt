@@ -1,0 +1,1 @@
+PRED|WP_211180523.1_MULTISPECIES:_protein_YthB_[Gammaproteobacteria]|0.95|0.76||YthB

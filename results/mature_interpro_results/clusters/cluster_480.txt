@@ -1,0 +1,3 @@
+PRED|NP_001355181.1_transmembrane_4_L6_family_member_20_isoform_2_[Mus_musculus]|0.59|0.87||L6_membrane
+PRED|XP_007900628.1_transmembrane_4_L6_family_member_4-like_[Callorhinchus_milii]|0.8|0.73||L6_membrane
+PRED|XP_016847556.1_transmembrane_4_L6_family_member_1_[Anolis_carolinensis]|0.58|0.76||L6_membrane

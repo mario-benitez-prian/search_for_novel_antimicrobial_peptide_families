@@ -1,0 +1,2 @@
+DATABASE|CAMPSQ9475_MCoTI-I||Proteinase_inhibitor_I7,_squash
+DATABASE|CAMPSQ9476_MCoTI-II||Proteinase_inhibitor_I7,_squash

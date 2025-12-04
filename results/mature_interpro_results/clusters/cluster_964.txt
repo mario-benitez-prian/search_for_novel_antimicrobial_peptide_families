@@ -1,0 +1,2 @@
+PRED|XP_011434231.3_uncharacterized_protein_[Magallana_gigas]|0.81|0.75||SI:CH73-250A16.5-RELATED
+PRED|XP_032222875.1_uncharacterized_protein_LOC5521666_[Nematostella_vectensis]|0.51|0.72||SI:CH73-250A16.5-RELATED

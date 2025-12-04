@@ -1,0 +1,1 @@
+PRED|XP_006338482.1_uncharacterized_protein_[Solanum_tuberosum]|0.7|0.72||BNAA02G07370D_PROTEIN

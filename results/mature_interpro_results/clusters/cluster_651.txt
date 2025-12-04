@@ -1,0 +1,3 @@
+DATABASE|AP00612||Chromogranin_A/B|Chromogranin_A/B/C
+DATABASE|AP01478||Chromogranin_A/B|Chromogranin_A/B/C
+DATABASE|AP02353||Chromogranin_A/B|Chromogranin_A/B/C

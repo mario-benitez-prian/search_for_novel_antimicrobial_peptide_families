@@ -1,0 +1,2 @@
+PRED|XP_031754351.1_protein_shisa-like-1_isoform_X1_[Xenopus_tropicalis]|0.61|0.74||Shisa
+PRED|XP_034329768.2_cysteine_and_tyrosine-rich_protein_1_[Magallana_gigas]|0.69|0.77||Shisa

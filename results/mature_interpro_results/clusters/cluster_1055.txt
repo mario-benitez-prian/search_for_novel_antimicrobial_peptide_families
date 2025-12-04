@@ -1,0 +1,1 @@
+PRED|NP_001273335.1_appetite-regulating_hormone_isoform_4_precursor_[Mus_musculus]|0.77|0.74||Motilin/ghrelin-associated_peptide|Preproghrelin_peptide

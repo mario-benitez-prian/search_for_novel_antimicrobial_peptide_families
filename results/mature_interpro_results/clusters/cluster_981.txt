@@ -1,0 +1,1 @@
+PRED|XP_031754001.1_gastrokine-1_isoform_X1_[Xenopus_tropicalis]|0.52|0.73||Gastrokine

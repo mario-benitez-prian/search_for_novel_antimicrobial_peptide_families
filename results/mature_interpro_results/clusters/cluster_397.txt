@@ -1,0 +1,5 @@
+PRED|WP_002212215.1_acid_resistance_repetitive_basic_protein_Asr_[Yersinia_pestis]|0.78|0.87||Acid_shock_protein
+PRED|WP_002903693.1_MULTISPECIES:_acid_resistance_repetitive_basic_protein_Asr_[Gammaproteobacteria]|0.88|0.91||Acid_shock_protein
+PRED|WP_011110587.1_MULTISPECIES:_acid_resistance_repetitive_basic_protein_Asr_[Shigella]|0.73|0.81||Acid_shock_protein
+PRED|WP_032420419.1_MULTISPECIES:_acid_resistance_repetitive_basic_protein_Asr_[Enterobacteriaceae]|0.98|0.88||Acid_shock_protein
+PRED|WP_052939363.1_MULTISPECIES:_acid_resistance_repetitive_basic_protein_Asr_[Salmonella]|0.9|0.77||Acid_shock_protein

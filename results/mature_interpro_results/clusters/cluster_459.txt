@@ -1,0 +1,4 @@
+PRED|NP_001254349.1_Secreted_protein_[Caenorhabditis_elegans]|0.85|0.93||Protein_of_unknown_function_DUF1412
+PRED|NP_496694.1_Nematode_Specific_Peptide_family_group_E_[Caenorhabditis_elegans]|0.69|0.89||Protein_of_unknown_function_DUF1412
+PRED|NP_496695.1_Nematode_Specific_Peptide_family_group_E_[Caenorhabditis_elegans]|0.5|0.88||Protein_of_unknown_function_DUF1412
+PRED|NP_496696.1_Nematode_Specific_Peptide_family_group_E_[Caenorhabditis_elegans]|0.53|0.91||Protein_of_unknown_function_DUF1412

@@ -1,0 +1,2 @@
+DATABASE|AP05493||Honey_bee_toxin
+PRED|NP_001011612.1_apamin_preproprotein_[Apis_mellifera]|0.97|0.91||Honey_bee_toxin

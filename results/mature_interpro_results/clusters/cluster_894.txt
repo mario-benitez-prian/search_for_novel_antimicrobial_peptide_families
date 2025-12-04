@@ -1,0 +1,1 @@
+PRED|XP_015167251.1_putative_oxygen-evolving_enhancer_protein_2-2_partial_[Solanum_tuberosum]|0.75|0.77||Mog1/PsbP,_alpha/beta/alpha_sandwich|PsbP,_C-terminal

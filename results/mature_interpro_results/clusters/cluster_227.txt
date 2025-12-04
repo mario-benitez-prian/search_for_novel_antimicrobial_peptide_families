@@ -1,0 +1,2 @@
+PRED|NP_189494.1_UDP-glucose_4-epimerase_[Arabidopsis_thaliana]|0.52|0.83||Unknown
+PRED|XP_040867722.1_UDP-glucose_4-epimerase_GEPI42_[Glycine_max]|0.7|0.79||UDP-GLUCOSE_4-EPIMERASE|UDP-glucose_4-epimerase_4

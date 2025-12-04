@@ -1,0 +1,8 @@
+DATABASE|AP00146||Melittin/_Api_allergen
+DATABASE|AP00694||Melittin/_Api_allergen
+DATABASE|AP01926||Melittin/_Api_allergen
+DATABASE|CAMPSQ10553_Magainin2||Melittin/_Api_allergen
+DATABASE|CAMPSQ13777_Mel||Melittin/_Api_allergen
+DATABASE|CAMPSQ9842_MelP5||Melittin/_Api_allergen
+DATABASE|DBAASPR_5455_Melittin-S||Melittin/_Api_allergen
+DATABASE|DBAASPR_6007_Brevinin-1TOa||Melittin/_Api_allergen

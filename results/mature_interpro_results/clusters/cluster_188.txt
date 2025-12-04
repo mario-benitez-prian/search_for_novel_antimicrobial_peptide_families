@@ -1,0 +1,7 @@
+PRED|WP_050894957.1_TlpA_disulfide_reductase_family_protein_[Neisseria_meningitidis]|0.97|0.74||Redoxin|Thioredoxin_family_ResA/DsbE_subfamily|Thioredoxin-like_superfamily
+PRED|XP_002184755.1_predicted_protein_partial_[Phaeodactylum_tricornutum_CCAP_1055/1]|0.89|0.91||Thioredoxin-like_superfamily
+PRED|XP_002293017.1_hypothetical_protein_THAPSDRAFT_263903_partial_[Thalassiosira_pseudonana_CCMP1335]|0.98|0.75||Thioredoxin-like_superfamily
+PRED|XP_015838752.1_selenoprotein_M_[Tribolium_castaneum]|0.83|0.73||Thioredoxin-like_superfamily
+PRED|XP_030855516.1_peroxiredoxin-5_mitochondrial-like_[Strongylocentrotus_purpuratus]|0.68|0.76||Peroxiredoxin-5-like|Redoxin|Thioredoxin-like_superfamily
+PRED|XP_030855560.1_peroxiredoxin-5_mitochondrial-like_[Strongylocentrotus_purpuratus]|0.59|0.78||Peroxiredoxin-5-like|Redoxin|Thioredoxin-like_superfamily
+PRED|XP_046453775.1_sulfhydryl_oxidase_1-like_[Daphnia_pulex]|0.58|0.78||Sulfhydryl_oxidase|Thioredoxin-like_superfamily

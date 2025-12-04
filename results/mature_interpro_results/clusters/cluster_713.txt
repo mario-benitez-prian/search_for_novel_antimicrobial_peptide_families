@@ -1,0 +1,1 @@
+PRED|XP_002296562.1_hypothetical_protein_THAPSDRAFT_263786_partial_[Thalassiosira_pseudonana_CCMP1335]|0.93|0.93||Histone_acetyltransferase_Rtt109/CBP|Zinc_finger,_TAZ-type

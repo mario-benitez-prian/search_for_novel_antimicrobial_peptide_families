@@ -1,0 +1,1 @@
+PRED|XP_066167582.1_probable_cadmium/zinc-transporting_ATPase_HMA1_chloroplastic_isoform_X1_[Oryza_sativa_Japonica_Group]|0.93|0.74||Cation_Transport_P-type_ATPase

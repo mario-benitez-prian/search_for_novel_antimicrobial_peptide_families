@@ -1,0 +1,8 @@
+PRED|NP_571568.1_apoptosis_inducing_factor_BLCAP_[Danio_rerio]|0.67|0.73||Apoptosis_inducing_factor_BLCAP
+PRED|XP_009061019.1_hypothetical_protein_LOTGIDRAFT_193584_[Lottia_gigantea]|0.82|0.91||Bladder_cancer-related_protein_BC10
+PRED|XP_016769970.1_bladder_cancer-associated_protein_[Apis_mellifera]|0.84|0.81||Bladder_cancer-related_protein_BC10
+PRED|XP_040060639.1_bladder_cancer-associated_protein_[Gasterosteus_aculeatus_aculeatus]|0.7|0.74||Apoptosis_inducing_factor_BLCAP
+PRED|XP_040060640.1_bladder_cancer-associated_protein_[Gasterosteus_aculeatus_aculeatus]|0.7|0.74||Apoptosis_inducing_factor_BLCAP
+PRED|XP_040060641.1_bladder_cancer-associated_protein_[Gasterosteus_aculeatus_aculeatus]|0.7|0.74||Apoptosis_inducing_factor_BLCAP
+PRED|XP_042197731.1_bladder_cancer-associated_protein_[Callorhinchus_milii]|0.74|0.74||Bladder_cancer-related_protein_BC10
+PRED|XP_061505592.1_bladder_cancer-associated_protein_[Anopheles_gambiae]|0.98|0.82||Bladder_cancer-related_protein_BC10

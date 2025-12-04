@@ -1,0 +1,2 @@
+PRED|WP_003426457.1_cyclic_lactone_autoinducer_peptide_[Clostridioides_difficile]|0.96|0.84||AgrD,_cyclic_lactone_autoinducer_peptide
+PRED|WP_003427910.1_MULTISPECIES:_cyclic_lactone_autoinducer_peptide_[Clostridioides]|0.94|0.76||AgrD,_cyclic_lactone_autoinducer_peptide

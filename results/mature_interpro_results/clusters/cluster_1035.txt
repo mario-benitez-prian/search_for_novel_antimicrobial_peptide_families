@@ -1,0 +1,1 @@
+PRED|WP_015251477.1_MULTISPECIES:_FxsA_family_protein_[Bacillus]|0.99|0.84||FxsA_cytoplasmic_membrane_protein

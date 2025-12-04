@@ -1,0 +1,1 @@
+PRED|WP_001889657.1_MULTISPECIES:_DUF2256_domain-containing_protein_[Vibrio]|0.82|0.87||Uncharacterised_conserved_protein_UCP037205

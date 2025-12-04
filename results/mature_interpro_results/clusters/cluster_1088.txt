@@ -1,0 +1,1 @@
+PRED|XP_063120291.1_secretory_carrier-associated_membrane_protein_4_isoform_X2_[Rattus_norvegicus]|0.64|0.74||SCAMP

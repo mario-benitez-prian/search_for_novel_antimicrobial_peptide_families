@@ -1,0 +1,1 @@
+PRED|XP_070667984.1_potassium_transporter_3-like_[Malus_domestica]|0.8|0.74||Potassium_transporter

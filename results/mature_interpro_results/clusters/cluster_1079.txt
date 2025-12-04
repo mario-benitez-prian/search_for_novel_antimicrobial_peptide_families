@@ -1,0 +1,1 @@
+DATABASE|CAMPSQ11593_QF35||Protease_propeptides/inhibitors

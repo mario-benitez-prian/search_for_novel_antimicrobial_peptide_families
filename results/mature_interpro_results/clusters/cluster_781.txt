@@ -1,0 +1,1 @@
+PRED|NP_500456.2_TransThyretin-Related_family_domain_[Caenorhabditis_elegans]|0.94|0.9||Protein_of_unknown_function_DUF870,_Caenorhabditis_species

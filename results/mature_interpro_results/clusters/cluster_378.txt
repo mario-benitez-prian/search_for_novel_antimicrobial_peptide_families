@@ -1,0 +1,7 @@
+PRED|WP_000141634.1_MULTISPECIES:_type_I_toxin-antitoxin_system_toxic_polypeptide_LdrD_[Bacteria]|0.85|0.84||Type_I_toxin-antitoxin_system,_toxin_Ldr
+PRED|WP_000170926.1_MULTISPECIES:_type_I_toxin-antitoxin_system_toxin_Ldr_family_protein_[Gammaproteobacteria]|0.95|0.87||Type_I_toxin-antitoxin_system,_toxin_Ldr
+PRED|WP_000170954.1_MULTISPECIES:_type_I_toxin-antitoxin_system_toxin_Ldr_family_protein_[Gammaproteobacteria]|0.95|0.86||Type_I_toxin-antitoxin_system,_toxin_Ldr
+PRED|WP_000170961.1_MULTISPECIES:_type_I_toxin-antitoxin_system_toxin_Ldr_family_protein_[Shigella]|0.92|0.82||Type_I_toxin-antitoxin_system,_toxin_Ldr
+PRED|WP_001295224.1_MULTISPECIES:_type_I_toxin-antitoxin_system_toxin_Ldr_family_protein_[Bacteria]|0.93|0.86||Type_I_toxin-antitoxin_system,_toxin_Ldr
+PRED|WP_001537650.1_MULTISPECIES:_type_I_toxin-antitoxin_system_toxin_Ldr_family_protein_[Salmonella]|0.65|0.88||Type_I_toxin-antitoxin_system,_toxin_Ldr
+PRED|WP_074147554.1_MULTISPECIES:_type_I_toxin-antitoxin_system_toxin_Ldr_family_protein_[Enterobacteriaceae]|0.91|0.83||Type_I_toxin-antitoxin_system,_toxin_Ldr

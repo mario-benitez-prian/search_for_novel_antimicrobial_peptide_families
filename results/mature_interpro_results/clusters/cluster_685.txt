@@ -1,0 +1,2 @@
+PRED|WP_012214545.1_Rieske_(2Fe-2S)_protein_[Nitrosopumilus_maritimus]|0.86|0.76||FERREDOXIN-RELATED|Rieske
+PRED|XP_001701993.1_uncharacterized_protein_CHLRE_02g093650v5_[Chlamydomonas_reinhardtii]|0.58|0.73||Rieske

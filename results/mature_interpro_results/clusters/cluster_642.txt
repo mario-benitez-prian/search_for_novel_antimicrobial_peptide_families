@@ -1,0 +1,1 @@
+PRED|XP_001837671.1_hypothetical_protein_CC1G_08684_[Coprinopsis_cinerea_okayama7#130]|0.74|0.8||CYANOVIRIN-N_DOMAIN-CONTAINING_PROTEIN

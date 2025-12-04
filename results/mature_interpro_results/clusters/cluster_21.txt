@@ -1,0 +1,10 @@
+PRED|NP_001037307.1_eclosion_hormone_precursor_[Bombyx_mori]|0.95|0.92||Eclosion_hormone
+PRED|NP_001262668.1_eclosion_hormone_isoform_B_[Drosophila_melanogaster]|1.0|0.74||Eclosion_hormone
+PRED|NP_524386.1_eclosion_hormone_isoform_A_[Drosophila_melanogaster]|1.0|0.73||Eclosion_hormone
+PRED|XP_001230805.2_eclosion_hormone_[Anopheles_gambiae]|0.96|0.86||Eclosion_hormone
+PRED|XP_006557391.2_eclosion_hormone_[Apis_mellifera]|1.0|0.82||Eclosion_hormone
+PRED|XP_012553269.1_eclosion_hormone_isoform_X1_[Bombyx_mori]|0.95|0.92||Eclosion_hormone
+PRED|XP_015838085.1_eclosion_hormone_[Tribolium_castaneum]|0.98|0.9||Eclosion_hormone
+PRED|XP_026295903.1_eclosion_hormone_[Apis_mellifera]|1.0|0.82||Eclosion_hormone
+PRED|XP_037867323.1_eclosion_hormone_isoform_X1_[Bombyx_mori]|0.95|0.92||Eclosion_hormone
+PRED|XP_064212533.1_eclosion_hormone_[Tribolium_castaneum]|0.98|0.93||Eclosion_hormone

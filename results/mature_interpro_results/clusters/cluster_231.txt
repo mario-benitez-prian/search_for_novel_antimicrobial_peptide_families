@@ -1,0 +1,5 @@
+PRED|XP_009045238.1_hypothetical_protein_LOTGIDRAFT_110198_partial_[Lottia_gigantea]|0.53|0.87||RRT15-like
+PRED|XP_009046196.1_hypothetical_protein_LOTGIDRAFT_137887_partial_[Lottia_gigantea]|0.87|0.85||RRT15-like
+PRED|XP_009056831.1_hypothetical_protein_LOTGIDRAFT_145551_partial_[Lottia_gigantea]|0.87|0.85||RRT15-like
+PRED|XP_009056834.1_hypothetical_protein_LOTGIDRAFT_145547_partial_[Lottia_gigantea]|0.87|0.77||RRT15-like
+PRED|XP_009058573.1_hypothetical_protein_LOTGIDRAFT_145757_partial_[Lottia_gigantea]|0.87|0.85||RRT15-like

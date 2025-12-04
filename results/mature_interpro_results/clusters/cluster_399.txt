@@ -1,0 +1,2 @@
+PRED|XP_040863422.1_60S_ribosomal_protein_L13a_[Glycine_max]|0.65|0.84||60S_ribosomal_protein_L13a
+PRED|XP_623813.1_60S_ribosomal_protein_L13a_[Apis_mellifera]|0.54|0.82||Large_ribosomal_subunit_protein_uL13|Large_ribosomal_subunit_protein_uL13_superfamily|Large_ribosomal_subunit_protein_uL13,_eukaryotic/archaeal

@@ -18,7 +18,10 @@ from pathlib import Path
 # Paths to inputs and outputs
 INTERPRO_TSV = Path("../results/interpro_results/without_domains_predictions_and_database_families_interpro.tsv")
 COMBINED_FASTA = Path("../results/interpro_results/combined_database_predicted.fasta")
-OUTDIR = Path("../results/interpro_results")
+#
+INTERPRO_TSV = Path("../results/mature_interpro_results/mature_and_database_families_interpro_no_reactome_domain_filtered.tsv")
+COMBINED_FASTA = Path("../results/mature_interpro_results/combined_database_predicted.fasta")
+OUTDIR = Path("../results/mature_interpro_results")
 
 # interprorx command
 INTERPRORX_CMD = [

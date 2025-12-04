@@ -1,0 +1,2 @@
+DATABASE|AP00383||Ponericin_L
+DATABASE|AP00384||Ponericin_L

@@ -1,0 +1,1 @@
+PRED|XP_012937070.2_sodium-dependent_dopamine_transporter_[Aplysia_californica]|0.53|0.8||Sodium:neurotransmitter_symporter|Sodium:neurotransmitter_symporter_superfamily

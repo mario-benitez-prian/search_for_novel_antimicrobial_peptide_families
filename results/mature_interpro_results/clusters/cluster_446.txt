@@ -1,0 +1,3 @@
+PRED|WP_023287561.1_MULTISPECIES:_T6SS_immunity_phospholipase_A1-binding_lipoprotein_Tli1-KP_[Klebsiella]|0.52|0.75||Protein_of_unknown_function_DUF3304
+PRED|WP_023287562.1_MULTISPECIES:_T6SS_immunity_phospholipase_A1-binding_lipoprotein_Tli1-KP_[Klebsiella]|0.56|0.79||Protein_of_unknown_function_DUF3304
+PRED|WP_023287563.1_MULTISPECIES:_T6SS_immunity_phospholipase_A1-binding_lipoprotein_Tli1-KP_[Klebsiella]|0.58|0.87||Protein_of_unknown_function_DUF3304

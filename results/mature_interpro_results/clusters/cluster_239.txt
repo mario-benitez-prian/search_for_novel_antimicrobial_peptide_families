@@ -1,0 +1,12 @@
+DATABASE|AP00148||Antifungal_protein
+DATABASE|AP01559||Antifungal_protein
+DATABASE|AP01560||Antifungal_protein
+DATABASE|AP01561||Antifungal_protein
+DATABASE|AP01562||Antifungal_protein
+DATABASE|AP02245||Antifungal_protein
+DATABASE|AP03011||Antifungal_protein
+DATABASE|AP03343||Antifungal_protein
+DATABASE|CAMPSQ11086_MAFP1||Antifungal_protein
+DATABASE|CAMPSQ23313_AntifungalproteinAfpAfpB||Antifungal_protein
+DATABASE|CAMPSQ23410_AntifungalproteinPAFB||Antifungal_protein
+DATABASE|CAMPSQ3336_AnAFP||Antifungal_protein

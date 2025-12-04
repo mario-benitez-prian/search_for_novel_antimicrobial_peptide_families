@@ -1,0 +1,1 @@
+PRED|XP_641499.1_hypothetical_protein_DDB_G0279817_[Dictyostelium_discoideum_AX4]|0.64|0.72||Counting_factor-associated_protein_A/B/C

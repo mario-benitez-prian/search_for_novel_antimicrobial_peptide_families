@@ -1,0 +1,3 @@
+PRED|XP_002325098.2_tetraspanin-8_[Populus_trichocarpa]|0.55|0.82||Tetraspani,_plant|Tetraspanin/Peripherin
+PRED|XP_007013955.2_PREDICTED:_tetraspanin-8_[Theobroma_cacao]|0.51|0.82||Tetraspani,_plant|Tetraspanin/Peripherin
+PRED|XP_008362147.1_tetraspanin-8-like_[Malus_domestica]|0.53|0.86||Tetraspani,_plant|Tetraspanin/Peripherin

@@ -1,0 +1,1 @@
+PRED|NP_497886.2_Gamma_interferon_inducible_lysosomal_thiol_reductase_[Caenorhabditis_elegans]|0.51|0.9||Gamma_interferon_inducible_lysosomal_thiol_reductase_GILT

@@ -1,0 +1,1 @@
+PRED|NP_788850.1_NHL-repeat-containing_protein_4_[Homo_sapiens]|0.63|0.7||NHL_repeat|Six-bladed_beta-propeller,_TolB-like

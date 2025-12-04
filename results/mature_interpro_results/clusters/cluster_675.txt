@@ -1,0 +1,1 @@
+PRED|XP_647345.1_hypothetical_protein_DDB_G0268360_[Dictyostelium_discoideum_AX4]|0.71|0.78||ATP_synthase_F0_complex_subunit_G,_mitochondrial

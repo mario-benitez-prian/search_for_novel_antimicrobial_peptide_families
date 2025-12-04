@@ -1,0 +1,1 @@
+PRED|WP_013999837.1_DUF2120_domain-containing_protein_[Methanococcus_maripaludis]|0.88|0.76||Uncharacterised_conserved_protein_UCP921964

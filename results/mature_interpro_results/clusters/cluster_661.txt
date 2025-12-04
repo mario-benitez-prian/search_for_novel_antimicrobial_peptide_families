@@ -1,0 +1,1 @@
+PRED|XP_061497188.1_D-aminoacyl-tRNA_deacylase_isoform_X2_[Anopheles_gambiae]|0.96|0.86||D-aminoacyl-tRNA_deacylase_DTD|D-aminoacyl-tRNA_deacylase-like_superfamily

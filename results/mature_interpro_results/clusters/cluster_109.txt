@@ -1,0 +1,1 @@
+PRED|WP_002777309.1_MULTISPECIES:_DMT_family_transporter_[Campylobacter]|0.86|0.73||Multidrug_transporter_EmrE_superfamily|Small_multidrug_resistance_protein

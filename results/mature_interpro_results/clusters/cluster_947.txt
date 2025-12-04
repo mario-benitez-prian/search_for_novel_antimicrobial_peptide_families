@@ -1,0 +1,1 @@
+PRED|WP_004399143.1_MULTISPECIES:_DUF2768_domain-containing_protein_[Bacillus]|0.86|0.76||Protein_of_unknown_function_DUF2768

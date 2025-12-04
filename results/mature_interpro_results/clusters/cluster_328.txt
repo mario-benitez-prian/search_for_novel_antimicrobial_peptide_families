@@ -1,0 +1,1 @@
+PRED|WP_306921051.1_MULTISPECIES:_Rv2334A_family_Cys-rich_leader_peptide_[Mycobacterium]|0.82|0.86||Rv2334A_family_Cys-rich_leader_peptide

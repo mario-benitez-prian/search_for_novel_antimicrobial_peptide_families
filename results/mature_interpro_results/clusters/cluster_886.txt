@@ -1,0 +1,3 @@
+DATABASE|AP01606||Glycopeptide,_sublancin_family
+DATABASE|CAMPSQ11543_Sublancin||Glycopeptide,_sublancin_family
+DATABASE|DBAASPR_11467_Sublancin_168||Glycopeptide,_sublancin_family

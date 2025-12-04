@@ -1,0 +1,2 @@
+PRED|XP_009049571.1_hypothetical_protein_LOTGIDRAFT_89051_partial_[Lottia_gigantea]|0.96|0.71||Phage_fibre_proteins
+PRED|XP_009060355.1_hypothetical_protein_LOTGIDRAFT_106239_partial_[Lottia_gigantea]|0.55|0.94||Phage_fibre_proteins

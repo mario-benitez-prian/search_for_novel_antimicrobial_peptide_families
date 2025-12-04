@@ -1,0 +1,1 @@
+PRED|XP_024365710.1_uncharacterized_protein_[Physcomitrium_patens]|0.54|0.81||UNNAMED_PRODUCT

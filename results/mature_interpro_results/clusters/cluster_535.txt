@@ -1,0 +1,4 @@
+PRED|NP_001021404.1_Secreted_protein_[Caenorhabditis_elegans]|0.75|0.86||PROTEIN_CBG13762
+PRED|NP_506523.1_Secreted_salivary_protein_[Caenorhabditis_elegans]|0.57|0.77||PROTEIN_CBG13762
+PRED|NP_506526.1_SCP_domain-containing_protein_[Caenorhabditis_elegans]|0.92|0.87||PROTEIN_CBG13762
+PRED|NP_507127.2_uncharacterized_protein_CELE_F57G8.7_[Caenorhabditis_elegans]|0.63|0.76||PROTEIN_CBG13762

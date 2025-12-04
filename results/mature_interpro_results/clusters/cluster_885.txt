@@ -1,0 +1,1 @@
+PRED|WP_000053889.1_MULTISPECIES:_cytochrome_oxidase_putative_small_subunit_CydP_[Acinetobacter]|0.92|0.71||Cytochrome_oxidase_putative_small_subunit_CydP

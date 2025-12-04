@@ -1,0 +1,8 @@
+DATABASE|AP00294||Granulin|Granulin_superfamily
+DATABASE|CAMPSQ276_AntimicrobialpeptideeNAP-1||Granulin|Granulin_family|Granulin_superfamily
+PRED|NP_001041157.1_Granulins_domain-containing_protein_[Caenorhabditis_elegans]|0.99|0.92||Granulin|Granulin_superfamily
+PRED|NP_492981.2_Granulins_domain-containing_protein_[Caenorhabditis_elegans]|0.9|0.82||Granulin|Granulin_superfamily
+PRED|NP_997921.1_granulin_2_precursor_[Danio_rerio]|0.73|0.81||Granulin|Granulin_family|Granulin_superfamily
+PRED|XP_009046106.1_hypothetical_protein_LOTGIDRAFT_81959_partial_[Lottia_gigantea]|0.65|0.89||Granulin|Granulin_family|Granulin_superfamily
+PRED|XP_073786693.1_granulin_2_isoform_X1_[Danio_rerio]|0.6|0.8||Granulin|Granulin_family|Granulin_superfamily
+PRED|XP_638956.1_granulin_domain-containing_protein_[Dictyostelium_discoideum_AX4]|0.89|0.89||Granulin|Granulin_family|Granulin_superfamily

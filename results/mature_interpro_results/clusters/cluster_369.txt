@@ -1,0 +1,4 @@
+PRED|NP_001032617.1_beta-defensin_43_precursor_[Rattus_norvegicus]|1.0|0.9||BETA-DEFENSIN_131A
+PRED|NP_001034210.1_beta-defensin_43_precursor_[Mus_musculus]|1.0|0.91||BETA-DEFENSIN_131A
+PRED|NP_001035538.2_beta-defensin_131A_precursor_[Homo_sapiens]|1.0|0.86||BETA-DEFENSIN_131A
+PRED|NP_001229782.1_beta-defensin_131B_precursor_[Homo_sapiens]|1.0|0.84||BETA-DEFENSIN_131A

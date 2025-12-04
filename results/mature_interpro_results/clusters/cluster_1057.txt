@@ -1,0 +1,1 @@
+PRED|NP_001246982.1_uncharacterized_protein_Dmel_CG43061_[Drosophila_melanogaster]|1.0|0.89||Conotoxin_I-superfamily

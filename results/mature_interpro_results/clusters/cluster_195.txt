@@ -1,0 +1,2 @@
+PRED|WP_000481166.1_MULTISPECIES:_osmotically-inducible_lipoprotein_OsmB_[Salmonella]|0.99|0.89||osmotically-inducible_lipoprotein_OsmB
+PRED|WP_000498253.1_MULTISPECIES:_osmotically-inducible_lipoprotein_OsmB_[Enterobacteriaceae]|1.0|0.89||osmotically-inducible_lipoprotein_OsmB

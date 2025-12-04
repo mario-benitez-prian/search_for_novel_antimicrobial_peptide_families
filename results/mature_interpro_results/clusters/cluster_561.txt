@@ -1,0 +1,1 @@
+PRED|NP_001136889.1_uncharacterized_protein_LOC100217045_precursor_[Zea_mays]|0.51|0.85||Histidine-containing_phosphotransfer_protein_1-5/Phosphorelay_intermediate_protein_YPD1

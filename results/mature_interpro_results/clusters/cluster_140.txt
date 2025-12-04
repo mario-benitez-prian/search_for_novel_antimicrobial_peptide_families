@@ -1,0 +1,2 @@
+PRED|NP_001159507.1_suprabasin_isoform_3_precursor_[Homo_sapiens]|0.65|0.75||Suprabasin|Suprabasin,_GxHH_repeat
+PRED|NP_001185520.1_suprabasin_isoform_3_precursor_[Rattus_norvegicus]|0.58|0.77||Suprabasin

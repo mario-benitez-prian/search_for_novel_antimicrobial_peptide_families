@@ -1,0 +1,14 @@
+PRED|NP_001090807.1_somatostatin_gene_1_precursor_[Xenopus_tropicalis]|0.85|0.87||Somatostatin/Cortistatin,_C-terminal
+PRED|NP_001373151.1_somatostatin_1.2_precursor_[Danio_rerio]|0.62|0.86||Somatostatin/Cortistatin,_C-terminal
+PRED|NP_036967.1_cortistatin_preproprotein_[Rattus_norvegicus]|0.68|0.76||Somatostatin/Cortistatin,_C-terminal
+PRED|NP_989786.2_Pro2-somatostatin_precursor_[Gallus_gallus]|0.71|0.82||Somatostatin/Cortistatin,_C-terminal
+PRED|NP_990667.1_somatostatin_precursor_[Gallus_gallus]|0.54|0.87||Somatostatin/Cortistatin,_C-terminal
+PRED|XP_002944417.2_somatostatin-1_[Xenopus_tropicalis]|0.89|0.83||Somatostatin/Cortistatin,_C-terminal
+PRED|XP_003968367.1_somatostatin_1_tandem_duplicate_1_[Takifugu_rubripes]|0.9|0.91||Somatostatin/Cortistatin,_C-terminal
+PRED|XP_005992512.1_somatostatin_1_tandem_duplicate_1_[Latimeria_chalumnae]|0.6|0.88||Somatostatin/Cortistatin,_C-terminal
+PRED|XP_007895974.1_somatostatin-2-like_[Callorhinchus_milii]|0.87|0.82||Somatostatin/Cortistatin,_C-terminal
+PRED|XP_007910586.1_somatostatin-1A-like_[Callorhinchus_milii]|0.61|0.81||Somatostatin/Cortistatin,_C-terminal
+PRED|XP_007910587.1_somatostatin-1-like_[Callorhinchus_milii]|0.95|0.84||Somatostatin/Cortistatin,_C-terminal
+PRED|XP_040029793.1_somatostatin_1.2_[Gasterosteus_aculeatus_aculeatus]|0.52|0.81||Somatostatin/Cortistatin,_C-terminal
+PRED|XP_040050257.1_cortistatin_[Gasterosteus_aculeatus_aculeatus]|0.63|0.82||Somatostatin/Cortistatin,_C-terminal
+PRED|XP_062822123.1_somatostatin-2-like_[Anolis_carolinensis]|0.55|0.82||Somatostatin/Cortistatin,_C-terminal

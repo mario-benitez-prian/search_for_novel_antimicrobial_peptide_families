@@ -1,0 +1,1 @@
+PRED|XP_040059386.1_mitochondrial_import_receptor_subunit_TOM6_homolog_isoform_X2_[Gasterosteus_aculeatus_aculeatus]|0.71|0.74||Mitochondrial_import_receptor_subunit_TOM6_homologue

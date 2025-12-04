@@ -1,0 +1,2 @@
+DATABASE|AP01675||Amyloidogenic_glycoprotein,_amyloid-beta_peptide|Amyloidogenic_glycoprotein,_amyloid-beta_peptide_superfamily
+DATABASE|AP01676||Amyloidogenic_glycoprotein,_amyloid-beta_peptide|Amyloidogenic_glycoprotein,_amyloid-beta_peptide_superfamily

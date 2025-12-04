@@ -1,0 +1,1 @@
+PRED|WP_003096511.1_MULTISPECIES:_c-type_cytochrome_[Pseudomonas]|0.78|0.88||Cytochrome_c,_class_IE

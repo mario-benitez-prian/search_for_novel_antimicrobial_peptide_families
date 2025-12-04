@@ -1,0 +1,3 @@
+PRED|NP_001164252.1_PABIR_family_member_1_isoform_4_[Homo_sapiens]|0.64|0.71||PRIMATE-EXPANDED_PROTEIN_FAMILY
+PRED|NP_001352675.1_PABIR_family_member_1_isoform_4_[Homo_sapiens]|0.64|0.71||PRIMATE-EXPANDED_PROTEIN_FAMILY
+PRED|XP_047296586.1_putative_uncharacterized_protein_CCDC28A-AS1_partial_[Homo_sapiens]|0.91|0.82||PRIMATE-EXPANDED_PROTEIN_FAMILY

@@ -1,0 +1,8 @@
+PRED|XP_007887141.1_placenta-specific_gene_8_protein-like_[Callorhinchus_milii]|0.93|0.91||PLAC8_motif-containing_protein
+PRED|XP_029704274.1_cornifelin_homolog_B-like_[Takifugu_rubripes]|0.71|0.8||PLAC8_motif-containing_protein
+PRED|XP_029704275.1_cornifelin_homolog_B-like_[Takifugu_rubripes]|0.71|0.8||PLAC8_motif-containing_protein
+PRED|XP_040038888.1_cornifelin_homolog_B-like_[Gasterosteus_aculeatus_aculeatus]|0.58|0.74||PLAC8_motif-containing_protein
+PRED|XP_040038889.1_cornifelin_homolog_B-like_[Gasterosteus_aculeatus_aculeatus]|0.58|0.74||PLAC8_motif-containing_protein
+PRED|XP_042926763.1_uncharacterized_protein_CHLRE_02g075000v5_[Chlamydomonas_reinhardtii]|0.56|0.9||PLAC8_motif-containing_protein
+PRED|XP_042926764.1_uncharacterized_protein_CHLRE_02g075000v5_[Chlamydomonas_reinhardtii]|0.76|0.89||PLAC8_motif-containing_protein
+PRED|XP_042926765.1_uncharacterized_protein_CHLRE_02g075000v5_[Chlamydomonas_reinhardtii]|0.53|0.89||PLAC8_motif-containing_protein

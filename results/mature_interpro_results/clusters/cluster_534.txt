@@ -1,0 +1,4 @@
+PRED|NP_001093144.1_ribosomal_biogenesis_factor_isoform_2_[Mus_musculus]|0.56|0.7||Ribosomal_biogenesis_factor
+PRED|XP_007901429.1_ribosomal_biogenesis_factor_isoform_X2_[Callorhinchus_milii]|0.59|0.74||Ribosomal_biogenesis_factor
+PRED|XP_038959276.1_ribosomal_biogenesis_factor-like_[Rattus_norvegicus]|0.64|0.71||Ribosomal_biogenesis_factor
+PRED|XP_047277733.1_ribosomal_biogenesis_factor_isoform_X2_[Homo_sapiens]|0.81|0.73||Ribosomal_biogenesis_factor

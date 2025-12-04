@@ -1,0 +1,3 @@
+DATABASE|AP00865||Bacteriocin,_class_IId
+DATABASE|AP00998||Bacteriocin,_class_IId
+DATABASE|AP03076||Bacteriocin,_class_IId

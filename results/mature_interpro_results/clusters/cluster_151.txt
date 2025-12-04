@@ -1,0 +1,2 @@
+PRED|NP_499687.1_Secreted_protein_[Caenorhabditis_elegans]|1.0|0.9||PROTEIN_CBG15758
+PRED|NP_509687.2_Secreted_protein_[Caenorhabditis_elegans]|0.71|0.9||PROTEIN_CBG15758

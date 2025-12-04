@@ -1,0 +1,4 @@
+PRED|WP_000457838.1_MULTISPECIES:_YebW_family_protein_[Salmonella]|0.77|0.77||Protein_of_unknown_function_DUF1482
+PRED|WP_001296140.1_MULTISPECIES:_YebW_family_protein_[Enterobacteriaceae]|0.89|0.76||Protein_of_unknown_function_DUF1482
+PRED|WP_002911395.1_MULTISPECIES:_YebW_family_protein_[Enterobacteriaceae]|0.97|0.78||Protein_of_unknown_function_DUF1482
+PRED|WP_005049838.1_MULTISPECIES:_YebW_family_protein_[Shigella]|0.92|0.76||Protein_of_unknown_function_DUF1482

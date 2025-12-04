@@ -1,0 +1,3 @@
+PRED|XP_048584269.1_LWamide_neuropeptides_isoform_X2_[Nematostella_vectensis]|0.92|0.84||GENE_9195-RELATED-RELATED
+PRED|XP_048584270.1_LWamide_neuropeptides_isoform_X2_[Nematostella_vectensis]|0.92|0.84||GENE_9195-RELATED-RELATED
+PRED|XP_048584271.1_LWamide_neuropeptides_isoform_X2_[Nematostella_vectensis]|0.92|0.77||GENE_9195-RELATED-RELATED

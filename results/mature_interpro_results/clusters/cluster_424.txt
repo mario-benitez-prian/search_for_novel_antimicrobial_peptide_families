@@ -1,0 +1,2 @@
+PRED|NP_001025184.1_neuropeptide_S_precursor_[Homo_sapiens]|0.86|0.71||Neuropeptide_S
+PRED|NP_001157083.1_neuropeptide_S_precursor_[Mus_musculus]|0.58|0.87||Neuropeptide_S

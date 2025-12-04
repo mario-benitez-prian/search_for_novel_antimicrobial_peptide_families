@@ -1,0 +1,11 @@
+DATABASE|AP03086||Four-helical_cytokine-like,_core|Interleukin-10/19/20/24/26
+DATABASE|CAMPSQ11392_PcIFN-||Four-helical_cytokine-like,_core|Interferon_alpha/beta/delta
+DATABASE|CAMPSQ11738_LcIFNc||Four-helical_cytokine-like,_core|Interferon_alpha/beta/delta
+DATABASE|CAMPSQ12077_Felineinterferonbeta||Four-helical_cytokine-like,_core|Interferon_alpha/beta/delta
+PRED|NP_001020007.1_interferon_type_B_precursor_[Gallus_gallus]|0.82|0.73||Four-helical_cytokine-like,_core|Interferon_alpha/beta/delta
+PRED|NP_001193935.1_interleukin-21_isoform_2_precursor_[Homo_sapiens]|0.98|0.74||Four-helical_cytokine-like,_core|Interleukin-15/Interleukin-21_family
+PRED|NP_060872.1_interleukin-26_precursor_[Homo_sapiens]|0.98|0.75||Four-helical_cytokine-like,_core|Interleukin-10/19/20/24/26
+PRED|NP_068575.1_interleukin-21_isoform_1_precursor_[Homo_sapiens]|0.98|0.7||Four-helical_cytokine-like,_core|Interleukin-15/Interleukin-21_family
+PRED|XP_006723179.2_fms-related_tyrosine_kinase_3_ligand_isoform_X4_[Homo_sapiens]|0.55|0.81||Flt3_ligand|Four-helical_cytokine-like,_core
+PRED|XP_011524982.1_fms-related_tyrosine_kinase_3_ligand_isoform_X10_[Homo_sapiens]|0.53|0.71||Flt3_ligand|Four-helical_cytokine-like,_core
+PRED|XP_073793246.1_interferon_phi_1_isoform_X1_[Danio_rerio]|0.95|0.81||Four-helical_cytokine-like,_core|Interferon_alpha/beta/delta

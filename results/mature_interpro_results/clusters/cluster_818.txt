@@ -1,0 +1,1 @@
+PRED|XP_024372655.1_NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_subunit_8-A_[Physcomitrium_patens]|0.74|0.86||NADH_dehydrogenase_[ubiquinone]_(complex_I),_alpha_subcomplex,_subunit_8

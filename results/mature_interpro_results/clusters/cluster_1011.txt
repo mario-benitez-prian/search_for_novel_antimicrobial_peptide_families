@@ -1,0 +1,1 @@
+PRED|XP_024446769.2_metallothionein-like_protein_type_3_[Populus_trichocarpa]|0.58|0.79||Metallothionein-like_protein_3

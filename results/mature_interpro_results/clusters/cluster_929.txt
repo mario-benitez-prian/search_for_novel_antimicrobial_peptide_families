@@ -1,0 +1,1 @@
+PRED|XP_002182087.1_predicted_protein_partial_[Phaeodactylum_tricornutum_CCAP_1055/1]|0.6|0.73||ENDOTHELIAL_DIFFERENTIATION-RELATED_FACTOR_1__MULTIPROTEIN_BRIDGING_FACTOR_1|Multiprotein_bridging_factor_1

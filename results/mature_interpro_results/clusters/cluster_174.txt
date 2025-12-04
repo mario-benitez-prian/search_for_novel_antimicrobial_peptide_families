@@ -1,0 +1,6 @@
+DATABASE|AP01477||Glucagon/GIP/secretin/VIP|VIP/GHRH-like
+DATABASE|AP03274||Glucagon/GIP/secretin/VIP|VIP/GHRH-like
+DATABASE|AP03279||Glucagon/GIP/secretin/VIP|VIP/GHRH-like
+DATABASE|CAMPSQ84_Gastricinhibitorypolypeptide||Gastric_inhibitory_polypeptide|Glucagon/GIP/secretin/VIP
+DATABASE|DBAASPR_15761_Pituitary_adenylate_cyclase-activating_polypeptide_38,_PACA27||Glucagon/GIP/secretin/VIP|VIP/GHRH-like
+PRED|XP_040549755.1_pro-glucagon_[Gallus_gallus]|0.7|0.78||Glucagon|Glucagon/GIP/secretin/VIP

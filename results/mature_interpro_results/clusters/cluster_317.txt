@@ -1,0 +1,6 @@
+DATABASE|AP01918||Frog_antimicrobial_peptide,_propeptide
+DATABASE|AP01919||Frog_antimicrobial_peptide,_propeptide
+DATABASE|AP01920||Frog_antimicrobial_peptide,_propeptide
+DATABASE|AP03332||Frog_antimicrobial_peptide,_propeptide
+DATABASE|CAMPSQ12447_Dermaseptin-PH||Frog_antimicrobial_peptide,_propeptide
+DATABASE|CAMPSQ331_Galensin||Frog_antimicrobial_peptide,_propeptide

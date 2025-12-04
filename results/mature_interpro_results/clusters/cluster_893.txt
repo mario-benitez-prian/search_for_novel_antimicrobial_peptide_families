@@ -1,0 +1,2 @@
+PRED|XP_040025870.1_ALK_and_LTK_ligand_2_isoform_X2_[Gasterosteus_aculeatus_aculeatus]|0.73|0.83||ALK_and_LTK_ligand_1/2
+PRED|XP_040025872.1_ALK_and_LTK_ligand_2_isoform_X2_[Gasterosteus_aculeatus_aculeatus]|0.73|0.82||ALK_and_LTK_ligand_1/2

@@ -1,0 +1,6 @@
+PRED|NP_001093289.1_dynein_molecular_motor_protein_light_chain_1_[Bombyx_mori]|0.62|0.83||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|NP_001264663.1_dynein_light_chain_Tctex-type_3_[Gallus_gallus]|0.53|0.74||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|NP_006511.1_dynein_light_chain_Tctex-type_3_[Homo_sapiens]|0.71|0.7||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|XP_002294635.1_dynein_light_chain_partial_[Thalassiosira_pseudonana_CCMP1335]|0.72|0.88||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|XP_040033301.1_dynein_light_chain_Tctex-type_3-like_[Gasterosteus_aculeatus_aculeatus]|0.96|0.81||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily
+PRED|XP_823253.1_dynein_light_chain_putative_[Trypanosoma_brucei_brucei_TREU927]|0.59|0.8||Dynein_light_chain_Tctex-1_like|Tctex-1-like_superfamily

@@ -1,0 +1,9 @@
+PRED|NP_001238143.1_uncharacterized_protein_LOC100500441_[Glycine_max]|0.81|0.81||Selenoprotein_SelK/SelG
+PRED|NP_001358501.1_uncharacterized_protein_LOC100276509_[Zea_mays]|0.61|0.79||Selenoprotein_SelK/SelG
+PRED|NP_572763.3_selenoprotein_G_[Drosophila_melanogaster]|0.69|0.87||Selenoprotein_SelK/SelG
+PRED|XP_003614777.1_selenoprotein_K_isoform_X2_[Medicago_truncatula]|0.91|0.81||Selenoprotein_SelK/SelG
+PRED|XP_004140863.1_selenoprotein_K_isoform_X1_[Cucumis_sativus]|0.51|0.79||Selenoprotein_SelK/SelG
+PRED|XP_006351881.1_selenoprotein_K_homolog_[Solanum_tuberosum]|0.59|0.79||Selenoprotein_SelK/SelG
+PRED|XP_008385565.1_uncharacterized_protein_[Malus_domestica]|0.8|0.81||Selenoprotein_SelK/SelG
+PRED|XP_013453984.1_selenoprotein_K_isoform_X1_[Medicago_truncatula]|1.0|0.81||Selenoprotein_SelK/SelG
+PRED|XP_031743925.1_selenoprotein_K_isoform_X2_[Cucumis_sativus]|0.75|0.77||Selenoprotein_SelK/SelG

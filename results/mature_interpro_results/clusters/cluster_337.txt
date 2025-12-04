@@ -1,0 +1,5 @@
+PRED|XP_005109141.1_cell_division_cycle-associated_7-like_protein_[Aplysia_californica]|0.52|0.81||CDCA7/CDA7L
+PRED|XP_005109142.1_cell_division_cycle-associated_7-like_protein_[Aplysia_californica]|0.51|0.81||CDCA7/CDA7L
+PRED|XP_005109144.1_cell_division_cycle-associated_7-like_protein_[Aplysia_californica]|0.52|0.81||CDCA7/CDA7L
+PRED|XP_005109145.1_cell_division_cycle-associated_7-like_protein_[Aplysia_californica]|0.56|0.77||CDCA7/CDA7L
+PRED|XP_005109146.1_cell_division_cycle-associated_7-like_protein_[Aplysia_californica]|0.53|0.74||CDCA7/CDA7L

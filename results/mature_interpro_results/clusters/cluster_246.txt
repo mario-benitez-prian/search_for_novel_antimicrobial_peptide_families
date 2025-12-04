@@ -1,0 +1,4 @@
+PRED|NP_652466.2_vexed_isoform_A_[Drosophila_melanogaster]|0.98|0.92||Unknown
+PRED|XP_009055845.1_hypothetical_protein_LOTGIDRAFT_175543_[Lottia_gigantea]|0.93|0.72||Unknown
+PRED|XP_009057700.1_hypothetical_protein_LOTGIDRAFT_121917_[Lottia_gigantea]|0.94|0.94||Unknown
+PRED|XP_009857817.2_poly(U)-specific_endoribonuclease-like_[Ciona_intestinalis]|0.55|0.81||Heme_transport_and_cell_adhesion_protein

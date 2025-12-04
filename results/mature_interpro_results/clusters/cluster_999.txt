@@ -1,0 +1,1 @@
+PRED|NP_500347.1_Ground-like_domain-containing_protein_[Caenorhabditis_elegans]|0.54|0.83||GROUNDHOG_(HEDGEHOG-LIKE_FAMILY)-RELATED

@@ -1,0 +1,1 @@
+PRED|XP_063128672.1_protein_FAM72A_isoform_X1_[Rattus_norvegicus]|0.69|0.84||Yippee_homolog_double_zinc_finger_protein

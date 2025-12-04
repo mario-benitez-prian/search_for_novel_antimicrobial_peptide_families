@@ -1,0 +1,11 @@
+PRED|NP_003216.1_trefoil_factor_1_precursor_[Homo_sapiens]|0.91|0.81||P-type_trefoil,_chordata
+PRED|NP_033388.1_trefoil_factor_1_precursor_[Mus_musculus]|0.95|0.72||P-type_trefoil,_chordata
+PRED|NP_035705.1_trefoil_factor_3_precursor_[Mus_musculus]|1.0|0.9||P-type_trefoil,_chordata
+PRED|NP_037174.2_trefoil_factor_3_precursor_[Rattus_norvegicus]|1.0|0.89||P-type_trefoil,_chordata
+PRED|NP_476470.1_trefoil_factor_1_precursor_[Rattus_norvegicus]|0.98|0.74||P-type_trefoil,_chordata
+PRED|XP_002940507.2_trefoil_factor_2_[Xenopus_tropicalis]|0.7|0.81||P-type_trefoil,_chordata
+PRED|XP_002940508.1_putative_gastrointestinal_growth_factor_xP1_[Xenopus_tropicalis]|1.0|0.87||P-type_trefoil,_chordata
+PRED|XP_004227073.1_trefoil_factor_2-like_[Ciona_intestinalis]|0.75|0.93||P-type_trefoil,_chordata
+PRED|XP_004918264.1_putative_gastrointestinal_growth_factor_xP1_[Xenopus_tropicalis]|0.94|0.92||P-type_trefoil,_chordata
+PRED|XP_006524093.1_trefoil_factor_1_isoform_X1_[Mus_musculus]|0.97|0.74||P-type_trefoil,_chordata
+PRED|XP_040515646.1_trefoil_factor_2_[Gallus_gallus]|1.0|0.94||P-type_trefoil,_chordata

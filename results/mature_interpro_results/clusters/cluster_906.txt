@@ -1,0 +1,1 @@
+PRED|XP_002972040.2_zinc_finger_AN1_and_C2H2_domain-containing_stress-associated_protein_16_partial_[Selaginella_moellendorffii]|0.6|0.78||AN1-like_Zinc_finger|Zinc_finger,_AN1-type

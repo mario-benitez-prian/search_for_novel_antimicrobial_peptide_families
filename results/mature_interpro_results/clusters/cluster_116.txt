@@ -1,0 +1,1 @@
+PRED|XP_008370021.1_copper_transporter_2-like_[Malus_domestica]|0.51|0.74||Ctr_copper_transporter

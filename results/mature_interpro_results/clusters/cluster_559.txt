@@ -1,0 +1,8 @@
+PRED|YP_001381672.1_ribosomal_protein_L32_(chloroplast)_[Medicago_truncatula]|0.95|0.9||Large_ribosomal_subunit_protein_bL32,_plant/cyanobacteria_type
+PRED|YP_002608375.1_ribosomal_protein_L32_(mitochondrion)_[Vitis_vinifera]|0.66|0.74||Large_ribosomal_subunit_protein_bL32,_plant/cyanobacteria_type
+PRED|YP_004021371.1_ribosomal_protein_L32_(chloroplast)_[Theobroma_cacao]|0.53|0.76||Large_ribosomal_subunit_protein_bL32,_plant/cyanobacteria_type
+PRED|YP_010304206.1_ribosomal_protein_L32_(chloroplast)_[Malus_domestica]|0.81|0.81||Large_ribosomal_subunit_protein_bL32,_plant/cyanobacteria_type
+PRED|YP_247648.1_ribosomal_protein_L32_(chloroplast)_[Cucumis_sativus]|0.75|0.86||Large_ribosomal_subunit_protein_bL32,_plant/cyanobacteria_type
+PRED|YP_538820.1_ribosomal_protein_L32_(chloroplast)_[Glycine_max]|0.92|0.82||Large_ribosomal_subunit_protein_bL32,_plant/cyanobacteria_type
+PRED|YP_567126.1_ribosomal_protein_L32_(chloroplast)_[Vitis_vinifera]|0.77|0.72||Large_ribosomal_subunit_protein_bL32,_plant/cyanobacteria_type
+PRED|YP_635687.1_ribosomal_protein_L32_(chloroplast)_[Solanum_tuberosum]|0.65|0.89||Large_ribosomal_subunit_protein_bL32,_plant/cyanobacteria_type

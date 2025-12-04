@@ -1,0 +1,1 @@
+PRED|XP_063126078.1_transmembrane_protein_92-like_[Rattus_norvegicus]|0.59|0.75||TRANSMEMBRANE_PROTEIN_92

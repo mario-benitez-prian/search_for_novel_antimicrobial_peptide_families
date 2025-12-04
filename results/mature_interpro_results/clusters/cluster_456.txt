@@ -1,0 +1,10 @@
+DATABASE|AP00301||Scorpion_antimicrobial_peptide
+DATABASE|AP00374||Scorpion_antimicrobial_peptide
+DATABASE|AP00375||Scorpion_antimicrobial_peptide
+DATABASE|AP00562||Scorpion_antimicrobial_peptide
+DATABASE|AP01753||Scorpion_antimicrobial_peptide
+DATABASE|AP02549||Scorpion_antimicrobial_peptide
+DATABASE|AP02730||Scorpion_antimicrobial_peptide
+DATABASE|AP04935||Scorpion_antimicrobial_peptide
+DATABASE|CAMPSQ1301_Opistoporin3||Scorpion_antimicrobial_peptide
+DATABASE|CAMPSQ3476_Vejovine||Scorpion_antimicrobial_peptide

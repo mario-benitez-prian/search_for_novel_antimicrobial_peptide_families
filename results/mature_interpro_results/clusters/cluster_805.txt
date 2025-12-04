@@ -1,0 +1,1 @@
+PRED|WP_003428889.1_carboxymuconolactone_decarboxylase_family_protein_[Clostridioides_difficile]|0.52|0.78||AhpD-like|Carboxymuconolactone_decarboxylase-like

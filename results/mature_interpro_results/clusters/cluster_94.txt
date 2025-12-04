@@ -1,0 +1,3 @@
+PRED|NP_501957.1_EGF-like_domain-containing_protein_[Caenorhabditis_elegans]|0.63|0.83||Cysteine-rich_repeat
+PRED|NP_504287.1_CC_domain-containing_protein_[Caenorhabditis_elegans]|0.94|0.89||PROTEIN_CBG08832-RELATED
+PRED|NP_505945.1_BPTI/Kunitz_inhibitor_domain-containing_protein_[Caenorhabditis_elegans]|0.81|0.79||Cysteine-rich_repeat

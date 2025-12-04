@@ -1,0 +1,1 @@
+PRED|WP_010903674.1_MULTISPECIES:_DUF7472_family_protein_[Halobacterium]|0.99|0.83||Protein_of_unknown_function_DUF7472

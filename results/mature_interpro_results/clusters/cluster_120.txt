@@ -1,0 +1,7 @@
+PRED|NP_001359369.1_translational_machinery_associated_7_homolog_(S._cerevisiae)_pseudogene_[Mus_musculus]|0.83|0.75||Translation_machinery_associated_TMA7
+PRED|NP_001382942.1_translation_machinery-associated_protein_7B_[Homo_sapiens]|0.9|0.76||Translation_machinery_associated_TMA7
+PRED|NP_013364.1_Tma7p_[Saccharomyces_cerevisiae_S288C]|0.96|0.74||Translation_machinery_associated_TMA7
+PRED|XP_012048358.1_hypothetical_protein_CNAG_06930_[Cryptococcus_neoformans_var._grubii_H99]|0.65|0.73||Translation_machinery_associated_TMA7
+PRED|XP_015625078.1_uncharacterized_protein_[Oryza_sativa_Japonica_Group]|0.62|0.74||Translation_machinery_associated_TMA7
+PRED|XP_019331120.1_uncharacterized_protein_CAALFM_CR09640CA_[Candida_albicans_SC5314]|0.94|0.82||Translation_machinery_associated_TMA7
+PRED|XP_038964998.1_translation_machinery-associated_protein_7-like_[Rattus_norvegicus]|0.59|0.74||Translation_machinery_associated_TMA7

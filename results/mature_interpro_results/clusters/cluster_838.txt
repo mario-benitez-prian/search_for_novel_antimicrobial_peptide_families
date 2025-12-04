@@ -1,0 +1,3 @@
+DATABASE|AP02956||RumC_family_sactipeptide
+DATABASE|AP02957||RumC_family_sactipeptide
+DATABASE|AP03103||RumC_family_sactipeptide

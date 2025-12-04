@@ -1,0 +1,1 @@
+PRED|WP_011032580.1_DUF2180_family_protein_[Methanosarcina_mazei]|0.84|0.81||Uncharacterised_conserved_protein_UCP037465,_zinc_finger_protein,_AF1427

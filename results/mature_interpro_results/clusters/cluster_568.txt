@@ -1,0 +1,1 @@
+PRED|XP_073394993.1_senescence/dehydration-associated_protein_At3g51250-like_[Physcomitrium_patens]|0.82|0.71||Senescence/spartin-associated,_C-terminal|Spartin-like

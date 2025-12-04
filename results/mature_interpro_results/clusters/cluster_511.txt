@@ -1,0 +1,2 @@
+PRED|WP_010878145.1_MULTISPECIES:_DUF2080_family_transposase-associated_protein_[Archaeoglobaceae]|0.54|0.95||Protein_of_unknown_function_DUF2080,_transposon-encoded
+PRED|WP_181491954.1_DUF2080_family_transposase-associated_protein_[Methanococcus_maripaludis]|0.75|0.78||DUF2080_family_transposase-associated_protein

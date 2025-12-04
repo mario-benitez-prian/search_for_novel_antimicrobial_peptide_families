@@ -1,0 +1,1 @@
+PRED|WP_011033318.1_MULTISPECIES:_preprotein_translocase_subunit_Sec61beta_[Methanosarcina]|0.55|0.88||Protein_transport_protein_SecG/Sec61-beta/Sbh

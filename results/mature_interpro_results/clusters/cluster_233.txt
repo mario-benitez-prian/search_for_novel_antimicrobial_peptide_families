@@ -1,0 +1,1 @@
+PRED|WP_005408004.1_MULTISPECIES:_H-NS_histone_family_protein_[Stenotrophomonas]|0.85|0.81||H-NS_histone-like_proteins

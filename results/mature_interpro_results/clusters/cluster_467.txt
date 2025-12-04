@@ -1,0 +1,1 @@
+PRED|XP_006369662.1_protein_PSY3_[Populus_trichocarpa]|0.97|0.76||Protein_PSY

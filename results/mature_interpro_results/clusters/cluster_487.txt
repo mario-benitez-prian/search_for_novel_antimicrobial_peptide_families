@@ -1,0 +1,1 @@
+PRED|WP_001031749.1_MULTISPECIES:_putative_phage_replication_protein_[Gammaproteobacteria]|0.93|0.78||putative_phage_replication_protein

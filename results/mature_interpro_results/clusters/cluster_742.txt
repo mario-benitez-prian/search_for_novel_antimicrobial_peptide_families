@@ -1,0 +1,2 @@
+PRED|XP_030828813.1_collagen_triple_helix_repeat-containing_protein_1_isoform_X2_[Strongylocentrotus_purpuratus]|0.71|0.85||Unknown
+PRED|XP_791696.4_collagen_triple_helix_repeat-containing_protein_1_isoform_X1_[Strongylocentrotus_purpuratus]|0.82|0.84||Unknown

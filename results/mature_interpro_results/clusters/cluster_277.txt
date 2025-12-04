@@ -1,0 +1,5 @@
+DATABASE|AP01513||BETA-DEFENSIN_119
+DATABASE|AP04850||BETA-DEFENSIN_119
+PRED|NP_001032597.1_beta-defensin_119_precursor_[Rattus_norvegicus]|1.0|0.9||BETA-DEFENSIN_119
+PRED|NP_660139.1_beta-defensin_19_precursor_[Mus_musculus]|1.0|0.93||BETA-DEFENSIN_119
+PRED|NP_695021.2_beta-defensin_119_isoform_a_precursor_[Homo_sapiens]|1.0|0.92||BETA-DEFENSIN_119

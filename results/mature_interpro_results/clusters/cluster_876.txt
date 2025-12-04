@@ -1,0 +1,2 @@
+PRED|NP_705804.2_C-X-C_motif_chemokine_17_precursor_[Mus_musculus]|0.81|0.72||C-X-C_motif_chemokine_17
+PRED|NP_940879.1_C-X-C_motif_chemokine_17_precursor_[Homo_sapiens]|0.98|0.79||C-X-C_motif_chemokine_17

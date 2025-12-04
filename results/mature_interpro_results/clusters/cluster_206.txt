@@ -1,0 +1,4 @@
+PRED|NP_001122354.1_vanadium-binding_protein_3_precursor_[Ciona_intestinalis]|1.0|0.94||Vanadium-binding_protein_2|Vanadium-binding_protein_2_superfamily
+PRED|NP_001122355.1_vanadium_binding_protein_4_precursor_[Ciona_intestinalis]|1.0|0.92||Vanadium-binding_protein_2|Vanadium-binding_protein_2_superfamily
+PRED|NP_001122356.1_vanadium-binding_protein_5_precursor_[Ciona_intestinalis]|1.0|0.92||Vanadium-binding_protein_2|Vanadium-binding_protein_2_superfamily
+PRED|XP_009857872.1_vanadium_binding_protein_4_isoform_X1_[Ciona_intestinalis]|1.0|0.92||Vanadium-binding_protein_2|Vanadium-binding_protein_2_superfamily

@@ -1,0 +1,1 @@
+PRED|NP_001191958.1_nuclear_protein_MDM1_isoform_3_[Homo_sapiens]|0.97|0.76||Nuclear_protein_MDM1

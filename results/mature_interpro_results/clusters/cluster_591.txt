@@ -1,0 +1,2 @@
+PRED|NP_001305414.1_large_ribosomal_subunit_protein_bL20m_isoform_2_[Homo_sapiens]|0.66|0.9||Large_ribosomal_subunit_protein_bL20|Ribosomal_protein_bL20,_C-terminal
+PRED|WP_010882292.1_MULTISPECIES:_50S_ribosomal_protein_L20_[Treponema]|0.75|0.83||Large_ribosomal_subunit_protein_bL20|Ribosomal_protein_bL20,_C-terminal

@@ -1,0 +1,2 @@
+DATABASE|AP01238||Big_defensin
+DATABASE|AP02043||Big_defensin

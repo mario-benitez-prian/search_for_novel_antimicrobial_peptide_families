@@ -1,0 +1,1 @@
+PRED|WP_004888435.1_MULTISPECIES:_YfiM_family_lipoprotein_[Klebsiella]|0.95|0.73||Protein_of_unknown_function_DUF2279,_periplasmic_lipoprotein

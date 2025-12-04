@@ -1,0 +1,2 @@
+DATABASE|AP04963||Bacteriocin,_class_IIb,_lactobin_A/cerein_7B_family
+PRED|WP_002987564.1_MULTISPECIES:_class_IIb_bacteriocin_lactobin_A/cerein_7B_family_[Streptococcus]|0.69|0.92||Bacteriocin,_class_IIb,_lactobin_A/cerein_7B_family

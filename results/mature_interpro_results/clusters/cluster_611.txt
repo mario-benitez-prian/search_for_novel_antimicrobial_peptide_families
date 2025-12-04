@@ -1,0 +1,2 @@
+PRED|XP_011388848.1_uncharacterized_protein_UMAG_10168_[Mycosarcoma_maydis]|0.86|0.91||NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_assembly_factor_8
+PRED|XP_016846738.1_NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_assembly_factor_8_[Anolis_carolinensis]|0.53|0.9||NADH_dehydrogenase_[ubiquinone]_1_alpha_subcomplex_assembly_factor_8

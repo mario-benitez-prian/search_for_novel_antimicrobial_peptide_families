@@ -1,0 +1,1 @@
+PRED|XP_075929028.1_transmembrane_protein_240_isoform_X1_[Petromyzon_marinus]|0.53|0.71||TMEM240_family

@@ -1,0 +1,1 @@
+PRED|NP_001136544.1_uncharacterized_LOC100216661_[Zea_mays]|0.61|0.85||Alanyl-tRNA_Editing_Enzymes

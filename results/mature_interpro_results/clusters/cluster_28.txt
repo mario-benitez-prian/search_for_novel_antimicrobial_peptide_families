@@ -1,0 +1,7 @@
+PRED|XP_003521333.1_glycine-rich_protein_5_[Glycine_max]|0.98|0.92||GLYCINE-RICH_PROTEIN
+PRED|XP_003554319.1_glycine-rich_protein_5_[Glycine_max]|0.97|0.91||GLYCINE-RICH_PROTEIN
+PRED|XP_003625486.1_glycine-rich_protein_5_[Medicago_truncatula]|0.98|0.9||GLYCINE-RICH_PROTEIN
+PRED|XP_007049870.1_PREDICTED:_glycine-rich_protein_5_[Theobroma_cacao]|0.54|0.92||GLYCINE-RICH_PROTEIN
+PRED|XP_008358204.3_uncharacterized_protein_[Malus_domestica]|0.87|0.78||TRIGALACTOSYLDIACYLGLYCEROL_Bridge_Protein
+PRED|XP_010650249.1_glycine-rich_cell_wall_structural_protein_1_[Vitis_vinifera]|0.51|0.9||GLYCINE-RICH_PROTEIN
+PRED|XP_017970529.1_PREDICTED:_glycine-rich_protein_5-like_[Theobroma_cacao]|0.56|0.9||GLYCINE-RICH_PROTEIN

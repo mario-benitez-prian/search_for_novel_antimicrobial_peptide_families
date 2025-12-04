@@ -1,0 +1,2 @@
+PRED|XP_070672143.1_uncharacterized_protein_[Malus_domestica]|0.73|0.82||Retrovirus-related_Pol_polyprotein|Ribonuclease_H_superfamily|Ribonuclease_H-like_superfamily
+PRED|XP_628748.1_hypothetical_protein_DDB_G0294298_partial_[Dictyostelium_discoideum_AX4]|0.89|0.82||Ribonuclease_H_superfamily|Ribonuclease_H-like_superfamily

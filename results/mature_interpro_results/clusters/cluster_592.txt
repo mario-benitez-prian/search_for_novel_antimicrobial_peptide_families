@@ -1,0 +1,1 @@
+PRED|XP_009049060.1_hypothetical_protein_LOTGIDRAFT_141088_[Lottia_gigantea]|0.98|0.74||Muscleblind-like,_CCCH_zinc_finger

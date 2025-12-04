@@ -1,0 +1,2 @@
+PRED|WP_000855059.1_MULTISPECIES:_antirestriction_protein_[Enterobacterales]|0.77|0.74||Antirestriction_protein
+PRED|WP_005011597.1_MULTISPECIES:_antirestriction_protein_[Enterobacteriaceae]|0.75|0.73||Antirestriction_protein

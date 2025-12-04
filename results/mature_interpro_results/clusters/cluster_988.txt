@@ -1,0 +1,1 @@
+PRED|WP_010869634.1_hypothetical_protein_[Methanocaldococcus_jannaschii]|0.62|0.78||Unknown

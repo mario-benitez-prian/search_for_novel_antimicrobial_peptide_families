@@ -1,0 +1,3 @@
+PRED|NP_001040783.1_GLia_Associated_Membrane_protein_[Caenorhabditis_elegans]|0.93|0.7||Protein_SUP-1-like
+PRED|NP_001255138.1_UPF0506_domain-containing_protein_[Caenorhabditis_elegans]|0.86|0.78||Protein_SUP-1-like
+PRED|NP_498853.1_Uncharacterized_protein_CELE_ZK353.2_[Caenorhabditis_elegans]|0.96|0.89||Protein_SUP-1-like

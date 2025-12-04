@@ -1,0 +1,2 @@
+PRED|XP_003567508.1_abscisic_stress-ripening_protein_3_[Brachypodium_distachyon]|0.58|0.74||ABA/WDS_induced_protein
+PRED|XP_035822464.1_abscisic_stress-ripening_protein_2_[Zea_mays]|0.79|0.84||ABA/WDS_induced_protein

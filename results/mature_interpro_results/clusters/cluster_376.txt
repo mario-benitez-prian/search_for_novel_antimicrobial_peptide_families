@@ -1,0 +1,3 @@
+PRED|NP_001123030.1_Secretory_peptide_[Caenorhabditis_elegans]|1.0|0.86||Phospholipase_A2-like
+PRED|NP_001257132.2_Uncharacterized_protein_CELE_W04G3.13_[Caenorhabditis_elegans]|0.84|0.92||Phospholipase_A2-like
+PRED|NP_504318.2_Venom_protein_[Caenorhabditis_elegans]|0.69|0.93||Phospholipase_A2-like

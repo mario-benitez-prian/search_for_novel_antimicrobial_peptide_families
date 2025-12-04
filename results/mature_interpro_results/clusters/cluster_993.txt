@@ -1,0 +1,2 @@
+PRED|XP_006606506.1_signal_peptidase_complex_subunit_3B_isoform_X3_[Glycine_max]|0.65|0.86||Signal_peptidase_complex_subunit_3
+PRED|XP_059598530.1_signal_peptidase_complex_subunit_3B_isoform_X1_[Vitis_vinifera]|0.62|0.8||Signal_peptidase_complex_subunit_3

@@ -1,0 +1,4 @@
+PRED|XP_002182413.1_predicted_protein_partial_[Phaeodactylum_tricornutum_CCAP_1055/1]|0.57|0.91||Peptidyl-prolyl_cis-trans_isomerase,_PpiC-type|PpiC/parvulin_rotamase
+PRED|XP_002185400.1_predicted_protein_partial_[Phaeodactylum_tricornutum_CCAP_1055/1]|0.6|0.77||Peptidyl-prolyl_cis-trans_isomerase_FKBP2/11
+PRED|XP_020398849.1_peptidyl-prolyl_cis-trans_isomerase_CYP20-3_chloroplastic_[Zea_mays]|0.65|0.84||PEPTIDYL-PROLYL_CIS-TRANS_ISOMERASE
+PRED|XP_065930244.1_uncharacterized_protein_[Magallana_gigas]|0.76|0.86||FKBP-like

@@ -1,0 +1,7 @@
+PRED|NP_001236207.2_PLAT_domain-containing_protein_precursor_[Glycine_max]|0.52|0.74||Embryo-specific_ATS3
+PRED|XP_002965389.1_uncharacterized_protein_LOC9659431_[Selaginella_moellendorffii]|0.99|0.85||PLAT/LH2_domain
+PRED|XP_002965390.2_lipoxygenase_homology_domain-containing_protein_1_[Selaginella_moellendorffii]|0.96|0.85||PLAT/LH2_domain
+PRED|XP_002977236.1_lipoxygenase_homology_domain-containing_protein_1_[Selaginella_moellendorffii]|1.0|0.85||PLAT/LH2_domain
+PRED|XP_024537814.1_lipoxygenase_homology_domain-containing_protein_1-like_[Selaginella_moellendorffii]|0.98|0.85||PLAT/LH2_domain
+PRED|XP_024537896.1_lipoxygenase_homology_domain-containing_protein_1_[Selaginella_moellendorffii]|1.0|0.85||PLAT/LH2_domain
+PRED|XP_042202123.1_lipoxygenase_homology_domain-containing_protein_1-like_[Callorhinchus_milii]|0.73|0.8||PLAT/LH2_domain

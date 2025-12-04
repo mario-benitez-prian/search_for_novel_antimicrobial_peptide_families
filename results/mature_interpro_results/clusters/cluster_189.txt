@@ -1,0 +1,2 @@
+PRED|NP_001092899.1_protein_FAM163A_[Danio_rerio]|0.6|0.73||Protein_FAM163A
+PRED|XP_068072291.1_protein_FAM163A_isoform_X1_[Danio_rerio]|0.6|0.74||Protein_FAM163A

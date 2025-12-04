@@ -1,0 +1,3 @@
+PRED|NP_001329530.1_Uncharacterized_protein_family_(UPF0497)_[Arabidopsis_thaliana]|0.99|0.7||Casparian_strip_membrane_protein
+PRED|XP_006376496.1_CASP-like_protein_1C3_isoform_X1_[Populus_trichocarpa]|0.67|0.79||Casparian_strip_membrane_protein
+PRED|XP_008652280.1_CASP-like_protein_1D1_[Zea_mays]|0.73|0.71||Casparian_strip_membrane_protein

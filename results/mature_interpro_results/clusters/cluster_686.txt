@@ -1,0 +1,9 @@
+PRED|NP_492978.1_4Fe-4S_ferredoxin-type_domain-containing_protein_[Caenorhabditis_elegans]|0.55|0.9||Protein_of_unknown_function_DUF326
+PRED|WP_000467859.1_MULTISPECIES:_YbdD/YjiX_family_protein_[Bacteria]|0.53|0.74||Selenoprotein,_putative
+PRED|WP_000467859.1_MULTISPECIES:_YbdD/YjiX_family_protein_[Bacteria]|0.53|0.76||Selenoprotein,_putative
+PRED|WP_001088962.1_MULTISPECIES:_four-helix_bundle_copper-binding_protein_[Acinetobacter]|0.86|0.73||Protein_of_unknown_function_DUF326|Uncharacterized_cysteine-rich_protein_YhjQ-like
+PRED|WP_002210607.1_MULTISPECIES:_YbdD/YjiX_family_protein_[Yersinia_pseudotuberculosis_complex]|0.94|0.73||Selenoprotein,_putative
+PRED|WP_002212918.1_MULTISPECIES:_YbdD/YjiX_family_protein_[Neisseria]|0.91|0.83||Selenoprotein,_putative
+PRED|WP_002867452.1_MULTISPECIES:_KCU-star_family_selenoprotein_[Campylobacter]|0.74|0.84||Selenoprotein,_putative
+PRED|WP_032728981.1_MULTISPECIES:_four-helix_bundle_copper-binding_protein_[Bacillus]|0.98|0.86||Protein_of_unknown_function_DUF326|Uncharacterized_cysteine-rich_protein_YhjQ-like
+PRED|WP_070794631.1_YbdD/YjiX_family_protein_[Corynebacterium_diphtheriae]|0.71|0.91||Selenoprotein,_putative

@@ -1,0 +1,1 @@
+PRED|NP_001118829.1_D-galactoside/L-rhamnose_binding_SUEL_lectin_protein_[Arabidopsis_thaliana]|0.62|0.78||Gal_Rha_Lectin_BGal

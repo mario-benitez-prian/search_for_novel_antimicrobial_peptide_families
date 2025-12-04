@@ -1,0 +1,4 @@
+DATABASE|CAMPSQ2581_LantibioticlichenicidinA2||class_II_lanthipeptide,_LchA2/BrtA2_family
+DATABASE|CAMPSQ3888_Lantibioticlacticin3147A2||class_II_lanthipeptide,_LchA2/BrtA2_family
+DATABASE|CAMPSQ3918_LantibioticlichenicidinVK21A2||class_II_lanthipeptide,_LchA2/BrtA2_family
+DATABASE|DBAASPR_16367_Lacticin_3147_chain_A2,_LtnA2||class_II_lanthipeptide,_LchA2/BrtA2_family

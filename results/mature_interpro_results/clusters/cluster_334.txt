@@ -1,0 +1,14 @@
+DATABASE|CAMPSQ4342_N-acetylmuramoyl-L-alanineamidasesle1||Papain-like_cysteine_peptidase_superfamily
+PRED|WP_003740411.1_MULTISPECIES:_NlpC/P60_family_protein_[Listeria]|0.64|0.82||Papain-like_cysteine_peptidase_superfamily|Peptidase_C40
+PRED|WP_004398671.1_MULTISPECIES:_SH3_domain-containing_protein_[Bacillus]|0.54|0.83||SH3_Domains
+PRED|WP_048038217.1_C39_family_peptidase_[Methanosarcina_mazei]|0.79|0.91||Peptidase_C39-like
+PRED|XP_001030038.1_peptidase_C39_family_protein_[Tetrahymena_thermophila_SB210]|0.67|0.77||Peptidase_C39-like
+PRED|XP_001481581.1_uncharacterized_protein_AFUA_3G00175_[Aspergillus_fumigatus_Af293]|0.97|0.92||SH3_Domains
+PRED|XP_009059347.1_hypothetical_protein_LOTGIDRAFT_234011_[Lottia_gigantea]|0.92|0.9||SH3_Domains
+PRED|XP_024535415.1_oryzain_beta_chain_[Selaginella_moellendorffii]|0.73|0.78||Papain-like_cysteine_peptidase_superfamily|Peptidase_C1A,_papain_C-terminal
+PRED|XP_035815015.1_OVARIAN_TUMOR_DOMAIN-containing_deubiquitinating_enzyme_12-like_[Zea_mays]|0.88|0.79||Papain-like_cysteine_peptidase_superfamily|Peptidase_C85-like
+PRED|XP_040035749.1_melanoma-derived_growth_regulatory_protein_[Gasterosteus_aculeatus_aculeatus]|0.58|0.72||Melanoma-derived_growth_regulatory_protein
+PRED|XP_050468684.1_uncharacterized_protein_ANIA_01567_[Aspergillus_nidulans_FGSC_A4]|0.91|0.95||SH3_Domains
+PRED|XP_647285.1_hypothetical_protein_DDB_G0267756_[Dictyostelium_discoideum_AX4]|0.58|0.72||PEPTIDASE_C39_2_DOMAIN-CONTAINING_PROTEIN
+PRED|XP_664080.1_uncharacterized_protein_ANIA_06476_[Aspergillus_nidulans_FGSC_A4]|0.97|0.94||SH3_Domains
+PRED|XP_748250.1_putative_MBL2-like_secreted_peptide_[Aspergillus_fumigatus_Af293]|0.97|0.94||SH3_Domains

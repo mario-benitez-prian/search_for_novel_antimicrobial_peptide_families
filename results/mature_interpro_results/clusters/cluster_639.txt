@@ -1,0 +1,4 @@
+PRED|XP_032811018.1_leukocyte_cell-derived_chemotaxin-2-like_isoform_X1_[Petromyzon_marinus]|0.53|0.92||Duplicated_hybrid_motif|Leukocyte_cell-derived_chemotaxin_2
+PRED|XP_032811020.1_leukocyte_cell-derived_chemotaxin-2-like_isoform_X2_[Petromyzon_marinus]|0.59|0.92||Duplicated_hybrid_motif|Leukocyte_cell-derived_chemotaxin_2
+PRED|XP_073778216.1_leukocyte_cell_derived_chemotaxin_2_tandem_duplicate_1_[Danio_rerio]|0.53|0.89||Duplicated_hybrid_motif|Leukocyte_cell-derived_chemotaxin_2
+PRED|XP_075923646.1_leukocyte_cell-derived_chemotaxin-2-like_isoform_X3_[Petromyzon_marinus]|0.67|0.92||Duplicated_hybrid_motif|Leukocyte_cell-derived_chemotaxin_2

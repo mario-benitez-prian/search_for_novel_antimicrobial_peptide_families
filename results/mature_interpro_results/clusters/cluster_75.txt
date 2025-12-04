@@ -1,0 +1,4 @@
+PRED|NP_001287425.1_metallothionein_B_isoform_B_[Drosophila_melanogaster]|0.96|0.95||Metallothionein,_family_5,_Diptera
+PRED|NP_001287426.1_metallothionein_B_isoform_C_[Drosophila_melanogaster]|0.96|0.94||Metallothionein,_family_5,_Diptera
+PRED|NP_524413.1_metallothionein_B_isoform_A_[Drosophila_melanogaster]|0.96|0.7||Metallothionein,_family_5,_Diptera
+PRED|NP_650882.1_metallothionein_C_[Drosophila_melanogaster]|0.81|0.94||Metallothionein,_family_5,_Diptera

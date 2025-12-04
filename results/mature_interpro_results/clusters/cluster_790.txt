@@ -1,0 +1,1 @@
+PRED|XP_046454683.1_uncharacterized_protein_LOC124202383_[Daphnia_pulex]|0.72|0.75||PROTEIN_CBG06219

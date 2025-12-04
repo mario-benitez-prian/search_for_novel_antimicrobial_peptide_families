@@ -1,0 +1,1 @@
+PRED|WP_000762708.1_MULTISPECIES:_putative_metal_homeostasis_protein_[Bacteria]|0.85|0.82||RsaX20-like

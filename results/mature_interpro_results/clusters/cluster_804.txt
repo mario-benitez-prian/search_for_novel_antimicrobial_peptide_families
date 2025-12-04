@@ -1,0 +1,1 @@
+PRED|WP_049922134.1_fluoride_efflux_transporter_FluC_[Haloferax_sp._BAB-2207]|0.6|0.87||Fluoride-specific_ion_channel_FluC

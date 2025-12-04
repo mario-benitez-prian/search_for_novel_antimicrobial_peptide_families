@@ -1,0 +1,1 @@
+PRED|WP_005053289.1_MULTISPECIES:_phosphate_starvation-inducible_protein_PsiF_[Shigella]|0.86|0.72||Phosphate-starvation-induced_PsiF_repeat

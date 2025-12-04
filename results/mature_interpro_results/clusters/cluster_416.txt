@@ -1,0 +1,2 @@
+PRED|NP_505622.1_Secreted_protein_[Caenorhabditis_elegans]|0.99|0.86||PROTEIN_CBG20963-RELATED
+PRED|NP_741500.1_TransThyretin-Related_family_domain_[Caenorhabditis_elegans]|0.91|0.71||PROTEIN_CBG20963-RELATED

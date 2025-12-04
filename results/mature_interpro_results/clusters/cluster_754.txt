@@ -1,0 +1,1 @@
+PRED|XP_036016094.1_40S_ribosomal_protein_S21-like_[Mus_musculus]|0.81|0.73||Small_ribosomal_subunit_protein_eS21|Small_ribosomal_subunit_protein_eS21_superfamily

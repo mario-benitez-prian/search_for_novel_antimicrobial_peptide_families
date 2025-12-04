@@ -1,0 +1,1 @@
+PRED|XP_015161842.1_glycosyltransferase-like_At3g57200_[Solanum_tuberosum]|0.68|0.82||Glycosyltransferase-like_KOBITO_1

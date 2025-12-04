@@ -1,0 +1,4 @@
+DATABASE|AP00171||Metchnikowin
+DATABASE|AP03066||Metchnikowin
+DATABASE|CAMPSQ663_Metchnikowin-2||Metchnikowin
+PRED|NP_523752.1_metchnikowin_[Drosophila_melanogaster]|1.0|0.85||Metchnikowin

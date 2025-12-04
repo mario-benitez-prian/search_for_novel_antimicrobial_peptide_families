@@ -1,0 +1,10 @@
+PRED|NP_001237427.1_chaperone_protein_DnaJ-like_precursor_[Glycine_max]|0.52|0.9||CHAPERONE_PROTEIN_DNAJ-LIKE_PROTEIN
+PRED|NP_568623.1_chaperone_protein_dnaJ-like_protein_[Arabidopsis_thaliana]|0.66|0.9||CHAPERONE_PROTEIN_DNAJ-LIKE_PROTEIN
+PRED|XP_003538547.1_chaperone_protein_DnaJ_[Glycine_max]|0.52|0.91||CHAPERONE_PROTEIN_DNAJ-LIKE_PROTEIN
+PRED|XP_004142934.1_uncharacterized_protein_LOC101220122_[Cucumis_sativus]|0.83|0.74||CHAPERONE_PROTEIN_DNAJ-LIKE_PROTEIN
+PRED|XP_007044016.2_PREDICTED:_uncharacterized_protein_LOC18609004_[Theobroma_cacao]|0.56|0.9||CHAPERONE_PROTEIN_DNAJ-LIKE_PROTEIN
+PRED|XP_008389865.1_uncharacterized_protein_[Malus_domestica]|0.63|0.84||CHAPERONE_PROTEIN_DNAJ-LIKE_PROTEIN
+PRED|XP_020401046.1_uncharacterized_protein_[Zea_mays]|0.64|0.92||CHAPERONE_PROTEIN_DNAJ-LIKE_PROTEIN
+PRED|XP_024359071.1_uncharacterized_protein_[Physcomitrium_patens]|0.76|0.87||CHAPERONE_PROTEIN_DNAJ-LIKE_PROTEIN
+PRED|XP_024539870.1_uncharacterized_protein_LOC112349518_[Selaginella_moellendorffii]|0.9|0.93||CHAPERONE_PROTEIN_DNAJ-LIKE_PROTEIN
+PRED|XP_073396685.1_uncharacterized_protein_[Physcomitrium_patens]|0.83|0.88||CHAPERONE_PROTEIN_DNAJ-LIKE_PROTEIN

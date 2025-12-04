@@ -1,0 +1,8 @@
+DATABASE|CAMPSQ21218_Phenol-solublemodulinalpha1peptidePSMalpha1||Phenol-soluble_modulin_alpha_peptide
+DATABASE|CAMPSQ21220_Phenol-solublemodulinalpha4peptidePSMalpha4||Phenol-soluble_modulin_alpha_peptide
+DATABASE|CAMPSQ22821_PhenolsolublemodulinalphaPSMa||Phenol-soluble_modulin_alpha_peptide
+DATABASE|DBAASPR_13972_Phenol-soluble_modulin_alpha_2_peptide,_psmA2||Phenol-soluble_modulin_alpha_peptide
+PRED|WP_014373779.1_MULTISPECIES:_phenol-soluble_modulin_PSM-alpha-3_[Bacilli]|0.92|0.81||Phenol-soluble_modulin_alpha_peptide|Phenol-soluble_modulin_alpha_peptides
+PRED|WP_014373780.1_MULTISPECIES:_phenol-soluble_modulin_PSM-alpha-2_[Bacilli]|0.97|0.89||Phenol-soluble_modulin_alpha_peptide
+PRED|WP_014373781.1_MULTISPECIES:_phenol-soluble_modulin_PSM-alpha-1_[Bacillales]|0.98|0.87||Phenol-soluble_modulin_alpha_peptide
+PRED|WP_014532416.1_MULTISPECIES:_phenol-soluble_modulin_PSM-alpha-4_[Bacteria]|0.98|0.86||Phenol-soluble_modulin_alpha_peptide

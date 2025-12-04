@@ -1,0 +1,1 @@
+PRED|WP_009990357.1_type_II_toxin-antitoxin_system_VapC_family_toxin_[Saccharolobus_solfataricus]|0.94|0.73||PINc/VapC_ribonuclease_toxin-antitoxin

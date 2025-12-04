@@ -1,0 +1,5 @@
+DATABASE|AP02557||Spider_toxin_CSTX,_Knottin_scaffold
+DATABASE|AP04196||Spider_toxin_CSTX,_Knottin_scaffold
+DATABASE|CAMPSQ20187_Omega-ctenitoxin-Cs1aCsTx-1||Spider_toxin_CSTX,_Knottin_scaffold
+DATABASE|CAMPSQ20188_ToxinCsTx-2aOmega-ctenitoxin-Cs1a||Spider_toxin_CSTX,_Knottin_scaffold
+DATABASE|CAMPSQ20189_ToxinCsTx-2bOmega-ctenitoxin-Cs1a||Spider_toxin_CSTX,_Knottin_scaffold

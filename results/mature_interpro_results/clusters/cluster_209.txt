@@ -1,0 +1,10 @@
+PRED|NP_001023410.1_Plasma_membrane_proteolipid_3_[Caenorhabditis_elegans]|0.91|0.75||Proteolipid_membrane_potential_modulator
+PRED|NP_001323801.1_Low_temperature_and_salt_responsive_protein_family_[Arabidopsis_thaliana]|0.99|0.85||Proteolipid_membrane_potential_modulator
+PRED|NP_001370602.1_UPF0057_membrane_protein_T23F2.5_[Caenorhabditis_elegans]|0.88|0.8||Proteolipid_membrane_potential_modulator
+PRED|NP_001379923.1_UPF0057_membrane_protein_F47B7.1_[Caenorhabditis_elegans]|0.58|0.75||Proteolipid_membrane_potential_modulator
+PRED|WP_000508176.1_MULTISPECIES:_YqaE/Pmp3_family_membrane_protein_[Enterobacteriaceae]|0.85|0.79||Proteolipid_membrane_potential_modulator
+PRED|WP_000508177.1_MULTISPECIES:_YqaE/Pmp3_family_membrane_protein_[Gammaproteobacteria]|0.74|0.79||Proteolipid_membrane_potential_modulator
+PRED|WP_002903230.1_MULTISPECIES:_YqaE/Pmp3_family_membrane_protein_[Gammaproteobacteria]|0.55|0.77||Proteolipid_membrane_potential_modulator
+PRED|XP_012047684.1_hypothetical_protein_CNAG_06712_[Cryptococcus_neoformans_var._grubii_H99]|0.68|0.85||Proteolipid_membrane_potential_modulator
+PRED|XP_042926401.1_uncharacterized_protein_CHLRE_03g197513v5_[Chlamydomonas_reinhardtii]|0.54|0.73||Proteolipid_membrane_potential_modulator
+PRED|XP_646355.2_hypothetical_protein_DDB_G0270978_[Dictyostelium_discoideum_AX4]|0.55|0.77||Proteolipid_membrane_potential_modulator

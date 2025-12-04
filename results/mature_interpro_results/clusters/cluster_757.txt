@@ -1,0 +1,1 @@
+PRED|WP_003725163.1_MULTISPECIES:_polymorphic_toxin_type_35_domain-containing_protein_[Listeria]|0.77|0.83||Bacterial_toxin_35

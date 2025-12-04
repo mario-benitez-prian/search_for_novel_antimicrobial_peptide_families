@@ -1,0 +1,1 @@
+PRED|XP_012650917.1_immobilization_antigen_[Tetrahymena_thermophila_SB210]|0.88|0.71||GCC2_GCC3_2

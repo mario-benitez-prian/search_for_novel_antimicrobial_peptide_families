@@ -1,0 +1,1 @@
+PRED|XP_010657186.1_uncharacterized_protein_LOC100267070_[Vitis_vinifera]|0.99|0.82||GA22863

@@ -1,0 +1,1 @@
+PRED|XP_001347586.1_ookinete_surface_protein_P28_[Plasmodium_falciparum_3D7]|0.6|0.75||Plasmodium_vivax_P25_domain

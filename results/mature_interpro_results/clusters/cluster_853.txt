@@ -1,0 +1,1 @@
+PRED|XP_009056237.1_hypothetical_protein_LOTGIDRAFT_119766_[Lottia_gigantea]|0.53|0.84||Heat_shock_chaperonin-binding

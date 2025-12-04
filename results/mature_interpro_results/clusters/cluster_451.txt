@@ -1,0 +1,4 @@
+DATABASE|AP02440||Fungal_defensin_Copsin
+DATABASE|CAMPSQ12582_Copsin||Fungal_defensin_Copsin
+DATABASE|DBAASPR_8129_Copsin||Fungal_defensin_Copsin
+PRED|XP_001839618.1_hypothetical_protein_CC1G_15644_[Coprinopsis_cinerea_okayama7#130]|0.86|0.83||Fungal_defensin_Copsin

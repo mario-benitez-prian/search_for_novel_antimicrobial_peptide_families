@@ -1,0 +1,1 @@
+PRED|XP_059595075.1_uncharacterized_protein_LOC100243090_isoform_X2_[Vitis_vinifera]|0.62|0.8||OS03G0363400_PROTEIN

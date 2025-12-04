@@ -1,0 +1,1 @@
+PRED|WP_023148296.1_MULTISPECIES:_IS66_family_insertion_sequence_element_accessory_protein_TnpA_[Enterobacteriaceae]|0.52|0.72||IS66_family_insertion_sequence_element_accessory_protein_TnpA

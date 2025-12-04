@@ -1,0 +1,1 @@
+DATABASE|AP04828||ESAT-6-like_superfamily|Type_VII_secretion_system_ESAT-6-like

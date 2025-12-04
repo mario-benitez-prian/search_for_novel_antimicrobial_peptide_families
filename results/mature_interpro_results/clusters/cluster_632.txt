@@ -1,0 +1,1 @@
+PRED|XP_030843620.1_synaptotagmin-1_[Strongylocentrotus_purpuratus]|0.95|0.76||Concentrative_nucleoside_transporter

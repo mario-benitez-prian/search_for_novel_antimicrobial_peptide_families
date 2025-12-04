@@ -1,0 +1,1 @@
+PRED|NP_001021532.1_Uncharacterized_protein_CELE_H32K16.2_[Caenorhabditis_elegans]|0.99|0.92||PROTEIN_CBG18423-RELATED

@@ -1,0 +1,1 @@
+PRED|XP_009056164.1_hypothetical_protein_LOTGIDRAFT_79724_partial_[Lottia_gigantea]|0.67|0.88||ANTIGEN_KI-67-LIKE_PROTEIN|FHA_Ki67

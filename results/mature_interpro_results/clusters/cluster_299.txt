@@ -1,0 +1,6 @@
+DATABASE|AP00928||Bacteriocin_subtilosin_A
+DATABASE|AP02220||Bacteriocin_subtilosin_A
+DATABASE|AP02925||Bacteriocin_subtilosin_A
+DATABASE|DBAASPR_6076_Sactipeptide_Subtilosin-A||Bacteriocin_subtilosin_A
+DATABASE|DBAASPR_6077_Sactipeptide_Subtilosin-A_[T6I],_Subtilosin_A1||Bacteriocin_subtilosin_A
+PRED|WP_003222002.1_MULTISPECIES:_subtilosin_A_[Bacteria]|0.99|0.89||Bacteriocin_subtilosin_A

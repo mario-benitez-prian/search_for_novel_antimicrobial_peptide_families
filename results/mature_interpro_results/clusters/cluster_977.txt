@@ -1,0 +1,2 @@
+PRED|XP_008359261.4_large_ribosomal_subunit_protein_eL38z/eL38y-like_[Malus_domestica]|0.79|0.77||Large_ribosomal_subunit_protein_eL38|Large_ribosomal_subunit_protein_eL38_superfamily
+PRED|XP_013446497.1_60S_ribosomal_protein_L38_[Medicago_truncatula]|0.63|0.7||Large_ribosomal_subunit_protein_eL38|Large_ribosomal_subunit_protein_eL38_superfamily

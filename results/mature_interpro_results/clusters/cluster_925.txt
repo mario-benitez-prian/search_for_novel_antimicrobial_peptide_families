@@ -1,0 +1,1 @@
+PRED|XP_042916058.1_uncharacterized_protein_CHLRE_16g678150v5_[Chlamydomonas_reinhardtii]|0.65|0.71||Transmembrane_protein_230|Transmembrane_protein_230/134

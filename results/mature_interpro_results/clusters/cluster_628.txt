@@ -1,0 +1,2 @@
+DATABASE|CAMPSQ21289_PepsinogenC-derivedantimicrobialpeptidebPcAP||Aspartic_peptidase,_N-terminal
+DATABASE|CAMPSQ22330_NothepsinNOTS||Aspartic_peptidase,_N-terminal

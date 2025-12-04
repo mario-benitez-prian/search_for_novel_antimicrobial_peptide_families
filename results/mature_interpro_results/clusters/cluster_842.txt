@@ -1,0 +1,2 @@
+PRED|XP_008668691.1_uncharacterized_protein_[Zea_mays]|0.56|0.83||Small_ribosomal_subunit_protein_mS34
+PRED|XP_021318990.1_uncharacterized_protein_LOC8085864_[Sorghum_bicolor]|0.56|0.8||Small_ribosomal_subunit_protein_mS34

@@ -1,0 +1,2 @@
+DATABASE|AP02132||Mannan-binding_protein
+DATABASE|CAMPSQ3783_Microcystisviridislectin||Mannan-binding_protein

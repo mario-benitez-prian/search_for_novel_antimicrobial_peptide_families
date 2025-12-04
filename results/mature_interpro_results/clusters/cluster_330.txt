@@ -1,0 +1,5 @@
+PRED|NP_001324480.1_Yippee_family_putative_zinc-binding_protein_[Arabidopsis_thaliana]|0.65|0.79||Yippee_family
+PRED|NP_001324481.1_Yippee_family_putative_zinc-binding_protein_[Arabidopsis_thaliana]|0.65|0.79||Yippee_family
+PRED|XP_002442626.1_protein_yippee-like_At3g55890_[Sorghum_bicolor]|0.64|0.74||Yippee_family|Yippee/Mis18/Cereblon
+PRED|XP_008369243.1_protein_yippee-like_[Malus_domestica]|0.51|0.82||Yippee_family|Yippee/Mis18/Cereblon
+PRED|XP_008369244.1_protein_yippee-like_[Malus_domestica]|0.51|0.82||Yippee_family|Yippee/Mis18/Cereblon

@@ -1,0 +1,3 @@
+PRED|NP_509015.1_Neuropeptide-Like_Protein_[Caenorhabditis_elegans]|0.55|0.88||PROTEIN_CBG14825-RELATED
+PRED|NP_509016.1_Neuropeptide-Like_Protein_[Caenorhabditis_elegans]|0.98|0.92||PROTEIN_CBG14825-RELATED
+PRED|NP_509017.1_Neuropeptide-Like_Protein_[Caenorhabditis_elegans]|0.97|0.93||PROTEIN_CBG14825-RELATED

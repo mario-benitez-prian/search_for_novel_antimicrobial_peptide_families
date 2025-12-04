@@ -1,0 +1,6 @@
+PRED|NP_001279269.1_guanylin-like_precursor_[Callorhinchus_milii]|0.88|0.82||Guanylin|Guanylin_superfamily
+PRED|NP_001279275.1_guanylin-like_precursor_[Callorhinchus_milii]|0.71|0.72||Guanylin|Guanylin_superfamily
+PRED|NP_001279281.1_guanylin-like_precursor_[Callorhinchus_milii]|0.88|0.82||Guanylin|Guanylin_superfamily
+PRED|XP_021335528.1_guanylin_isoform_X2_[Danio_rerio]|0.86|0.8||Guanylin|Guanylin_superfamily
+PRED|XP_031758435.1_guanylin-like_[Xenopus_tropicalis]|0.84|0.82||Guanylin|Guanylin_superfamily
+PRED|XP_040060819.1_guanylin-like_[Gasterosteus_aculeatus_aculeatus]|0.9|0.79||Guanylin|Guanylin_superfamily

@@ -1,0 +1,9 @@
+PRED|NP_001185985.1_cell_death-inducing_p53-target_protein_1_isoform_c_[Homo_sapiens]|0.61|0.8||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_001021936.1_LITAF-like_zinc_ribbon_domain_protein_[Tetrahymena_thermophila_SB210]|0.87|0.89||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_001022444.1_LITAF-like_zinc_ribbon_domain_protein_[Tetrahymena_thermophila_SB210]|0.92|0.84||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_001030377.1_LITAF-like_zinc_ribbon_domain_protein_[Tetrahymena_thermophila_SB210]|0.77|0.87||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_001030565.1_LITAF-like_zinc_ribbon_domain_protein_[Tetrahymena_thermophila_SB210]|0.95|0.83||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_001347077.1_hypothetical_protein_(macronuclear)_[Paramecium_tetraurelia_strain_d4-2]|0.65|0.86||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_004927943.1_lipopolysaccharide-induced_tumor_necrosis_factor-alpha_factor_homolog_[Bombyx_mori]|0.71|0.87||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_011444612.3_LITAF_domain-containing_protein_[Magallana_gigas]|0.94|0.83||LPS-induced_tumour_necrosis_factor_alpha_factor
+PRED|XP_037870913.1_lipopolysaccharide-induced_tumor_necrosis_factor-alpha_factor_homolog_isoform_X1_[Bombyx_mori]|0.66|0.83||LPS-induced_tumour_necrosis_factor_alpha_factor

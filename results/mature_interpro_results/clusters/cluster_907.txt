@@ -1,0 +1,2 @@
+PRED|WP_002211053.1_MULTISPECIES:_phage_protein_NinX_family_protein_[Yersinia_pseudotuberculosis_complex]|0.91|0.78||NinX,_bacteriophage_P22
+PRED|WP_002222868.1_DUF2591_domain-containing_protein_[Yersinia_pestis]|0.77|0.74||NinX,_bacteriophage_P22

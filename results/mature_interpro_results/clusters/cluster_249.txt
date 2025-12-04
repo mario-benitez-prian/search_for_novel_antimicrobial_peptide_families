@@ -1,0 +1,1 @@
+PRED|WP_001047539.1_MULTISPECIES:_TusE/DsrC/DsvC_family_sulfur_relay_protein_[Acinetobacter]|0.61|0.73||Sulphur_transfer_protein_DsrC/TusE

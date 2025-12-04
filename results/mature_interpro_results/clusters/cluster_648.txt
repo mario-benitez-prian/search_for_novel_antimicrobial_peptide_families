@@ -1,0 +1,1 @@
+PRED|XP_748616.1_putative_allergen_[Aspergillus_fumigatus_Af293]|0.66|0.74||Allergen_Asp_f_4

@@ -1,0 +1,2 @@
+DATABASE|AP02360||Small_toxic_protein_BsrE-like
+DATABASE|AP02361||Small_toxic_protein_BsrE-like

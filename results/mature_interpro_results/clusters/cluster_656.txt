@@ -1,0 +1,3 @@
+PRED|XP_070662602.1_translation_initiation_factor_IF3-1_mitochondrial-like_isoform_X1_[Malus_domestica]|0.52|0.9||Translation_initiation_factor_3,_N-terminal
+PRED|XP_070662603.1_translation_initiation_factor_IF3-1_mitochondrial-like_isoform_X2_[Malus_domestica]|0.62|0.87||Translation_initiation_factor_3,_N-terminal
+PRED|XP_070662604.1_translation_initiation_factor_IF3-1_mitochondrial-like_isoform_X2_[Malus_domestica]|0.62|0.87||Translation_initiation_factor_3,_N-terminal

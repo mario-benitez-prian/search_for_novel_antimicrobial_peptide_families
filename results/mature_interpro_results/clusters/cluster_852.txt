@@ -1,0 +1,1 @@
+PRED|WP_096937776.1_MULTISPECIES:_type_I_toxin-antitoxin_system_Hok_family_toxin_[Pseudomonadati]|0.82|0.74||Hok/gef_cell_toxic_protein

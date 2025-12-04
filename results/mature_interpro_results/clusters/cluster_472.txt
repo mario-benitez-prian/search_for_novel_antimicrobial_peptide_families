@@ -1,0 +1,3 @@
+DATABASE|CAMPSQ1137_Techylectin-5A||Fibrinogen-like,_C-terminal
+DATABASE|CAMPSQ1138_Techylectin-5B||Fibrinogen-like,_C-terminal|Fibrinogen/angiopoietin-like
+PRED|XP_009064285.1_hypothetical_protein_LOTGIDRAFT_57454_partial_[Lottia_gigantea]|0.53|0.82||Fibrinogen-like,_C-terminal

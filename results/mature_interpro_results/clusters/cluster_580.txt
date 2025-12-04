@@ -1,0 +1,4 @@
+DATABASE|CAMPSQ20787_OrexinBORXB||Prepro-orexin
+PRED|NP_001515.1_hypocretin_neuropeptide_precursor_precursor_[Homo_sapiens]|0.61|0.9||Prepro-orexin
+PRED|NP_034540.1_hypocretin_neuropeptide_precursor_precursor_[Mus_musculus]|0.57|0.88||Prepro-orexin
+PRED|NP_037311.1_hypocretin_neuropeptide_precursor_precursor_[Rattus_norvegicus]|0.72|0.91||Prepro-orexin

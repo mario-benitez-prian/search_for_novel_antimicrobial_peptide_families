@@ -1,0 +1,1 @@
+PRED|XP_061518348.1_uncharacterized_protein_LOC1272591_isoform_X3_[Anopheles_gambiae]|0.56|0.87||Unknown

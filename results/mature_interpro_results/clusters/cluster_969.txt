@@ -1,0 +1,1 @@
+PRED|WP_000037113.1_MULTISPECIES:_DUF2969_domain-containing_protein_[Bacteria]|0.86|0.71||Protein_of_unknown_function_DUF2969

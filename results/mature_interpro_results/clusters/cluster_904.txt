@@ -1,0 +1,1 @@
+PRED|WP_000616642.1_MULTISPECIES:_Na+/H+_antiporter_Mnh2_subunit_F_[Staphylococcus]|0.89|0.7||Na(+)/H(+)_antiporter_subunit_F-like

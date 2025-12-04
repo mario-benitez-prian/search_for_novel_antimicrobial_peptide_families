@@ -1,0 +1,12 @@
+DATABASE|AP02012||Unknown
+DATABASE|AP02017||Unknown
+DATABASE|AP02680||Unknown
+DATABASE|AP04842||Unknown
+DATABASE|CAMPSQ11473_NP-6||Unknown
+DATABASE|CAMPSQ11474_NP-7||Unknown
+DATABASE|CAMPSQ12855_GLT||Unknown
+DATABASE|CAMPSQ14675_SP1||Unknown
+DATABASE|CAMPSQ15134_C_AMP660||Unknown
+PRED|XP_006365822.1_uncharacterized_oxidoreductase_SSP1627-like_[Solanum_tuberosum]|0.81|0.78||BETA-KETOACYL-ACP_REDUCTASE-LIKE_PROTEIN-RELATED
+PRED|XP_012934950.1_15-hydroxyprostaglandin_dehydrogenase_[NAD(+)]_partial_[Aplysia_californica]|0.6|0.84||2,3-dihydro-2,3-dihydroxybenzoate_dehydrogenase|Short-chain_dehydrogenase/reductase_SDR
+PRED|XP_031745959.1_NAD-dependent_malic_enzyme_2_mitochondrial-like_[Cucumis_sativus]|0.54|0.77||Malic_enzyme,_NAD-binding|Malic_oxidoreductase

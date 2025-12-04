@@ -1,0 +1,1 @@
+PRED|XP_048576290.1_cytochrome_c_oxidase_assembly_protein_COX19_isoform_X3_[Nematostella_vectensis]|0.86|0.71||Cytochrome_c_oxidase_assembly_protein_COX19

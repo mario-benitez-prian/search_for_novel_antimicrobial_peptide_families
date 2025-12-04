@@ -1,0 +1,2 @@
+PRED|WP_001405930.1_MULTISPECIES:_colicin_release_lysis_protein_[Enterobacterales]|0.59|0.82||Colicin_lysis_protein
+PRED|WP_004152552.1_MULTISPECIES:_colicin_release_lysis_protein_[Bacteria]|0.67|0.78||Colicin_lysis_protein

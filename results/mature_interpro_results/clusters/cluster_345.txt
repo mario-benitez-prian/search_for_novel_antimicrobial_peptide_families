@@ -1,0 +1,2 @@
+DATABASE|AP02229||Acanthaporin
+DATABASE|CAMPSQ21349_Acanthaporin||Acanthaporin

@@ -1,0 +1,1 @@
+PRED|XP_002313468.2_citrate_synthase_mitochondrial_[Populus_trichocarpa]|0.83|0.85||Citrate_synthase_superfamily

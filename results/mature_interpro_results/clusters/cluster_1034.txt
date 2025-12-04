@@ -1,0 +1,2 @@
+PRED|XP_003726400.1_ribonuclease_P_protein_subunit_p21-like_[Strongylocentrotus_purpuratus]|0.6|0.83||Ribonuclease_P_subunit_RNP4|Ribonuclease_P_subunit,_Rpr2/Snm1/Rpp21
+PRED|XP_030851370.1_ribonuclease_P_protein_subunit_p21-like_[Strongylocentrotus_purpuratus]|0.53|0.83||Ribonuclease_P_subunit_RNP4|Ribonuclease_P_subunit,_Rpr2/Snm1/Rpp21

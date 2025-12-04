@@ -1,0 +1,4 @@
+PRED|XP_008372500.3_dolichol-phosphate_mannose_synthase_subunit_3_isoform_X2_[Malus_domestica]|0.84|0.7||Dolichol-phosphate_mannosyltransferase_subunit_3
+PRED|XP_019330909.1_Dpm3p_[Candida_albicans_SC5314]|0.55|0.83||Dolichol-phosphate_mannosyltransferase_subunit_3
+PRED|XP_024527251.1_dolichol-phosphate_mannose_synthase_subunit_3-like_[Selaginella_moellendorffii]|0.65|0.72||Dolichol-phosphate_mannosyltransferase_subunit_3
+PRED|XP_032824716.2_dolichol-phosphate_mannosyltransferase_subunit_3_[Petromyzon_marinus]|0.51|0.87||Dolichol-phosphate_mannosyltransferase_subunit_3

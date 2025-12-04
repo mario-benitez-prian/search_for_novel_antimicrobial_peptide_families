@@ -1,0 +1,1 @@
+PRED|WP_011205839.1_MULTISPECIES:_stable_inheritance_protein_KleA_[Pseudomonadota]|0.91|0.79||Protein_KleA/KleC-like

@@ -1,0 +1,2 @@
+PRED|XP_073387663.1_uncharacterized_protein_[Physcomitrium_patens]|0.68|0.74||UPF0047_protein_YjbQ-like|YjbQ-like_superfamily
+PRED|XP_073387664.1_uncharacterized_protein_[Physcomitrium_patens]|0.68|0.73||UPF0047_protein_YjbQ-like|YjbQ-like_superfamily

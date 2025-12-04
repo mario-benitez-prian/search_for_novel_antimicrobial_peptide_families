@@ -1,0 +1,1 @@
+PRED|WP_004187479.1_MULTISPECIES:_DUF6750_family_protein_[Enterobacterales]|0.54|0.71||Protein_of_unknown_function_DUF6750

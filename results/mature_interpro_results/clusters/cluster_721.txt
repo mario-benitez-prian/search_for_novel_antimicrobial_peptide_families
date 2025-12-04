@@ -1,0 +1,1 @@
+PRED|XP_008668815.1_uncharacterized_protein_[Zea_mays]|0.89|0.82||IQ-DOMAIN_5-RELATED

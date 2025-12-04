@@ -1,0 +1,11 @@
+PRED|NP_001319560.1_uncharacterized_protein_AT3G15534_[Arabidopsis_thaliana]|0.84|0.91||METHIONYL-TRNA_SYNTHETASE
+PRED|NP_001354729.1_uncharacterized_protein_LOC100274985_[Zea_mays]|0.61|0.92||METHIONYL-TRNA_SYNTHETASE
+PRED|NP_179679.1_uncharacterized_protein_AT2G20835_[Arabidopsis_thaliana]|0.85|0.91||METHIONYL-TRNA_SYNTHETASE
+PRED|NP_974011.1_uncharacterized_protein_AT1G52855_[Arabidopsis_thaliana]|0.54|0.91||METHIONYL-TRNA_SYNTHETASE
+PRED|XP_002309004.1_uncharacterized_protein_LOC7474719_[Populus_trichocarpa]|0.75|0.8||METHIONYL-TRNA_SYNTHETASE
+PRED|XP_002325255.1_uncharacterized_protein_LOC7484058_[Populus_trichocarpa]|0.76|0.81||METHIONYL-TRNA_SYNTHETASE
+PRED|XP_002463028.1_uncharacterized_protein_LOC8081757_[Sorghum_bicolor]|0.51|0.91||METHIONYL-TRNA_SYNTHETASE
+PRED|XP_004146338.1_uncharacterized_protein_LOC101203895_[Cucumis_sativus]|0.6|0.86||METHIONYL-TRNA_SYNTHETASE
+PRED|XP_006364711.1_uncharacterized_protein_[Solanum_tuberosum]|0.94|0.84||METHIONYL-TRNA_SYNTHETASE
+PRED|XP_011650561.1_uncharacterized_protein_LOC101205611_[Cucumis_sativus]|0.69|0.9||METHIONYL-TRNA_SYNTHETASE
+PRED|XP_070673686.1_uncharacterized_protein_[Malus_domestica]|0.61|0.94||METHIONYL-TRNA_SYNTHETASE

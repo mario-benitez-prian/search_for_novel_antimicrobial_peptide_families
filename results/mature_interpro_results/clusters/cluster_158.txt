@@ -1,0 +1,17 @@
+PRED|NP_564848.1_ubiquitin_carboxyl-terminal_hydrolase_[Arabidopsis_thaliana]|0.92|0.93||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_003556438.1_uncharacterized_protein_[Glycine_max]|0.9|0.91||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_003624155.1_uncharacterized_protein_[Medicago_truncatula]|0.86|0.93||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_004142564.1_uncharacterized_protein_LOC101221700_[Cucumis_sativus]|0.83|0.94||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_006353233.1_uncharacterized_protein_[Solanum_tuberosum]|0.55|0.89||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_006606435.1_uncharacterized_protein_[Glycine_max]|0.89|0.91||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_007029395.1_PREDICTED:_uncharacterized_protein_LOC18599385_[Theobroma_cacao]|0.55|0.95||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_024375249.1_uncharacterized_protein_[Physcomitrium_patens]|0.63|0.92||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_024375251.1_uncharacterized_protein_[Physcomitrium_patens]|0.8|0.92||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_024375252.1_uncharacterized_protein_[Physcomitrium_patens]|0.8|0.92||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_024375253.1_uncharacterized_protein_[Physcomitrium_patens]|0.8|0.92||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_024379926.1_uncharacterized_protein_[Physcomitrium_patens]|0.72|0.86||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_024379928.1_uncharacterized_protein_[Physcomitrium_patens]|0.72|0.86||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_024379929.1_uncharacterized_protein_[Physcomitrium_patens]|0.72|0.86||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_024379930.1_uncharacterized_protein_[Physcomitrium_patens]|0.72|0.86||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_024379933.1_uncharacterized_protein_[Physcomitrium_patens]|0.84|0.86||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE
+PRED|XP_024637341.1_uncharacterized_protein_[Medicago_truncatula]|0.74|0.93||UBIQUITIN_CARBOXYL-TERMINAL_HYDROLASE

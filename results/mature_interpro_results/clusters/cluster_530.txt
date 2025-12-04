@@ -1,0 +1,1 @@
+PRED|WP_353544815.1_ATP-binding_protein_[Methanococcus_maripaludis]|0.84|0.88||Histidine_kinase/HSP90-like_ATPase_superfamily

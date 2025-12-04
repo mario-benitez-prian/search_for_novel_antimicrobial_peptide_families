@@ -1,0 +1,2 @@
+PRED|WP_000953271.1_MULTISPECIES:_helix-turn-helix_transcriptional_regulator_[Enterobacteriaceae]|0.89|0.88||DNA-binding_transcriptional_activator_AlpA
+PRED|WP_002209920.1_MULTISPECIES:_helix-turn-helix_transcriptional_regulator_[Yersinia_pseudotuberculosis_complex]|0.53|0.9||DNA-binding_transcriptional_activator_AlpA

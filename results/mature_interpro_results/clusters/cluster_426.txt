@@ -1,0 +1,1 @@
+PRED|XP_008352381.2_L10-interacting_MYB_domain-containing_protein-like_[Malus_domestica]|0.9|0.83||MYB/SANT-LIKE_DNA-BINDING_DOMAIN_PROTEIN-RELATED

@@ -1,0 +1,1 @@
+PRED|WP_000149544.1_MULTISPECIES:_DUF1317_domain-containing_protein_[Enterobacteriaceae]|0.56|0.72||Protein_of_unknown_function_DUF1317

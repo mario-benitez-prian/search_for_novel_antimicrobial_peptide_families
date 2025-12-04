@@ -1,0 +1,1 @@
+PRED|XP_001015773.2_Fop_carboxy-terminal_duplication_domain_protein_[Tetrahymena_thermophila_SB210]|0.72|0.76||Chromatin_target_of_PRMT1_protein,_C-terminal

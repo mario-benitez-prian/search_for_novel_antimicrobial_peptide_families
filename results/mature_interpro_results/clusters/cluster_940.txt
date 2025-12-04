@@ -1,0 +1,1 @@
+PRED|XP_015170354.1_type_II_inositol_polyphosphate_5-phosphatase_15-like_isoform_X2_[Solanum_tuberosum]|0.62|0.75||Endonuclease/exonuclease/phosphatase_superfamily|Inositol_polyphosphate-related_phosphatase

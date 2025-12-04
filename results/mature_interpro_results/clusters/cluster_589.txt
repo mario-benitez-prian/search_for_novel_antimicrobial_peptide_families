@@ -1,0 +1,2 @@
+PRED|WP_000590344.1_MULTISPECIES:_protein_YecU_[Enterobacterales]|0.84|0.8||YecU-like
+PRED|WP_032155628.1_MULTISPECIES:_protein_YecU_[Enterobacteriaceae]|0.85|0.8||YecU-like

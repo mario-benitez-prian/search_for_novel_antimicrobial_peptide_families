@@ -1,0 +1,2 @@
+PRED|XP_001238497.3_uncharacterized_protein_LOC4577422_[Anopheles_gambiae]|0.57|0.73||FI14129P
+PRED|XP_004923169.1_uncharacterized_protein_LOC101743815_[Bombyx_mori]|0.95|0.93||FI14129P

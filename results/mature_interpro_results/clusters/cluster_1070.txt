@@ -1,0 +1,1 @@
+PRED|XP_004142978.1_cytochrome_b-c1_complex_subunit_8_[Cucumis_sativus]|0.77|0.73||Cytochrome_b-c1_complex_subunit_8,_plants

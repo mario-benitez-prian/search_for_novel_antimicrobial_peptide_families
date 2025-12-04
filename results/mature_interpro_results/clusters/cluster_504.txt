@@ -1,0 +1,5 @@
+PRED|NP_001023737.1_Cys-rich_protein_[Caenorhabditis_elegans]|1.0|0.8||PROTEIN_CBG00810
+PRED|NP_001263838.1_Secreted_protein_[Caenorhabditis_elegans]|0.93|0.79||PROTEIN_CBG00810
+PRED|NP_001263839.1_uncharacterized_protein_CELE_C54F6.17_[Caenorhabditis_elegans]|0.97|0.76||PROTEIN_CBG00810
+PRED|NP_001343613.1_Cys-rich_protein_[Caenorhabditis_elegans]|1.0|0.89||PROTEIN_CBG00810
+PRED|NP_001346730.1_Secreted_protein_[Caenorhabditis_elegans]|0.65|0.87||PROTEIN_CBG00810

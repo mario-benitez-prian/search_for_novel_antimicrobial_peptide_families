@@ -1,0 +1,1 @@
+PRED|WP_002916857.1_MULTISPECIES:_cell_surface_composition_regulator_GlgS_[Enterobacteriaceae]|0.86|0.76||GlgS_superfamily

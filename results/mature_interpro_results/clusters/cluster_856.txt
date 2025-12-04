@@ -1,0 +1,1 @@
+PRED|XP_015642606.1_CLAVATA3/ESR_(CLE)-related_protein_2_[Oryza_sativa_Japonica_Group]|0.74|0.76||CLAVATA3/ESR_(CLE)-related_protein_1-4

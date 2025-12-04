@@ -1,0 +1,1 @@
+PRED|XP_040865501.1_uncharacterized_protein_[Glycine_max]|0.89|0.71||MTERF_superfamily,_mitochondrial/chloroplastic|Transcription_termination_factor,_mitochondrial/chloroplastic

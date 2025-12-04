@@ -1,0 +1,2 @@
+PRED|XP_002450482.1_uncharacterized_protein_LOC8076743_[Sorghum_bicolor]|0.68|0.8||MEMBRANE_LIPOPROTEIN-RELATED
+PRED|XP_066161810.1_uncharacterized_protein_[Oryza_sativa_Japonica_Group]|0.56|0.78||MEMBRANE_LIPOPROTEIN-RELATED

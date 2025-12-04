@@ -1,0 +1,5 @@
+PRED|WP_000203905.1_MULTISPECIES:_DUF423_domain-containing_protein_[Enterobacteriaceae]|0.63|0.78||Protein_of_unknown_function_DUF423
+PRED|WP_000203905.1_MULTISPECIES:_DUF423_domain-containing_protein_[Enterobacteriaceae]|0.67|0.78||Protein_of_unknown_function_DUF423
+PRED|XP_009044512.1_hypothetical_protein_LOTGIDRAFT_109541_[Lottia_gigantea]|0.59|0.71||Protein_of_unknown_function_DUF423
+PRED|XP_012651656.1_inner_membrane_protein_putative_[Tetrahymena_thermophila_SB210]|0.54|0.8||Protein_of_unknown_function_DUF423
+PRED|XP_024378862.1_uncharacterized_protein_[Physcomitrium_patens]|0.55|0.75||Protein_of_unknown_function_DUF423

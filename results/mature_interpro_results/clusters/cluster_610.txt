@@ -1,0 +1,1 @@
+PRED|WP_001041547.1_MULTISPECIES:_DUF3272_domain-containing_protein_[Streptococcus]|0.52|0.86||Protein_of_unknown_function_DUF3272

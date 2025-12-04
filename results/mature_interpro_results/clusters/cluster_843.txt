@@ -1,0 +1,1 @@
+PRED|XP_012653349.1_conotoxin_protein_[Tetrahymena_thermophila_SB210]|0.99|0.88||Spider_insecticidal_peptide

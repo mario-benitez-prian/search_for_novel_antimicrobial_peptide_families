@@ -1,0 +1,5 @@
+PRED|NP_476985.1_oxen_[Drosophila_melanogaster]|0.9|0.85||Cytochrome_b-c1_complex_subunit_9|Cytochrome_b-c1_complex_subunit_9_superfamily
+PRED|XP_001689102.1_cytochrome_b-c1_complex_subunit_9_[Anopheles_gambiae]|0.97|0.71||Cytochrome_b-c1_complex_subunit_9|Cytochrome_b-c1_complex_subunit_9_superfamily
+PRED|XP_001836941.1_hypothetical_protein_CC1G_00077_[Coprinopsis_cinerea_okayama7#130]|0.6|0.87||Cytochrome_b-c1_complex_subunit_9|Cytochrome_b-c1_complex_subunit_9_superfamily
+PRED|XP_011392492.1_putative_ubiquinol--cytochrome-c_reductase_subunit_9_[Mycosarcoma_maydis]|0.82|0.84||Cytochrome_b-c1_complex_subunit_9|Cytochrome_b-c1_complex_subunit_9_superfamily
+PRED|XP_024379949.1_cytochrome_b-c1_complex_subunit_9_mitochondrial_[Physcomitrium_patens]|0.52|0.81||Cytochrome_b-c1_complex_subunit_9|Cytochrome_b-c1_complex_subunit_9_superfamily

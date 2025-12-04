@@ -1,0 +1,2 @@
+PRED|XP_001347359.1_conserved_protein_unknown_function_[Plasmodium_falciparum_3D7]|0.53|0.78||Microprotein,_apicomplexa_17
+PRED|XP_002368802.1_hypothetical_protein_TGME49_267340_[Toxoplasma_gondii_ME49]|0.58|0.85||Microprotein,_apicomplexa_17

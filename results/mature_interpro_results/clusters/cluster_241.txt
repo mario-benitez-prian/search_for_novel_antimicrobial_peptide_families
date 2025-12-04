@@ -1,0 +1,3 @@
+PRED|WP_002853093.1_MULTISPECIES:_ComEA_family_DNA-binding_protein_[Campylobacter]|0.87|0.73||Helix-hairpin-helix_DNA-binding_motif,_class_1
+PRED|WP_162992192.1_ComEA_family_DNA-binding_protein_partial_[Neisseria_meningitidis]|0.5|0.74||Helix-hairpin-helix_DNA-binding_motif,_class_1
+PRED|WP_442496531.1_ComEA_family_DNA-binding_protein_[Neisseria_meningitidis]|0.55|0.74||Helix-hairpin-helix_DNA-binding_motif,_class_1

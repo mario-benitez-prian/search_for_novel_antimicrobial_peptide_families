@@ -1,0 +1,13 @@
+DATABASE|AP02035||Vicilin,_N-terminal
+DATABASE|AP02036||Vicilin,_N-terminal
+DATABASE|AP02037||Vicilin,_N-terminal
+DATABASE|CAMPSQ1698_Vicin-likeantimicrobialpeptide2b||Vicilin,_N-terminal
+DATABASE|CAMPSQ1699_Vicin-likeantimicrobialpeptide2c-3||Vicilin,_N-terminal
+DATABASE|CAMPSQ1700_Vicin-likeantimicrobialpeptide2c-2||Vicilin,_N-terminal
+DATABASE|CAMPSQ1701_Vicin-likeantimicrobialpeptide2c-1||Vicilin,_N-terminal
+DATABASE|CAMPSQ1702_Vicin-likeantimicrobialpeptide2d||Vicilin,_N-terminal
+DATABASE|DBAASPR_2740_Vicilin-like_Antimicrobial_peptide_2b_/_MiAMP2b||Vicilin,_N-terminal
+DATABASE|DBAASPR_2741_Vicilin-like_Antimicrobial_peptide_2d_/_MiAMP2d||Vicilin,_N-terminal
+DATABASE|DBAASPR_2742_Vicilin-like_Antimicrobial_peptide_2c-1_/_MiAMP2c-1||Vicilin,_N-terminal
+DATABASE|DBAASPR_2743_Vicilin-like_Antimicrobial_peptide_2c-2,_MiAMP2c-2||Vicilin,_N-terminal
+DATABASE|DBAASPR_2819_Vicilin-like_Antimicrobial_peptide_2c-3_/_MiAMP2c-3||Vicilin,_N-terminal

@@ -1,0 +1,1 @@
+PRED|WP_003425410.1_4-hydroxyphenylacetate_decarboxylase_small_subunit_[Clostridioides_difficile]|0.95|0.84||4-hydroxyphenylacetate_decarboxylase_small_gamma_subunit,_C-terminal|4-hydroxyphenylacetate_decarboxylase_small_gamma_subunit,_N-terminal|HPA_decarboxylase_small_subunit_superfamily

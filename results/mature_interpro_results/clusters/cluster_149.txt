@@ -1,0 +1,1 @@
+PRED|WP_000155272.1_MULTISPECIES:_DUF805_domain-containing_protein_[Enterobacteriaceae]|0.63|0.76||Protein_of_unknown_function_DUF805

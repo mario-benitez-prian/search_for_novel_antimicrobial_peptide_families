@@ -1,0 +1,16 @@
+PRED|XP_001702619.2_uncharacterized_protein_CHLRE_10g419443v5_[Chlamydomonas_reinhardtii]|0.93|0.73||RNA-guided_DNA_endonucleases/Transposases
+PRED|XP_042914444.1_uncharacterized_protein_CHLRE_17g705316v5_[Chlamydomonas_reinhardtii]|0.85|0.71||RNA-guided_DNA_endonucleases/Transposases
+PRED|XP_042915353.1_uncharacterized_protein_CHLRE_16g691439v5_[Chlamydomonas_reinhardtii]|0.86|0.71||RNA-guided_DNA_endonucleases/Transposases
+PRED|XP_042916010.1_uncharacterized_protein_CHLRE_16g681353v5_[Chlamydomonas_reinhardtii]|0.79|0.7||RNA-guided_DNA_endonucleases/Transposases
+PRED|XP_042917927.1_uncharacterized_protein_CHLRE_12g485632v5_[Chlamydomonas_reinhardtii]|0.79|0.7||RNA-guided_DNA_endonucleases/Transposases
+PRED|XP_042918319.1_uncharacterized_protein_CHLRE_12g499050v5_[Chlamydomonas_reinhardtii]|0.85|0.71||RNA-guided_DNA_endonucleases/Transposases
+PRED|XP_042918424.1_uncharacterized_protein_CHLRE_12g517681v5_[Chlamydomonas_reinhardtii]|0.66|0.73||RNA-guided_DNA_endonucleases/Transposases
+PRED|XP_042919175.1_uncharacterized_protein_CHLRE_12g542601v5_[Chlamydomonas_reinhardtii]|0.76|0.7||RNA-guided_DNA_endonucleases/Transposases
+PRED|XP_042920893.1_uncharacterized_protein_CHLRE_09g396694v5_[Chlamydomonas_reinhardtii]|0.8|0.7||RNA-guided_DNA_endonucleases/Transposases
+PRED|XP_042924105.1_uncharacterized_protein_CHLRE_06g289426v5_[Chlamydomonas_reinhardtii]|0.79|0.7||RNA-guided_DNA_endonucleases/Transposases
+PRED|XP_042925982.1_uncharacterized_protein_CHLRE_03g169601v5_[Chlamydomonas_reinhardtii]|0.78|0.7||RNA-guided_DNA_endonucleases/Transposases
+PRED|XP_042926751.1_uncharacterized_protein_CHLRE_02g074626v5_[Chlamydomonas_reinhardtii]|0.88|0.72||RNA-guided_DNA_endonucleases/Transposases
+PRED|XP_042927504.1_uncharacterized_protein_CHLRE_02g110263v5_[Chlamydomonas_reinhardtii]|0.73|0.7||RNA-guided_DNA_endonucleases/Transposases
+PRED|XP_042927505.1_uncharacterized_protein_CHLRE_02g110263v5_[Chlamydomonas_reinhardtii]|0.81|0.71||RNA-guided_DNA_endonucleases/Transposases
+PRED|XP_042927506.1_uncharacterized_protein_CHLRE_02g110263v5_[Chlamydomonas_reinhardtii]|0.81|0.71||RNA-guided_DNA_endonucleases/Transposases
+PRED|XP_042928092.1_uncharacterized_protein_CHLRE_01g005126v5_[Chlamydomonas_reinhardtii]|0.75|0.7||RNA-guided_DNA_endonucleases/Transposases

@@ -1,0 +1,1 @@
+PRED|WP_023343330.1_MULTISPECIES:_phage_filamentation_protein_Fil_family_protein_[Gammaproteobacteria]|0.83|0.83||Protein_fil

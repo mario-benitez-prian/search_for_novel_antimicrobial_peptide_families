@@ -1,0 +1,1 @@
+PRED|XP_034009378.1_conserved_protein_unknown_function_[Plasmodium_falciparum_3D7]|0.91|0.82||PIGBOS1-like

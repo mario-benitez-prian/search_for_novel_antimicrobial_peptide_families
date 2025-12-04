@@ -1,0 +1,1 @@
+PRED|WP_009871799.1_small_cysteine-rich_outer_membrane_protein_[Chlamydia_trachomatis]|0.54|0.9||Cysteine-rich_outer_membrane_protein_3,_Chlamydia

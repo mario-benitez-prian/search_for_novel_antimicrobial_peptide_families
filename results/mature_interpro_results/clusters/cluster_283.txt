@@ -1,0 +1,1 @@
+PRED|XP_001693767.1_uncharacterized_protein_CHLRE_13g575701v5_[Chlamydomonas_reinhardtii]|0.76|0.91||COLD-REGULATED_PROTEIN

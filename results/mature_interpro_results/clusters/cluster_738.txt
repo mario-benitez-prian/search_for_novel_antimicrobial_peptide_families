@@ -1,0 +1,2 @@
+PRED|NP_495688.1_Male_Tail_tip_Retraction_Expression_[Caenorhabditis_elegans]|0.53|0.72||PROTEIN_CBG13422-RELATED
+PRED|NP_500475.2_Secreted_protein_[Caenorhabditis_elegans]|0.58|0.86||PROTEIN_CBG13422-RELATED

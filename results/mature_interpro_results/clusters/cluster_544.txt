@@ -1,0 +1,5 @@
+DATABASE|AP04128||Kunitz_inhibitor_STI-like_superfamily|Proteinase_inhibitor_I3,_Kunitz_legume
+DATABASE|CAMPSQ12201_EtTI||Kunitz_inhibitor_STI-like_superfamily
+DATABASE|CAMPSQ2106_Lysenin-relatedprotein2||PFM_lysenin-like
+DATABASE|CAMPSQ3967_Turmerin||Kunitz_inhibitor_STI-like_superfamily
+PRED|XP_002305034.3_kunitz_trypsin_inhibitor_5_[Populus_trichocarpa]|0.58|0.72||Kunitz_inhibitor_STI-like_superfamily|Proteinase_inhibitor_I3,_Kunitz_legume

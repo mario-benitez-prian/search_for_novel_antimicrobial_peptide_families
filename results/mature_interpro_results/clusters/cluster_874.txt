@@ -1,0 +1,1 @@
+PRED|WP_000144235.1_MULTISPECIES:_MetS_family_NSS_transporter_small_subunit_[Gammaproteobacteria]|0.99|0.86||MetS_family_NSS_transporter_small_subunit

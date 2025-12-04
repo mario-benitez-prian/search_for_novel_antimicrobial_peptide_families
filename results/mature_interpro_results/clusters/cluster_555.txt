@@ -1,0 +1,2 @@
+PRED|WP_012068228.1_FeoA_family_protein_[Methanococcus_maripaludis]|0.6|0.78||Transcriptional_repressor,_C-terminal
+PRED|WP_013999027.1_FeoA_family_protein_[Methanococcus_maripaludis]|0.9|0.89||FeoA-like|Transcriptional_repressor,_C-terminal

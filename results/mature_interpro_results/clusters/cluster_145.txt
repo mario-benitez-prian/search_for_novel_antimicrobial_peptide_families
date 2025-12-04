@@ -1,0 +1,1 @@
+PRED|NP_509475.1_Spore_coat_protein_[Caenorhabditis_elegans]|0.53|0.78||Protein_Kreg-1

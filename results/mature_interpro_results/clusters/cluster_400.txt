@@ -1,0 +1,2 @@
+PRED|NP_001041003.1_DUF19_domain-containing_protein_[Caenorhabditis_elegans]|0.83|0.79||PROTEIN_CBG12388-RELATED
+PRED|NP_492398.1_DB_domain-containing_protein_[Caenorhabditis_elegans]|0.65|0.71||PROTEIN_CBG12388-RELATED

@@ -1,0 +1,1 @@
+DATABASE|CAMPSQ1124_N-acetylmuramoyl-L-alanineamidaseA||N-acetylmuramoyl-L-alanine_amidase_2

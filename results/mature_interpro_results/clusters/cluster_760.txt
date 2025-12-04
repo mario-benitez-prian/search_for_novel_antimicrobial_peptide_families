@@ -1,0 +1,5 @@
+PRED|WP_001089290.1_MULTISPECIES:_DUF2065_domain-containing_protein_[Enterobacteriaceae]|0.79|0.8||Protein_of_unknown_function_DUF2065
+PRED|WP_001089295.1_MULTISPECIES:_DUF2065_domain-containing_protein_[Gammaproteobacteria]|0.95|0.88||Protein_of_unknown_function_DUF2065
+PRED|WP_001295174.1_MULTISPECIES:_DUF883_domain-containing_protein_[Enterobacteriaceae]|0.97|0.75||Inner_membrane_protein_YqjD/ElaB
+PRED|WP_001650455.1_MULTISPECIES:_DUF883_domain-containing_protein_[Salmonella]|0.97|0.82||Inner_membrane_protein_YqjD/ElaB
+PRED|WP_002885664.1_MULTISPECIES:_DUF2065_domain-containing_protein_[Enterobacteriaceae]|0.5|0.83||Protein_of_unknown_function_DUF2065

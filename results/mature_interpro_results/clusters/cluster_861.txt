@@ -1,0 +1,1 @@
+PRED|XP_003633182.1_tRNA_(guanine(26)-N(2))-dimethyltransferase_[Vitis_vinifera]|0.94|0.81||S-adenosyl-L-methionine-dependent_methyltransferase_superfamily|tRNA_methyltransferase,_Trm1|tRNA_methyltransferase,_Trm1,_C-terminal

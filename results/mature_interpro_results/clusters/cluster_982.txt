@@ -1,0 +1,2 @@
+DATABASE|AP01175||Lactocin_705
+DATABASE|CAMPSQ3891_Bacteriocinlactocin-705||Lactocin_705

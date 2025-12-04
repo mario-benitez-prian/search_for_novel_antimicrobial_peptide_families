@@ -1,0 +1,1 @@
+PRED|XP_005113535.2_medium-chain_specific_acyl-CoA_dehydrogenase_mitochondrial-like_partial_[Aplysia_californica]|0.9|0.71||Acyl-CoA_dehydrogenase|Acyl-CoA_dehydrogenase-like,_C-terminal|Acyl-CoA_dehydrogenase/oxidase,_C-terminal

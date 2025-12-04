@@ -1,0 +1,1 @@
+PRED|WP_000880863.1_MULTISPECIES:_DUF441_domain-containing_protein_[Acinetobacter]|0.57|0.84||Uncharacterised_protein_family_UPF0756,_transmembrame

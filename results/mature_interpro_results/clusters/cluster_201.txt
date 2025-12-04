@@ -1,0 +1,5 @@
+PRED|NP_650945.1_Odorant-binding_protein_93a_[Drosophila_melanogaster]|0.67|0.77||Odorant-binding_protein
+PRED|NP_725385.1_Odorant-binding_protein_50a_isoform_A_[Drosophila_melanogaster]|0.93|0.78||Odorant-binding_protein
+PRED|NP_995832.1_Odorant-binding_protein_50a_isoform_B_[Drosophila_melanogaster]|0.95|0.79||Odorant-binding_protein
+PRED|XP_004930711.1_uncharacterized_protein_LOC101744811_[Bombyx_mori]|0.8|0.86||Unknown
+PRED|XP_004932705.1_uncharacterized_protein_LOC101740473_isoform_X2_[Bombyx_mori]|0.85|0.82||Unknown

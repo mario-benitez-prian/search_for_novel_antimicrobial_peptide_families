@@ -1,0 +1,1 @@
+PRED|XP_009044398.1_hypothetical_protein_LOTGIDRAFT_59725_partial_[Lottia_gigantea]|0.54|0.74||RNA-binding_motif

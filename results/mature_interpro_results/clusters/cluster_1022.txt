@@ -1,0 +1,2 @@
+PRED|WP_004150462.1_MULTISPECIES:_30S_ribosomal_protein_THX_[Bacteria]|0.67|0.9||Small_ribosomal_subunit_protein_bTHX/bTHXc/bTHXm
+PRED|XP_042921156.1_uncharacterized_protein_CHLRE_09g391208v5_[Chlamydomonas_reinhardtii]|0.52|0.77||Small_ribosomal_subunit_protein_bTHX|Small_ribosomal_subunit_protein_bTHX/bTHXc/bTHXm

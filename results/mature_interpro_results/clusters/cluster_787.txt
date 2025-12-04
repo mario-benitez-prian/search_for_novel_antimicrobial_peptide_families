@@ -1,0 +1,1 @@
+PRED|WP_149245192.1_MULTISPECIES:_smalltalk_protein_[Bacteroides]|0.99|0.79||Protein_of_unknown_function_DUF6486
