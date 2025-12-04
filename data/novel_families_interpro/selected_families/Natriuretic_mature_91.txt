@@ -1,0 +1,10 @@
+Anolis-carolinensis
+Callorhinchus-milii
+Gallus-gallus
+Gasterosteus-aculeatus
+Homo-sapiens
+Latimeria-chalumnae
+Mus-musculus
+Rattus-norvegicus
+Takifugu-rubripes
+Xenopus-tropicalis

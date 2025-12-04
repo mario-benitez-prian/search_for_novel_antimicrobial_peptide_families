@@ -1,0 +1,13 @@
+Arabidopsis-thaliana
+Brachypodium-distachyon
+Cucumis-sativus
+Glycine-max
+Malus-domestica
+Medicago-truncatula
+Oryza-sativa
+Populus-trichocarpa
+Solanum-tuberosum
+Sorghum-bicolor
+Theobroma-cacao
+Vitis-vinifera
+Zea-mays

@@ -1,0 +1,14 @@
+Apis-mellifera
+Arabidopsis-thaliana
+Bombyx-mori
+Cyanidioschyzon-merolae
+Danio-rerio
+Drosophila-melanogaster
+Homo-sapiens
+Mus-musculus
+Rattus-norvegicus
+Saccharomyces-cerevisiae
+Schizosaccharomyces-pombe
+Tribolium-castaneum
+Ustilago-maydis
+Zea-mays

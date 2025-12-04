@@ -1,0 +1,17 @@
+Anolis-carolinensis
+Arabidopsis-thaliana
+Gallus-gallus
+Giardia-lamblia
+Homo-sapiens
+Ignicoccus-hospitalis
+Latimeria-chalumnae
+Methanococcus-maripaludis
+Methanosarcina-mazei
+Mus-musculus
+Petromyzon-marinus
+Plasmodium-falciparum
+Rattus-norvegicus
+Sulfolobus-acidocaldarius
+Takifugu-rubripes
+Xenopus-tropicalis
+Zea-mays
